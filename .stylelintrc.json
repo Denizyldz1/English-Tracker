@@ -1,0 +1,12 @@
+{
+    "extends": ["stylelint-config-standard"],
+    "ignoreFiles": ["**/*.min.css"],
+    "rules": {
+        "declaration-block-no-duplicate-properties": true,
+        "block-no-empty": true,
+        "declaration-block-no-redundant-longhand-properties": true,
+        "property-no-unknown": true,
+        "color-hex-length": "short",
+        "media-feature-range-notation": "prefix"
+    }
+}

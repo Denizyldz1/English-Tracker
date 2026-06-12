@@ -1,0 +1,23 @@
+{
+    "name": "ingilizce-tracker",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "description": "İngilizce Master Plan takip uygulaması — statik (Bootstrap + jQuery) + Supabase",
+    "scripts": {
+        "build:plan": "node tools/build-plan.mjs",
+        "serve": "npx --yes serve .",
+        "lint:js": "eslint \"js/**/*.js\"",
+        "lint:css": "stylelint \"css/**/*.css\"",
+        "lint": "npm run lint:js && npm run lint:css"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.0.0",
+        "@typescript-eslint/parser": "^8.0.0",
+        "eslint": "^9.0.0",
+        "eslint-plugin-sonarjs": "^3.0.0",
+        "globals": "^15.0.0",
+        "stylelint": "^16.0.0",
+        "stylelint-config-standard": "^36.0.0"
+    }
+}

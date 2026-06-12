@@ -1,0 +1,2817 @@
+{
+  "title": "İngilizce Master Plan — B1’den C1’e (56 Hafta)",
+  "generatedFrom": "data/source-plan.md",
+  "recurringNote": "Salı/Perşembe kelime tekrarı ve Pzt/Çar/Cum yeni kelime görevleri her haftaya sabit olarak eklenmiştir; haftalık olarak işaretlenir.",
+  "phases": [
+    {
+      "id": "faz0",
+      "title": "FAZ 0 — HIZLI TEKRAR · A1-A2 (Hafta 1-6)"
+    },
+    {
+      "id": "faz1",
+      "title": "FAZ 1 — B1 (Hafta 7-20)"
+    },
+    {
+      "id": "faz2",
+      "title": "FAZ 2 — B2 (Hafta 21-38)"
+    },
+    {
+      "id": "faz3",
+      "title": "FAZ 3 — C1 (Hafta 39-56)"
+    }
+  ],
+  "weeks": [
+    {
+      "id": "w1",
+      "phaseId": "faz0",
+      "no": "1",
+      "title": "To be · Possessives · Present Simple (olumlu)",
+      "episode": "S1E1 \"The Pilot\"",
+      "summary": "I am tired. She is upset. They are friends. / my apartment, Ross's ex-wife / Monica cooks. I work here. (3. tekilde -s!)",
+      "source": "test-english.com → A1 → \"Verb to be\", \"Possessive adjectives\", \"Present simple\"",
+      "tasks": [
+        {
+          "id": "w1-pzt",
+          "day": "Pzt",
+          "text": "3 konunun testlerini çalışmadan çöz; %70 altı kalanların anlatımını oku",
+          "recurring": false
+        },
+        {
+          "id": "w1-car",
+          "day": "Çar",
+          "text": "Zayıf çıkan konularda 2. test seti",
+          "recurring": false
+        },
+        {
+          "id": "w1-per",
+          "day": "Per",
+          "text": "S1E1 izle (TR altyazı, sadece keyif)",
+          "recurring": false
+        },
+        {
+          "id": "w1-cum",
+          "day": "Cum",
+          "text": "S1E1 2. izleme (EN altyazı + Language Reactor): 8-10 kelime + 5 kalıp kaydet; \"to be\" geçen 3 cümle not al",
+          "recurring": false
+        },
+        {
+          "id": "w1-cmt",
+          "day": "Cmt",
+          "text": "Karakterler hakkında 6 cümle yaz (Ross is sad. Rachel's dress is white. Monica cooks every day.) + kelime kapanışı + 1 sahne shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w1-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w1-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w1-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "phaseId": "faz0",
+      "no": "2",
+      "title": "Present Simple (do/does) · Articles · Çoğullar",
+      "episode": "S1E2 \"The Sonogram at the End\"",
+      "summary": "Do you like it? She doesn't know. (does varsa fiil yalın!) / İlk bahsedişte a/an, bilinende the / man→men, child→children",
+      "source": "A1 → \"Present simple negative & questions\", \"Articles a/an/the\", \"Plurals\"",
+      "tasks": [
+        {
+          "id": "w2-pzt",
+          "day": "Pzt",
+          "text": "3 konunun testleri (test-first)",
+          "recurring": false
+        },
+        {
+          "id": "w2-car",
+          "day": "Çar",
+          "text": "Artikel konusuna her durumda +1 ekstra test (Türkçede artikel yok, en kalıcı zayıflık budur)",
+          "recurring": false
+        },
+        {
+          "id": "w2-per",
+          "day": "Per",
+          "text": "S1E2 izle (TR)",
+          "recurring": false
+        },
+        {
+          "id": "w2-cum",
+          "day": "Cum",
+          "text": "2. izleme (EN): kelime + kalıp; \"my baby\", \"Carol's apartment\" gibi possessive/article örnekleri yakala",
+          "recurring": false
+        },
+        {
+          "id": "w2-cmt",
+          "day": "Cmt",
+          "text": "Karakterlere 4 soru + artikelli 4 cümle yaz + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w2-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w2-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w2-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "phaseId": "faz0",
+      "no": "3",
+      "title": "Present Continuous (+Simple farkı) · There is/are · Can",
+      "episode": "S1E3 \"The Thumb\"",
+      "summary": "She is sleeping (şu an) vs She sleeps a lot (genelde) / There is a sofa. There are two beds. / I can swim. He can't sing. (cans ❌)",
+      "source": "A1 → \"Present continuous\", \"There is/are\", \"Can/can't\" + \"Present simple vs continuous\"",
+      "tasks": [
+        {
+          "id": "w3-pzt",
+          "day": "Pzt",
+          "text": "3 konunun testleri (test-first)",
+          "recurring": false
+        },
+        {
+          "id": "w3-car",
+          "day": "Çar",
+          "text": "\"Simple vs Continuous\" karşılaştırma testi",
+          "recurring": false
+        },
+        {
+          "id": "w3-per",
+          "day": "Per",
+          "text": "S1E3 izle (TR)",
+          "recurring": false
+        },
+        {
+          "id": "w3-cum",
+          "day": "Cum",
+          "text": "2. izleme (EN): kelime + kalıp; Chandler'ın sigara repliklerinde \"I smoke / I'm smoking\" farkını avla",
+          "recurring": false
+        },
+        {
+          "id": "w3-cmt",
+          "day": "Cmt",
+          "text": "Bir sahneyi durdur, ekrandakini 5 cümleyle anlat (Ross is talking. There are two cups on the table. I can see Chandler.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w3-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w3-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w3-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "phaseId": "faz0",
+      "no": "4",
+      "title": "Past Simple (tamamı)",
+      "episode": "S1E4 \"George Stephanopoulos\"",
+      "summary": "I worked / I went (düzensizler!) / Did you see? I didn't know. (did varsa fiil yalın). Bu hafta tek konu — B1'deki present perfect ayrımı bu temele oturacak.",
+      "source": "A1-A2 → \"Past simple\" (was/were dahil) + \"Irregular verbs\"",
+      "tasks": [
+        {
+          "id": "w4-pzt",
+          "day": "Pzt",
+          "text": "Past simple testleri (test-first)",
+          "recurring": false
+        },
+        {
+          "id": "w4-car",
+          "day": "Çar",
+          "text": "En sık 50 düzensiz fiil listesini tara; bilmediklerini kelime uygulamasına ekle",
+          "recurring": false
+        },
+        {
+          "id": "w4-per",
+          "day": "Per",
+          "text": "S1E4 izle (TR)",
+          "recurring": false
+        },
+        {
+          "id": "w4-cum",
+          "day": "Cum",
+          "text": "2. izleme (EN): kelime + kalıp; \"I don't know\" kaç kez geçiyor say (5+ çıkar)",
+          "recurring": false
+        },
+        {
+          "id": "w4-cmt",
+          "day": "Cmt",
+          "text": "Bölümün konusunu geçmiş zamanda 6 cümleyle anlat + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w4-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w4-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w4-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "phaseId": "faz0",
+      "no": "5",
+      "title": "Comparatives/Superlatives · Some/Any/Much/Many",
+      "episode": "S1E5 \"The East German Laundry Detergent\"",
+      "summary": "bigger, more expensive, the best / some money, any questions?, how much time, how many friends",
+      "source": "A2 → \"Comparatives and superlatives\", \"Quantifiers: some/any/much/many\"",
+      "tasks": [
+        {
+          "id": "w5-pzt",
+          "day": "Pzt",
+          "text": "2 konunun testleri (test-first)",
+          "recurring": false
+        },
+        {
+          "id": "w5-car",
+          "day": "Çar",
+          "text": "Zayıf konuda 2. test seti",
+          "recurring": false
+        },
+        {
+          "id": "w5-per",
+          "day": "Per",
+          "text": "S1E5 izle (TR)",
+          "recurring": false
+        },
+        {
+          "id": "w5-cum",
+          "day": "Cum",
+          "text": "2. izleme (EN): kelime + kalıp; çamaşırhane sahnesindeki nesnelerde artikel kullanımını da gözlemle (geçen haftanın pekiştirmesi)",
+          "recurring": false
+        },
+        {
+          "id": "w5-cmt",
+          "day": "Cmt",
+          "text": "Karakterleri karşılaştıran 5 cümle (Joey is funnier than Ross. Monica is the most organized.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w5-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w5-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w5-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "phaseId": "faz0",
+      "no": "6",
+      "title": "Going to / Will · Sıklık Zarfları · 🏁 A2 ÇIKIŞ TESTİ",
+      "episode": "S1E6 \"The Butt\"",
+      "summary": "I'm going to visit (plan) vs I'll help you (anlık karar) / always, usually, often, sometimes, never (be'den sonra, fiilden önce)",
+      "source": "A2 → \"Future: going to & will\", \"Adverbs of frequency\" + https://test-english.com/level-test/ (A2)",
+      "tasks": [
+        {
+          "id": "w6-pzt",
+          "day": "Pzt",
+          "text": "2 konunun testleri (test-first)",
+          "recurring": false
+        },
+        {
+          "id": "w6-car",
+          "day": "Çar",
+          "text": "Karışık A1-A2 mini tekrar: 10 cümle yaz, her Faz 0 konusundan 1-2 tane",
+          "recurring": false
+        },
+        {
+          "id": "w6-per",
+          "day": "Per",
+          "text": "S1E6 izle (TR son kez — bundan sonra ilk izleme de EN altyazı)",
+          "recurring": false
+        },
+        {
+          "id": "w6-cum",
+          "day": "Cum",
+          "text": "🏁 A2 seviye testini çöz. %75+ → Faz 1'e geç. Altı → zayıf konular için +1 yama haftası",
+          "recurring": false
+        },
+        {
+          "id": "w6-cmt",
+          "day": "Cmt",
+          "text": "Gelecek planların hakkında 5 cümle (I'm going to finish this plan. I will speak English fluently.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w6-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w6-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w6-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "phaseId": "faz1",
+      "no": "7",
+      "title": "Present Perfect (tanışma)",
+      "episode": "S1E7 \"The Blackout\"",
+      "summary": "have/has + V3. Geçmişte olmuş, etkisi/bağlantısı şu ana uzanan olaylar: I have lost my keys (hâlâ kayıp). She has been to Paris (deneyim). Sinyal kelimeler: just, already, yet, ever, never.",
+      "source": "B1 → \"Present perfect\"",
+      "tasks": [
+        {
+          "id": "w7-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1 (bu fazda yeni konularda önce anlatım okunur)",
+          "recurring": false
+        },
+        {
+          "id": "w7-car",
+          "day": "Çar",
+          "text": "Test seti 2 (just/already/yet odaklı)",
+          "recurring": false
+        },
+        {
+          "id": "w7-per",
+          "day": "Per",
+          "text": "S1E7 izle (EN) — kült \"blackout\" bölümü",
+          "recurring": false
+        },
+        {
+          "id": "w7-cum",
+          "day": "Cum",
+          "text": "2. izleme: 8-10 kelime + 5 kalıp; \"Have you ever...?\" tarzı 3 örnek avla",
+          "recurring": false
+        },
+        {
+          "id": "w7-cmt",
+          "day": "Cmt",
+          "text": "Hayatındaki deneyimler üzerine 6 cümle (I have never been to London. I have just started this plan.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w7-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w7-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w7-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w8",
+      "phaseId": "faz1",
+      "no": "8",
+      "title": "Present Perfect vs Past Simple",
+      "episode": "S1E8",
+      "summary": "Zaman belliyse past simple: I saw him yesterday. Zaman belirsiz/etkisi sürüyorsa present perfect: I have seen this movie. B1'in EN KRİTİK ayrımı — acele etme.",
+      "source": "B1 → \"Present perfect vs past simple\"",
+      "tasks": [
+        {
+          "id": "w8-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1",
+          "recurring": false
+        },
+        {
+          "id": "w8-car",
+          "day": "Çar",
+          "text": "Test seti 2 + Perfect English Grammar'dan 1 ek test",
+          "recurring": false
+        },
+        {
+          "id": "w8-per",
+          "day": "Per",
+          "text": "S1E8 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w8-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp; bir past simple, bir present perfect cümle yakala, neden o zamanın seçildiğini not et",
+          "recurring": false
+        },
+        {
+          "id": "w8-cmt",
+          "day": "Cmt",
+          "text": "3 çift cümle yaz: aynı olayı iki zamanla anlat (I lost my keys yesterday. / I have lost my keys — help!) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w8-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w8-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w8-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w9",
+      "phaseId": "faz1",
+      "no": "9",
+      "title": "Past Continuous + when/while",
+      "episode": "S1E9",
+      "summary": "I was watching TV when she called. While Ross was talking, Rachel left. Arka plan eylemi (continuous) + kesen olay (simple).",
+      "source": "B1 → \"Past continuous and past simple\"",
+      "tasks": [
+        {
+          "id": "w9-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1",
+          "recurring": false
+        },
+        {
+          "id": "w9-car",
+          "day": "Çar",
+          "text": "Test seti 2",
+          "recurring": false
+        },
+        {
+          "id": "w9-per",
+          "day": "Per",
+          "text": "S1E9 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w9-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + when/while'lı 2 örnek",
+          "recurring": false
+        },
+        {
+          "id": "w9-cmt",
+          "day": "Cmt",
+          "text": "Dün gününü 5 cümleyle anlat, en az 2'si past continuous + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w9-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w9-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w9-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w10",
+      "phaseId": "faz1",
+      "no": "10",
+      "title": "🔁 TEKRAR (Hafta 7-9)",
+      "episode": "S1E10",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w10-pzt",
+          "day": "Pzt",
+          "text": "3 konunun karışık testleri (test-english \"mixed\" veya her konudan kısa test)",
+          "recurring": false
+        },
+        {
+          "id": "w10-car",
+          "day": "Çar",
+          "text": "En kötü çıkan konunun anlatımını yeniden oku + 1 test",
+          "recurring": false
+        },
+        {
+          "id": "w10-per",
+          "day": "Per",
+          "text": "S1E10 izle (EN) — analizsiz, sadece keyif + kelime yakala",
+          "recurring": false
+        },
+        {
+          "id": "w10-cum",
+          "day": "Cum",
+          "text": "3 konuyu karıştıran 15 cümle yaz (5+5+5)",
+          "recurring": false
+        },
+        {
+          "id": "w10-cmt",
+          "day": "Cmt",
+          "text": "Kelime kapanışı + 2 sahne shadowing (tekrar haftasında çift doz)",
+          "recurring": false
+        },
+        {
+          "id": "w10-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w10-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w10-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w11",
+      "phaseId": "faz1",
+      "no": "11",
+      "title": "Modals: should / must / have to / might",
+      "episode": "S1E11",
+      "summary": "You should sleep (tavsiye). I must go (içsel zorunluluk). I have to work (dışsal kural). She might come (ihtimal). must not ≠ don't have to!",
+      "source": "B1 → \"Modal verbs\"",
+      "tasks": [
+        {
+          "id": "w11-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1",
+          "recurring": false
+        },
+        {
+          "id": "w11-car",
+          "day": "Çar",
+          "text": "Test seti 2 (mustn't vs don't have to odaklı)",
+          "recurring": false
+        },
+        {
+          "id": "w11-per",
+          "day": "Per",
+          "text": "S1E11 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w11-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + 3 modal örneği",
+          "recurring": false
+        },
+        {
+          "id": "w11-cmt",
+          "day": "Cmt",
+          "text": "Karakterlere 5 tavsiye yaz (Ross should tell Rachel the truth.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w11-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w11-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w11-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w12",
+      "phaseId": "faz1",
+      "no": "12",
+      "title": "Zero & First Conditional",
+      "episode": "S1E12",
+      "summary": "Zero (genel gerçek): If you heat ice, it melts. First (gerçekçi gelecek): If she calls, I will answer. If'li tarafta will YOK.",
+      "source": "B1 → \"Conditionals: zero and first\"",
+      "tasks": [
+        {
+          "id": "w12-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1",
+          "recurring": false
+        },
+        {
+          "id": "w12-car",
+          "day": "Çar",
+          "text": "Test seti 2",
+          "recurring": false
+        },
+        {
+          "id": "w12-per",
+          "day": "Per",
+          "text": "S1E12 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w12-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + if'li 2 örnek",
+          "recurring": false
+        },
+        {
+          "id": "w12-cmt",
+          "day": "Cmt",
+          "text": "Kendi hayatından 5 first conditional cümle + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w12-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w12-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w12-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w13",
+      "phaseId": "faz1",
+      "no": "13",
+      "title": "Second Conditional",
+      "episode": "S1E13",
+      "summary": "Hayalî/şimdiki gerçek dışı: If I had money, I would travel. If I were you, I would apologize. (were her özneyle!)",
+      "source": "B1 → \"Second conditional\"",
+      "tasks": [
+        {
+          "id": "w13-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1",
+          "recurring": false
+        },
+        {
+          "id": "w13-car",
+          "day": "Çar",
+          "text": "Test seti 2 + first/second karışık mini test",
+          "recurring": false
+        },
+        {
+          "id": "w13-per",
+          "day": "Per",
+          "text": "S1E13 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w13-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp; \"If I were...\" kalıbını avla",
+          "recurring": false
+        },
+        {
+          "id": "w13-cmt",
+          "day": "Cmt",
+          "text": "5 hayalî senaryo cümlesi (If I lived in New York, I would visit Central Perk.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w13-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w13-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w13-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w14",
+      "phaseId": "faz1",
+      "no": "14",
+      "title": "🔁 TEKRAR (Hafta 11-13)",
+      "episode": "S1E14",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w14-pzt",
+          "day": "Pzt",
+          "text": "3 konunun karışık testleri",
+          "recurring": false
+        },
+        {
+          "id": "w14-car",
+          "day": "Çar",
+          "text": "Zayıf konunun anlatımı + 1 test",
+          "recurring": false
+        },
+        {
+          "id": "w14-per",
+          "day": "Per",
+          "text": "S1E14 izle (EN), keyif modu",
+          "recurring": false
+        },
+        {
+          "id": "w14-cum",
+          "day": "Cum",
+          "text": "15 karışık cümle (modallar + 2 conditional)",
+          "recurring": false
+        },
+        {
+          "id": "w14-cmt",
+          "day": "Cmt",
+          "text": "Kelime kapanışı + 2 sahne shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w14-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w14-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w14-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w15",
+      "phaseId": "faz1",
+      "no": "15",
+      "title": "Gerund vs Infinitive",
+      "episode": "S1E15",
+      "summary": "enjoy doing, finish doing, suggest doing vs want to do, decide to do, hope to do. Bazıları ikisini de alır: like doing / like to do. Ezber değil, fiil grupları halinde öğren.",
+      "source": "B1 → \"Gerunds and infinitives\"",
+      "tasks": [
+        {
+          "id": "w15-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1; en sık 15 fiili (enjoy, want, finish, decide...) listele",
+          "recurring": false
+        },
+        {
+          "id": "w15-car",
+          "day": "Çar",
+          "text": "Test seti 2",
+          "recurring": false
+        },
+        {
+          "id": "w15-per",
+          "day": "Per",
+          "text": "S1E15 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w15-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + 3 gerund/infinitive örneği",
+          "recurring": false
+        },
+        {
+          "id": "w15-cmt",
+          "day": "Cmt",
+          "text": "6 cümle: 3 gerund'lı, 3 infinitive'li + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w15-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w15-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w15-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w16",
+      "phaseId": "faz1",
+      "no": "16",
+      "title": "Relative Clauses (who/which/that)",
+      "episode": "S1E16",
+      "summary": "The man who lives next door... The book which/that I read... The girl (that) I met... (nesne konumundaysa atılabilir)",
+      "source": "B1 → \"Relative clauses: defining\"",
+      "tasks": [
+        {
+          "id": "w16-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1",
+          "recurring": false
+        },
+        {
+          "id": "w16-car",
+          "day": "Çar",
+          "text": "Test seti 2",
+          "recurring": false
+        },
+        {
+          "id": "w16-per",
+          "day": "Per",
+          "text": "S1E16 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w16-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + 2 relative clause örneği",
+          "recurring": false
+        },
+        {
+          "id": "w16-cmt",
+          "day": "Cmt",
+          "text": "Karakter tanımlayan 5 cümle (Joey is the friend who loves sandwiches.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w16-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w16-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w16-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w17",
+      "phaseId": "faz1",
+      "no": "17",
+      "title": "Passive: Present & Past",
+      "episode": "S1E17",
+      "summary": "The coffee is made here. The window was broken. Yapan değil yapılan önemliyse. be + V3.",
+      "source": "B1 → \"The passive\"",
+      "tasks": [
+        {
+          "id": "w17-pzt",
+          "day": "Pzt",
+          "text": "Konu anlatımı + test seti 1",
+          "recurring": false
+        },
+        {
+          "id": "w17-car",
+          "day": "Çar",
+          "text": "Test seti 2 (aktif→pasif dönüştürme)",
+          "recurring": false
+        },
+        {
+          "id": "w17-per",
+          "day": "Per",
+          "text": "S1E17 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w17-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + 2 pasif örnek",
+          "recurring": false
+        },
+        {
+          "id": "w17-cmt",
+          "day": "Cmt",
+          "text": "5 aktif cümleyi pasife çevir + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w17-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w17-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w17-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w18",
+      "phaseId": "faz1",
+      "no": "18",
+      "title": "🔁 TEKRAR (Hafta 15-17)",
+      "episode": "S1E18",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w18-pzt",
+          "day": "Pzt",
+          "text": "3 konunun karışık testleri",
+          "recurring": false
+        },
+        {
+          "id": "w18-car",
+          "day": "Çar",
+          "text": "Zayıf konu anlatımı + 1 test",
+          "recurring": false
+        },
+        {
+          "id": "w18-per",
+          "day": "Per",
+          "text": "S1E18 izle (EN), keyif modu",
+          "recurring": false
+        },
+        {
+          "id": "w18-cum",
+          "day": "Cum",
+          "text": "15 karışık cümle",
+          "recurring": false
+        },
+        {
+          "id": "w18-cmt",
+          "day": "Cmt",
+          "text": "Kelime kapanışı + 2 sahne shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w18-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w18-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w18-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w19",
+      "phaseId": "faz1",
+      "no": "19",
+      "title": "Used to + Reported Speech (temel)",
+      "episode": "S1E19",
+      "summary": "I used to smoke (artık değil). / \"I am tired\" → He said (that) he was tired. (zaman bir geri kayar)",
+      "source": "B1 → \"Used to\", \"Reported speech\"",
+      "tasks": [
+        {
+          "id": "w19-pzt",
+          "day": "Pzt",
+          "text": "Used to anlatım + test",
+          "recurring": false
+        },
+        {
+          "id": "w19-car",
+          "day": "Çar",
+          "text": "Reported speech anlatım + test",
+          "recurring": false
+        },
+        {
+          "id": "w19-per",
+          "day": "Per",
+          "text": "S1E19 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w19-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp; bir karakterin repliğini reported speech'e çevir (2 tane)",
+          "recurring": false
+        },
+        {
+          "id": "w19-cmt",
+          "day": "Cmt",
+          "text": "Çocukluğun hakkında 3 \"used to\" cümlesi + 3 reported speech dönüşümü + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w19-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w19-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w19-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w20",
+      "phaseId": "faz1",
+      "no": "20",
+      "title": "🏁 B1 ÇIKIŞ TESTİ + Genel Tekrar",
+      "episode": "S1E20",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w20-pzt",
+          "day": "Pzt",
+          "text": "Faz 1 konu listesini tara; kendine en zayıf 3 konuyu işaretle",
+          "recurring": false
+        },
+        {
+          "id": "w20-car",
+          "day": "Çar",
+          "text": "O 3 konudan birer test",
+          "recurring": false
+        },
+        {
+          "id": "w20-per",
+          "day": "Per",
+          "text": "S1E20 izle (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w20-cum",
+          "day": "Cum",
+          "text": "🏁 https://test-english.com/level-test/ → B1 testi. %75+ → Faz 2. Altı → zayıf konulara 1-2 yama haftası",
+          "recurring": false
+        },
+        {
+          "id": "w20-cmt",
+          "day": "Cmt",
+          "text": "Faz 1'i özetleyen 10 cümlelik mini paragraf yaz (farklı konuları karıştırarak) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w20-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w20-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w20-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w21",
+      "phaseId": "faz2",
+      "no": "21",
+      "title": "Present Perfect Continuous",
+      "episode": "S1E21",
+      "summary": "I have been studying for two hours. She has been working here since 2020. Süreç vurgusu; for/since ile.",
+      "source": "B2 → \"Present perfect continuous\"",
+      "tasks": [
+        {
+          "id": "w21-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w21-car",
+          "day": "Çar",
+          "text": "Test 2 (simple vs continuous ayrımı)",
+          "recurring": false
+        },
+        {
+          "id": "w21-per",
+          "day": "Per",
+          "text": "S1E21 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w21-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + 2 örnek",
+          "recurring": false
+        },
+        {
+          "id": "w21-cmt",
+          "day": "Cmt",
+          "text": "\"Ne zamandır ne yapıyorsun\" temalı 5 cümle (I have been learning English for 5 months.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w21-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w21-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w21-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w22",
+      "phaseId": "faz2",
+      "no": "22",
+      "title": "Past Perfect",
+      "episode": "S1E22",
+      "summary": "Geçmişin geçmişi: When I arrived, the film had already started. had + V3.",
+      "source": "B2 → \"Past perfect\"",
+      "tasks": [
+        {
+          "id": "w22-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w22-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w22-per",
+          "day": "Per",
+          "text": "S1E22 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w22-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + 2 örnek",
+          "recurring": false
+        },
+        {
+          "id": "w22-cmt",
+          "day": "Cmt",
+          "text": "5 cümle: iki geçmiş olayı sıralayarak (Rachel had left Barry before she came to the city.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w22-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w22-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w22-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w23",
+      "phaseId": "faz2",
+      "no": "23",
+      "title": "Narrative Tenses (hikâye anlatımı)",
+      "episode": "S1E23",
+      "summary": "Past simple + continuous + perfect'i tek anlatıda karıştırma: It was raining. I had forgotten my umbrella, so I ran home.",
+      "source": "B2 → \"Narrative tenses\"",
+      "tasks": [
+        {
+          "id": "w23-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w23-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w23-per",
+          "day": "Per",
+          "text": "S1E23 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w23-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp",
+          "recurring": false
+        },
+        {
+          "id": "w23-cmt",
+          "day": "Cmt",
+          "text": "Bölümün bir sahnesini 6-7 cümlelik mini hikâye olarak anlat (3 zamanı da kullan) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w23-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w23-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w23-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w24",
+      "phaseId": "faz2",
+      "no": "24",
+      "title": "🔁 TEKRAR+",
+      "episode": "S1E24",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w24-pzt",
+          "day": "Pzt",
+          "text": "Hafta 21-23 karışık test",
+          "recurring": false
+        },
+        {
+          "id": "w24-car",
+          "day": "Çar",
+          "text": "Kura ile 2 eski konu + birer test",
+          "recurring": false
+        },
+        {
+          "id": "w24-per",
+          "day": "Per",
+          "text": "S1E24 (EN), sezon finali, keyif",
+          "recurring": false
+        },
+        {
+          "id": "w24-cum",
+          "day": "Cum",
+          "text": "15 karışık cümle",
+          "recurring": false
+        },
+        {
+          "id": "w24-cmt",
+          "day": "Cmt",
+          "text": "Kelime kapanışı + 2 sahne shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w24-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w24-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w24-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w25",
+      "phaseId": "faz2",
+      "no": "25",
+      "title": "Third Conditional",
+      "episode": "S2E1",
+      "summary": "Geçmişin gerçek dışı hali (pişmanlık): If I had studied, I would have passed. if + had V3, would have V3.",
+      "source": "B2 → \"Third conditional\"",
+      "tasks": [
+        {
+          "id": "w25-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w25-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w25-per",
+          "day": "Per",
+          "text": "S2E1 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w25-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp + 1 örnek avla",
+          "recurring": false
+        },
+        {
+          "id": "w25-cmt",
+          "day": "Cmt",
+          "text": "5 pişmanlık/alternatif geçmiş cümlesi + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w25-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w25-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w25-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w26",
+      "phaseId": "faz2",
+      "no": "26",
+      "title": "Mixed Conditionals + wish/if only",
+      "episode": "S2E2",
+      "summary": "If I had saved money, I would be rich now. / I wish I knew. If only I had listened!",
+      "source": "B2 → \"Mixed conditionals\", \"Wish / if only\"",
+      "tasks": [
+        {
+          "id": "w26-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w26-car",
+          "day": "Çar",
+          "text": "Test 2 + tüm conditional'ların karışık mini testi",
+          "recurring": false
+        },
+        {
+          "id": "w26-per",
+          "day": "Per",
+          "text": "S2E2 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w26-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp",
+          "recurring": false
+        },
+        {
+          "id": "w26-cmt",
+          "day": "Cmt",
+          "text": "3 wish + 2 mixed conditional cümlesi + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w26-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w26-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w26-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w27",
+      "phaseId": "faz2",
+      "no": "27",
+      "title": "Modals of Deduction",
+      "episode": "S2E3",
+      "summary": "Tahmin/çıkarım: He must be tired (kesin gibi). She might have left (belki). It can't be true (imkânsız). He must have forgotten (geçmiş çıkarım).",
+      "source": "B2 → \"Modals of deduction (present & past)\"",
+      "tasks": [
+        {
+          "id": "w27-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w27-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w27-per",
+          "day": "Per",
+          "text": "S2E3 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w27-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp; karakterlerin tahmin cümlelerini avla",
+          "recurring": false
+        },
+        {
+          "id": "w27-cmt",
+          "day": "Cmt",
+          "text": "Bölümdeki bir olaya 5 çıkarım cümlesi yaz (Ross must have been jealous.) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w27-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w27-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w27-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w28",
+      "phaseId": "faz2",
+      "no": "28",
+      "title": "🔁 TEKRAR+",
+      "episode": "S2E4",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w28-pzt",
+          "day": "Pzt",
+          "text": "Hafta 25-27 karışık test",
+          "recurring": false
+        },
+        {
+          "id": "w28-car",
+          "day": "Çar",
+          "text": "Kura ile 2 eski konu",
+          "recurring": false
+        },
+        {
+          "id": "w28-per",
+          "day": "Per",
+          "text": "S2E4 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w28-cum",
+          "day": "Cum",
+          "text": "15 karışık cümle",
+          "recurring": false
+        },
+        {
+          "id": "w28-cmt",
+          "day": "Cmt",
+          "text": "Kelime kapanışı + 2 sahne shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w28-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w28-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w28-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w29",
+      "phaseId": "faz2",
+      "no": "29",
+      "title": "Future Continuous & Future Perfect",
+      "episode": "S2E5",
+      "summary": "This time tomorrow I will be flying. By 2027 I will have finished this plan.",
+      "source": "B2 → \"Future continuous & future perfect\"",
+      "tasks": [
+        {
+          "id": "w29-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w29-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w29-per",
+          "day": "Per",
+          "text": "S2E5 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w29-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp",
+          "recurring": false
+        },
+        {
+          "id": "w29-cmt",
+          "day": "Cmt",
+          "text": "Kendi geleceğin için 5 cümle (2'si future perfect) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w29-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w29-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w29-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w30",
+      "phaseId": "faz2",
+      "no": "30",
+      "title": "Causative (have/get something done)",
+      "episode": "S2E6",
+      "summary": "İşi başkasına yaptırma: I had my hair cut. She got her car repaired.",
+      "source": "B2 → \"Causative: have/get something done\"",
+      "tasks": [
+        {
+          "id": "w30-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w30-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w30-per",
+          "day": "Per",
+          "text": "S2E6 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w30-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp",
+          "recurring": false
+        },
+        {
+          "id": "w30-cmt",
+          "day": "Cmt",
+          "text": "5 causative cümle (günlük hayattan) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w30-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w30-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w30-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w31",
+      "phaseId": "faz2",
+      "no": "31",
+      "title": "İleri Passive",
+      "episode": "S2E7",
+      "summary": "It is said that... He is believed to be... The bridge is being built. The work has been done.",
+      "source": "B2 → \"Passive: all tenses & impersonal structures\"",
+      "tasks": [
+        {
+          "id": "w31-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w31-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w31-per",
+          "day": "Per",
+          "text": "S2E7 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w31-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp",
+          "recurring": false
+        },
+        {
+          "id": "w31-cmt",
+          "day": "Cmt",
+          "text": "5 cümle: 2'si \"It is said that...\" kalıbıyla + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w31-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w31-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w31-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w32",
+      "phaseId": "faz2",
+      "no": "32",
+      "title": "🔁 TEKRAR+",
+      "episode": "S2E8",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w32-pzt",
+          "day": "Pzt",
+          "text": "Hafta 29-31 karışık test",
+          "recurring": false
+        },
+        {
+          "id": "w32-car",
+          "day": "Çar",
+          "text": "Kura ile 2 eski konu",
+          "recurring": false
+        },
+        {
+          "id": "w32-per",
+          "day": "Per",
+          "text": "S2E8 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w32-cum",
+          "day": "Cum",
+          "text": "15 karışık cümle",
+          "recurring": false
+        },
+        {
+          "id": "w32-cmt",
+          "day": "Cmt",
+          "text": "Kelime kapanışı + 2 sahne shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w32-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w32-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w32-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w33",
+      "phaseId": "faz2",
+      "no": "33",
+      "title": "İleri Relative Clauses",
+      "episode": "S2E9",
+      "summary": "Non-defining: My brother, who lives in Ankara, is a doctor. (virgüllü, that kullanılmaz) / Edatlı: the house in which I grew up.",
+      "source": "B2 → \"Relative clauses: defining & non-defining\"",
+      "tasks": [
+        {
+          "id": "w33-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w33-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w33-per",
+          "day": "Per",
+          "text": "S2E9 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w33-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp",
+          "recurring": false
+        },
+        {
+          "id": "w33-cmt",
+          "day": "Cmt",
+          "text": "5 cümle: 3'ü non-defining + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w33-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w33-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w33-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w34",
+      "phaseId": "faz2",
+      "no": "34",
+      "title": "Bağlaçlar (Contrast & Purpose)",
+      "episode": "S2E10",
+      "summary": "Although it rained... / Despite the rain... / However, ... / in spite of / so that / in order to. Despite + isim, although + cümle!",
+      "source": "B2 → \"Linking words: contrast, purpose, reason\"",
+      "tasks": [
+        {
+          "id": "w34-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w34-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w34-per",
+          "day": "Per",
+          "text": "S2E10 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w34-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp",
+          "recurring": false
+        },
+        {
+          "id": "w34-cmt",
+          "day": "Cmt",
+          "text": "6 cümle: although/despite/however ikişer kez + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w34-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w34-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w34-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w35",
+      "phaseId": "faz2",
+      "no": "35",
+      "title": "Question Tags · so/neither · Dolaylı Sorular",
+      "episode": "S2E11",
+      "summary": "You're coming, aren't you? / So do I. Neither can she. / Could you tell me where the bank is? (dolaylıda devrik YOK)",
+      "source": "B2 → \"Question tags\", \"Indirect questions\"",
+      "tasks": [
+        {
+          "id": "w35-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + test 1",
+          "recurring": false
+        },
+        {
+          "id": "w35-car",
+          "day": "Çar",
+          "text": "Test 2",
+          "recurring": false
+        },
+        {
+          "id": "w35-per",
+          "day": "Per",
+          "text": "S2E11 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w35-cum",
+          "day": "Cum",
+          "text": "2. izleme: kelime + kalıp; tag question'lar diyalogda kaynar, 3 tane avla",
+          "recurring": false
+        },
+        {
+          "id": "w35-cmt",
+          "day": "Cmt",
+          "text": "6 cümle (2 tag, 2 so/neither, 2 dolaylı soru) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w35-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w35-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w35-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w36",
+      "phaseId": "faz2",
+      "no": "36",
+      "title": "🔁 TEKRAR+",
+      "episode": "S2E12",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w36-pzt",
+          "day": "Pzt",
+          "text": "Hafta 33-35 karışık test",
+          "recurring": false
+        },
+        {
+          "id": "w36-car",
+          "day": "Çar",
+          "text": "Kura ile 2 eski konu",
+          "recurring": false
+        },
+        {
+          "id": "w36-per",
+          "day": "Per",
+          "text": "S2E12 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w36-cum",
+          "day": "Cum",
+          "text": "15 karışık cümle",
+          "recurring": false
+        },
+        {
+          "id": "w36-cmt",
+          "day": "Cmt",
+          "text": "Kelime kapanışı + 2 sahne shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w36-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w36-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w36-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w37",
+      "phaseId": "faz2",
+      "no": "37",
+      "title": "Phrasal Verbs (sistemli giriş)",
+      "episode": "S2E13",
+      "summary": "En sık 40 phrasal verb, fiil bazlı gruplarla: get up/over/along, give up/in, look for/after/forward to, put off/up with...",
+      "source": "B2 → \"Phrasal verbs\" + Language Reactor kelime listendeki phrasal verb'leri tara",
+      "tasks": [
+        {
+          "id": "w37-pzt",
+          "day": "Pzt",
+          "text": "İlk 20 phrasal verb + test",
+          "recurring": false
+        },
+        {
+          "id": "w37-car",
+          "day": "Çar",
+          "text": "İkinci 20 + test",
+          "recurring": false
+        },
+        {
+          "id": "w37-per",
+          "day": "Per",
+          "text": "S2E13 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w37-cum",
+          "day": "Cum",
+          "text": "2. izleme: SADECE phrasal verb avı — en az 5 tane yakala",
+          "recurring": false
+        },
+        {
+          "id": "w37-cmt",
+          "day": "Cmt",
+          "text": "6 phrasal verb'lü cümle + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w37-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w37-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w37-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w38",
+      "phaseId": "faz2",
+      "no": "38",
+      "title": "🏁 B2 ÇIKIŞ TESTİ",
+      "episode": "S2E14",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w38-pzt",
+          "day": "Pzt",
+          "text": "Faz 2 konu listesinden en zayıf 3'ü işaretle",
+          "recurring": false
+        },
+        {
+          "id": "w38-car",
+          "day": "Çar",
+          "text": "O 3 konudan birer test",
+          "recurring": false
+        },
+        {
+          "id": "w38-per",
+          "day": "Per",
+          "text": "S2E14 (EN)",
+          "recurring": false
+        },
+        {
+          "id": "w38-cum",
+          "day": "Cum",
+          "text": "🏁 test-english.com B2 testi. %75+ → Faz 3. Altı → yama haftası",
+          "recurring": false
+        },
+        {
+          "id": "w38-cmt",
+          "day": "Cmt",
+          "text": "Faz 2 özet paragrafı (10 cümle, karışık konular) + kelime kapanışı + shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w38-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w38-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w38-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w39-40",
+      "phaseId": "faz3",
+      "no": "39-40",
+      "title": "Inversion",
+      "episode": "S2E15-16",
+      "summary": "Vurgu için devrik yapı: Never have I seen such a mess. Not only did he lie, but he also... Rarely do we...",
+      "source": "englishpage.com + BBC \"Towards Advanced\" inversion bölümleri",
+      "tasks": [
+        {
+          "id": "w39-40-pzt",
+          "day": "Pzt",
+          "text": "Anlatım + örnek toplama",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-car",
+          "day": "Çar",
+          "text": "Alıştırma (BBC quiz)",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-per-cum",
+          "day": "Per/Cum",
+          "text": "Haftanın bölümü + kelime/kalıp avı (her hafta kendi bölümü)",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-cmt",
+          "day": "Cmt",
+          "text": "Inversion'lı 4 cümle içeren mini paragraf + kelime kapanışı + 2 shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w39-40-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w39-40-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w41",
+      "phaseId": "faz3",
+      "no": "41",
+      "title": "Cleft Sentences",
+      "episode": "S2E17",
+      "summary": "Vurgulama: What I need is a holiday. It was Joey who ate the sandwich. The reason why I called is...",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w41-t1",
+          "day": "",
+          "text": "Standart hafta düzeni; Cmt paragrafında en az 3 cleft yapı",
+          "recurring": false
+        },
+        {
+          "id": "w41-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w41-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w41-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w42",
+      "phaseId": "faz3",
+      "no": "42",
+      "title": "🔁 TEKRAR+",
+      "episode": "S2E18",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w42-t1",
+          "day": "",
+          "text": "Hafta 39-41 karışık alıştırma + kura ile 2 eski konu + 15 cümle + 2 shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w42-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w42-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w42-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w43",
+      "phaseId": "faz3",
+      "no": "43",
+      "title": "Ellipsis & Substitution (konuşma dili)",
+      "episode": "S2E19",
+      "summary": "Doğal konuşmada kısaltma: \"Want some coffee?\" (Do you...) / \"I hope so.\" / \"Sounds good.\" / \"Been there.\"",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w43-t1",
+          "day": "",
+          "text": "Bölümde bu kısaltmalardan 5 tane avla — Friends bu konunun ders kitabıdır",
+          "recurring": false
+        },
+        {
+          "id": "w43-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w43-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w43-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w44",
+      "phaseId": "faz3",
+      "no": "44",
+      "title": "İleri Koşul Yapıları",
+      "episode": "S2E20",
+      "summary": "provided that, as long as, unless, but for, suppose/supposing, otherwise",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w44-t1",
+          "day": "",
+          "text": "Standart düzen; Cmt paragrafında 3 farklı yapı",
+          "recurring": false
+        },
+        {
+          "id": "w44-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w44-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w44-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w45",
+      "phaseId": "faz3",
+      "no": "45",
+      "title": "Subjunctive & Resmi Yapılar",
+      "episode": "S2E21",
+      "summary": "I suggest (that) he be on time. It is essential that she attend. If I were to...",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w45-t1",
+          "day": "",
+          "text": "Standart düzen",
+          "recurring": false
+        },
+        {
+          "id": "w45-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w45-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w45-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w46",
+      "phaseId": "faz3",
+      "no": "46",
+      "title": "🔁 TEKRAR+",
+      "episode": "S2E22",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w46-t1",
+          "day": "",
+          "text": "Hafta 43-45 + kura ile 2 eski konu + 15 cümle + 2 shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w46-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w46-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w46-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w47-48",
+      "phaseId": "faz3",
+      "no": "47-48",
+      "title": "Collocations (sistemli)",
+      "episode": "S2E23-24",
+      "summary": "Doğal eşleşmeler: make a decision (do değil!), heavy rain (strong değil!), take a break, pay attention, fast food ama quick shower.",
+      "source": "BBC Learning English + Oxford Collocations önerileri",
+      "tasks": [
+        {
+          "id": "w47-48-pzt-car",
+          "day": "Pzt/Çar",
+          "text": "make/do/take/have/get grupları — her gruptan 10 collocation",
+          "recurring": false
+        },
+        {
+          "id": "w47-48-cum",
+          "day": "Cum",
+          "text": "Bölümden 5 collocation avla",
+          "recurring": false
+        },
+        {
+          "id": "w47-48-cmt",
+          "day": "Cmt",
+          "text": "Hepsini kullanan paragraf",
+          "recurring": false
+        },
+        {
+          "id": "w47-48-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w47-48-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w47-48-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w49-50",
+      "phaseId": "faz3",
+      "no": "49-50",
+      "title": "Idioms & Konuşma Kalıpları Yoğunlaştırma",
+      "episode": "S3E1-2",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w49-50-t1",
+          "day": "",
+          "text": "Şimdiye kadar biriken kalıp listeni (Language Reactor) baştan sona tara; unutulanları işaretle",
+          "recurring": false
+        },
+        {
+          "id": "w49-50-t2",
+          "day": "",
+          "text": "Her bölümden 5 idiom yakala (piece of cake, hit the sack, break the ice...)",
+          "recurring": false
+        },
+        {
+          "id": "w49-50-cmt",
+          "day": "Cmt",
+          "text": "3 idiom + 3 kalıp içeren diyalog yaz (2 karakter konuşuyor gibi)",
+          "recurring": false
+        },
+        {
+          "id": "w49-50-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w49-50-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w49-50-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w51",
+      "phaseId": "faz3",
+      "no": "51",
+      "title": "Konuşma Bağlayıcıları",
+      "episode": "S3E3",
+      "summary": "anyway, mind you, having said that, to be fair, speaking of which, the thing is...",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w51-t1",
+          "day": "",
+          "text": "Bölümde 5 tanesini avla; Cmt diyalogunda kullan",
+          "recurring": false
+        },
+        {
+          "id": "w51-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w51-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w51-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w52",
+      "phaseId": "faz3",
+      "no": "52",
+      "title": "🔁 TEKRAR+",
+      "episode": "S3E4",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w52-t1",
+          "day": "",
+          "text": "Hafta 47-51 + kura ile 2 eski konu + 2 shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w52-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w52-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w52-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w53-54",
+      "phaseId": "faz3",
+      "no": "53-54",
+      "title": "Yoğun Üretim Haftaları",
+      "episode": "S3E5-6",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w53-54-pzt-car",
+          "day": "Pzt/Çar",
+          "text": "Her gün 1 paragraf yaz (serbest konu, hedef: 8-10 cümle, en az 3 C1 yapısı)",
+          "recurring": false
+        },
+        {
+          "id": "w53-54-cum",
+          "day": "Cum",
+          "text": "Bölüm + kelime/kalıp",
+          "recurring": false
+        },
+        {
+          "id": "w53-54-cmt",
+          "day": "Cmt",
+          "text": "Haftanın 2 paragrafını sesli oku, kaydet, dinle (telaffuz kontrolü) + 2 shadowing",
+          "recurring": false
+        },
+        {
+          "id": "w53-54-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w53-54-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w53-54-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w55",
+      "phaseId": "faz3",
+      "no": "55",
+      "title": "Genel Tekrar",
+      "episode": "S3E7",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w55-t1",
+          "day": "",
+          "text": "Tüm fazların konu listesini tara; en zayıf 5 konuya birer test/alıştırma",
+          "recurring": false
+        },
+        {
+          "id": "w55-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w55-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w55-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w56",
+      "phaseId": "faz3",
+      "no": "56",
+      "title": "🏁 C1 DENEME",
+      "episode": "S3E8",
+      "summary": "",
+      "source": "",
+      "tasks": [
+        {
+          "id": "w56-t1",
+          "day": "",
+          "text": "Online C1 deneme testi (EF SET ücretsiz: https://www.efset.org veya Cambridge C1 Advanced örnek testleri)",
+          "recurring": false
+        },
+        {
+          "id": "w56-t2",
+          "day": "",
+          "text": "Sonuca göre: eksik alanlara 4 haftalık mini yama planı (gerekirse)",
+          "recurring": false
+        },
+        {
+          "id": "w56-rec-sali",
+          "day": "Salı",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w56-rec-per",
+          "day": "Per",
+          "text": "Kelime tekrarı — 10-15 dk (yeni kelime YOK)",
+          "recurring": true
+        },
+        {
+          "id": "w56-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "15-20 yeni kelime (~50-60/hafta)",
+          "recurring": true
+        }
+      ]
+    }
+  ]
+}

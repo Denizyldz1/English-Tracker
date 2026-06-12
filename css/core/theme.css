@@ -1,0 +1,80 @@
+/* theme.css — Azure DevOps Boards esinli renk paleti + global override'lar.
+   Sayfa-spesifik düzen css/pages/ altındadır. */
+
+:root {
+    --az-bg: #faf9f8;
+    --az-surface: #fff;
+    --az-border: #e1dfdd;
+    --az-border-soft: #edebe9;
+    --az-text: #201f1e;
+    --az-text-muted: #605e5c;
+    --az-primary: #0078d4;
+    --az-primary-hover: #106ebe;
+    --az-primary-active: #005a9e;
+    --az-success: #107c10;
+    --az-success-soft: #dff6dd;
+    --az-radius: 4px;
+}
+
+body {
+    background-color: var(--az-bg);
+    color: var(--az-text);
+    font-family: system-ui, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
+}
+
+/* Birincil buton = Azure mavisi (Bootstrap buton değişkenlerini override) */
+.btn-primary {
+    --bs-btn-bg: var(--az-primary);
+    --bs-btn-border-color: var(--az-primary);
+    --bs-btn-hover-bg: var(--az-primary-hover);
+    --bs-btn-hover-border-color: var(--az-primary-hover);
+    --bs-btn-active-bg: var(--az-primary-active);
+    --bs-btn-active-border-color: var(--az-primary-active);
+    --bs-btn-disabled-bg: var(--az-primary);
+    --bs-btn-disabled-border-color: var(--az-primary);
+}
+
+a {
+    color: var(--az-primary);
+}
+
+a:hover {
+    color: var(--az-primary-active);
+}
+
+/* Odak halkası — erişilebilirlik */
+.form-control:focus {
+    border-color: var(--az-primary);
+    box-shadow: 0 0 0 0.2rem rgb(0 120 212 / 25%);
+}
+
+/* İlerleme çubuğu rengi */
+.progress {
+    --bs-progress-bar-bg: var(--az-primary);
+
+    background-color: var(--az-border-soft);
+}
+
+/* Buton loading göstergesi (KTHelpers.setButtonLoading) */
+[data-kt-indicator="on"] {
+    position: relative;
+    color: transparent !important;
+}
+
+[data-kt-indicator="on"]::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    width: 1rem;
+    height: 1rem;
+    border: 2px solid currentcolor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    color: #fff;
+    animation: kt-spin 0.6s linear infinite;
+}
+
+@keyframes kt-spin {
+    to { transform: rotate(360deg); }
+}
