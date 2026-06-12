@@ -7,7 +7,7 @@
 const KTAuth = (() => {
 
     const LOGIN_PAGE = 'index.html';
-    const APP_PAGE = 'app.html';
+    const HOME_PAGE = 'programs.html';
     const INVALID_LOGIN = 'Invalid login';
 
     const auth = () => KTConfig.client.auth;
@@ -45,6 +45,6 @@ const KTAuth = (() => {
 
     const getUserEmail = async () => (await getSession())?.user?.email ?? '';
 
-    return { getSession, signIn, signOut, requireAuth, getUserEmail, redirect, APP_PAGE };
+    return { getSession, signIn, signOut, requireAuth, getUserEmail, redirect, HOME_PAGE };
 
 })();

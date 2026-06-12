@@ -1,0 +1,3093 @@
+{
+  "title": "İngilizce Master Plan — B1’den C1’e (56 Hafta)",
+  "generatedFrom": "data/programs/ingilizce/source-plan.md",
+  "recurringNote": "Salı/Perşembe kelime tekrarı ve Pzt/Çar/Cum yeni kelime görevleri her haftaya sabit olarak eklenmiştir; haftalık olarak işaretlenir.",
+  "phases": [
+    {
+      "id": "faz0",
+      "title": "FAZ 0 — HIZLI TEKRAR · A1-A2 (Hafta 1-6)"
+    },
+    {
+      "id": "faz1",
+      "title": "FAZ 1 — B1 (Hafta 7-20)"
+    },
+    {
+      "id": "faz2",
+      "title": "FAZ 2 — B2 (Hafta 21-38)"
+    },
+    {
+      "id": "faz3",
+      "title": "FAZ 3 — C1 (Hafta 39-56)"
+    }
+  ],
+  "weeks": [
+    {
+      "id": "w1",
+      "phaseId": "faz0",
+      "no": "1",
+      "title": "To be · Possessives · Present Simple (olumlu)",
+      "episode": "S1E1 \"The Pilot\"",
+      "summary": "I am tired. She is upset. They are friends. / my apartment, Ross's ex-wife / Monica cooks. I work here. (3. tekilde -s!)",
+      "source": "test-english.com → A1 → \"Verb to be\", \"Possessive adjectives\", \"Present simple\"",
+      "tasks": [
+        {
+          "id": "w1-pzt",
+          "day": "Pzt",
+          "text": "test-english.com sitesinde A1 seviyesini aç; \"Verb to be\", \"Possessive adjectives\" ve \"Present simple\" konularının testlerini KONUYU ÇALIŞMADAN çöz (amaç: neyi unuttuğunu bulmak). %70 altında kaldığın konuların anlatımını aynı sayfadan oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w1-car",
+          "day": "Çar",
+          "text": "test-english.com'da Pazartesi zayıf çıkan konuların 2. test setini çöz; hâlâ %70 altıysa anlatımı bir kez daha oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w1-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E1 \"The Pilot\" bölümünü TÜRKÇE altyazıyla izle — analiz yapma, sadece keyif al (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w1-cum",
+          "day": "Cum",
+          "text": "S1E1'i ikinci kez, bu sefer İNGİLİZCE altyazı + Language Reactor ile izle (Language Reactor: languagereactor.com'dan kurulan ücretsiz Chrome eklentisi; Netflix'te çift altyazı gösterir, kelimeye tıklayınca listene kaydeder). 8-10 yeni kelime ve 5 konuşma kalıbı kaydet (kalıp = \"gonna\", \"I mean...\", \"no way!\" gibi günlük ifadeler). Ayrıca \"to be\" geçen 3 cümleyi not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w1-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: Friends karakterleri hakkında 6 basit cümle yaz (örn. Ross is sad. Rachel's dress is white. Monica cooks every day.). Dizide kaydettiğin kelimeleri Tobo English uygulamasına ekle. 1 sahne shadowing yap (shadowing: sevdiğin 1-2 dakikalık sahneyi, altyazıyla, karakterle AYNI ANDA konuşarak 2-3 kez sesli tekrar et — telaffuz ve akıcılık çalışması) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w1-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w1-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w1-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "phaseId": "faz0",
+      "no": "2",
+      "title": "Present Simple (do/does) · Articles · Çoğullar",
+      "episode": "S1E2 \"The Sonogram at the End\"",
+      "summary": "Do you like it? She doesn't know. (does varsa fiil yalın!) / İlk bahsedişte a/an, bilinende the / man→men, child→children",
+      "source": "test-english.com → A1 → \"Present simple negative & questions\", \"Articles a/an/the\", \"Plurals\"",
+      "tasks": [
+        {
+          "id": "w2-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → A1 seviyesinde \"Present simple negative & questions\", \"Articles a/an/the\" ve \"Plurals\" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w2-car",
+          "day": "Çar",
+          "text": "test-english.com'da artikel (a/an/the) konusuna her durumda +1 ekstra test çöz — Türkçede artikel olmadığı için en kalıcı zayıflık budur. Diğer zayıf konuların da 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w2-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E2 \"The Sonogram at the End\" bölümünü Türkçe altyazıyla izle, sadece keyif (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w2-cum",
+          "day": "Cum",
+          "text": "S1E2'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 konuşma kalıbı kaydet. \"my baby\", \"Carol's apartment\" gibi iyelik (possessive) ve artikel örnekleri yakala, not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w2-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: Friends karakterlerine 4 soru cümlesi (Do you...? Does she...?) + artikel içeren 4 cümle yaz. Dizide kaydettiğin kelimeleri Tobo English'e ekle. 1 sahne shadowing yap (1-2 dk'lık sahneyi karakterle aynı anda 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w2-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w2-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w2-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "phaseId": "faz0",
+      "no": "3",
+      "title": "Present Continuous (+Simple farkı) · There is/are · Can",
+      "episode": "S1E3 \"The Thumb\"",
+      "summary": "She is sleeping (şu an) vs She sleeps a lot (genelde) / There is a sofa. There are two beds. / I can swim. He can't sing. (cans ❌)",
+      "source": "test-english.com → A1 → \"Present continuous\", \"There is/are\", \"Can/can't\" + \"Present simple vs continuous\"",
+      "tasks": [
+        {
+          "id": "w3-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → A1 seviyesinde \"Present continuous\", \"There is/are\" ve \"Can/can't\" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w3-car",
+          "day": "Çar",
+          "text": "test-english.com'da \"Present simple vs present continuous\" karşılaştırma testini çöz (şu an olan vs genelde olan ayrımı bu haftanın kalbi) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w3-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E3 \"The Thumb\" bölümünü Türkçe altyazıyla izle, sadece keyif (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w3-cum",
+          "day": "Cum",
+          "text": "S1E3'ü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 konuşma kalıbı kaydet. Chandler'ın sigara repliklerinde \"I smoke / I'm smoking\" farkını avla, 2-3 örnek not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w3-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: bir sahneyi durdur ve ekranda gördüğünü 5 cümleyle anlat (örn. Ross is talking. There are two cups on the table. I can see Chandler.). Kaydettiğin kelimeleri Tobo English'e ekle. 1 sahne shadowing yap (sahneyi karakterle aynı anda 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w3-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w3-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w3-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "phaseId": "faz0",
+      "no": "4",
+      "title": "Past Simple (tamamı)",
+      "episode": "S1E4 \"George Stephanopoulos\"",
+      "summary": "I worked / I went (düzensizler!) / Did you see? I didn't know. (did varsa fiil yalın). Bu hafta tek konu — B1'deki present perfect ayrımı bu temele oturacak.",
+      "source": "test-english.com → A1-A2 → \"Past simple\" (was/were dahil) + \"Irregular verbs\"",
+      "tasks": [
+        {
+          "id": "w4-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → A1 ve A2 seviyelerinde \"Past simple\" testlerini (was/were dahil) konuyu çalışmadan çöz; %70 altıysa anlatımı oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w4-car",
+          "day": "Çar",
+          "text": "İnternette \"most common 50 irregular verbs\" listesini aç (veya test-english.com'daki irregular verbs sayfasını kullan); en sık 50 düzensiz fiili tara, bilmediklerini Tobo English uygulamasına ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w4-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E4 \"George Stephanopoulos\" bölümünü Türkçe altyazıyla izle, sadece keyif (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w4-cum",
+          "day": "Cum",
+          "text": "S1E4'ü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 konuşma kalıbı kaydet. Eğlencesine: \"I don't know\" repliği kaç kez geçiyor say — 5'ten fazla çıkar (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w4-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: bölümün konusunu GEÇMİŞ ZAMANDA 6 cümleyle anlat (örn. Rachel met George. They played poker.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing yap (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w4-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w4-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w4-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "phaseId": "faz0",
+      "no": "5",
+      "title": "Comparatives/Superlatives · Some/Any/Much/Many",
+      "episode": "S1E5 \"The East German Laundry Detergent\"",
+      "summary": "bigger, more expensive, the best / some money, any questions?, how much time, how many friends",
+      "source": "test-english.com → A2 → \"Comparatives and superlatives\", \"Quantifiers: some/any/much/many\"",
+      "tasks": [
+        {
+          "id": "w5-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → A2 seviyesinde \"Comparatives and superlatives\" ile \"Quantifiers: some/any/much/many\" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w5-car",
+          "day": "Çar",
+          "text": "test-english.com'da zayıf çıkan konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w5-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E5 \"The East German Laundry Detergent\" bölümünü Türkçe altyazıyla izle, sadece keyif (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w5-cum",
+          "day": "Cum",
+          "text": "S1E5'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 konuşma kalıbı kaydet. Çamaşırhane sahnesindeki nesnelerde artikel (a/the) kullanımını da gözlemle — geçen haftaların pekiştirmesi (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w5-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: karakterleri karşılaştıran 5 cümle yaz (örn. Joey is funnier than Ross. Monica is the most organized.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing yap (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w5-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w5-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w5-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "phaseId": "faz0",
+      "no": "6",
+      "title": "Going to / Will · Sıklık Zarfları · 🏁 A2 ÇIKIŞ TESTİ",
+      "episode": "S1E6 \"The Butt\"",
+      "summary": "I'm going to visit (plan) vs I'll help you (anlık karar) / always, usually, often, sometimes, never (be'den sonra, fiilden önce)",
+      "source": "test-english.com → A2 → \"Future: going to & will\", \"Adverbs of frequency\" + https://test-english.com/level-test/ (A2)",
+      "tasks": [
+        {
+          "id": "w6-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → A2 seviyesinde \"Future: going to & will\" ile \"Adverbs of frequency\" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w6-car",
+          "day": "Çar",
+          "text": "Karışık A1-A2 mini tekrarı: Faz 0'da işlenen her konudan (to be, present simple/continuous, past simple, karşılaştırma, going to/will...) 1-2 tane olmak üzere toplam 10 cümle yaz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w6-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E6 \"The Butt\" bölümünü Türkçe altyazıyla izle — TR altyazı SON KEZ; gelecek haftadan itibaren ilk izleme de İngilizce altyazıyla olacak (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w6-cum",
+          "day": "Cum",
+          "text": "🏁 A2 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden A2 seviye testini çöz. %75 ve üzeri → Faz 1'e geç. Altında kaldıysan zayıf konular için 1 yama haftası ekle, konuları tekrar çalış (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w6-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: gelecek planların hakkında 5 cümle yaz (örn. I'm going to finish this plan. I will speak English fluently.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing yap (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w6-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w6-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w6-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "phaseId": "faz1",
+      "no": "7",
+      "title": "Present Perfect (tanışma)",
+      "episode": "S1E7 \"The Blackout\"",
+      "summary": "have/has + V3. Geçmişte olmuş, etkisi şu ana uzanan olaylar: I have lost my keys (hâlâ kayıp). She has been to Paris (deneyim). Sinyal kelimeler: just, already, yet, ever, never.",
+      "source": "test-english.com → B1 → \"Present perfect\"",
+      "tasks": [
+        {
+          "id": "w7-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Present perfect\" konu anlatımını OKU (bu fazda yeni konularda önce anlatım), sonra 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w7-car",
+          "day": "Çar",
+          "text": "test-english.com'da present perfect 2. test setini çöz; just/already/yet sorularına özellikle dikkat et (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w7-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E7 \"The Blackout\" bölümünü İngilizce altyazıyla izle (kült bölüm) — takıldığın yerde geri sar (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w7-cum",
+          "day": "Cum",
+          "text": "S1E7'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet kelime listesi) ile izle: 8-10 kelime + 5 konuşma kalıbı (\"gonna\", \"I mean...\" gibi günlük ifadeler) kaydet. \"Have you ever...?\" tarzı 3 örnek cümle avla (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w7-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: hayatındaki deneyimler üzerine 6 cümle yaz (örn. I have never been to London. I have just started this plan.). Dizide kaydettiğin kelimeleri Tobo English'e ekle. 1 sahne shadowing yap (1-2 dk'lık sahneyi karakterle AYNI ANDA 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w7-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w7-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w7-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w8",
+      "phaseId": "faz1",
+      "no": "8",
+      "title": "Present Perfect vs Past Simple",
+      "episode": "S1E8 \"The Nana Dies Twice\"",
+      "summary": "Zaman belliyse past simple: I saw him yesterday. Zaman belirsiz/etkisi sürüyorsa present perfect: I have seen this movie. B1'in EN KRİTİK ayrımı — acele etme.",
+      "source": "test-english.com → B1 → \"Present perfect vs past simple\" + perfect-english-grammar.com",
+      "tasks": [
+        {
+          "id": "w8-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Present perfect or past simple\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w8-car",
+          "day": "Çar",
+          "text": "test-english.com'da 2. test setini çöz + perfect-english-grammar.com sitesinden aynı konuda 1 ek test bul ve çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w8-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E8 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w8-cum",
+          "day": "Cum",
+          "text": "S1E8'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet. Bir past simple, bir present perfect cümle yakala; neden o zamanın seçildiğini kendi cümlenle not et (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w8-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: aynı olayı iki zamanla anlatan 3 çift cümle yaz (örn. I lost my keys yesterday. / I have lost my keys — help!). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w8-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w8-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w8-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w9",
+      "phaseId": "faz1",
+      "no": "9",
+      "title": "Past Continuous + when/while",
+      "episode": "S1E9 \"The Underdog\"",
+      "summary": "I was watching TV when she called. While Ross was talking, Rachel left. Arka plan eylemi (continuous) + kesen olay (simple).",
+      "source": "test-english.com → B1 → \"Past continuous and past simple\"",
+      "tasks": [
+        {
+          "id": "w9-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Past continuous and past simple\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w9-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w9-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E9 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w9-cum",
+          "day": "Cum",
+          "text": "S1E9'u ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet + when/while içeren 2 örnek cümle not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w9-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: dün gününü 5 cümleyle anlat, en az 2'si past continuous olsun (örn. I was working when you called.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w9-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w9-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w9-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w10",
+      "phaseId": "faz1",
+      "no": "10",
+      "title": "🔁 TEKRAR (Hafta 7-9)",
+      "episode": "S1E10 \"The Monkey\"",
+      "summary": "Yeni konu yok. Present perfect, present perfect vs past simple ve past continuous konularının pekiştirme haftası.",
+      "source": "test-english.com → B1 (önceki 3 hafta konuları)",
+      "tasks": [
+        {
+          "id": "w10-pzt",
+          "day": "Pzt",
+          "text": "test-english.com'da son 3 haftanın konularının (present perfect, pp vs past simple, past continuous) karışık/mixed testlerini veya her konudan birer kısa testi çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w10-car",
+          "day": "Çar",
+          "text": "En kötü çıkan konunun anlatımını test-english.com'dan yeniden oku + 1 test daha çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w10-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E10 bölümünü İngilizce altyazıyla izle — analiz yok, sadece keyif + ilginç kelimeleri yakala (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w10-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: 3 konuyu karıştıran 15 cümle yaz (her konudan 5'er). Cümlelerinde dizi karakterlerini veya kendi hayatını kullan (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w10-cmt",
+          "day": "Cmt",
+          "text": "Kaydettiğin kelimeleri Tobo English'e ekle + 2 sahne shadowing yap (tekrar haftasında çift doz: 1-2 dk'lık iki sahneyi karakterle aynı anda 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w10-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w10-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w10-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w11",
+      "phaseId": "faz1",
+      "no": "11",
+      "title": "Modals: should / must / have to / might",
+      "episode": "S1E11 \"Mrs. Bing\"",
+      "summary": "You should sleep (tavsiye). I must go (içsel zorunluluk). I have to work (dışsal kural). She might come (ihtimal). must not ≠ don't have to!",
+      "source": "test-english.com → B1 → \"Modal verbs\"",
+      "tasks": [
+        {
+          "id": "w11-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Modal verbs\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w11-car",
+          "day": "Çar",
+          "text": "test-english.com'da 2. test setini çöz; mustn't (yasak) vs don't have to (gerek yok) ayrımına özellikle dikkat (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w11-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E11 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w11-cum",
+          "day": "Cum",
+          "text": "S1E11'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet + modal fiil (should/must/have to/might) geçen 3 örnek not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w11-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: karakterlere 5 tavsiye cümlesi yaz (örn. Ross should tell Rachel the truth.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w11-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w11-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w11-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w12",
+      "phaseId": "faz1",
+      "no": "12",
+      "title": "Zero & First Conditional",
+      "episode": "S1E12 \"The Dozen Lasagnas\"",
+      "summary": "Zero (genel gerçek): If you heat ice, it melts. First (gerçekçi gelecek): If she calls, I will answer. If'li tarafta will YOK.",
+      "source": "test-english.com → B1 → \"Conditionals: zero and first\"",
+      "tasks": [
+        {
+          "id": "w12-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Zero and first conditional\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w12-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w12-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E12 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w12-cum",
+          "day": "Cum",
+          "text": "S1E12'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet + \"if\" ile kurulan 2 örnek cümle not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w12-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: kendi hayatından 5 first conditional cümlesi yaz (örn. If I finish this week, I will watch an extra episode.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w12-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w12-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w12-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w13",
+      "phaseId": "faz1",
+      "no": "13",
+      "title": "Second Conditional",
+      "episode": "S1E13 \"The Boobies\"",
+      "summary": "Hayalî/şimdiki gerçek dışı: If I had money, I would travel. If I were you, I would apologize. (were her özneyle!)",
+      "source": "test-english.com → B1 → \"Second conditional\"",
+      "tasks": [
+        {
+          "id": "w13-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Second conditional\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w13-car",
+          "day": "Çar",
+          "text": "test-english.com'da 2. test setini çöz + first/second conditional karışık mini bir test bul ve çöz (ayrım: gerçekçi gelecek vs hayal) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w13-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E13 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w13-cum",
+          "day": "Cum",
+          "text": "S1E13'ü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet; özellikle \"If I were...\" kalıbını avla (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w13-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 5 hayalî senaryo cümlesi yaz (örn. If I lived in New York, I would visit Central Perk.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w13-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w13-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w13-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w14",
+      "phaseId": "faz1",
+      "no": "14",
+      "title": "🔁 TEKRAR (Hafta 11-13)",
+      "episode": "S1E14 \"The Candy Hearts\"",
+      "summary": "Yeni konu yok. Modallar, zero/first ve second conditional pekiştirme haftası.",
+      "source": "test-english.com → B1 (önceki 3 hafta konuları)",
+      "tasks": [
+        {
+          "id": "w14-pzt",
+          "day": "Pzt",
+          "text": "test-english.com'da modallar + zero/first + second conditional konularının karışık testlerini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w14-car",
+          "day": "Çar",
+          "text": "En zayıf çıkan konunun anlatımını yeniden oku + 1 test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w14-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E14 bölümünü İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w14-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: 15 karışık cümle yaz (modallar + iki conditional, her birinden 5'er) (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w14-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (iki farklı 1-2 dk'lık sahneyi karakterle aynı anda 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w14-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w14-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w14-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w15",
+      "phaseId": "faz1",
+      "no": "15",
+      "title": "Gerund vs Infinitive",
+      "episode": "S1E15 \"The Stoned Guy\"",
+      "summary": "enjoy doing, finish doing, suggest doing vs want to do, decide to do, hope to do. Bazıları ikisini de alır: like doing / like to do. Ezber değil, fiil grupları halinde öğren.",
+      "source": "test-english.com → B1 → \"Gerunds and infinitives\"",
+      "tasks": [
+        {
+          "id": "w15-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Gerunds and infinitives\" konu anlatımını oku, 1. test setini çöz. En sık kullanılan 15 fiili (enjoy, want, finish, decide, hope, suggest...) hangi yapıyı aldıklarıyla birlikte listele (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w15-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w15-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E15 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w15-cum",
+          "day": "Cum",
+          "text": "S1E15'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet + gerund/infinitive içeren 3 örnek not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w15-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 6 cümle yaz — 3'ü gerund'lı (I enjoy watching...), 3'ü infinitive'li (I want to learn...). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w15-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w15-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w15-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w16",
+      "phaseId": "faz1",
+      "no": "16",
+      "title": "Relative Clauses (who/which/that)",
+      "episode": "S1E16 \"Two Parts: Part 1\"",
+      "summary": "The man who lives next door... The book which/that I read... The girl (that) I met... (nesne konumundaysa atılabilir)",
+      "source": "test-english.com → B1 → \"Relative clauses: defining\"",
+      "tasks": [
+        {
+          "id": "w16-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Defining relative clauses\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w16-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w16-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E16 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w16-cum",
+          "day": "Cum",
+          "text": "S1E16'yı ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet + who/which/that ile kurulmuş 2 örnek not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w16-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: karakterleri tanımlayan 5 cümle yaz (örn. Joey is the friend who loves sandwiches.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w16-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w16-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w16-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w17",
+      "phaseId": "faz1",
+      "no": "17",
+      "title": "Passive: Present & Past",
+      "episode": "S1E17 \"Two Parts: Part 2\"",
+      "summary": "The coffee is made here. The window was broken. Yapan değil yapılan önemliyse. be + V3.",
+      "source": "test-english.com → B1 → \"The passive\"",
+      "tasks": [
+        {
+          "id": "w17-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"The passive\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w17-car",
+          "day": "Çar",
+          "text": "test-english.com'da 2. test setini çöz; aktif cümleyi pasife dönüştürme sorularına ağırlık ver (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w17-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E17 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w17-cum",
+          "day": "Cum",
+          "text": "S1E17'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet + pasif yapı içeren 2 örnek not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w17-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: kendi yazdığın 5 aktif cümleyi pasife çevir (örn. Monica cooked dinner. → Dinner was cooked by Monica.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w17-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w17-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w17-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w18",
+      "phaseId": "faz1",
+      "no": "18",
+      "title": "🔁 TEKRAR (Hafta 15-17)",
+      "episode": "S1E18 \"All the Poker\"",
+      "summary": "Yeni konu yok. Gerund/infinitive, relative clauses ve passive pekiştirme haftası.",
+      "source": "test-english.com → B1 (önceki 3 hafta konuları)",
+      "tasks": [
+        {
+          "id": "w18-pzt",
+          "day": "Pzt",
+          "text": "test-english.com'da gerund/infinitive + relative clauses + passive konularının karışık testlerini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w18-car",
+          "day": "Çar",
+          "text": "En zayıf konunun anlatımını yeniden oku + 1 test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w18-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E18 bölümünü İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w18-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: 3 konuyu karıştıran 15 cümle yaz (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w18-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (iki sahneyi karakterle aynı anda 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w18-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w18-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w18-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w19",
+      "phaseId": "faz1",
+      "no": "19",
+      "title": "Used to + Reported Speech (temel)",
+      "episode": "S1E19 \"The Monkey Gets Away\"",
+      "summary": "I used to smoke (artık değil). / \"I am tired\" → He said (that) he was tired. (zaman bir geri kayar)",
+      "source": "test-english.com → B1 → \"Used to\", \"Reported speech\"",
+      "tasks": [
+        {
+          "id": "w19-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B1 → \"Used to\" konu anlatımını oku ve testini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w19-car",
+          "day": "Çar",
+          "text": "test-english.com → B1 → \"Reported speech\" konu anlatımını oku ve testini çöz (zaman kaydırma kuralına dikkat: am→was, will→would) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w19-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E19 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w19-cum",
+          "day": "Cum",
+          "text": "S1E19'u ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet. Bir karakterin 2 repliğini seç ve reported speech'e çevir (Ross said that he...) (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w19-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: çocukluğun hakkında 3 \"used to\" cümlesi (I used to play outside.) + dizi repliklerinden 3 reported speech dönüşümü yaz. Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w19-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w19-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w19-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w20",
+      "phaseId": "faz1",
+      "no": "20",
+      "title": "🏁 B1 ÇIKIŞ TESTİ + Genel Tekrar",
+      "episode": "S1E20 \"The Evil Orthodontist\"",
+      "summary": "Faz 1 kapanışı: tüm B1 konularının taraması + çıkış testi. %75+ → Faz 2'ye geçiş.",
+      "source": "https://test-english.com/level-test/ (B1)",
+      "tasks": [
+        {
+          "id": "w20-pzt",
+          "day": "Pzt",
+          "text": "Faz 1 konu listesini baştan tara (present perfect, pp vs past, past continuous, modallar, conditional'lar, gerund/infinitive, relative, passive, used to, reported speech); kendine en zayıf 3 konuyu işaretle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w20-car",
+          "day": "Çar",
+          "text": "test-english.com'da işaretlediğin o 3 konudan birer test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w20-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E20 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w20-cum",
+          "day": "Cum",
+          "text": "🏁 B1 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden B1 testini çöz. %75 ve üzeri → Faz 2'ye geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w20-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: Faz 1'i özetleyen 10 cümlelik mini paragraf yaz — farklı konuları (perfect, conditional, passive...) karıştırarak. Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w20-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w20-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w20-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w21",
+      "phaseId": "faz2",
+      "no": "21",
+      "title": "Present Perfect Continuous",
+      "episode": "S1E21",
+      "summary": "I have been studying for two hours. She has been working here since 2020. Süreç vurgusu; for/since ile.",
+      "source": "test-english.com → B2 → \"Present perfect continuous\"",
+      "tasks": [
+        {
+          "id": "w21-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Present perfect continuous\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w21-car",
+          "day": "Çar",
+          "text": "test-english.com'da 2. test setini çöz; present perfect simple vs continuous ayrımına odaklan (sonuç mu, süreç mi?) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w21-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E21 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w21-cum",
+          "day": "Cum",
+          "text": "S1E21'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet kelime listesi) ile izle: 8-10 kelime + 5 konuşma kalıbı (\"gonna\", \"I mean...\" gibi) kaydet + have been ...ing geçen 2 örnek not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w21-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: \"ne zamandır ne yapıyorsun\" temalı 5 cümle yaz (örn. I have been learning English for 5 months.). Dizide kaydettiğin kelimeleri Tobo English'e ekle. 1 sahne shadowing yap (1-2 dk'lık sahneyi karakterle AYNI ANDA 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w21-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w21-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w21-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w22",
+      "phaseId": "faz2",
+      "no": "22",
+      "title": "Past Perfect",
+      "episode": "S1E22",
+      "summary": "Geçmişin geçmişi: When I arrived, the film had already started. had + V3.",
+      "source": "test-english.com → B2 → \"Past perfect\"",
+      "tasks": [
+        {
+          "id": "w22-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Past perfect\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w22-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w22-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E22 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w22-cum",
+          "day": "Cum",
+          "text": "S1E22'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet + had + V3 geçen 2 örnek not al (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w22-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: iki geçmiş olayı sıralayan 5 cümle yaz (örn. Rachel had left Barry before she came to the city.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w22-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w22-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w22-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w23",
+      "phaseId": "faz2",
+      "no": "23",
+      "title": "Narrative Tenses (hikâye anlatımı)",
+      "episode": "S1E23",
+      "summary": "Past simple + continuous + perfect'i tek anlatıda karıştırma: It was raining. I had forgotten my umbrella, so I ran home.",
+      "source": "test-english.com → B2 → \"Narrative tenses\"",
+      "tasks": [
+        {
+          "id": "w23-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Narrative tenses\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w23-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w23-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E23 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w23-cum",
+          "day": "Cum",
+          "text": "S1E23'ü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w23-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: bölümün bir sahnesini 6-7 cümlelik mini hikâye olarak yaz — üç zamanı da kullan (past simple + continuous + perfect). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w23-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w23-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w23-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w24",
+      "phaseId": "faz2",
+      "no": "24",
+      "title": "🔁 TEKRAR+ (Hafta 21-23 + kura ile 2 eski konu)",
+      "episode": "S1E24",
+      "summary": "Yeni konu yok. Son 3 hafta + tüm geçmiş konulardan kura ile seçilen 2 konu.",
+      "source": "test-english.com (ilgili konular)",
+      "tasks": [
+        {
+          "id": "w24-pzt",
+          "day": "Pzt",
+          "text": "test-english.com'da Hafta 21-23 konularının (pp continuous, past perfect, narrative tenses) karışık testlerini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w24-car",
+          "day": "Çar",
+          "text": "Şimdiye kadar işlenen TÜM konuların listesinden kura ile 2 eski konu seç (Faz 0-1 dahil); test-english.com'da her birinden 1 test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w24-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S1E24 sezon finalini İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w24-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: son 3 haftanın konularını karıştıran 15 cümle yaz (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w24-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (iki 1-2 dk'lık sahneyi karakterle aynı anda 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w24-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w24-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w24-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w25",
+      "phaseId": "faz2",
+      "no": "25",
+      "title": "Third Conditional",
+      "episode": "S2E1",
+      "summary": "Geçmişin gerçek dışı hali (pişmanlık): If I had studied, I would have passed. if + had V3, would have V3.",
+      "source": "test-english.com → B2 → \"Third conditional\"",
+      "tasks": [
+        {
+          "id": "w25-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Third conditional\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w25-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w25-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E1 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w25-cum",
+          "day": "Cum",
+          "text": "S2E1'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet + third conditional / \"would have\" geçen 1 örnek avla (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w25-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 5 pişmanlık/alternatif geçmiş cümlesi yaz (örn. If Ross had told Rachel earlier, everything would have been different.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w25-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w25-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w25-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w26",
+      "phaseId": "faz2",
+      "no": "26",
+      "title": "Mixed Conditionals + wish/if only",
+      "episode": "S2E2",
+      "summary": "If I had saved money, I would be rich now. / I wish I knew. If only I had listened!",
+      "source": "test-english.com → B2 → \"Mixed conditionals\", \"Wish / if only\"",
+      "tasks": [
+        {
+          "id": "w26-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Mixed conditionals\" ve \"Wish / if only\" konu anlatımlarını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w26-car",
+          "day": "Çar",
+          "text": "test-english.com'da 2. test setini çöz + TÜM conditional'ların (zero/first/second/third/mixed) karışık mini testini bul ve çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w26-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E2 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w26-cum",
+          "day": "Cum",
+          "text": "S2E2'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w26-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 3 wish cümlesi (I wish I had more time.) + 2 mixed conditional cümlesi yaz. Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w26-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w26-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w26-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w27",
+      "phaseId": "faz2",
+      "no": "27",
+      "title": "Modals of Deduction",
+      "episode": "S2E3",
+      "summary": "Tahmin/çıkarım: He must be tired (kesin gibi). She might have left (belki). It can't be true (imkânsız). He must have forgotten (geçmiş çıkarım).",
+      "source": "test-english.com → B2 → \"Modals of deduction (present & past)\"",
+      "tasks": [
+        {
+          "id": "w27-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Modal verbs of deduction\" konu anlatımını oku (hem şimdiki hem geçmiş çıkarım), 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w27-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w27-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E3 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w27-cum",
+          "day": "Cum",
+          "text": "S2E3'ü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet; karakterlerin tahmin/çıkarım cümlelerini (must be, can't be, might have...) avla (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w27-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: bölümdeki bir olaya 5 çıkarım cümlesi yaz (örn. Ross must have been jealous.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w27-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w27-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w27-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w28",
+      "phaseId": "faz2",
+      "no": "28",
+      "title": "🔁 TEKRAR+ (Hafta 25-27 + kura ile 2 eski konu)",
+      "episode": "S2E4",
+      "summary": "Yeni konu yok. Third/mixed conditional, wish ve modals of deduction + kura ile 2 eski konu.",
+      "source": "test-english.com (ilgili konular)",
+      "tasks": [
+        {
+          "id": "w28-pzt",
+          "day": "Pzt",
+          "text": "test-english.com'da Hafta 25-27 konularının karışık testlerini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w28-car",
+          "day": "Çar",
+          "text": "Konu listenden kura ile 2 eski konu seç; her birinden 1 test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w28-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E4 bölümünü İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w28-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: son 3 haftanın konularını karıştıran 15 cümle yaz (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w28-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w28-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w28-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w28-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w29",
+      "phaseId": "faz2",
+      "no": "29",
+      "title": "Future Continuous & Future Perfect",
+      "episode": "S2E5",
+      "summary": "This time tomorrow I will be flying. By 2027 I will have finished this plan.",
+      "source": "test-english.com → B2 → \"Future continuous & future perfect\"",
+      "tasks": [
+        {
+          "id": "w29-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Future continuous and future perfect\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w29-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w29-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E5 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w29-cum",
+          "day": "Cum",
+          "text": "S2E5'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w29-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: kendi geleceğin hakkında 5 cümle yaz, en az 2'si future perfect olsun (örn. By next year I will have finished Phase 2.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w29-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w29-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w29-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w30",
+      "phaseId": "faz2",
+      "no": "30",
+      "title": "Causative (have/get something done)",
+      "episode": "S2E6",
+      "summary": "İşi başkasına yaptırma: I had my hair cut. She got her car repaired.",
+      "source": "test-english.com → B2 → \"Causative: have/get something done\"",
+      "tasks": [
+        {
+          "id": "w30-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Have/get something done (causative)\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w30-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w30-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E6 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w30-cum",
+          "day": "Cum",
+          "text": "S2E6'yı ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w30-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: günlük hayattan 5 causative cümle yaz (örn. I had my phone repaired. I got my hair cut.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w30-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w30-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w30-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w31",
+      "phaseId": "faz2",
+      "no": "31",
+      "title": "İleri Passive",
+      "episode": "S2E7",
+      "summary": "It is said that... He is believed to be... The bridge is being built. The work has been done.",
+      "source": "test-english.com → B2 → \"Passive: all tenses & impersonal structures\"",
+      "tasks": [
+        {
+          "id": "w31-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"The passive (all tenses)\" ve impersonal yapılar (It is said that...) konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w31-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w31-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E7 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w31-cum",
+          "day": "Cum",
+          "text": "S2E7'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w31-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 5 pasif cümle yaz, en az 2'si \"It is said that...\" / \"He is believed to...\" kalıbıyla. Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w31-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w31-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w31-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w32",
+      "phaseId": "faz2",
+      "no": "32",
+      "title": "🔁 TEKRAR+ (Hafta 29-31 + kura ile 2 eski konu)",
+      "episode": "S2E8",
+      "summary": "Yeni konu yok. Future continuous/perfect, causative ve ileri passive + kura ile 2 eski konu.",
+      "source": "test-english.com (ilgili konular)",
+      "tasks": [
+        {
+          "id": "w32-pzt",
+          "day": "Pzt",
+          "text": "test-english.com'da Hafta 29-31 konularının karışık testlerini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w32-car",
+          "day": "Çar",
+          "text": "Konu listenden kura ile 2 eski konu seç; her birinden 1 test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w32-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E8 bölümünü İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w32-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: son 3 haftanın konularını karıştıran 15 cümle yaz (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w32-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w32-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w32-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w32-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w33",
+      "phaseId": "faz2",
+      "no": "33",
+      "title": "İleri Relative Clauses",
+      "episode": "S2E9",
+      "summary": "Non-defining: My brother, who lives in Ankara, is a doctor. (virgüllü, that kullanılmaz) / Edatlı: the house in which I grew up.",
+      "source": "test-english.com → B2 → \"Relative clauses: defining & non-defining\"",
+      "tasks": [
+        {
+          "id": "w33-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Defining & non-defining relative clauses\" konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w33-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w33-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E9 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w33-cum",
+          "day": "Cum",
+          "text": "S2E9'u ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w33-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 5 cümle yaz, en az 3'ü virgüllü non-defining olsun (örn. Monica, who is a chef, lives across the hall.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w33-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w33-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w33-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w34",
+      "phaseId": "faz2",
+      "no": "34",
+      "title": "Bağlaçlar (Contrast & Purpose)",
+      "episode": "S2E10",
+      "summary": "Although it rained... / Despite the rain... / However, ... / in spite of / so that / in order to. Despite + isim, although + cümle!",
+      "source": "test-english.com → B2 → \"Linking words: contrast, purpose, reason\"",
+      "tasks": [
+        {
+          "id": "w34-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Linking words\" (contrast/purpose/reason) konu anlatımını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w34-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konunun 2. test setini çöz; despite+isim vs although+cümle ayrımına dikkat (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w34-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E10 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w34-cum",
+          "day": "Cum",
+          "text": "S2E10'u ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w34-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 6 cümle yaz — although, despite ve however'ı ikişer kez kullan. Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w34-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w34-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w34-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w35",
+      "phaseId": "faz2",
+      "no": "35",
+      "title": "Question Tags · so/neither · Dolaylı Sorular",
+      "episode": "S2E11",
+      "summary": "You're coming, aren't you? / So do I. Neither can she. / Could you tell me where the bank is? (dolaylıda devrik YOK)",
+      "source": "test-english.com → B2 → \"Question tags\", \"Indirect questions\"",
+      "tasks": [
+        {
+          "id": "w35-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Question tags\" ve \"Indirect questions\" konu anlatımlarını oku, 1. test setini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w35-car",
+          "day": "Çar",
+          "text": "test-english.com'da aynı konuların 2. test setini çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w35-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E11 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w35-cum",
+          "day": "Cum",
+          "text": "S2E11'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet. Tag question'lar diyalogda kaynar — en az 3 tane avla (aren't you?, isn't it?...) (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w35-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 6 cümle yaz — 2 tag question, 2 so/neither (So do I. Neither can she.), 2 dolaylı soru (Could you tell me...?). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w35-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w35-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w35-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w36",
+      "phaseId": "faz2",
+      "no": "36",
+      "title": "🔁 TEKRAR+ (Hafta 33-35 + kura ile 2 eski konu)",
+      "episode": "S2E12",
+      "summary": "Yeni konu yok. İleri relative, bağlaçlar ve question tags/dolaylı sorular + kura ile 2 eski konu.",
+      "source": "test-english.com (ilgili konular)",
+      "tasks": [
+        {
+          "id": "w36-pzt",
+          "day": "Pzt",
+          "text": "test-english.com'da Hafta 33-35 konularının karışık testlerini çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w36-car",
+          "day": "Çar",
+          "text": "Konu listenden kura ile 2 eski konu seç; her birinden 1 test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w36-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E12 bölümünü İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w36-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: son 3 haftanın konularını karıştıran 15 cümle yaz (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w36-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w36-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w36-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w36-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w37",
+      "phaseId": "faz2",
+      "no": "37",
+      "title": "Phrasal Verbs (sistemli giriş)",
+      "episode": "S2E13",
+      "summary": "En sık 40 phrasal verb, fiil bazlı gruplarla: get up/over/along, give up/in, look for/after/forward to, put off/up with...",
+      "source": "test-english.com → B2 → \"Phrasal verbs\" + Language Reactor kelime listendeki phrasal verb'ler",
+      "tasks": [
+        {
+          "id": "w37-pzt",
+          "day": "Pzt",
+          "text": "test-english.com → B2 → \"Phrasal verbs\" sayfasından (veya \"most common 40 phrasal verbs\" araması ile) İLK 20 phrasal verb'ü fiil gruplarıyla çalış (get, give, look...) + 1 test çöz. Bilmediklerini Tobo English'e ekle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w37-car",
+          "day": "Çar",
+          "text": "İKİNCİ 20 phrasal verb'ü çalış + 1 test çöz; bunları da Tobo English'e ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w37-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E13 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w37-cum",
+          "day": "Cum",
+          "text": "S2E13'ü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: bu hafta SADECE phrasal verb avı — diyaloglarda en az 5 phrasal verb yakala ve kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w37-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 6 phrasal verb içeren cümleler yaz (örn. I'm looking forward to the weekend.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w37-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w37-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w37-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w38",
+      "phaseId": "faz2",
+      "no": "38",
+      "title": "🏁 B2 ÇIKIŞ TESTİ",
+      "episode": "S2E14",
+      "summary": "Faz 2 kapanışı: zayıf konu taraması + çıkış testi. %75+ → Faz 3'e (C1) geçiş.",
+      "source": "https://test-english.com/level-test/ (B2)",
+      "tasks": [
+        {
+          "id": "w38-pzt",
+          "day": "Pzt",
+          "text": "Faz 2 konu listesini tara (pp continuous, past perfect, narrative, conditional'lar, deduction, future, causative, passive, relative, bağlaçlar, tags, phrasal verbs); en zayıf 3 konuyu işaretle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w38-car",
+          "day": "Çar",
+          "text": "test-english.com'da o 3 konudan birer test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w38-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E14 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w38-cum",
+          "day": "Cum",
+          "text": "🏁 B2 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden B2 testini çöz. %75 ve üzeri → Faz 3'e geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w38-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: Faz 2'yi özetleyen 10 cümlelik paragraf yaz (karışık konularla). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w38-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w38-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w38-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w39-40",
+      "phaseId": "faz3",
+      "no": "39-40",
+      "title": "Inversion",
+      "episode": "S2E15-16",
+      "summary": "Vurgu için devrik yapı: Never have I seen such a mess. Not only did he lie, but he also... Rarely do we...",
+      "source": "englishpage.com + bbc.co.uk/learningenglish → \"Towards Advanced\" inversion bölümleri",
+      "tasks": [
+        {
+          "id": "w39-40-pzt",
+          "day": "Pzt",
+          "text": "englishpage.com ve bbc.co.uk/learningenglish (\"Towards Advanced\" araması) sitelerinde inversion (devrik yapı) anlatımını oku; Never/Rarely/Not only ile başlayan 5 örnek cümle topla ve defterine yaz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-car",
+          "day": "Çar",
+          "text": "BBC Learning English'teki inversion quiz'ini çöz; yanlışlarının kuralını not et (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-per",
+          "day": "Per",
+          "text": "Netflix'te haftanın Friends bölümünü İngilizce altyazıyla izle (1. hafta S2E15, 2. hafta S2E16) (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-cum",
+          "day": "Cum",
+          "text": "Aynı bölümü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet kelime listesi) ile izle: 8-10 kelime + 5 konuşma kalıbı kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: içinde 4 inversion cümlesi geçen 5-6 cümlelik mini paragraf yaz (örn. Never have I watched an episode twice... Not only did Joey eat the sandwich...). Kelimeleri Tobo English'e ekle. 2 sahne shadowing yap (iki 1-2 dk'lık sahneyi karakterle AYNI ANDA 2-3 kez sesli tekrar et) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w39-40-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w39-40-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w39-40-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w41",
+      "phaseId": "faz3",
+      "no": "41",
+      "title": "Cleft Sentences",
+      "episode": "S2E17",
+      "summary": "Vurgulama: What I need is a holiday. It was Joey who ate the sandwich. The reason why I called is...",
+      "source": "bbc.co.uk/learningenglish → \"Towards Advanced\" + englishpage.com (cleft sentences)",
+      "tasks": [
+        {
+          "id": "w41-pzt",
+          "day": "Pzt",
+          "text": "bbc.co.uk/learningenglish veya englishpage.com'da \"cleft sentences\" anlatımını oku; What.../It was...who.../The reason why... kalıplarından 5 örnek topla (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w41-car",
+          "day": "Çar",
+          "text": "BBC Learning English'te cleft sentences alıştırması/quiz'i çöz; bulamazsan kendi yazdığın 5 normal cümleyi cleft yapıya çevir (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w41-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E17 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w41-cum",
+          "day": "Cum",
+          "text": "S2E17'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w41-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: en az 3 cleft yapı içeren 5-6 cümlelik mini paragraf yaz (örn. What Monica loves most is cooking.). Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w41-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w41-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w41-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w42",
+      "phaseId": "faz3",
+      "no": "42",
+      "title": "🔁 TEKRAR+ (Hafta 39-41 + kura ile 2 eski konu)",
+      "episode": "S2E18",
+      "summary": "Yeni konu yok. Inversion ve cleft sentences pekiştirme + kura ile 2 eski konu (tüm fazlardan).",
+      "source": "englishpage.com + bbc.co.uk/learningenglish + test-english.com (eski konular)",
+      "tasks": [
+        {
+          "id": "w42-pzt",
+          "day": "Pzt",
+          "text": "Inversion ve cleft konularında karışık alıştırma: 10 normal cümleyi devrik/cleft yapıya çevir (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w42-car",
+          "day": "Çar",
+          "text": "Konu listenden kura ile 2 eski konu seç (Faz 0-2 dahil); test-english.com'da her birinden 1 test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w42-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E18 bölümünü İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w42-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: inversion + cleft + 2 eski konuyu karıştıran 15 cümle yaz (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w42-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w42-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w42-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w42-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w43",
+      "phaseId": "faz3",
+      "no": "43",
+      "title": "Ellipsis & Substitution (konuşma dili)",
+      "episode": "S2E19",
+      "summary": "Doğal konuşmada kısaltma: \"Want some coffee?\" (Do you...) / \"I hope so.\" / \"Sounds good.\" / \"Been there.\"",
+      "source": "bbc.co.uk/learningenglish → \"Towards Advanced\" (ellipsis & substitution)",
+      "tasks": [
+        {
+          "id": "w43-pzt",
+          "day": "Pzt",
+          "text": "bbc.co.uk/learningenglish'te ellipsis & substitution (konuşmada kısaltma) anlatımını oku; \"Want some coffee?\", \"Hope so.\", \"Sounds good.\" gibi 8-10 kısaltma kalıbını listele (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w43-car",
+          "day": "Çar",
+          "text": "BBC quiz'i çöz veya listendeki kısaltmaların açık (tam) hâllerini yaz, sonra tersini yap (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w43-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E19 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w43-cum",
+          "day": "Cum",
+          "text": "S2E19'u ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: bu kısaltmalardan 5 tane avla — Friends bu konunun ders kitabıdır. Ayrıca 8-10 kelime kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w43-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: yakaladığın kısaltmalarla 2 kişilik kısa bir diyalog yaz (5-6 replik). Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w43-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w43-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w43-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w44",
+      "phaseId": "faz3",
+      "no": "44",
+      "title": "İleri Koşul Yapıları",
+      "episode": "S2E20",
+      "summary": "provided that, as long as, unless, but for, suppose/supposing, otherwise",
+      "source": "englishpage.com (conditionals) + bbc.co.uk/learningenglish",
+      "tasks": [
+        {
+          "id": "w44-pzt",
+          "day": "Pzt",
+          "text": "englishpage.com'da ileri koşul bağlaçlarının (provided that, as long as, unless, but for, supposing, otherwise) anlatımını oku; her biriyle 1 örnek cümle topla (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w44-car",
+          "day": "Çar",
+          "text": "Bu yapılarla alıştırma: 6 cümleyi \"if\" yerine farklı koşul bağlaçlarıyla yeniden yaz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w44-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E20 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w44-cum",
+          "day": "Cum",
+          "text": "S2E20'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w44-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: en az 3 farklı koşul yapısı (unless, as long as, otherwise...) içeren 5-6 cümlelik mini paragraf yaz. Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w44-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w44-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w44-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w45",
+      "phaseId": "faz3",
+      "no": "45",
+      "title": "Subjunctive & Resmi Yapılar",
+      "episode": "S2E21",
+      "summary": "I suggest (that) he be on time. It is essential that she attend. If I were to...",
+      "source": "englishpage.com (subjunctive) + bbc.co.uk/learningenglish",
+      "tasks": [
+        {
+          "id": "w45-pzt",
+          "day": "Pzt",
+          "text": "englishpage.com'da subjunctive anlatımını oku (suggest/insist/essential that + yalın fiil); 5 örnek topla (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w45-car",
+          "day": "Çar",
+          "text": "Subjunctive alıştırması: 6 cümleyi subjunctive yapıyla yeniden kur (I suggest that he be...) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w45-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E21 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w45-cum",
+          "day": "Cum",
+          "text": "S2E21'i ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w45-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: resmi tonda, en az 2 subjunctive içeren 5-6 cümlelik mini paragraf yaz (bir öneri/şikâyet maili gibi). Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w45-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w45-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w45-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w46",
+      "phaseId": "faz3",
+      "no": "46",
+      "title": "🔁 TEKRAR+ (Hafta 43-45 + kura ile 2 eski konu)",
+      "episode": "S2E22",
+      "summary": "Yeni konu yok. Ellipsis, ileri koşul ve subjunctive pekiştirme + kura ile 2 eski konu.",
+      "source": "englishpage.com + bbc.co.uk/learningenglish + test-english.com (eski konular)",
+      "tasks": [
+        {
+          "id": "w46-pzt",
+          "day": "Pzt",
+          "text": "Hafta 43-45 konularının karışık alıştırması: her konudan 5'er cümle/dönüşüm yaz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w46-car",
+          "day": "Çar",
+          "text": "Konu listenden kura ile 2 eski konu seç; test-english.com'da birer test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w46-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S2E22 bölümünü İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w46-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: 15 karışık cümle yaz (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w46-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w46-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w46-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w46-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w47-48",
+      "phaseId": "faz3",
+      "no": "47-48",
+      "title": "Collocations (sistemli)",
+      "episode": "S2E23-24",
+      "summary": "Doğal eşleşmeler: make a decision (do değil!), heavy rain (strong değil!), take a break, pay attention, fast food ama quick shower.",
+      "source": "bbc.co.uk/learningenglish + Oxford Collocations Dictionary önerileri",
+      "tasks": [
+        {
+          "id": "w47-48-pzt",
+          "day": "Pzt",
+          "text": "make/do/take/have/get fiil gruplarından İLKİ İKİSİNİ çalış: bbc.co.uk/learningenglish'te collocation içeriklerinden veya \"make/do collocations list\" aramasından her gruptan 10 eşleşme öğren; Tobo English'e ekle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w47-48-car",
+          "day": "Çar",
+          "text": "Kalan grupları (take/have/get) çalış: her gruptan 10 collocation; Tobo English'e ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w47-48-per",
+          "day": "Per",
+          "text": "Netflix'te haftanın Friends bölümünü İngilizce altyazıyla izle (1. hafta S2E23, 2. hafta S2E24) (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w47-48-cum",
+          "day": "Cum",
+          "text": "Aynı bölümü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: bölümden 5 collocation avla + 8-10 kelime kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w47-48-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: öğrendiğin collocation'lardan en az 6'sını kullanan 5-6 cümlelik paragraf yaz. Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w47-48-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w47-48-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w47-48-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w49-50",
+      "phaseId": "faz3",
+      "no": "49-50",
+      "title": "Idioms & Konuşma Kalıpları Yoğunlaştırma",
+      "episode": "S3E1-2",
+      "summary": "piece of cake, hit the sack, break the ice... + şimdiye kadar biriken kalıp listesinin taraması.",
+      "source": "Language Reactor kelime listen + bbc.co.uk/learningenglish (idioms içerikleri)",
+      "tasks": [
+        {
+          "id": "w49-50-pzt",
+          "day": "Pzt",
+          "text": "Language Reactor'da şimdiye kadar biriken kelime/kalıp listeni BAŞTAN SONA tara; unuttuklarını işaretle ve Tobo English'te tekrar sırasına al (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w49-50-car",
+          "day": "Çar",
+          "text": "bbc.co.uk/learningenglish'te idiom içeriklerinden 10 yaygın idiom öğren (piece of cake, hit the sack, break the ice...); Tobo English'e ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w49-50-per",
+          "day": "Per",
+          "text": "Netflix'te haftanın Friends bölümünü İngilizce altyazıyla izle (1. hafta S3E1, 2. hafta S3E2) (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w49-50-cum",
+          "day": "Cum",
+          "text": "Aynı bölümü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: bölümden 5 idiom/kalıp avla + 8-10 kelime kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w49-50-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: 3 idiom + 3 konuşma kalıbı içeren, 2 karakterin konuştuğu kısa bir diyalog yaz. Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w49-50-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w49-50-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w49-50-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w51",
+      "phaseId": "faz3",
+      "no": "51",
+      "title": "Konuşma Bağlayıcıları",
+      "episode": "S3E3",
+      "summary": "anyway, mind you, having said that, to be fair, speaking of which, the thing is...",
+      "source": "bbc.co.uk/learningenglish (discourse markers) + dizi diyalogları",
+      "tasks": [
+        {
+          "id": "w51-pzt",
+          "day": "Pzt",
+          "text": "bbc.co.uk/learningenglish'te \"discourse markers\" (konuşma bağlayıcıları) içeriğini oku: anyway, mind you, having said that, to be fair, speaking of which, the thing is... — her birinin nerede kullanıldığını not et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w51-car",
+          "day": "Çar",
+          "text": "Bu bağlayıcılarla alıştırma: her biriyle 1 cümle yaz (6-8 cümle) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w51-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S3E3 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w51-cum",
+          "day": "Cum",
+          "text": "S3E3'ü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: bölümde bu bağlayıcılardan 5 tane avla + 8-10 kelime kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w51-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: bağlayıcıları kullanan 2 kişilik diyalog yaz (anyway, the thing is... geçsin). Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w51-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w51-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w51-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w52",
+      "phaseId": "faz3",
+      "no": "52",
+      "title": "🔁 TEKRAR+ (Hafta 47-51 + kura ile 2 eski konu)",
+      "episode": "S3E4",
+      "summary": "Yeni konu yok. Collocations, idioms ve bağlayıcılar pekiştirme + kura ile 2 eski konu.",
+      "source": "Tobo English listen + test-english.com (eski konular)",
+      "tasks": [
+        {
+          "id": "w52-pzt",
+          "day": "Pzt",
+          "text": "Son 5 haftada Tobo English'e eklediğin collocation/idiom/bağlayıcıları tara; unutulanları tekrar sırasına al (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w52-car",
+          "day": "Çar",
+          "text": "Konu listenden kura ile 2 eski gramer konusu seç; test-english.com'da birer test çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w52-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S3E4 bölümünü İngilizce altyazıyla izle — keyif modu (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w52-cum",
+          "day": "Cum",
+          "text": "Yazma çalışması: collocation + idiom + bağlayıcı karıştıran 15 cümle yaz (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w52-cmt",
+          "day": "Cmt",
+          "text": "Kelimeleri Tobo English'e ekle + 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w52-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w52-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w52-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w53-54",
+      "phaseId": "faz3",
+      "no": "53-54",
+      "title": "Yoğun Üretim Haftaları",
+      "episode": "S3E5-6",
+      "summary": "Artık tüketim değil üretim: her hafta 2 serbest paragraf + sesli okuma + çift shadowing.",
+      "source": "Kendi üretimin + Netflix/Language Reactor",
+      "tasks": [
+        {
+          "id": "w53-54-pzt",
+          "day": "Pzt",
+          "text": "Serbest konuda 1 paragraf yaz: 8-10 cümle, içinde en az 3 C1 yapısı (inversion, cleft, subjunctive, ileri koşul...) kullan (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w53-54-car",
+          "day": "Çar",
+          "text": "İkinci paragrafı yaz: yine 8-10 cümle, farklı konu, en az 3 C1 yapısı (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w53-54-per",
+          "day": "Per",
+          "text": "Netflix'te haftanın Friends bölümünü İngilizce altyazıyla izle (1. hafta S3E5, 2. hafta S3E6) (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w53-54-cum",
+          "day": "Cum",
+          "text": "Aynı bölümü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w53-54-cmt",
+          "day": "Cmt",
+          "text": "Haftanın 2 paragrafını SESLİ oku, telefonla kaydet, dinle — telaffuz kontrolü yap. Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w53-54-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w53-54-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w53-54-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w55",
+      "phaseId": "faz3",
+      "no": "55",
+      "title": "Genel Tekrar",
+      "episode": "S3E7",
+      "summary": "Tüm fazların (0-3) konu taraması; C1 denemesi öncesi son yama.",
+      "source": "test-english.com + englishpage.com + bbc.co.uk/learningenglish",
+      "tasks": [
+        {
+          "id": "w55-pzt",
+          "day": "Pzt",
+          "text": "Tüm fazların konu listesini baştan tara; kendine en zayıf 5 konuyu işaretle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w55-car",
+          "day": "Çar",
+          "text": "İşaretlediğin 5 konudan ilk 3'üne test/alıştırma çöz (test-english.com veya BBC quiz) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w55-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S3E7 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w55-cum",
+          "day": "Cum",
+          "text": "Kalan 2 zayıf konuya test/alıştırma çöz + bölümün 2. izlemesinde (Language Reactor ile) 8-10 kelime kaydet (35-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w55-cmt",
+          "day": "Cmt",
+          "text": "Üretim günü: zayıf konularını bilinçli kullanan 5-6 cümlelik paragraf yaz. Kelimeleri Tobo English'e ekle. 2 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w55-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w55-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w55-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w56",
+      "phaseId": "faz3",
+      "no": "56",
+      "title": "🏁 C1 DENEME",
+      "episode": "S3E8",
+      "summary": "Planın finali: ücretsiz C1 deneme testi + sonuca göre yama planı.",
+      "source": "https://www.efset.org (EF SET — ücretsiz) veya Cambridge C1 Advanced örnek testleri",
+      "tasks": [
+        {
+          "id": "w56-pzt",
+          "day": "Pzt",
+          "text": "efset.org adresinde ücretsiz EF SET denemesinin formatına göz at; 15-20 dk'lık hızlı versiyonla ısınma yap (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w56-car",
+          "day": "Çar",
+          "text": "Cambridge C1 Advanced örnek sorularından (cambridgeenglish.org → C1 Advanced → sample tests) 1 bölüm çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w56-per",
+          "day": "Per",
+          "text": "Netflix'te Friends S3E8 bölümünü İngilizce altyazıyla izle (~25 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w56-cum",
+          "day": "Cum",
+          "text": "🏁 C1 DENEME: efset.org'da tam EF SET testini (50 dk) çöz veya Cambridge C1 örnek testini tamamla. Sonucu not et (50-60 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w56-cmt",
+          "day": "Cmt",
+          "text": "Sonuca göre değerlendirme: eksik çıkan alanlar için 4 haftalık mini yama planı taslağı yaz (hangi konu, hangi kaynak). Hedefe ulaştıysan: planı bitirdin, tebrikler! 🎉 (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "w56-rec-sali",
+          "day": "Salı",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)",
+          "recurring": true
+        },
+        {
+          "id": "w56-rec-per",
+          "day": "Per",
+          "text": "Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "w56-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış (haftalık toplam ~50-60 kelime)",
+          "recurring": true
+        }
+      ]
+    }
+  ]
+}

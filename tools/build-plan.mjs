@@ -1,49 +1,85 @@
 /**
- * build-plan.mjs
- * data/source-plan.md (İngilizce Master Plan) -> data/plan.json
+ * build-plan.mjs — program kaynak MD -> plan.json dönüştürücü (çoklu program).
  *
- * Çıktı yapısı:
- *   { title, generatedFrom, recurringTemplate, phases:[{id,title}],
- *     weeks:[{ id, phaseId, no, title, episode, summary, source,
- *              tasks:[{ id, day, text, recurring }] }] }
+ * Girdi : data/programs/<id>/source-plan.md
+ * Çıktı : data/programs/<id>/plan.json  (+ data/programs.json içindeki taskCount güncellenir)
  *
- * Her haftaya, plandaki "Sabit Tekrarlayan Görevler" hafta-kapsamlı ID ile
- * enjekte edilir (örn. w7-rec-sali) ki ilerleme yüzdesi dürüst kalsın.
+ * Kaynak format (parser bunları okur, gerisi serbest):
+ *   "# <emoji> FAZ N — Başlık"  -> faz
+ *   "### Hafta N — Başlık · 📺 Bölüm" -> hafta (📺 kısmı opsiyonel)
+ *   "**Özet:** ..." / "**Kaynak:** ..." -> hafta meta
+ *   "- [ ] **[Gün]** metin" -> görev (bir satırda birden çok **[Gün]** olabilir)
  *
- * Kullanım:  node tools/build-plan.mjs
+ * Görev ID kuralı: `${idPrefix}${weekId}-${günSlug}` (örn. "w1-pzt", "ielts.w1-pzt").
+ * DİKKAT: "ingilizce" programının idPrefix'i SONSUZA DEK '' kalmalı — Supabase'deki
+ * mevcut ilerleme satırları öneksiz ID'lerle kayıtlı.
+ *
+ * Kullanım:
+ *   node tools/build-plan.mjs            -> tüm programları derler
+ *   node tools/build-plan.mjs ielts      -> tek programı derler
  */
 import { readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const here = dirname(fileURLToPath(import.meta.url));
-const SRC = join(here, '..', 'data', 'source-plan.md');
-const OUT = join(here, '..', 'data', 'plan.json');
+const DATA = join(here, '..', 'data');
+const REGISTRY = join(DATA, 'programs.json');
 
-// Türkçe gün etiketi -> ascii slug (görev ID'si için)
-const DAY_SLUGS = {
-    'Pzt': 'pzt', 'Salı': 'sali', 'Çar': 'car', 'Per': 'per',
-    'Cum': 'cum', 'Cmt': 'cmt', 'Paz': 'paz'
+// ─── Program tanımları ─────────────────────────────────────────────
+const PROGRAM_CONFIGS = {
+    ingilizce: {
+        title: 'İngilizce Master Plan — B1’den C1’e (56 Hafta)',
+        idPrefix: '', // ASLA değiştirme: canlı ilerleme öneksiz ID'lerde
+        recurringNote:
+            'Salı/Perşembe kelime tekrarı ve Pzt/Çar/Cum yeni kelime görevleri her haftaya '
+            + 'sabit olarak eklenmiştir; haftalık olarak işaretlenir.',
+        recurring: [
+            {
+                suffix: 'rec-sali', day: 'Salı',
+                text: 'Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk '
+                    + '(bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)'
+            },
+            {
+                suffix: 'rec-per', day: 'Per',
+                text: 'Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk '
+                    + '(bugün YENİ kelime eklenmez)'
+            },
+            {
+                suffix: 'rec-words', day: 'Pzt/Çar/Cum',
+                text: 'Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış '
+                    + '(haftalık toplam ~50-60 kelime)'
+            }
+        ]
+    },
+    ielts: {
+        title: 'IELTS Academic — Band 7.0-7.5 (13 Hafta)',
+        idPrefix: 'ielts.',
+        recurringNote:
+            'Akademik kelime (AWL) ve günlük konuşma kaydı görevleri her haftaya sabit '
+            + 'olarak eklenmiştir; haftalık olarak işaretlenir.',
+        recurring: [
+            {
+                suffix: 'rec-awl', day: 'Hafta içi',
+                text: 'Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. '
+                    + 'Kaynak: "Academic Word List (AWL)" — internette "AWL sublist" diye aratınca '
+                    + 'çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)'
+            },
+            {
+                suffix: 'rec-speak', day: 'Her gün',
+                text: 'Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir '
+                    + 'konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et'
+            }
+        ]
+    }
 };
 
-// Her haftaya enjekte edilen sabit görevler
-const RECURRING = [
-    {
-        suffix: 'rec-sali', day: 'Salı',
-        text: 'Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk '
-            + '(bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)'
-    },
-    {
-        suffix: 'rec-per', day: 'Per',
-        text: 'Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk '
-            + '(bugün YENİ kelime eklenmez)'
-    },
-    {
-        suffix: 'rec-words', day: 'Pzt/Çar/Cum',
-        text: 'Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış '
-            + '(haftalık toplam ~50-60 kelime)'
-    }
-];
+// ─── Parser ────────────────────────────────────────────────────────
+const DAY_SLUGS = {
+    'Pzt': 'pzt', 'Salı': 'sali', 'Çar': 'car', 'Per': 'per',
+    'Cum': 'cum', 'Cmt': 'cmt', 'Paz': 'paz',
+    'Hafta içi': 'haftaici', 'Her gün': 'hergun'
+};
 
 const slugifyDay = (day) =>
     day.split('/').map((d) => DAY_SLUGS[d.trim()] ?? d.trim().toLowerCase()).join('-');
@@ -59,17 +95,16 @@ const clean = (s) => s
 const weekId = (no) => `w${no.replaceAll(/[^0-9]+/g, '-')}`;
 
 // Bir "- [ ] ..." satırını, içindeki **[Gün]** işaretlerine göre görevlere böler.
-const parseTaskLine = (content, wId, counters) => {
+const parseTaskLine = (content, prefix, wId, counters) => {
     const out = [];
     const markerRe = /\*\*\[([^\]]+)\]\*\*/g;
     const markers = [...content.matchAll(markerRe)];
 
     if (markers.length === 0) {
-        // Gün etiketsiz tek görev (özellikle Faz 3)
         const text = clean(content.replace(/^[-*]\s*\[ \]\s*/, ''));
         if (!text) return out;
         counters.noDay = (counters.noDay ?? 0) + 1;
-        out.push({ id: `${wId}-t${counters.noDay}`, day: '', text, recurring: false });
+        out.push({ id: `${prefix}${wId}-t${counters.noDay}`, day: '', text, recurring: false });
         return out;
     }
 
@@ -81,13 +116,15 @@ const parseTaskLine = (content, wId, counters) => {
         let slug = slugifyDay(day);
         counters[slug] = (counters[slug] ?? 0) + 1;
         if (counters[slug] > 1) slug = `${slug}${counters[slug]}`;
-        out.push({ id: `${wId}-${slug}`, day, text, recurring: false });
+        out.push({ id: `${prefix}${wId}-${slug}`, day, text, recurring: false });
     });
     return out;
 };
 
-const main = () => {
-    const lines = readFileSync(SRC, 'utf8').split(/\r?\n/);
+const parseProgram = (programId, config) => {
+    const src = join(DATA, 'programs', programId, 'source-plan.md');
+    const lines = readFileSync(src, 'utf8').split(/\r?\n/);
+    const prefix = config.idPrefix;
 
     const phases = [];
     const weeks = [];
@@ -95,7 +132,7 @@ const main = () => {
     let week = null;
     let counters = {};
 
-    const redcPhase = /^#\s+\S+\s+(FAZ\s+\d+\s+—\s+.*)$/;
+    const rePhase = /^#\s+\S+\s+(FAZ\s+\d+\s+—\s+.*)$/;
     const rePhaseNo = /FAZ\s+(\d+)/;
     const reWeek = /^###\s+Hafta\s+([0-9-]+)\s+—\s+(.*)$/;
     const reOzet = /^\*\*Özet:\*\*\s*(.*)$/;
@@ -104,10 +141,9 @@ const main = () => {
 
     const closeWeek = () => {
         if (!week) return;
-        // sabit tekrarlayan görevleri ekle
-        for (const r of RECURRING) {
+        for (const r of config.recurring) {
             week.tasks.push({
-                id: `${week.id}-${r.suffix}`, day: r.day, text: r.text, recurring: true
+                id: `${prefix}${week.id}-${r.suffix}`, day: r.day, text: r.text, recurring: true
             });
         }
         weeks.push(week);
@@ -116,7 +152,7 @@ const main = () => {
     };
 
     for (const line of lines) {
-        const mPhase = line.match(redcPhase);
+        const mPhase = line.match(rePhase);
         if (mPhase) {
             closeWeek();
             const full = mPhase[1].trim();
@@ -151,34 +187,52 @@ const main = () => {
 
         const mTask = line.match(reTask);
         if (mTask) {
-            const parsed = parseTaskLine(mTask[1], week.id, counters);
-            week.tasks.push(...parsed);
+            week.tasks.push(...parseTaskLine(mTask[1], prefix, week.id, counters));
         }
     }
     closeWeek();
 
-    const plan = {
-        title: 'İngilizce Master Plan — B1’den C1’e (56 Hafta)',
-        generatedFrom: 'data/source-plan.md',
-        recurringNote:
-            'Salı/Perşembe kelime tekrarı ve Pzt/Çar/Cum yeni kelime görevleri her haftaya '
-            + 'sabit olarak eklenmiştir; haftalık olarak işaretlenir.',
+    return {
+        title: config.title,
+        generatedFrom: `data/programs/${programId}/source-plan.md`,
+        recurringNote: config.recurringNote,
         phases,
         weeks
     };
+};
 
-    writeFileSync(OUT, JSON.stringify(plan, null, 2) + '\n', 'utf8');
-
-    const totalTasks = weeks.reduce((a, w) => a + w.tasks.length, 0);
-    const noDay = weeks.reduce(
-        (a, w) => a + w.tasks.filter((t) => !t.day).length, 0);
-    console.log(`phases : ${phases.length}`);
-    console.log(`weeks  : ${weeks.length}`);
-    console.log(`tasks  : ${totalTasks} (gün etiketsiz: ${noDay})`);
-    console.log('week list:');
-    for (const w of weeks) {
-        console.log(`  ${w.id.padEnd(8)} [${w.phaseId}] tasks=${String(w.tasks.length).padStart(2)}  ${w.title}`);
+// ─── Build + registry güncelleme ───────────────────────────────────
+const buildProgram = (programId) => {
+    const config = PROGRAM_CONFIGS[programId];
+    if (!config) {
+        console.error(`Bilinmeyen program: ${programId}. Tanımlılar: ${Object.keys(PROGRAM_CONFIGS).join(', ')}`);
+        process.exit(1);
     }
+
+    const plan = parseProgram(programId, config);
+    const out = join(DATA, 'programs', programId, 'plan.json');
+    writeFileSync(out, JSON.stringify(plan, null, 2) + '\n', 'utf8');
+
+    const totalTasks = plan.weeks.reduce((a, w) => a + w.tasks.length, 0);
+    console.log(`[${programId}] phases=${plan.phases.length} weeks=${plan.weeks.length} tasks=${totalTasks}`);
+    return totalTasks;
+};
+
+const updateRegistry = (counts) => {
+    const registry = JSON.parse(readFileSync(REGISTRY, 'utf8'));
+    for (const entry of registry) {
+        if (counts[entry.id] !== undefined) entry.taskCount = counts[entry.id];
+    }
+    writeFileSync(REGISTRY, JSON.stringify(registry, null, 2) + '\n', 'utf8');
+    console.log('programs.json taskCount güncellendi');
+};
+
+const main = () => {
+    const arg = process.argv[2];
+    const ids = arg ? [arg] : Object.keys(PROGRAM_CONFIGS);
+    const counts = {};
+    for (const id of ids) counts[id] = buildProgram(id);
+    updateRegistry(counts);
 };
 
 main();

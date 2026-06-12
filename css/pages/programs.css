@@ -1,0 +1,169 @@
+/* programs.css — program seçim ekranı (ana ekran) */
+
+/* ─── Üst bar (app.css'tekiyle aynı desen; bu sayfa kendi CSS'ini taşır) ── */
+.app-bar {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    background-color: var(--az-surface);
+    border-bottom: 1px solid var(--az-border);
+    box-shadow: 0 1px 2px rgb(0 0 0 / 6%);
+}
+
+.app-bar-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.5rem 0.9rem;
+}
+
+.app-logo {
+    flex: 0 0 auto;
+    width: 34px;
+    height: 34px;
+    border-radius: var(--az-radius);
+    background-color: var(--az-primary);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+}
+
+.app-bar-title {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.app-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.1;
+    white-space: nowrap;
+}
+
+.app-sub {
+    font-size: 0.7rem;
+    color: var(--az-text-muted);
+}
+
+.app-user {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.user-avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #eef6fc;
+    color: var(--az-primary-active);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+
+.app-main.container {
+    max-width: 720px;
+}
+
+/* ─── Program kartları ─────────────────────────────────────────── */
+.program-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.program-card {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    background-color: var(--az-surface);
+    border: 1px solid var(--az-border);
+    border-radius: var(--az-radius);
+    padding: 1rem;
+    text-decoration: none;
+    color: var(--az-text);
+    transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.program-card:hover {
+    color: var(--az-text);
+    box-shadow: 0 2px 8px rgb(0 0 0 / 10%);
+    transform: translateY(-1px);
+}
+
+.program-icon {
+    flex: 0 0 auto;
+    width: 52px;
+    height: 52px;
+    border-radius: var(--az-radius);
+    background-color: #eef6fc;
+    color: var(--az-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+}
+
+.program-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: 0;
+    flex: 1 1 auto;
+}
+
+.program-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.25;
+}
+
+.program-desc {
+    font-size: 0.78rem;
+    color: var(--az-text-muted);
+    line-height: 1.35;
+}
+
+.program-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.15rem;
+}
+
+.program-duration {
+    background-color: var(--az-border-soft);
+    color: var(--az-text-muted);
+    font-weight: 600;
+    font-size: 0.68rem;
+}
+
+.program-count {
+    font-size: 0.72rem;
+    color: var(--az-text-muted);
+}
+
+.program-progress {
+    height: 6px;
+    margin-top: 0.3rem;
+}
+
+.program-progress .progress-bar {
+    width: var(--progress, 0%);
+    transition: width 0.3s ease;
+}
+
+.program-chevron {
+    flex: 0 0 auto;
+    color: var(--az-text-muted);
+    font-size: 1rem;
+}

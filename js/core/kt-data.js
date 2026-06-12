@@ -12,7 +12,7 @@
 const KTData = (() => {
 
     const TABLE = 'task_progress';
-    const PLAN_URL = 'data/plan.json?v=1';
+    const PROGRAMS_URL = 'data/programs.json?v=1';
     const ERR_GENERIC = 'Bir hata oluştu, lütfen tekrar deneyin';
 
     const table = () => KTConfig.client.from(TABLE);
@@ -26,8 +26,11 @@ const KTData = (() => {
         return result?.data ?? null;
     };
 
-    // Plan içeriği (statik JSON) — jQuery AJAX
-    const loadPlan = () => $.getJSON(PLAN_URL);
+    // Program kayıt defteri (statik JSON) — jQuery AJAX
+    const loadPrograms = () => $.getJSON(PROGRAMS_URL);
+
+    // Bir programın plan içeriği; planUrl registry'den gelir
+    const loadPlan = (planUrl) => $.getJSON(planUrl);
 
     // Tamamlanmış görev ID'leri (RLS giriş yapan kullanıcıyla sınırlar)
     const getDoneTaskIds = async () => {
@@ -41,6 +44,6 @@ const KTData = (() => {
     const markUndone = async (taskId) =>
         handle(await table().delete().eq('task_id', taskId));
 
-    return { loadPlan, getDoneTaskIds, markDone, markUndone };
+    return { loadPrograms, loadPlan, getDoneTaskIds, markDone, markUndone };
 
 })();

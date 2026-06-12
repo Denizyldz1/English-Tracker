@@ -25,7 +25,7 @@ const KTLogin = (() => {
             KTHelpers.setButtonLoading($btn);
             try {
                 await KTAuth.signIn(email, password);
-                KTAuth.redirect(KTAuth.APP_PAGE);
+                KTAuth.redirect(KTAuth.HOME_PAGE);
             } finally {
                 KTHelpers.resetButton($btn);
             }
@@ -41,7 +41,7 @@ const KTLogin = (() => {
 
     const redirectIfLoggedIn = async () => {
         const session = await KTAuth.getSession();
-        if (session) KTAuth.redirect(KTAuth.APP_PAGE);
+        if (session) KTAuth.redirect(KTAuth.HOME_PAGE);
     };
 
     return {

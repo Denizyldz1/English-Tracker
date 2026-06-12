@@ -1,5 +1,13 @@
 "use strict";
 
+/**
+ * KTApp — bir programın takip ekranı. Program `?program=<id>` ile seçilir,
+ * kayıt defterinde (data/programs.json) doğrulanır.
+ *
+ * DİKKAT: Görev ID'leri nokta içerebilir ("ielts.w1-pzt"). Bu ID'ler ASLA
+ * jQuery id-selector'da kullanılmamalı ($('#ielts.w1-pzt') noktayı class
+ * sanır); yalnızca attr('id'), attr('for'), this.id ile çalışılır.
+ */
 const KTApp = (() => {
 
     const SELECTORS = {
@@ -7,6 +15,8 @@ const KTApp = (() => {
         loading: '#loading',
         signOut: '#signOutBtn',
         avatar: '.js-avatar',
+        appName: '.js-app-name',
+        appSub: '.js-app-sub',
         overallBar: '.js-overall-bar',
         overallPct: '.js-overall-pct',
         overallCount: '.js-overall-count',
@@ -159,9 +169,22 @@ const KTApp = (() => {
     };
 
     // ─── Akış ──────────────────────────────────────────────────────
-    const loadAll = async () => {
+    const resolveProgram = async () => {
+        const id = new URLSearchParams(globalThis.location.search).get('program');
+        if (!id) return null;
+        const programs = await KTData.loadPrograms();
+        return programs.find((p) => p.id === id) ?? null;
+    };
+
+    const applyProgramHeader = (program) => {
+        document.title = `${program.title} — Takip`;
+        $(SELECTORS.appName).text(program.shortTitle);
+        $(SELECTORS.appSub).text(program.durationLabel);
+    };
+
+    const loadAll = async (program) => {
         const [planData, doneIds] = await Promise.all([
-            KTData.loadPlan(),
+            KTData.loadPlan(program.planUrl),
             KTData.getDoneTaskIds()
         ]);
         plan = planData;
@@ -171,9 +194,16 @@ const KTApp = (() => {
     const start = async () => {
         const session = await KTAuth.requireAuth();
         if (!session) return;
+
+        const program = await resolveProgram();
+        if (!program) {
+            KTAuth.redirect(KTAuth.HOME_PAGE);
+            return;
+        }
+        applyProgramHeader(program);
         renderUser();
         try {
-            await loadAll();
+            await loadAll(program);
         } catch {
             KTSwal.error('Veriler yüklenemedi. Supabase ayarını ve bağlantınızı kontrol edin.');
             return;

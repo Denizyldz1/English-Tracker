@@ -1,8 +1,9 @@
-# İngilizce Master Plan — Takip Uygulaması
+# Çalışma Programı Takip Uygulaması
 
-56 haftalık İngilizce öğrenme planını (B1 → C1) takip eden, **mobil öncelikli**,
-e-posta+şifre girişli statik web uygulaması. Görünüm **Azure DevOps Boards/Sprints**
-esinli ve sade.
+Birden çok çalışma programını (İngilizce Master Plan, IELTS Academic...) takip eden,
+**mobil öncelikli**, e-posta+şifre girişli statik web uygulaması. Girişten sonra
+program seçim ekranı gelir; her programın ilerlemesi ayrı izlenir. Görünüm
+**Azure DevOps Boards/Sprints** esinli ve sade.
 
 - **Frontend:** statik HTML/CSS/JS — Bootstrap 5 + Bootstrap Icons + jQuery (CDN).
 - **Üyelik & veri:** [Supabase](https://supabase.com) (Auth + Postgres, ücretsiz katman).
@@ -13,16 +14,25 @@ esinli ve sade.
 ## Klasör yapısı
 
 ```
-index.html              Giriş (login)
-app.html                Takip ekranı
-css/core/theme.css      Azure renk değişkenleri + global override
-css/pages/*.css         Sayfa bazlı stil
-js/core/                kt-config, kt-swal, kt-helpers, kt-data, kt-auth
-js/pages/               login.js (KTLogin), app.js (KTApp)
-data/plan.json          56 haftalık plan (parser ile üretilir)
-data/source-plan.md     Plan kaynağı (Markdown)
-tools/build-plan.mjs    source-plan.md → plan.json dönüştürücü
+index.html                              Giriş (login)
+programs.html                           Program seçim ekranı (ana ekran)
+app.html                                Takip ekranı (?program=<id> ile açılır)
+css/core/theme.css                      Azure renk değişkenleri + global override
+css/pages/*.css                         Sayfa bazlı stil
+js/core/                                kt-config, kt-swal, kt-helpers, kt-data, kt-auth
+js/pages/                               login.js, programs.js, app.js
+data/programs.json                      Program kayıt defteri (id, başlık, planUrl, taskCount)
+data/programs/<id>/source-plan.md       Program kaynağı (Markdown)
+data/programs/<id>/plan.json            Üretilen plan (parser çıktısı)
+tools/build-plan.mjs                    Dönüştürücü: node tools/build-plan.mjs [programId]
+data/plan.json                          DONUK eski dosya (cache geçişi; yakında silinecek)
 ```
+
+**Çoklu program modeli:** Her görev ID'si programa aittir. İngilizce planın ID'leri
+tarihsel nedenle öneksizdir (`w1-pzt`) ve **asla öneklenmemelidir** (Supabase'deki
+mevcut ilerleme bu ID'lerde). Yeni programların ID'leri build sırasında öneklenir
+(`ielts.w1-pzt`) — böylece tek `task_progress` tablosu şema değişikliği olmadan tüm
+programları taşır.
 
 ## Kurulum
 

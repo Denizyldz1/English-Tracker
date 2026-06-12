@@ -32,6 +32,16 @@
     font-size: 1.1rem;
 }
 
+/* Logo aynı zamanda "programlara dön" linki */
+a.app-back {
+    text-decoration: none;
+}
+
+a.app-back:hover {
+    color: #fff;
+    background-color: var(--az-primary-hover);
+}
+
 .app-bar-title {
     display: flex;
     flex-direction: column;

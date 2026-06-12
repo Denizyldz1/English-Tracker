@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ingilizce",
+    "title": "İngilizce Master Plan",
+    "shortTitle": "İngilizce",
+    "description": "B1'den C1'e 56 haftalık gramer + dizi + kelime planı",
+    "durationLabel": "56 hafta",
+    "icon": "bi-journal-bookmark-fill",
+    "planUrl": "data/programs/ingilizce/plan.json?v=1",
+    "idPrefix": "",
+    "taskCount": 416
+  },
+  {
+    "id": "ielts",
+    "title": "IELTS Academic — Band 7.0-7.5",
+    "shortTitle": "IELTS",
+    "description": "13 haftada IELTS Academic hazırlığı: strateji, çıkmış sorular, deneme testleri ve yazma pratiği",
+    "durationLabel": "13 hafta",
+    "icon": "bi-mortarboard-fill",
+    "planUrl": "data/programs/ielts/plan.json?v=1",
+    "idPrefix": "ielts.",
+    "taskCount": 117
+  }
+]
