@@ -28,9 +28,21 @@ const DAY_SLUGS = {
 
 // Her haftaya enjekte edilen sabit görevler
 const RECURRING = [
-    { suffix: 'rec-sali', day: 'Salı', text: 'Kelime tekrarı — 10-15 dk (yeni kelime YOK)' },
-    { suffix: 'rec-per', day: 'Per', text: 'Kelime tekrarı — 10-15 dk (yeni kelime YOK)' },
-    { suffix: 'rec-words', day: 'Pzt/Çar/Cum', text: '15-20 yeni kelime (~50-60/hafta)' }
+    {
+        suffix: 'rec-sali', day: 'Salı',
+        text: 'Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk '
+            + '(bugün YENİ kelime eklenmez; tekrar günleri yeni kelime gününden daha değerlidir)'
+    },
+    {
+        suffix: 'rec-per', day: 'Per',
+        text: 'Tobo English uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk '
+            + '(bugün YENİ kelime eklenmez)'
+    },
+    {
+        suffix: 'rec-words', day: 'Pzt/Çar/Cum',
+        text: 'Tobo English uygulamasına günde 15-20 yeni kelime ekle ve çalış '
+            + '(haftalık toplam ~50-60 kelime)'
+    }
 ];
 
 const slugifyDay = (day) =>

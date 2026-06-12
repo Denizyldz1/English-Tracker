@@ -56,6 +56,11 @@ const KTApp = (() => {
         $card.find('.js-title').text(week.title);
         $card.find('.js-episode').text(week.episode ? `📺 ${week.episode}` : '');
         $card.find('.js-summary').text(week.summary || '');
+        if (week.source) {
+            $card.find('.js-source').text(week.source);
+        } else {
+            $card.find('.week-source').remove();
+        }
 
         const $tasks = $card.find('.js-tasks');
         const $recurring = $card.find('.js-recurring');

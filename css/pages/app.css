@@ -236,6 +236,29 @@
     display: none;
 }
 
+.week-source {
+    display: flex;
+    align-items: baseline;
+    gap: 0.3rem;
+    font-size: 0.75rem;
+    color: var(--az-text-muted);
+    background-color: #f3f9fd;
+    border-left: 3px solid var(--az-primary);
+    border-radius: 0 var(--az-radius) var(--az-radius) 0;
+    padding: 0.4rem 0.6rem;
+    margin: 0 0 0.75rem;
+}
+
+.week-source .bi {
+    color: var(--az-primary);
+}
+
+.week-source-label {
+    font-weight: 600;
+    color: var(--az-primary-active);
+    white-space: nowrap;
+}
+
 .task-row.form-check {
     display: flex;
     align-items: flex-start;
