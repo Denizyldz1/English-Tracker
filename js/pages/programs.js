@@ -121,15 +121,21 @@ const KTPrograms = (() => {
     };
 
     const renderToday = () => {
-        const label = DAY_LABELS[new Date().getDay()];
+        const now = new Date();
+        const label = DAY_LABELS[now.getDay()];
+        const weekday = now.toLocaleDateString('tr-TR', { weekday: 'long' });
         $(SELECTORS.todayDate).text(
-            `· ${KTHelpers.formatDate(new Date().toISOString())} (${label})`);
+            `${KTHelpers.formatDate(now.toISOString())} · ${weekday}`);
 
         const $groups = $(SELECTORS.todayGroups).empty();
         let any = false;
+        let anyStarted = false;
         for (const program of programs) {
             const plan = plans[program.id];
             if (!plan) continue;
+            // yalnızca BAŞLANMIŞ programlar (en az 1 görevi işaretli) panelde görünür
+            if (countDone(program) === 0) continue;
+            anyStarted = true;
             const week = findActiveWeek(plan);
             if (!week) continue; // program tamamlanmış
             const tasks = week.tasks.filter((t) => matchesToday(t.day, label));
@@ -137,7 +143,11 @@ const KTPrograms = (() => {
             $groups.append(renderTodayGroup(program, week, tasks));
             any = true;
         }
-        $(SELECTORS.todayEmpty).toggleClass('d-none', any);
+        $(SELECTORS.todayEmpty)
+            .text(anyStarted
+                ? 'Bugün için planlı görev yok — dinlenme günü 🎉'
+                : 'Henüz bir programa başlamadın. Aşağıdan bir program seç ve ilk görevini işaretle 🙂')
+            .toggleClass('d-none', any);
         $(SELECTORS.todayPanel).removeClass('d-none');
     };
 
