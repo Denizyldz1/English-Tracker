@@ -32,11 +32,10 @@ const KTData = (() => {
     // Bir programın plan içeriği; planUrl registry'den gelir
     const loadPlan = (planUrl) => $.getJSON(planUrl);
 
-    // Tamamlanmış görevler: [{ task_id, updated_at }] (RLS kullanıcıyla sınırlar).
-    // updated_at, seri (streak) ve günlük istatistik hesapları için kullanılır.
-    const getDoneRows = async () => {
-        const data = handle(await table().select('task_id, updated_at'));
-        return data ?? [];
+    // Tamamlanmış görev ID'leri (RLS giriş yapan kullanıcıyla sınırlar)
+    const getDoneTaskIds = async () => {
+        const data = handle(await table().select('task_id'));
+        return (data ?? []).map((row) => row.task_id);
     };
 
     const markDone = async (taskId) =>
@@ -45,6 +44,6 @@ const KTData = (() => {
     const markUndone = async (taskId) =>
         handle(await table().delete().eq('task_id', taskId));
 
-    return { loadPrograms, loadPlan, getDoneRows, markDone, markUndone };
+    return { loadPrograms, loadPlan, getDoneTaskIds, markDone, markUndone };
 
 })();

@@ -192,12 +192,12 @@ const KTApp = (() => {
     };
 
     const loadAll = async (program) => {
-        const [planData, doneRows] = await Promise.all([
+        const [planData, doneIds] = await Promise.all([
             KTData.loadPlan(program.planUrl),
-            KTData.getDoneRows()
+            KTData.getDoneTaskIds()
         ]);
         plan = planData;
-        doneSet = new Set(doneRows.map((r) => r.task_id));
+        doneSet = new Set(doneIds);
     };
 
     const start = async () => {
