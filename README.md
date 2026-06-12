@@ -100,6 +100,15 @@ git remote add origin https://github.com/<kullanıcı>/ingilizce-tracker.git
 git push -u origin main
 ```
 
+> **Her yayından önce** cache-bust sürümlerini damgala (CSS/JS önbelleği tazelensin):
+>
+> ```powershell
+> npm run build:cache    # css/js içerik hash'i -> HTML ?v=…, sw.js CACHE_NAME
+> ```
+>
+> Bu komut değişen dosyalara otomatik yeni sürüm verir (elle `?v=N` artırmaya
+> gerek yok); değişmeyen dosya aynı kalır. Sonra `git add … && git commit && git push`.
+
 GitHub'da **Settings → Pages → Build and deployment**: Source = "Deploy from a
 branch", Branch = `main` / `/ (root)` → Save. Birkaç dakika sonra:
 
@@ -135,6 +144,6 @@ ESLint 9 flat + SonarJS + Stylelint.
 | Razor layout/partial, `@section` | Düz HTML sayfalar |
 | `KTAjax` (`$.ajax`+antiforgery) | `KTData` — Supabase SDK sarmalayıcı; hata yine merkezde `KTSwal` |
 | Render yöntem 1 (Razor partial) | Yok; ana yöntem `<template>`+`.text()` |
-| `asp-append-version` | Elle `?v=1` query (GitHub Pages'te Razor yok) |
+| `asp-append-version` | `npm run build:cache` — css/js içerik hash'iyle `?v=…` damgalar (GitHub Pages'te Razor yok) |
 | Metronic/Vuexy template | Sade Bootstrap 5 (CDN) |
 | SonarQube sunucu taraması, `Program.cs` | Kapsam dışı (sunucu yok) |

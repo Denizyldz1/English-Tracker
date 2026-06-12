@@ -9,6 +9,23 @@ const KTLogin = (() => {
         submit: '#loginSubmit'
     };
 
+    // Giriş JS ile yapıldığı (form submit engellendiği) için tarayıcı klasik
+    // "şifreyi kaydet" sezgisini tetikleyemez. Başarılı girişten sonra
+    // Credential Management API ile şifreyi açıkça tarayıcıya bildiririz;
+    // Chrome/Google şifre yöneticisi böylece kaydetmeyi önerir.
+    // (Desteklemeyen tarayıcılarda sessizce atlanır.)
+    const saveCredential = async (email, password) => {
+        if (!globalThis.PasswordCredential) return;
+        try {
+            const cred = new globalThis.PasswordCredential({
+                id: email, password, name: email
+            });
+            await navigator.credentials.store(cred);
+        } catch {
+            // tarayıcı reddederse giriş akışını bozma
+        }
+    };
+
     const handleLogin = () => {
         // jQuery this bağlamı gerektiği için function
         $(SELECTORS.form).on('submit', async function (e) {
@@ -25,6 +42,7 @@ const KTLogin = (() => {
             KTHelpers.setButtonLoading($btn);
             try {
                 await KTAuth.signIn(email, password);
+                await saveCredential(email, password);
                 KTAuth.redirect(KTAuth.HOME_PAGE);
             } finally {
                 KTHelpers.resetButton($btn);
