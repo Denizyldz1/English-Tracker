@@ -100,10 +100,19 @@ const KTApp = (() => {
     const renderPlan = () => {
         const $acc = $(SELECTORS.accordion);
         for (const phase of plan.phases) $acc.append(renderPhase(phase));
-        // İlk fazı açık başlat
-        const $first = $acc.find('.phase-item').first();
-        $first.find('.accordion-button').removeClass('collapsed').attr('aria-expanded', 'true');
-        $first.find('.accordion-collapse').addClass('show');
+        expandActiveWeek();
+    };
+
+    // Aktif hafta = ilk tamamlanmamış görevi olan hafta; onun fazı ve kartı açık gelir
+    const expandActiveWeek = () => {
+        const active = plan.weeks.find((w) => w.tasks.some((t) => !doneSet.has(t.id)))
+            ?? plan.weeks[0];
+        const $card = $(`.week-card[data-week-id="${active.id}"]`);
+        const $item = $card.closest('.phase-item');
+        $item.find('.accordion-button').removeClass('collapsed').attr('aria-expanded', 'true');
+        $item.find('.accordion-collapse').addClass('show');
+        $card.find('.week-head').removeClass('collapsed');
+        $card.find('.week-body').addClass('show');
     };
 
     // ─── İlerleme ──────────────────────────────────────────────────
@@ -183,12 +192,12 @@ const KTApp = (() => {
     };
 
     const loadAll = async (program) => {
-        const [planData, doneIds] = await Promise.all([
+        const [planData, doneRows] = await Promise.all([
             KTData.loadPlan(program.planUrl),
-            KTData.getDoneTaskIds()
+            KTData.getDoneRows()
         ]);
         plan = planData;
-        doneSet = new Set(doneIds);
+        doneSet = new Set(doneRows.map((r) => r.task_id));
     };
 
     const start = async () => {

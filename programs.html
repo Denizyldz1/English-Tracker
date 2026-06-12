@@ -4,7 +4,11 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0078d4" />
     <title>Programlarım — Çalışma Takibi</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="icon" type="image/png" href="assets/icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
 
     <!-- Vendor CSS (CDN) -->
     <link rel="stylesheet"
@@ -44,10 +48,57 @@
             <div class="spinner-border" role="status" aria-hidden="true"></div>
             <p class="mt-2 mb-0">Yükleniyor…</p>
         </div>
+
+        <section id="todayPanel" class="today-panel d-none">
+            <div class="today-head">
+                <h2 class="today-title">
+                    <i class="bi bi-sun-fill" aria-hidden="true"></i>
+                    Bugün <span class="today-date js-today-date"></span>
+                </h2>
+                <div class="stat-chips">
+                    <span class="stat-chip" title="Üst üste görev tamamladığın gün sayısı">
+                        🔥 <strong class="js-stat-streak">0</strong> gün seri
+                    </span>
+                    <span class="stat-chip" title="Bugün tamamlanan görev">
+                        ✅ Bugün <strong class="js-stat-today">0</strong>
+                    </span>
+                    <span class="stat-chip" title="Bu hafta (Pzt'den beri) tamamlanan görev">
+                        📅 Bu hafta <strong class="js-stat-week">0</strong>
+                    </span>
+                </div>
+            </div>
+            <div id="todayGroups"></div>
+            <p id="todayEmpty" class="today-empty d-none">
+                Bugün için planlı görev yok — dinlenme günü 🎉
+            </p>
+        </section>
+
+        <h2 class="section-title">Programlar</h2>
         <div id="programGrid" class="program-grid"></div>
     </main>
 
-    <!-- ─── Template ─────────────────────────────────────────────── -->
+    <!-- ─── Templates ────────────────────────────────────────────── -->
+    <template id="tplTodayGroup">
+        <div class="today-group">
+            <a class="today-group-head" href="#">
+                <i class="js-icon" aria-hidden="true"></i>
+                <span class="js-program fw-semibold"></span>
+                <span class="js-week today-week-badge"></span>
+            </a>
+            <div class="js-today-tasks"></div>
+        </div>
+    </template>
+
+    <template id="tplTodayTask">
+        <div class="form-check task-row">
+            <input class="form-check-input js-check" type="checkbox" />
+            <label class="form-check-label js-label">
+                <span class="day-badge js-day"></span>
+                <span class="task-text js-text"></span>
+            </label>
+        </div>
+    </template>
+
     <template id="tplProgram">
         <a class="program-card" href="#">
             <span class="program-icon" aria-hidden="true"><i class="js-icon"></i></span>
@@ -77,11 +128,12 @@
     <script src="js/core/kt-config.js?v=1"></script>
     <script src="js/core/kt-swal.js?v=1"></script>
     <script src="js/core/kt-helpers.js?v=1"></script>
-    <script src="js/core/kt-data.js?v=2"></script>
+    <script src="js/core/kt-data.js?v=3"></script>
     <script src="js/core/kt-auth.js?v=2"></script>
+    <script src="js/core/kt-pwa.js?v=1"></script>
 
     <!-- Page JS -->
-    <script src="js/pages/programs.js?v=1"></script>
+    <script src="js/pages/programs.js?v=2"></script>
 
 </body>
 

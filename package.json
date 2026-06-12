@@ -6,6 +6,7 @@
     "description": "İngilizce Master Plan takip uygulaması — statik (Bootstrap + jQuery) + Supabase",
     "scripts": {
         "build:plan": "node tools/build-plan.mjs",
+        "build:icons": "node tools/make-icons.mjs",
         "serve": "npx --yes serve .",
         "lint:js": "eslint \"js/**/*.js\"",
         "lint:css": "stylelint \"css/**/*.css\"",
