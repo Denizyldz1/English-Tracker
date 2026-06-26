@@ -52,6 +52,30 @@ const PROGRAM_CONFIGS = {
             }
         ]
     },
+    almanca: {
+        title: 'Almanca Master Plan — Sıfırdan Goethe B2’ye (66 Hafta)',
+        idPrefix: 'almanca.',
+        recurringNote:
+            'Salı/Perşembe Tobo German kelime tekrarı ve Pzt/Çar/Cum yeni kelime görevleri '
+            + 'her haftaya sabit olarak eklenmiştir; haftalık olarak işaretlenir.',
+        recurring: [
+            {
+                suffix: 'rec-sali', day: 'Salı',
+                text: 'Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk '
+                    + '(bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)'
+            },
+            {
+                suffix: 'rec-per', day: 'Per',
+                text: 'Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk '
+                    + '(bugün YENİ kelime eklenmez)'
+            },
+            {
+                suffix: 'rec-words', day: 'Pzt/Çar/Cum',
+                text: 'Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi '
+                    + 'MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)'
+            }
+        ]
+    },
     ielts: {
         title: 'IELTS Academic — Band 7.0-7.5 (13 Hafta)',
         idPrefix: 'ielts.',

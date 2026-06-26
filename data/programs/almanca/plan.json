@@ -1,0 +1,3919 @@
+{
+  "title": "Almanca Master Plan — Sıfırdan Goethe B2’ye (66 Hafta)",
+  "generatedFrom": "data/programs/almanca/source-plan.md",
+  "recurringNote": "Salı/Perşembe Tobo German kelime tekrarı ve Pzt/Çar/Cum yeni kelime görevleri her haftaya sabit olarak eklenmiştir; haftalık olarak işaretlenir.",
+  "phases": [
+    {
+      "id": "faz1",
+      "title": "FAZ 1 — A1 · Temeller (Hafta 1-14)"
+    },
+    {
+      "id": "faz2",
+      "title": "FAZ 2 — A2 · Günlük İletişim (Hafta 15-30)"
+    },
+    {
+      "id": "faz3",
+      "title": "FAZ 3 — B1 · Bağımsız Kullanım (Hafta 31-48)"
+    },
+    {
+      "id": "faz4",
+      "title": "FAZ 4 — B2 · İleri Düzey + Goethe B2 (Hafta 49-66)"
+    }
+  ],
+  "weeks": [
+    {
+      "id": "w1",
+      "phaseId": "faz1",
+      "no": "1",
+      "title": "Alfabe · Selamlaşma · sich vorstellen (kendini tanıtma)",
+      "episode": "Nicos Weg A1",
+      "summary": "Almanca alfabe ve telaffuz (ä/ö/ü/ß, \"sch\", \"ch\", \"ei/ie\"). Selamlaşma: Hallo, Guten Tag, Tschüss. Kendini tanıtma: Ich heiße..., Ich komme aus..., Ich wohne in...",
+      "source": "learngerman.dw.com → Nicos Weg → A1 (ilk bölümler) + deutsch.lingolia.com → Alphabet/Aussprache",
+      "tasks": [
+        {
+          "id": "almanca.w1-pzt",
+          "day": "Pzt",
+          "text": "learngerman.dw.com → Nicos Weg → A1 kursunu aç ve ilk bölümü (Begrüßung/selamlaşma) baştan izle; alfabeyi ve ä/ö/ü/ß harflerinin sesini sesli tekrar et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w1-car",
+          "day": "Çar",
+          "text": "deutsch.lingolia.com → \"Aussprache\" (telaffuz) sayfasını oku; \"sch\", \"ch\", \"ei\" vs \"ie\", \"z\" seslerini örnek kelimelerle yüksek sesle çalış; Nicos Weg'in o bölümünün alıştırmalarını çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w1-per",
+          "day": "Per",
+          "text": "Nicos Weg A1'de \"sich vorstellen\" (kendini tanıtma) bölümünü izle; Ich heiße..., Ich komme aus..., Ich wohne in... kalıplarını not et. Tobo German'a ilk kelimeleri ekle (sayılar 0-20, selamlaşma) (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w1-cum",
+          "day": "Cum",
+          "text": "Bölümü ikinci kez izle, bu kez durdurarak karakterlerle birlikte sesli tekrar et (shadowing: ekrandaki kişiyle AYNI ANDA konuşmak — telaffuz çalışmasının en etkilisi); 3 selamlaşma diyaloğunu ezberle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w1-cmt",
+          "day": "Cmt",
+          "text": "Üretim: kendin hakkında 5 cümle yaz (Ich heiße Deniz. Ich komme aus der Türkei. Ich wohne in Istanbul.) ve sesli oku; kelimeleri Tobo German'da tekrarla (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w1-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w1-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w1-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "phaseId": "faz1",
+      "no": "2",
+      "title": "Artikeller (der/die/das) · Nominativ · sein/haben",
+      "episode": "Nicos Weg A1",
+      "summary": "Almancada her ismin bir cinsiyeti (artikeli) vardır: der (eril), die (dişil), das (nötr); çoğul daima die. Belirsiz artikel: ein/eine. sein (olmak): ich bin, du bist... haben (sahip olmak): ich habe, du hast...",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Nomen/Artikel, Verben \"sein/haben\"",
+      "tasks": [
+        {
+          "id": "almanca.w2-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Bestimmter und unbestimmter Artikel\" (der/die/das, ein/eine) konusunu oku; KURAL: her ismi artikeliyle öğren. Nicos Weg A1'in artikel bölümünü izle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w2-car",
+          "day": "Çar",
+          "text": "deutsch.lingolia.com → \"sein\" ve \"haben\" çekim tablolarını çalış; her ikisinin tüm şahıslarını sesli tekrarla. Sayfadaki alıştırmaları çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w2-per",
+          "day": "Per",
+          "text": "Nicos Weg A1'de sıradaki bölümü izle; 10-15 yeni ismi ARTİKELİYLE birlikte Tobo German'a ekle (das Haus, die Frau, der Mann) (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w2-cum",
+          "day": "Cum",
+          "text": "Bölümü ikinci izleme + shadowing; \"Das ist ein/eine...\" kalıbıyla çevrendeki 5 nesneyi tanımla (Das ist ein Tisch. Das ist eine Lampe.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w2-cmt",
+          "day": "Cmt",
+          "text": "Üretim: sein ve haben ile 6 cümle yaz (Ich bin müde. Du hast ein Auto. Wir sind Freunde.); kelimeleri Tobo German'da tekrarla (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w2-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w2-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w2-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "phaseId": "faz1",
+      "no": "3",
+      "title": "Şimdiki Zaman (düzenli fiiller) · W-Fragen",
+      "episode": "Nicos Weg A1",
+      "summary": "Düzenli fiil çekimi: kök + (e/st/t/en/t/en) → ich wohne, du wohnst, er wohnt... W-soruları: Wer? Was? Wo? Woher? Wohin? Wie? Wann? Warum? (fiil 2. pozisyonda)",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Präsens, Fragen",
+      "tasks": [
+        {
+          "id": "almanca.w3-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Konjugation Präsens\" (düzenli fiiller) konusunu oku; wohnen, kommen, lernen, arbeiten fiillerini tüm şahıslarda çek. Nicos Weg'in ilgili bölümünü izle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w3-car",
+          "day": "Çar",
+          "text": "deutsch.lingolia.com → \"W-Fragen\" (soru kelimeleri) konusunu çalış; fiilin daima 2. pozisyonda olduğunu unutma. Lingolia ve Nicos Weg alıştırmalarını çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w3-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm + 10-15 yeni fiil/kelimeyi Tobo German'a ekle (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w3-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; bir partnerin yokmuş gibi 5 W-sorusu sor ve cevapla (Wo wohnst du? — Ich wohne in Istanbul.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w3-cmt",
+          "day": "Cmt",
+          "text": "Üretim: günlük rutinini 6 cümleyle anlat (Ich arbeite. Ich lerne Deutsch. Wir wohnen hier.); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w3-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w3-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w3-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "phaseId": "faz1",
+      "no": "4",
+      "title": "Akkusativ · kein/nicht (olumsuzluk)",
+      "episode": "Nicos Weg A1",
+      "summary": "Akkusativ (-i hâli): eril artikel değişir → der→den, ein→einen (dişil/nötr/çoğul aynı kalır): Ich habe einen Hund. Olumsuzluk: kein (isim için), nicht (fiil/sıfat için).",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Akkusativ, Negation",
+      "tasks": [
+        {
+          "id": "almanca.w4-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Akkusativ\" konusunu oku: SADECE eril artikel değişir (der→den, ein→einen). Nicos Weg'in ilgili bölümünü izle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w4-car",
+          "day": "Çar",
+          "text": "deutsch.lingolia.com → \"Verneinung: kein oder nicht\" konusunu çalış (kein + isim, nicht + fiil/sıfat); alıştırmaları çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w4-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm; yiyecek/eşya kelimelerini artikeliyle Tobo German'a ekle (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w4-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; \"Ich habe / Ich brauche + einen/eine/ein ...\" ile 5 cümle sesli kur (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w4-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 3 olumlu + 3 olumsuz cümle yaz (Ich habe einen Bruder. Ich habe keine Zeit. Das ist nicht gut.); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w4-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w4-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w4-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "phaseId": "faz1",
+      "no": "5",
+      "title": "Çoğul (Plural) · Sayılar · Uhrzeit (saat)",
+      "episode": "Nicos Weg A1",
+      "summary": "Almanca çoğul düzensizdir, kalıpla öğrenilir: -e (der Tisch→die Tische), -er (das Kind→die Kinder), -(e)n (die Frau→die Frauen), -s (das Auto→die Autos), Umlaut (der Apfel→die Äpfel). Saat: Wie spät ist es? Es ist halb drei.",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Pluralbildung, Uhrzeit/Zahlen",
+      "tasks": [
+        {
+          "id": "almanca.w5-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Pluralbildung\" konusunu oku; her yeni ismi bundan sonra HEM tekil HEM çoğul haliyle öğren. Nicos Weg ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w5-car",
+          "day": "Çar",
+          "text": "deutsch.lingolia.com → \"Uhrzeit\" ve \"Zahlen\" konularını çalış; saatleri (resmi ve günlük: halb/Viertel) sesli söyle; alıştırma çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w5-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm; 10-15 ismi çoğuluyla Tobo German'a ekle (das Buch / die Bücher) (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w5-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; saatlerle 5 cümle (\"Es ist Viertel nach acht. Der Kurs beginnt um neun.\") (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w5-cmt",
+          "day": "Cmt",
+          "text": "Üretim: günlük programını saatlerle yaz (Um 7 Uhr stehe ich auf. Um 8 Uhr frühstücke ich.); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w5-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w5-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w5-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "phaseId": "faz1",
+      "no": "6",
+      "title": "Modalverben (können/müssen/wollen...)",
+      "episode": "Nicos Weg A1",
+      "summary": "Modal fiiller cümleyi sarar: çekimli modal 2. pozisyonda, ESAS fiil mastar olarak SONA gider. Ich kann gut schwimmen. Du musst arbeiten. können, müssen, wollen, möchten, dürfen, sollen.",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Modalverben",
+      "tasks": [
+        {
+          "id": "almanca.w6-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Modalverben\" konusunu oku: modal 2. pozisyonda, asıl fiil mastar halde SONDA (Satzklammer = cümle parantezi). Nicos Weg ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w6-car",
+          "day": "Çar",
+          "text": "können/müssen/wollen/möchten çekim tablolarını çalış (bunlar düzensizdir!); Lingolia + Nicos Weg alıştırmaları (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w6-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm + 10-15 kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w6-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; \"Ich kann/muss/möchte + ... + mastar\" ile 5 cümle kur (Ich möchte einen Kaffee trinken.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w6-cmt",
+          "day": "Cmt",
+          "text": "Üretim: yapabildiklerin/yapman gerekenler üzerine 6 cümle (Ich kann kochen. Ich muss früh aufstehen. Ich will Deutsch lernen.); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w6-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w6-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w6-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "phaseId": "faz1",
+      "no": "7",
+      "title": "Trennbare Verben (ayrılabilen fiiller) · Imperativ",
+      "episode": "Nicos Weg A1",
+      "summary": "Ayrılabilen fiiller: ön ek cümle SONUNA gider. aufstehen → Ich stehe um 7 Uhr auf. anrufen, einkaufen, fernsehen. Emir kipi: Komm! Kommen Sie! Macht!",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → trennbare Verben, Imperativ",
+      "tasks": [
+        {
+          "id": "almanca.w7-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Trennbare und untrennbare Verben\" konusunu oku; ayrılabilen fiilde ön ek sona gider (aufstehen → ...auf). Nicos Weg ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w7-car",
+          "day": "Çar",
+          "text": "deutsch.lingolia.com → \"Imperativ\" (emir kipi: du/ihr/Sie) konusunu çalış; alıştırmaları çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w7-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm; 10-15 ayrılabilen fiili Tobo German'a ekle (anrufen, einkaufen, aufräumen) (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w7-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; günlük rutinini ayrılabilen fiillerle anlat (Ich stehe auf, ich kaufe ein, ich rufe meine Mutter an) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w7-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 4 ayrılabilen fiilli cümle + 2 emir cümlesi (Steh bitte auf! Ruf mich an!); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w7-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w7-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w7-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w8",
+      "phaseId": "faz1",
+      "no": "8",
+      "title": "Possessivartikel (mein/dein...)",
+      "episode": "Nicos Weg A1",
+      "summary": "İyelik artikelleri ismin önünde, cinsiyete/hâle göre çekilir: mein Vater, meine Mutter, mein Kind, meine Eltern. Akkusativ'de eril: meinen. dein, sein, ihr, unser, euer, ihr/Ihr.",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Possessivartikel",
+      "tasks": [
+        {
+          "id": "almanca.w8-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Possessivartikel\" konusunu oku (mein/dein/sein/ihr...); ein-kelimesi gibi çekildiğini gör. Nicos Weg ilgili bölüm (aile teması) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w8-car",
+          "day": "Çar",
+          "text": "Possessivartikel'i Nominativ ve Akkusativ'de çalış (mein Bruder → Ich liebe meinen Bruder); alıştırmaları çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w8-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm; aile/akrabalık kelimelerini artikeliyle Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w8-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; ailen hakkında 5 cümle sesli kur (Meine Schwester heißt... Mein Vater arbeitet als...) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w8-cmt",
+          "day": "Cmt",
+          "text": "Üretim: aileni 6 cümleyle tanıt (Das ist meine Familie. Meine Mutter ist Lehrerin.); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w8-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w8-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w8-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w9",
+      "phaseId": "faz1",
+      "no": "9",
+      "title": "Präpositionen + Akkusativ",
+      "episode": "Nicos Weg A1",
+      "summary": "Daima Akkusativ isteyen edatlar: für, ohne, gegen, um, durch, bis, entlang. Ein Geschenk für meinen Freund. Ich bin gegen diese Idee.",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Präpositionen mit Akkusativ",
+      "tasks": [
+        {
+          "id": "almanca.w9-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Präpositionen mit Akkusativ\" konusunu oku (für, ohne, gegen, um, durch, bis); bunları kalıp olarak ezberle (FUDGBO). Nicos Weg ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w9-car",
+          "day": "Çar",
+          "text": "Bu edatlarla alıştırma çöz; her edatla artikel değişimine dikkat (für + den/einen). Schubert-Verlag A1 alıştırması da ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w9-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm + 10-15 kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w9-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; bu edatlarla 5 cümle (\"Ich kaufe ein Geschenk für meine Mutter.\") (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w9-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 6 cümlede en az 4 farklı Akkusativ-edatı kullan; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w9-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w9-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w9-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w10",
+      "phaseId": "faz1",
+      "no": "10",
+      "title": "🔁 TEKRAR (Hafta 6-9)",
+      "episode": "Nicos Weg A1",
+      "summary": "Yeni konu yok. Modalverben, ayrılabilen fiiller, iyelik artikelleri ve Akkusativ-edatları pekiştirme.",
+      "source": "deutsch.lingolia.com + schubert-verlag.de (A1 karışık alıştırmalar)",
+      "tasks": [
+        {
+          "id": "almanca.w10-pzt",
+          "day": "Pzt",
+          "text": "Hafta 6-9 konularının (modal, trennbar, possessiv, Akk-Präpositionen) Lingolia alıştırmalarını karışık çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w10-car",
+          "day": "Çar",
+          "text": "schubert-verlag.de → Online-Aufgaben → A1'den karışık bir test çöz; en zayıf konunu belirle ve anlatımını yeniden oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w10-per",
+          "day": "Per",
+          "text": "Nicos Weg A1'de son birkaç bölümün tekrar izlemesi (analizsiz, kelime yakalama) + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w10-cum",
+          "day": "Cum",
+          "text": "Bugüne kadarki kelimelerden zayıf olanları Tobo German'da Test moduyla tara; 2 sahne shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w10-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 4 konuyu karıştıran 10 cümlelik kısa bir metin yaz (kendin/ailen/rutinin hakkında); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w10-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w10-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w10-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w11",
+      "phaseId": "faz1",
+      "no": "11",
+      "title": "Perfekt (geçmiş zaman) — giriş",
+      "episode": "Nicos Weg A1",
+      "summary": "Konuşma diline ait geçmiş zaman: haben/sein + Partizip II (sonda). Ich habe gegessen. Ich bin gegangen. Düzenli: ge-...-t (gemacht), düzensiz: ge-...-en (gegessen). Hareket/durum değişimi fiilleri \"sein\" alır.",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Perfekt",
+      "tasks": [
+        {
+          "id": "almanca.w11-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Perfekt\" konusunu oku: haben/sein + Partizip II (cümle sonunda); hangi fiillerin \"sein\" aldığını (gehen, fahren, kommen, bleiben) öğren. Nicos Weg ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w11-car",
+          "day": "Çar",
+          "text": "Partizip II oluşturma alıştırması: 20 sık fiilin Partizip II'sini çalış (machen→gemacht, essen→gegessen, fahren→gefahren); listeyi Tobo German'a ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w11-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm (geçmişten bahsetme) + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w11-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; dün ne yaptığını 5 cümleyle anlat (Ich habe gearbeitet. Ich bin nach Hause gegangen.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w11-cmt",
+          "day": "Cmt",
+          "text": "Üretim: hafta sonunu Perfekt ile 6 cümle anlat; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w11-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w11-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w11-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w12",
+      "phaseId": "faz1",
+      "no": "12",
+      "title": "Wechselpräpositionen (giriş: wo? / wohin?)",
+      "episode": "Nicos Weg A1",
+      "summary": "İki hâlli edatlar: in, an, auf, über, unter, vor, hinter, neben, zwischen. Konum (Wo? → Dativ): Das Buch liegt auf dem Tisch. Yön (Wohin? → Akkusativ): Ich lege das Buch auf den Tisch.",
+      "source": "Nicos Weg A1 + deutsch.lingolia.com → Wechselpräpositionen",
+      "tasks": [
+        {
+          "id": "almanca.w12-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Wechselpräpositionen\" konusunu oku: Wo? sorusu Dativ, Wohin? sorusu Akkusativ alır. Bu A2'nin temelidir, acele etme. Nicos Weg ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w12-car",
+          "day": "Çar",
+          "text": "9 iki-hâlli edatı ezberle; \"Wo?/Wohin?\" ayrımıyla alıştırma çöz (Lingolia + Schubert A1) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w12-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 sıradaki bölüm (ev/oda teması) + eşya/mekân kelimeleri Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w12-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; odandaki eşyaların yerini anlat (Die Lampe steht auf dem Tisch. Das Bild hängt an der Wand.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w12-cmt",
+          "day": "Cmt",
+          "text": "Üretim: odanı 6 cümleyle tarif et (en az 4 Wechselpräposition); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w12-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w12-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w12-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w13",
+      "phaseId": "faz1",
+      "no": "13",
+      "title": "Günlük Hayat Kalıpları · Einkaufen/Restaurant",
+      "episode": "Nicos Weg A1",
+      "summary": "İşlevsel diller: alışveriş, restoran, randevu. Ich hätte gern... Was kostet...? Die Rechnung, bitte. Kann ich bitte...? Bu hafta gramer değil, akıcı kalıp haftası.",
+      "source": "Nicos Weg A1 (son bölümler) + Easy German (basit videolar)",
+      "tasks": [
+        {
+          "id": "almanca.w13-pzt",
+          "day": "Pzt",
+          "text": "Nicos Weg A1'de alışveriş/restoran temalı bölümleri izle; \"Ich hätte gern...\", \"Was kostet das?\", \"Ich möchte bezahlen.\" gibi 10 işlevsel kalıbı not et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w13-car",
+          "day": "Çar",
+          "text": "Bu kalıpları Tobo German'a ekle; YouTube'da Easy German'ın basit bir \"Im Supermarkt / Im Restaurant\" videosunu çift altyazıyla izle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w13-per",
+          "day": "Per",
+          "text": "Nicos Weg A1 kalan bölümler + kelime tekrar (yiyecek/içecek/para) (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w13-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; bir restoran diyaloğunu (garson + müşteri) tek başına canlandır, sesli (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w13-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir restoran/alışveriş diyaloğu yaz (8-10 replik, 2 kişi); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w13-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w13-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w13-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w14",
+      "phaseId": "faz1",
+      "no": "14",
+      "title": "🏁 A1 ÇIKIŞ KONTROLÜ + Genel Tekrar",
+      "episode": "Nicos Weg A1",
+      "summary": "A1 kapanışı: tüm A1 konularının taraması + Goethe A1 örnek sınavıyla seviye ölçümü. Geçer durumdaysan A2'ye geç.",
+      "source": "goethe.de → Übungsmaterialien (A1) + DW seviye testi",
+      "tasks": [
+        {
+          "id": "almanca.w14-pzt",
+          "day": "Pzt",
+          "text": "A1 konu listesini baştan tara (artikeller, Präsens, Akkusativ, modal, Perfekt giriş, edatlar); en zayıf 3 konunu işaretle ve Lingolia'dan anlatımlarını yeniden oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w14-car",
+          "day": "Çar",
+          "text": "İşaretlediğin 3 konuda schubert-verlag.de A1 alıştırması çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w14-per",
+          "day": "Per",
+          "text": "goethe.de → Prüfungen → Goethe-Zertifikat A1 → \"Übungsmaterialien\" → örnek sınavın Hören (dinleme) ve Lesen (okuma) bölümlerini çöz (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w14-cum",
+          "day": "Cum",
+          "text": "🏁 Goethe A1 örnek sınavının Schreiben (yazma) bölümünü yap; DW Learn German seviye testini çöz. Rahat geçtiysen A2'ye geç, zorlandığın konuya 1 yama haftası ekle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w14-cmt",
+          "day": "Cmt",
+          "text": "Üretim: A1'i özetleyen, kendin hakkında 10 cümlelik kısa bir metin yaz (farklı zamanları/konuları karıştır); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w14-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w14-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w14-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w15",
+      "phaseId": "faz2",
+      "no": "15",
+      "title": "Dativ · Dativ-Verben",
+      "episode": "Nicos Weg A2",
+      "summary": "Dativ (-e/-a hâli): der→dem, die→der, das→dem, çoğul→den (+n). Artikel: einem/einer/einem. Bazı fiiller daima Dativ alır: helfen, danken, gefallen, gehören, antworten. Ich helfe dem Mann.",
+      "source": "learngerman.dw.com → Nicos Weg A2 + deutsch.lingolia.com → Dativ",
+      "tasks": [
+        {
+          "id": "almanca.w15-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Dativ\" konusunu oku (dem/der/dem/den+n); Dativ-Verben listesini (helfen, danken, gefallen, gehören) ezberle. Nicos Weg A2'yi açıp ilk bölümü izle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w15-car",
+          "day": "Çar",
+          "text": "Dativ artikel tablosunu çalış; Dativ-Verben ile alıştırma çöz (Das Buch gehört dem Lehrer); Schubert A2 alıştırması ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w15-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + 10-15 yeni kelime artikeliyle Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w15-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; Dativ-fiilleriyle 5 cümle (Ich danke dir. Das gefällt mir. Wie geht es Ihnen?) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w15-cmt",
+          "day": "Cmt",
+          "text": "Üretim: birine yardım/teşekkür temalı 6 cümle yaz; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w15-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w15-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w15-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w16",
+      "phaseId": "faz2",
+      "no": "16",
+      "title": "Präpositionen + Dativ",
+      "episode": "Nicos Weg A2",
+      "summary": "Daima Dativ isteyen edatlar: aus, bei, mit, nach, seit, von, zu, gegenüber. Ich fahre mit dem Bus. Nach der Arbeit gehe ich nach Hause. (kalıp: \"mit nach bei seit von zu\" şarkısı)",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Präpositionen mit Dativ",
+      "tasks": [
+        {
+          "id": "almanca.w16-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Präpositionen mit Dativ\" konusunu oku (aus, bei, mit, nach, seit, von, zu); bu edatları kalıp olarak ezberle. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w16-car",
+          "day": "Çar",
+          "text": "Dativ-edatlarıyla alıştırma; özellikle nach/zu (yön) ve von/aus (köken) farkına dikkat; Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w16-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm (ulaşım/yol tarifi) + kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w16-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; nasıl işe/okula gittiğini anlat (Ich fahre mit der U-Bahn zur Arbeit.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w16-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir günlük yolculuğunu Dativ-edatlarıyla 6 cümle anlat; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w16-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w16-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w16-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w17",
+      "phaseId": "faz2",
+      "no": "17",
+      "title": "Wechselpräpositionen (tam)",
+      "episode": "Nicos Weg A2",
+      "summary": "İki-hâlli edatların ustalığı: konum/durum (Wo? + Dativ, durağan: stehen/liegen/hängen/sein) vs yön (Wohin? + Akkusativ, hareket: stellen/legen/hängen/gehen). in/an/auf/über/unter/vor/hinter/neben/zwischen.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Wechselpräpositionen",
+      "tasks": [
+        {
+          "id": "almanca.w17-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Wechselpräpositionen\" konusunu derinlemesine oku; durağan fiiller (liegen/stehen/hängen=Dativ) ile hareket fiilleri (legen/stellen/hängen=Akkusativ) çiftlerini çalış. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w17-car",
+          "day": "Çar",
+          "text": "Wo?/Wohin? karışık alıştırma çöz (Ich hänge das Bild an die Wand / Das Bild hängt an der Wand); Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w17-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w17-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; eşyaları \"nereye koyduğunu\" ve \"nerede durduğunu\" ayrı ayrı anlat (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w17-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir odayı düzenleme metni yaz, hem Wo? hem Wohin? kullan (6-7 cümle); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w17-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w17-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w17-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w18",
+      "phaseId": "faz2",
+      "no": "18",
+      "title": "Perfekt (ustalık: haben vs sein)",
+      "episode": "Nicos Weg A2",
+      "summary": "Perfekt pekiştirme: çoğu fiil haben, hareket/durum değişimi fiilleri sein (gehen, fahren, kommen, aufstehen, einschlafen, werden, bleiben). Ayrılabilen fiillerde: aufgestanden, eingekauft. -ieren fiilleri ge- almaz: studiert, telefoniert.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Perfekt",
+      "tasks": [
+        {
+          "id": "almanca.w18-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Perfekt\" konusunu yeniden oku; haben/sein seçimini netleştir, ayrılabilen ve -ieren fiillerinin Partizip II'sine dikkat. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w18-car",
+          "day": "Çar",
+          "text": "30 sık fiilin Partizip II + yardımcı fiilini (haben/sein) içeren bir liste çıkar ve Tobo German'a ekle; alıştırma çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w18-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w18-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; geçen hafta sonunu detaylı anlat (en az 2 \"sein\" fiili: Ich bin spät aufgestanden. Ich bin ins Kino gegangen.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w18-cmt",
+          "day": "Cmt",
+          "text": "Üretim: son tatilini/gezini Perfekt ile 8 cümle anlat; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w18-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w18-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w18-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w19",
+      "phaseId": "faz2",
+      "no": "19",
+      "title": "Präteritum: sein/haben/Modalverben",
+      "episode": "Nicos Weg A2",
+      "summary": "Yazı dili geçmişi (ve konuşmada sein/haben/modal için tercih edilir): war, hatte, konnte, musste, wollte, durfte, sollte. Als ich klein war, hatte ich einen Hund.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Präteritum",
+      "tasks": [
+        {
+          "id": "almanca.w19-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Präteritum\" konusunu oku; sein (war), haben (hatte) ve modal fiillerin Präteritum çekimini çalış (bunlar konuşmada da Präteritum kullanılır). Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w19-car",
+          "day": "Çar",
+          "text": "war/hatte/konnte/musste/wollte tablolarını ezberle; alıştırma çöz (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w19-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w19-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; çocukluğun hakkında 5 cümle (Ich war ein ruhiges Kind. Ich hatte viele Freunde. Ich konnte schon früh lesen.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w19-cmt",
+          "day": "Cmt",
+          "text": "Üretim: çocukluğun üzerine 6-7 cümlelik metin (war/hatte/konnte); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w19-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w19-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w19-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w20",
+      "phaseId": "faz2",
+      "no": "20",
+      "title": "🔁 TEKRAR (Hafta 15-19)",
+      "episode": "Nicos Weg A2",
+      "summary": "Yeni konu yok. Dativ, edatlar, Perfekt, Präteritum (sein/haben/modal) pekiştirme.",
+      "source": "deutsch.lingolia.com + schubert-verlag.de (A2 karışık)",
+      "tasks": [
+        {
+          "id": "almanca.w20-pzt",
+          "day": "Pzt",
+          "text": "Hafta 15-19 konularının Lingolia alıştırmalarını karışık çöz (Dativ, Wechselpräp., Perfekt) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w20-car",
+          "day": "Çar",
+          "text": "schubert-verlag.de A2'den karışık test; en zayıf konuyu belirle, anlatımını yeniden oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w20-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 son bölümlerin tekrar izlemesi + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w20-cum",
+          "day": "Cum",
+          "text": "Zayıf kelimeleri Tobo German Test moduyla tara; 2 sahne shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w20-cmt",
+          "day": "Cmt",
+          "text": "Üretim: geçmiş bir olayı (Perfekt + Präteritum karışık) 10 cümleyle anlat; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w20-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w20-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w20-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w21",
+      "phaseId": "faz2",
+      "no": "21",
+      "title": "Personalpronomen: Akkusativ & Dativ",
+      "episode": "Nicos Weg A2",
+      "summary": "Şahıs zamirleri hâle göre: Akk (mich/dich/ihn/sie/es/uns/euch/sie), Dativ (mir/dir/ihm/ihr/ihm/uns/euch/ihnen). Ich gebe ihm das Buch. Sıralama: Dativ-Akkusativ ama iki zamirse Akk-Dativ.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Personalpronomen",
+      "tasks": [
+        {
+          "id": "almanca.w21-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Personalpronomen\" konusunu oku; Akkusativ ve Dativ zamir tablolarını çalış. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w21-car",
+          "day": "Çar",
+          "text": "Zamir alıştırması (Ich sehe ihn / Ich helfe ihr / Ich gebe es dir); Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w21-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w21-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; isimleri zamirle değiştirerek 5 cümle (Ich rufe meinen Freund an → Ich rufe ihn an.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w21-cmt",
+          "day": "Cmt",
+          "text": "Üretim: zamir kullanan 6 cümle (hediye verme/yardım etme teması); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w21-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w21-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w21-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w22",
+      "phaseId": "faz2",
+      "no": "22",
+      "title": "Konjunktionen: weil / denn / deshalb",
+      "episode": "Nicos Weg A2",
+      "summary": "Sebep belirtme üç yolla: weil (yan cümle, fiil SONA): Ich bleibe zu Hause, weil ich krank bin. denn (Pos. 0, fiil normal): ...,denn ich bin krank. deshalb (devrik): Ich bin krank, deshalb bleibe ich zu Hause.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Konjunktionen, Nebensätze",
+      "tasks": [
+        {
+          "id": "almanca.w22-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Kausale Konjunktionen\" (weil/denn/deshalb/da) konusunu oku; weil'de fiilin sona gittiğini (Nebensatz) iyi anla — bu Almancanın kalbidir. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w22-car",
+          "day": "Çar",
+          "text": "Aynı cümleyi weil/denn/deshalb ile üç farklı yazma alıştırması; Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w22-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w22-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; \"neden\" sorularına weil ile cevap ver (Warum lernst du Deutsch? — Weil ich in Deutschland arbeiten möchte.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w22-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 6 cümle, her birinde sebep belirt (2 weil, 2 denn, 2 deshalb); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w22-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w22-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w22-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w23",
+      "phaseId": "faz2",
+      "no": "23",
+      "title": "Nebensätze: dass",
+      "episode": "Nicos Weg A2",
+      "summary": "dass ile yan cümle (fiil sona): Ich glaube, dass Deutsch wichtig ist. Ich hoffe, dass du kommst. Düşünce/duygu fiillerinden sonra: denken, glauben, wissen, hoffen, finden.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → dass-Sätze",
+      "tasks": [
+        {
+          "id": "almanca.w23-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"dass-Sätze\" konusunu oku; dass-cümlesinde fiilin sona gittiğini pekiştir. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w23-car",
+          "day": "Çar",
+          "text": "dass alıştırması (Ich denke, dass... / Es ist gut, dass...); Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w23-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w23-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; fikrini dass ile belirt (Ich finde, dass Almanca schwer aber schön ist.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w23-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 6 cümlede fikir/umut/bilgi belirt (Ich glaube, dass... Ich hoffe, dass...); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w23-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w23-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w23-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w24",
+      "phaseId": "faz2",
+      "no": "24",
+      "title": "🔁 TEKRAR (Hafta 21-23)",
+      "episode": "Nicos Weg A2",
+      "summary": "Yeni konu yok. Zamirler ve yan cümleler (weil/dass) pekiştirme.",
+      "source": "deutsch.lingolia.com + schubert-verlag.de",
+      "tasks": [
+        {
+          "id": "almanca.w24-pzt",
+          "day": "Pzt",
+          "text": "Hafta 21-23 konularının Lingolia karışık alıştırmaları (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w24-car",
+          "day": "Çar",
+          "text": "schubert-verlag.de A2 karışık test; en zayıf konu anlatımını yeniden oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w24-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 tekrar izleme + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w24-cum",
+          "day": "Cum",
+          "text": "Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w24-cmt",
+          "day": "Cmt",
+          "text": "Üretim: weil ve dass'ı karıştıran 10 cümlelik metin; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w24-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w24-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w24-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w25",
+      "phaseId": "faz2",
+      "no": "25",
+      "title": "Komparativ & Superlativ",
+      "episode": "Nicos Weg A2",
+      "summary": "Karşılaştırma: klein–kleiner–am kleinsten; gut–besser–am besten; viel–mehr–am meisten. ...als ile: Deutsch ist schwerer als Englisch. so...wie: so groß wie.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Steigerung der Adjektive",
+      "tasks": [
+        {
+          "id": "almanca.w25-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Komparativ und Superlativ\" konusunu oku; düzensizleri (gut/viel/gern/hoch) ezberle. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w25-car",
+          "day": "Çar",
+          "text": "Karşılaştırma alıştırması (als / so...wie); Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w25-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + sıfat kelimeleri Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w25-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; şehir/yemek/dil karşılaştır (Istanbul ist größer als Ankara.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w25-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 5 karşılaştırma cümlesi (komparativ + superlativ); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w25-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w25-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w25-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w26",
+      "phaseId": "faz2",
+      "no": "26",
+      "title": "Reflexive Verben",
+      "episode": "Nicos Weg A2",
+      "summary": "Dönüşlü fiiller: sich freuen, sich interessieren, sich treffen, sich waschen. Ich freue mich. Ich interessiere mich für Musik. Reflexivpronomen Akkusativ (mich/dich/sich...).",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Reflexive Verben",
+      "tasks": [
+        {
+          "id": "almanca.w26-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Reflexive Verben\" konusunu oku; sık dönüşlü fiilleri (sich freuen, sich interessieren für, sich treffen mit) edatlarıyla öğren. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w26-car",
+          "day": "Çar",
+          "text": "Reflexivpronomen alıştırması (mich/dich/sich); Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w26-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + dönüşlü fiilleri Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w26-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; günlük rutinini dönüşlü fiillerle anlat (Ich wasche mich, ich ziehe mich an, ich freue mich auf den Tag.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w26-cmt",
+          "day": "Cmt",
+          "text": "Üretim: ilgi alanların/duyguların üzerine 6 cümle (Ich interessiere mich für... Ich ärgere mich über...); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w26-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w26-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w26-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w27",
+      "phaseId": "faz2",
+      "no": "27",
+      "title": "Temporale Nebensätze: wenn / als",
+      "episode": "Nicos Weg A2",
+      "summary": "wenn (tekrar eden/şimdiki-gelecek koşul): Wenn ich Zeit habe, lese ich. als (geçmişte TEK olay): Als ich in Berlin war, habe ich viel gelernt. İkisi de yan cümle (fiil sona).",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → temporale Nebensätze",
+      "tasks": [
+        {
+          "id": "almanca.w27-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"wenn / als\" ayrımını oku (als = geçmişte tek olay, wenn = tekrar/koşul). Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w27-car",
+          "day": "Çar",
+          "text": "wenn/als alıştırması; geçmiş tek olay mı tekrar mı ayrımına dikkat; Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w27-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w27-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; \"Als ich...\" ile 3, \"Wenn ich...\" ile 3 cümle sesli kur (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w27-cmt",
+          "day": "Cmt",
+          "text": "Üretim: geçmişten bir anı (als) + bir alışkanlık (wenn) yaz, 6-7 cümle; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w27-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w27-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w27-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w28",
+      "phaseId": "faz2",
+      "no": "28",
+      "title": "Adjektivdeklination — giriş (bestimmter Artikel)",
+      "episode": "Nicos Weg A2",
+      "summary": "Almancanın en zor konusu, yavaş başla: belirli artikelden sonra sıfat eki çoğunlukla -e veya -en. der gute Mann, die gute Frau, das gute Kind, den guten Mann (Akk eril -en). Tablo ezberi değil, kalıpla.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Adjektivdeklination",
+      "tasks": [
+        {
+          "id": "almanca.w28-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Adjektivdeklination\" → \"nach bestimmtem Artikel\" konusunu oku; SADECE belirli artikel (der/die/das) tablosuna odaklan (çoğu -e/-en). Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w28-car",
+          "day": "Çar",
+          "text": "Belirli artikel + sıfat alıştırması (Nominativ ve Akkusativ); acele etme, az ve doğru. Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w28-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 sıradaki bölüm + sıfat kelimeleri Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w28-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; \"Der neue Film ist gut\" gibi 5 cümle (belirli artikel + sıfat) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w28-cmt",
+          "day": "Cmt",
+          "text": "Üretim: nesneleri tanımlayan 6 cümle (das schöne Haus, der alte Mann); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w28-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w28-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w28-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w29",
+      "phaseId": "faz2",
+      "no": "29",
+      "title": "Zukunft (gelecek) · Ordinalzahlen · Datum",
+      "episode": "Nicos Weg A2",
+      "summary": "Gelecek genelde Präsens + zaman zarfıyla ifade edilir (Morgen fahre ich...); Futur I: werden + Infinitiv (Ich werde studieren). Sıra sayıları: der erste, am zweiten Mai. Tarih: Heute ist der 5. Juni.",
+      "source": "Nicos Weg A2 + deutsch.lingolia.com → Futur I, Ordinalzahlen",
+      "tasks": [
+        {
+          "id": "almanca.w29-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Futur I\" ve \"Ordinalzahlen/Datum\" konularını oku; günlük dilde geleceğin çoğu zaman Präsens'le söylendiğini gör. Nicos Weg A2 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w29-car",
+          "day": "Çar",
+          "text": "Sıra sayıları ve tarih alıştırması (am ersten/zweiten...); Futur I alıştırması; Schubert A2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w29-per",
+          "day": "Per",
+          "text": "Nicos Weg A2 son bölümler + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w29-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; gelecek planlarını anlat (Nächstes Jahr werde ich nach Deutschland reisen.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w29-cmt",
+          "day": "Cmt",
+          "text": "Üretim: doğum günü/tatil planı için tarih ve gelecek içeren 6 cümle; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w29-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w29-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w29-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w30",
+      "phaseId": "faz2",
+      "no": "30",
+      "title": "🏁 A2 ÇIKIŞ KONTROLÜ + Genel Tekrar",
+      "episode": "Nicos Weg A2",
+      "summary": "A2 kapanışı: tüm A2 konularının taraması + Goethe A2 örnek sınavı. Geçer durumdaysan B1'e geç.",
+      "source": "goethe.de → Übungsmaterialien (A2)",
+      "tasks": [
+        {
+          "id": "almanca.w30-pzt",
+          "day": "Pzt",
+          "text": "A2 konu listesini tara (Dativ, edatlar, Perfekt/Präteritum, weil/dass/wenn/als, komparativ, reflexiv, sıfat çekimi giriş); en zayıf 3 konuyu işaretle ve Lingolia'dan yeniden oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w30-car",
+          "day": "Çar",
+          "text": "İşaretlediğin 3 konuda Schubert A2 alıştırması (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w30-per",
+          "day": "Per",
+          "text": "goethe.de → Goethe-Zertifikat A2 → Übungsmaterialien → örnek sınavın Hören + Lesen bölümlerini çöz (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w30-cum",
+          "day": "Cum",
+          "text": "🏁 Goethe A2 örnek sınavının Schreiben + Sprechen bölümlerini yap (Sprechen'i sesli, kaydederek). Rahat geçtiysen B1'e geç; zayıf konuya 1 yama haftası (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w30-cmt",
+          "day": "Cmt",
+          "text": "Üretim: A2'yi özetleyen 10-12 cümlelik metin (geçmiş + gelecek + sebep cümleleri karışık); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w30-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w30-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w30-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w31",
+      "phaseId": "faz3",
+      "no": "31",
+      "title": "Adjektivdeklination (tam: 3 tablo)",
+      "episode": "Nicos Weg B1",
+      "summary": "Sıfat çekiminin tamamı: belirli artikel sonrası (-e/-en), belirsiz artikel sonrası (ein guter Mann), artikelsiz (güçlü çekim: guter Wein, kaltes Wasser). Bu konuyu kalıpla + bol pratikle otomatikleştir.",
+      "source": "learngerman.dw.com → Nicos Weg B1 + deutsch.lingolia.com → Adjektivdeklination",
+      "tasks": [
+        {
+          "id": "almanca.w31-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Adjektivdeklination\" → üç tabloyu (bestimmt / unbestimmt / ohne Artikel) birlikte oku; mantığı kavra: artikel hâli gösteriyorsa sıfat -en eğilimli, göstermiyorsa sıfat hâli taşır. Nicos Weg B1'i aç (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w31-car",
+          "day": "Çar",
+          "text": "Üç tabloyla karışık alıştırma çöz (az ama her gün); Schubert B1 \"Adjektive\" (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w31-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + sıfat+isim kelimeleri Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w31-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; üç artikel türüyle 6 cümle (ein neues Auto, das neue Auto, neues Auto kaufen) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w31-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir kişiyi/mekânı sıfatlarla detaylı tarif et (6-7 cümle, üç çekim türü de geçsin); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w31-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w31-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w31-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w32",
+      "phaseId": "faz3",
+      "no": "32",
+      "title": "Genitiv",
+      "episode": "Nicos Weg B1",
+      "summary": "İyelik/aitlik hâli: des/der/des/der. Eril ve nötr isme -(e)s eklenir: das Auto des Mannes, die Farbe des Hauses. Dişil/çoğul: der Frau, der Kinder. Konuşmada sık \"von + Dativ\" ile değiştirilir.",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Genitiv",
+      "tasks": [
+        {
+          "id": "almanca.w32-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Genitiv\" konusunu oku (des/der; eril/nötr isimde -(e)s); konuşmada von+Dativ alternatifini de gör. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w32-car",
+          "day": "Çar",
+          "text": "Genitiv alıştırması (das Buch des Lehrers / die Tür des Hauses); Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w32-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w32-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; aitlik bildiren 5 cümle (Das ist das Haus meiner Eltern.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w32-cmt",
+          "day": "Cmt",
+          "text": "Üretim: ailenden/eşyalarından aitlik cümleleri (6 cümle, Genitiv); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w32-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w32-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w32-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w33",
+      "phaseId": "faz3",
+      "no": "33",
+      "title": "Präpositionen + Genitiv",
+      "episode": "Nicos Weg B1",
+      "summary": "Genitiv isteyen edatlar (yazı dili): während (esnasında), wegen (yüzünden), trotz (rağmen), (an)statt (yerine), innerhalb/außerhalb. Während des Kurses... Wegen des Wetters...",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Präpositionen mit Genitiv",
+      "tasks": [
+        {
+          "id": "almanca.w33-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Präpositionen mit Genitiv\" konusunu oku (während/wegen/trotz/statt); bunların resmî/yazı dili olduğunu, konuşmada sık Dativ aldığını not et. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w33-car",
+          "day": "Çar",
+          "text": "Genitiv-edatlarıyla alıştırma; Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w33-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w33-cum",
+          "day": "Cum",
+          "text": "Easy German'ın (YouTube) bir B1 seviyesi videosunu çift altyazıyla izle; 8-10 yeni kelime/kalıp yakala, Tobo German'a ekle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w33-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 5 cümle, Genitiv-edatlarından en az 3'ü (Wegen der Arbeit... Trotz des Regens...); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w33-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w33-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w33-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w34",
+      "phaseId": "faz3",
+      "no": "34",
+      "title": "🔁 TEKRAR (Hafta 31-33)",
+      "episode": "Easy German",
+      "summary": "Yeni konu yok. Sıfat çekimi, Genitiv ve Genitiv-edatları pekiştirme.",
+      "source": "deutsch.lingolia.com + schubert-verlag.de + Easy German",
+      "tasks": [
+        {
+          "id": "almanca.w34-pzt",
+          "day": "Pzt",
+          "text": "Hafta 31-33 Lingolia karışık alıştırmaları (özellikle sıfat çekimi) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w34-car",
+          "day": "Çar",
+          "text": "Schubert B1 karışık test; en zayıf konuyu yeniden oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w34-per",
+          "day": "Per",
+          "text": "Easy German bir video (keyif + kelime yakalama) + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w34-cum",
+          "day": "Cum",
+          "text": "Zayıf kelimeler Tobo German Test modu; bir Easy German sahnesini shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w34-cmt",
+          "day": "Cmt",
+          "text": "Üretim: sıfat çekimi ve Genitiv'i karıştıran 10 cümlelik metin; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w34-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w34-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w34-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w35",
+      "phaseId": "faz3",
+      "no": "35",
+      "title": "Konjunktiv II (würde + hätte/wäre)",
+      "episode": "Nicos Weg B1",
+      "summary": "Dilek/kibar rica/varsayım: würde + Infinitiv (Ich würde gern reisen), hätte/wäre/könnte. Kibar: Könnten Sie mir helfen? Hätte gern... Dilek: Wenn ich Zeit hätte, würde ich...",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Konjunktiv II",
+      "tasks": [
+        {
+          "id": "almanca.w35-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Konjunktiv II\" konusunu oku; würde+Infinitiv ana kalıp, ama haben/sein/modal için hätte/wäre/könnte tercih edilir. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w35-car",
+          "day": "Çar",
+          "text": "Kibar rica ve dilek alıştırması (Ich würde... / Könnten Sie...); Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w35-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w35-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; \"Ich würde gern...\" ve \"Wenn ich... wäre\" ile 5 cümle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w35-cmt",
+          "day": "Cmt",
+          "text": "Üretim: hayalî istekler (Wenn ich reich wäre, würde ich...) — 6 cümle; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w35-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w35-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w35-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w36",
+      "phaseId": "faz3",
+      "no": "36",
+      "title": "🔁 TEKRAR (Konjunktiv II derinleştirme)",
+      "episode": "Nicos Weg B1",
+      "summary": "Konjunktiv II'yi otomatikleştir: kibar diller, tavsiye (An deiner Stelle würde ich...), geçmiş dilek (Ich hätte... gemacht).",
+      "source": "deutsch.lingolia.com + Nicos Weg B1",
+      "tasks": [
+        {
+          "id": "almanca.w36-pzt",
+          "day": "Pzt",
+          "text": "Konjunktiv II'nin geçmiş hali (hätte/wäre + Partizip II): Ich hätte mehr lernen sollen. Lingolia'da oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w36-car",
+          "day": "Çar",
+          "text": "Tavsiye ve geçmiş pişmanlık alıştırması; Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w36-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w36-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; birine 5 tavsiye cümlesi (An deiner Stelle würde ich...) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w36-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 3 kibar rica + 3 geçmiş pişmanlık cümlesi; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w36-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w36-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w36-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w37",
+      "phaseId": "faz3",
+      "no": "37",
+      "title": "Passiv (Präsens & Präteritum)",
+      "episode": "Nicos Weg B1",
+      "summary": "Edilgen: werden + Partizip II. Das Haus wird gebaut (şimdi). Das Haus wurde gebaut (geçmiş). Yapan değil iş önemliyse. von + fail (Akteur).",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Passiv",
+      "tasks": [
+        {
+          "id": "almanca.w37-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Passiv\" konusunu oku (werden + Partizip II; wird/wurde). Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w37-car",
+          "day": "Çar",
+          "text": "Aktif→Pasif dönüştürme alıştırması (Man baut... → Es wird gebaut); Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w37-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w37-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; bir süreci pasifle anlat (Der Kaffee wird gemahlen, dann wird das Wasser gekocht.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w37-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 5 aktif cümleyi pasife çevir (Präsens + Präteritum); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w37-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w37-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w37-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w38",
+      "phaseId": "faz3",
+      "no": "38",
+      "title": "🔁 TEKRAR (Hafta 35-37)",
+      "episode": "Easy German",
+      "summary": "Yeni konu yok. Konjunktiv II ve Passiv pekiştirme.",
+      "source": "deutsch.lingolia.com + schubert-verlag.de + Easy German",
+      "tasks": [
+        {
+          "id": "almanca.w38-pzt",
+          "day": "Pzt",
+          "text": "Hafta 35-37 Lingolia karışık alıştırmaları (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w38-car",
+          "day": "Çar",
+          "text": "Schubert B1 karışık test; en zayıf konuyu yeniden oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w38-per",
+          "day": "Per",
+          "text": "Easy German video (keyif + kelime) + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w38-cum",
+          "day": "Cum",
+          "text": "Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w38-cmt",
+          "day": "Cmt",
+          "text": "Üretim: Konjunktiv II + Passiv karışık 10 cümle; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w38-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w38-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w38-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w39",
+      "phaseId": "faz3",
+      "no": "39",
+      "title": "Relativsätze (Nominativ & Akkusativ)",
+      "episode": "Nicos Weg B1",
+      "summary": "İlgi cümleleri: ismi tanımlayan yan cümle (fiil sona), ilgi zamiri der/die/das ana ismin cinsiyetini alır. Der Mann, der dort steht... Das Buch, das ich lese...",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Relativsätze",
+      "tasks": [
+        {
+          "id": "almanca.w39-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Relativsätze\" konusunu oku; ilgi zamirinin cinsiyeti ismden, hâli yan cümledeki rolünden geldiğini anla. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w39-car",
+          "day": "Çar",
+          "text": "Nominativ/Akkusativ ilgi cümlesi alıştırması; Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w39-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w39-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; iki cümleyi ilgi cümlesiyle birleştir (Das ist der Mann. Er wohnt nebenan. → Das ist der Mann, der nebenan wohnt.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w39-cmt",
+          "day": "Cmt",
+          "text": "Üretim: kişi/nesne tanımlayan 5 ilgi cümlesi; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w39-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w39-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w39-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w40",
+      "phaseId": "faz3",
+      "no": "40",
+      "title": "Relativsätze (Dativ & edatlı)",
+      "episode": "Nicos Weg B1",
+      "summary": "Dativ ilgi zamiri: dem/der/dem/denen. Edatlı: Der Freund, mit dem ich spreche... Das Thema, über das wir reden...",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Relativsätze",
+      "tasks": [
+        {
+          "id": "almanca.w40-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → Relativsätze'nin Dativ ve edatlı hallerini oku (mit dem, über das); ilgi zamiri tablosunu tamamla. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w40-car",
+          "day": "Çar",
+          "text": "Dativ/edatlı ilgi cümlesi alıştırması; Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w40-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w40-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; edatlı ilgi cümleleriyle 5 cümle (Die Stadt, in der ich wohne...) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w40-cmt",
+          "day": "Cmt",
+          "text": "Üretim: edatlı/Dativ ilgi cümleli 5 tanım; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w40-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w40-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w40-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w41",
+      "phaseId": "faz3",
+      "no": "41",
+      "title": "Infinitiv mit zu / um...zu",
+      "episode": "Nicos Weg B1",
+      "summary": "zu + mastar (sonda): Ich habe vor, Deutsch zu lernen. Es ist wichtig, früh aufzustehen (ayrılabilen fiilde araya zu). Amaç: um...zu (...mek için): Ich lerne Deutsch, um in Deutschland zu arbeiten.",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Infinitiv mit zu, Finalsätze",
+      "tasks": [
+        {
+          "id": "almanca.w41-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Infinitiv mit zu\" ve \"um...zu / damit\" konularını oku; um...zu (aynı özne) vs damit (farklı özne) farkını gör. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w41-car",
+          "day": "Çar",
+          "text": "zu+Infinitiv ve um...zu alıştırması; Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w41-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w41-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; amaç bildiren 5 cümle (Ich spare Geld, um zu reisen.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w41-cmt",
+          "day": "Cmt",
+          "text": "Üretim: hedeflerini um...zu ve \"Ich habe vor, ...zu\" ile 6 cümle; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w41-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w41-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w41-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w42",
+      "phaseId": "faz3",
+      "no": "42",
+      "title": "🔁 TEKRAR (Hafta 39-41)",
+      "episode": "Easy German",
+      "summary": "Yeni konu yok. İlgi cümleleri ve zu/um...zu yapıları pekiştirme.",
+      "source": "deutsch.lingolia.com + schubert-verlag.de + Easy German",
+      "tasks": [
+        {
+          "id": "almanca.w42-pzt",
+          "day": "Pzt",
+          "text": "Hafta 39-41 Lingolia karışık alıştırmaları (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w42-car",
+          "day": "Çar",
+          "text": "Schubert B1 karışık test; en zayıf konuyu yeniden oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w42-per",
+          "day": "Per",
+          "text": "Easy German video + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w42-cum",
+          "day": "Cum",
+          "text": "Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w42-cmt",
+          "day": "Cmt",
+          "text": "Üretim: ilgi cümlesi + um...zu karışık 10 cümlelik metin; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w42-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w42-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w42-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w43",
+      "phaseId": "faz3",
+      "no": "43",
+      "title": "Präteritum (düzenli + düzensiz, anlatı zamanı)",
+      "episode": "Nicos Weg B1",
+      "summary": "Yazı dili anlatı zamanı: düzenli (machte, lernte), düzensiz (ging, kam, fand, sah). Hikâye/haber/roman dilidir. Konuşmada Perfekt, yazıda Präteritum.",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Präteritum",
+      "tasks": [
+        {
+          "id": "almanca.w43-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Präteritum\" konusunu oku; en sık 50 düzensiz fiilin Präteritum + Partizip II listesini tara. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w43-car",
+          "day": "Çar",
+          "text": "Düzensiz fiil Präteritum alıştırması; bilmediklerini Tobo German'a ekle; Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w43-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm + DW \"Langsam gesprochene Nachrichten\" (yavaş haberler) bir kısa haber dinle (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w43-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; kısa bir hikâyeyi Präteritum'la anlat (3-4 cümle) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w43-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir günü/olayı Präteritum ile 8 cümlelik kısa hikâye olarak yaz; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w43-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w43-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w43-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w44",
+      "phaseId": "faz3",
+      "no": "44",
+      "title": "Verben mit Präpositionen + da-/wo-Komposita",
+      "episode": "Nicos Weg B1",
+      "summary": "Edatlı fiiller: warten auf, sich freuen auf, denken an, sich interessieren für. Soru: Worauf wartest du? Cevap/atıf: Ich warte darauf. (wo+edat / da+edat)",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Verben mit Präpositionen",
+      "tasks": [
+        {
+          "id": "almanca.w44-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Verben mit Präpositionen\" listesini çalış (warten auf+Akk, denken an+Akk, helfen bei+Dat...); fiili edatıyla EZBERLE. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w44-car",
+          "day": "Çar",
+          "text": "da-/wo-Komposita (worauf/darauf, woran/daran) alıştırması; Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w44-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 sıradaki bölüm; 15 edatlı fiili edatıyla Tobo German'a ekle (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w44-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; edatlı fiillerle 5 soru-cevap (Worauf freust du dich? — Ich freue mich auf das Wochenende.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w44-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 6 cümlede en az 4 edatlı fiil; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w44-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w44-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w44-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w45",
+      "phaseId": "faz3",
+      "no": "45",
+      "title": "Konnektoren: obwohl / trotzdem / deshalb / sodass",
+      "episode": "Nicos Weg B1",
+      "summary": "Karşıtlık ve sonuç: obwohl (rağmen, yan cümle), trotzdem (yine de, devrik), deshalb/darum (bu yüzden), sodass (öyle ki). Obwohl es regnet, gehe ich raus.",
+      "source": "Nicos Weg B1 + deutsch.lingolia.com → Konnektoren",
+      "tasks": [
+        {
+          "id": "almanca.w45-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Konzessivsätze\" (obwohl/trotzdem) ve \"Konsekutivsätze\" (sodass) konularını oku. Nicos Weg B1 ilgili bölüm (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w45-car",
+          "day": "Çar",
+          "text": "obwohl/trotzdem/deshalb/sodass karışık alıştırma; cümle pozisyonlarına dikkat; Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w45-per",
+          "day": "Per",
+          "text": "Nicos Weg B1 son bölümler + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w45-cum",
+          "day": "Cum",
+          "text": "Easy German video + shadowing; karşıtlık cümleleri kur (Obwohl ich müde bin, lerne ich weiter.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w45-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 6 cümle, obwohl/trotzdem/deshalb/sodass'ı kullan; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w45-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w45-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w45-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w46",
+      "phaseId": "faz3",
+      "no": "46",
+      "title": "🔁 TEKRAR (Hafta 43-45)",
+      "episode": "Easy German",
+      "summary": "Yeni konu yok. Präteritum, edatlı fiiller ve konnektörler pekiştirme.",
+      "source": "deutsch.lingolia.com + schubert-verlag.de + Easy German",
+      "tasks": [
+        {
+          "id": "almanca.w46-pzt",
+          "day": "Pzt",
+          "text": "Hafta 43-45 Lingolia karışık alıştırmaları (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w46-car",
+          "day": "Çar",
+          "text": "Schubert B1 karışık test; en zayıf konuyu yeniden oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w46-per",
+          "day": "Per",
+          "text": "Easy German video + DW yavaş haber + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w46-cum",
+          "day": "Cum",
+          "text": "Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w46-cmt",
+          "day": "Cmt",
+          "text": "Üretim: Präteritum + konnektör karışık 10 cümlelik metin; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w46-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w46-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w46-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w47",
+      "phaseId": "faz3",
+      "no": "47",
+      "title": "Wortstellung (TeKaMoLo) · Konuşma akıcılığı",
+      "episode": "Easy German",
+      "summary": "Cümle içi sıralama: Temporal–Kausal–Modal–Lokal (zaman-sebep-tarz-yer). Ich fahre morgen wegen der Arbeit mit dem Auto nach Berlin. Akıcılık için kalıplar: also, eigentlich, genau, na ja.",
+      "source": "deutsch.lingolia.com → Wortstellung + Easy German",
+      "tasks": [
+        {
+          "id": "almanca.w47-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Wortstellung / Satzbau\" (TeKaMoLo) konusunu oku; orta alan sıralamasını örneklerle çalış. (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w47-car",
+          "day": "Çar",
+          "text": "TeKaMoLo alıştırması (cümle öğelerini doğru sıraya diz); Schubert B1 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w47-per",
+          "day": "Per",
+          "text": "Easy German bir video; günlük konuşma dolgu kelimelerini (also, eigentlich, na ja, genau) yakala, Tobo German'a ekle (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w47-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; uzun bir cümleyi doğru TeKaMoLo sırasıyla sesli kur (5 cümle) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w47-cmt",
+          "day": "Cmt",
+          "text": "Üretim: günün hakkında 8 cümlelik metin, her cümlede en az 2 öğe (zaman+yer vb.) doğru sırada; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w47-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w47-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w47-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w48",
+      "phaseId": "faz3",
+      "no": "48",
+      "title": "🏁 B1 ÇIKIŞ KONTROLÜ + Genel Tekrar",
+      "episode": "Goethe B1 örnek",
+      "summary": "B1 kapanışı: tüm B1 konularının taraması + Goethe B1 örnek sınavı. Geçer durumdaysan B2'ye geç.",
+      "source": "goethe.de → Übungsmaterialien (B1)",
+      "tasks": [
+        {
+          "id": "almanca.w48-pzt",
+          "day": "Pzt",
+          "text": "B1 konu listesini tara (sıfat çekimi, Genitiv, Konjunktiv II, Passiv, ilgi cümleleri, zu/um...zu, Präteritum, konnektörler); en zayıf 3 konuyu işaretle, Lingolia'dan yeniden oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w48-car",
+          "day": "Çar",
+          "text": "İşaretlediğin 3 konuda Schubert B1 alıştırması (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w48-per",
+          "day": "Per",
+          "text": "goethe.de → Goethe-Zertifikat B1 → Übungsmaterialien → örnek sınavın Hören + Lesen modüllerini çöz (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w48-cum",
+          "day": "Cum",
+          "text": "🏁 Goethe B1 örnek sınavının Schreiben + Sprechen modüllerini yap (Sprechen sesli kayıt). Rahat geçtiysen B2'ye geç; zayıf konuya 1-2 yama haftası (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w48-cmt",
+          "day": "Cmt",
+          "text": "Üretim: B1'i özetleyen 12 cümlelik bir görüş metni (bir konu hakkında fikrini gerekçeli yaz); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w48-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w48-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w48-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w49",
+      "phaseId": "faz4",
+      "no": "49",
+      "title": "Konnektoren B2 (je...desto, sowohl...als auch...)",
+      "episode": "Easy German",
+      "summary": "İkili bağlaçlar: je...desto/umso (...dıkça), sowohl...als auch (hem...hem), entweder...oder (ya...ya), weder...noch (ne...ne), nicht nur...sondern auch. Je mehr ich lerne, desto besser verstehe ich.",
+      "source": "deutsch.lingolia.com → Konnektoren (B2) + schubert-verlag.de B2",
+      "tasks": [
+        {
+          "id": "almanca.w49-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"zweiteilige Konnektoren\" konusunu oku (je...desto, sowohl...als auch, weder...noch); cümle yapılarını örneklerle çalış (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w49-car",
+          "day": "Çar",
+          "text": "İkili bağlaç alıştırması; schubert-verlag.de → Aspekte/Erkundungen B2 online alıştırması (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w49-per",
+          "day": "Per",
+          "text": "DW \"Jojo sucht das Glück\" (B1/B2 dizisi, learngerman.dw.com) bir bölüm izle; 10 yeni kelime/kalıp Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w49-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; ikili bağlaçlarla 5 cümle (Je mehr..., desto... / sowohl... als auch...) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w49-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir konuda 6 cümlelik görüş, en az 3 ikili bağlaç; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w49-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w49-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w49-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w50",
+      "phaseId": "faz4",
+      "no": "50",
+      "title": "Konjunktiv I (indirekte Rede)",
+      "episode": "DW Nachrichten",
+      "summary": "Dolaylı anlatım (haber/gazete dili): er sagt, er habe... sie meint, sie sei... Konjunktiv I 3. tekilde belirgin (habe, sei, komme). Tanınması B2 okuma/dinleme için şart.",
+      "source": "deutsch.lingolia.com → Konjunktiv I, indirekte Rede",
+      "tasks": [
+        {
+          "id": "almanca.w50-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Konjunktiv I / indirekte Rede\" konusunu oku; sei/habe/werde formlarını ve ne zaman Konjunktiv II'ye kaçıldığını öğren (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w50-car",
+          "day": "Çar",
+          "text": "Doğrudan→dolaylı anlatım alıştırması; schubert-verlag.de B2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w50-per",
+          "day": "Per",
+          "text": "DW \"Langsam gesprochene Nachrichten\" (yavaş haberler) bir bülten dinle/oku; Konjunktiv I örneklerini metinde işaretle (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w50-cum",
+          "day": "Cum",
+          "text": "Easy German/haber + shadowing; bir kişinin sözünü dolaylı anlat (Er sagt, er sei müde.) — 5 cümle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w50-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir haberi/röportajı dolaylı anlatımla 6 cümle özetle; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w50-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w50-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w50-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w51",
+      "phaseId": "faz4",
+      "no": "51",
+      "title": "Passiv-Ersatzformen (man / sich lassen / sein+zu)",
+      "episode": "Easy German",
+      "summary": "Pasif yerine geçen yapılar: man (Man kann...), sich lassen (Das lässt sich machen = yapılabilir), sein+zu+Infinitiv (Das ist zu erledigen = halledilmeli), -bar sıfatı (machbar).",
+      "source": "deutsch.lingolia.com → Passiv-Ersatzformen + schubert B2",
+      "tasks": [
+        {
+          "id": "almanca.w51-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Passiv-Ersatzformen / Passiversatz\" konusunu oku (man, sich lassen, sein+zu, -bar). (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w51-car",
+          "day": "Çar",
+          "text": "Pasif cümleleri Ersatzform'a çevirme alıştırması; schubert B2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w51-per",
+          "day": "Per",
+          "text": "DW \"Jojo\" bölümü veya Easy German + kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w51-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; \"Das lässt sich...\" / \"Das ist zu...\" ile 5 cümle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w51-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 6 cümlede pasifin farklı alternatiflerini kullan; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w51-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w51-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w51-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w52",
+      "phaseId": "faz4",
+      "no": "52",
+      "title": "🔁 TEKRAR (Hafta 49-51)",
+      "episode": "DW Jojo",
+      "summary": "Yeni konu yok. İkili bağlaçlar, Konjunktiv I ve Passiv-Ersatzformen pekiştirme.",
+      "source": "deutsch.lingolia.com + schubert-verlag.de B2",
+      "tasks": [
+        {
+          "id": "almanca.w52-pzt",
+          "day": "Pzt",
+          "text": "Hafta 49-51 Lingolia karışık alıştırmaları (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w52-car",
+          "day": "Çar",
+          "text": "schubert B2 karışık test; en zayıf konuyu yeniden oku (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w52-per",
+          "day": "Per",
+          "text": "DW \"Jojo\" bölümü + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w52-cum",
+          "day": "Cum",
+          "text": "Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w52-cmt",
+          "day": "Cmt",
+          "text": "Üretim: üç konuyu karıştıran 10 cümlelik görüş metni; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w52-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w52-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w52-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w53",
+      "phaseId": "faz4",
+      "no": "53",
+      "title": "Partizipien als Adjektive (Partizip I & II)",
+      "episode": "Easy German",
+      "summary": "Partisipin sıfat olarak kullanımı: Partizip I (-end: das lachende Kind = gülen çocuk, etken/eşzamanlı), Partizip II (das gekochte Ei = pişmiş yumurta, edilgen/tamamlanmış). Sıfat gibi çekilir.",
+      "source": "deutsch.lingolia.com → Partizip als Adjektiv",
+      "tasks": [
+        {
+          "id": "almanca.w53-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Partizipien als Adjektive\" konusunu oku; Partizip I (-end) etken, Partizip II edilgen anlamı taşır; ikisi de sıfat çekimi alır (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w53-car",
+          "day": "Çar",
+          "text": "Partizip I/II'yi sıfat olarak çekme alıştırması; schubert B2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w53-per",
+          "day": "Per",
+          "text": "DW \"Jojo\" / Easy German + kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w53-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; partisip sıfatlı 5 cümle (das schlafende Kind, die geöffnete Tür) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w53-cmt",
+          "day": "Cmt",
+          "text": "Üretim: 6 cümlede partisip-sıfat kullan; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w53-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w53-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w53-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w54",
+      "phaseId": "faz4",
+      "no": "54",
+      "title": "Nominalisierung ↔ Verbalisierung (Nominalstil)",
+      "episode": "Easy German",
+      "summary": "Resmî/akademik dilin özelliği: fiil cümlesini isim öbeğine çevirme. Weil es regnet → Wegen des Regens. Nachdem er angekommen war → Nach seiner Ankunft. B2 yazma için kritik.",
+      "source": "deutsch.lingolia.com → Nominalisierung + schubert B2",
+      "tasks": [
+        {
+          "id": "almanca.w54-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → \"Nominalisierung von Verben / Nominalstil\" konusunu oku; yan cümle ↔ isim öbeği dönüşümlerini (weil→wegen, nachdem→nach) çalış (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w54-car",
+          "day": "Çar",
+          "text": "Verbalstil↔Nominalstil çevirme alıştırması; schubert B2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w54-per",
+          "day": "Per",
+          "text": "DW \"Jojo\" / haber + kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w54-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; 5 yan cümleyi isim öbeğine çevir, sesli (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w54-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir paragrafı önce sözlü (Verbalstil) sonra resmî (Nominalstil) yaz; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w54-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w54-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w54-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w55",
+      "phaseId": "faz4",
+      "no": "55",
+      "title": "Konnektoren Vertiefung (folglich, dennoch, hingegen, indem)",
+      "episode": "Easy German",
+      "summary": "İleri bağlaçlar: folglich/somit (dolayısıyla), dennoch (yine de), hingegen/wohingegen (oysa), indem (...erek), insofern. Yazılı/resmî dilin akış kelimeleri.",
+      "source": "deutsch.lingolia.com → Konnektoren (B2) + schubert B2",
+      "tasks": [
+        {
+          "id": "almanca.w55-pzt",
+          "day": "Pzt",
+          "text": "deutsch.lingolia.com → ileri Konnektoren (folglich, dennoch, hingegen, indem, zwar...aber) konusunu oku; her birinin cümle pozisyonunu not et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w55-car",
+          "day": "Çar",
+          "text": "İleri bağlaç alıştırması; schubert B2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w55-per",
+          "day": "Per",
+          "text": "DW \"Jojo\" / Easy German + kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w55-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; \"indem\" ve \"hingegen\" ile 5 cümle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w55-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir tartışma paragrafı yaz, en az 4 ileri bağlaç; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w55-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w55-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w55-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w56",
+      "phaseId": "faz4",
+      "no": "56",
+      "title": "🔁 TEKRAR (Hafta 53-55) + Modalpartikeln",
+      "episode": "Easy German",
+      "summary": "Partisip-sıfat, Nominalstil ve ileri bağlaç pekiştirme + konuşma dilinin baharatı: Modalpartikeln (doch, mal, eben, halt, ja, wohl) — anlamı ince ayar yapar.",
+      "source": "deutsch.lingolia.com + Easy German",
+      "tasks": [
+        {
+          "id": "almanca.w56-pzt",
+          "day": "Pzt",
+          "text": "Hafta 53-55 Lingolia karışık alıştırmaları (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w56-car",
+          "day": "Çar",
+          "text": "deutsch.lingolia.com → \"Modalpartikeln\" konusunu oku (doch/mal/eben/halt/ja); Easy German'da kullanımını gözlemle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w56-per",
+          "day": "Per",
+          "text": "DW \"Jojo\" / Easy German + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w56-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; Modalpartikel'li günlük cümleleri taklit et (Komm mal her! Das ist halt so.) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w56-cmt",
+          "day": "Cmt",
+          "text": "Üretim: doğal bir diyalog yaz (Modalpartikel'lerle, 8-10 replik); Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w56-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w56-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w56-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w57",
+      "phaseId": "faz4",
+      "no": "57",
+      "title": "Goethe B2: Format Tanıma + Lesen Stratejisi",
+      "episode": "Goethe B2 örnek",
+      "summary": "Goethe-Zertifikat B2 dört modül: Lesen (~65 dk), Hören (~40 dk), Schreiben (~75 dk: forum yorumu + resmî mesaj), Sprechen (~15 dk: sunum + tartışma). Bu hafta format + okuma stratejisi.",
+      "source": "goethe.de → Goethe-Zertifikat B2 → Übungsmaterialien",
+      "tasks": [
+        {
+          "id": "almanca.w57-pzt",
+          "day": "Pzt",
+          "text": "goethe.de → Goethe-Zertifikat B2 → Übungsmaterialien → örnek sınavın yapısını incele; dört modülün süre/görev sayısını ve puanlamayı not et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w57-car",
+          "day": "Çar",
+          "text": "Lesen modülünün soru tiplerini (eşleştirme, çoktan seçmeli, doğru/yanlış) tanı; örnek sınavın Lesen Teil 1'ini süre tutarak çöz (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w57-per",
+          "day": "Per",
+          "text": "Lesen Teil 2-3'ü çöz; bilmediğin kelimeleri Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w57-cum",
+          "day": "Cum",
+          "text": "DW \"Jojo\" / Easy German + shadowing (konuşma için akıcılık korunur) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w57-cmt",
+          "day": "Cmt",
+          "text": "YOĞUN: tam Lesen modülünü (~65 dk) gerçek sürede çöz, puanla, hatalarını hata defterine yaz; Tobo German tekrarı (60-90 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w57-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w57-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w57-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w58",
+      "phaseId": "faz4",
+      "no": "58",
+      "title": "Goethe B2: Hören Stratejisi",
+      "episode": "Goethe B2 örnek",
+      "summary": "Hören modülü: günlük diyalog, radyo/röportaj, tartışma. Tuzak: paraphrase. Not alma ve ön okuma şart.",
+      "source": "goethe.de B2 Übungsmaterialien + DW yavaş→normal haber",
+      "tasks": [
+        {
+          "id": "almanca.w58-pzt",
+          "day": "Pzt",
+          "text": "Goethe B2 örnek sınavının Hören modülü soru tiplerini incele; Teil 1'i (kısa diyaloglar) çöz; her yanlışı transkriptle kontrol et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w58-car",
+          "day": "Çar",
+          "text": "Hören Teil 2-3'ü çöz; not alma tekniğini uygula (anahtar kelime + sayı) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w58-per",
+          "day": "Per",
+          "text": "DW \"Langsam gesprochene Nachrichten\" → bir bülten; ardından aynı haberin normal hızlı versiyonunu dene + kelime Tobo German'a (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w58-cum",
+          "day": "Cum",
+          "text": "DW \"Jojo\" / Easy German + shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w58-cmt",
+          "day": "Cmt",
+          "text": "YOĞUN: tam Hören modülünü gerçek sürede çöz, puanla, hata defterine işle; Tobo German tekrarı (60-90 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w58-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w58-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w58-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w59",
+      "phaseId": "faz4",
+      "no": "59",
+      "title": "Goethe B2: Schreiben (Forumsbeitrag)",
+      "episode": "model metinler",
+      "summary": "Schreiben Aufgabe 1: bir forum/yorum metni (~150 kelime) — görüş bildirme, gerekçelendirme. Yapı: giriş + 2-3 argüman (çünkü/örnek) + sonuç. B2 dili: bağlaçlar, Konjunktiv II, Nominalstil.",
+      "source": "goethe.de B2 + schubert-verlag.de B2 (Schreiben örnekleri)",
+      "tasks": [
+        {
+          "id": "almanca.w59-pzt",
+          "day": "Pzt",
+          "text": "Goethe B2 Schreiben Aufgabe 1 (Forumsbeitrag) örnek görevini ve bir model cevabı incele; argüman yapısını (These–Begründung–Beispiel) işaretle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w59-car",
+          "day": "Çar",
+          "text": "Görüş bildirme kalıplarını topla (Meiner Meinung nach..., Ich bin der Ansicht, dass..., Einerseits... andererseits...); Tobo German'a ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w59-per",
+          "day": "Per",
+          "text": "DW/Easy German + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w59-cum",
+          "day": "Cum",
+          "text": "İLK FORUMSBEITRAG: bir tartışma konusuna ~150 kelimelik forum yorumu yaz (45 dk içinde); kalıpları kullan (35-45 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w59-cmt",
+          "day": "Cmt",
+          "text": "YOĞUN: dünkü metni model cevapla karşılaştırarak öz-değerlendir (argüman net mi, bağlaçlar çeşitli mi, gramer hatası?); daha iyi 2. versiyonu yaz; Tobo German tekrarı (60 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w59-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w59-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w59-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w60",
+      "phaseId": "faz4",
+      "no": "60",
+      "title": "Goethe B2: Schreiben (formelle Nachricht)",
+      "episode": "model metinler",
+      "summary": "Schreiben Aufgabe 2: resmî/yarı-resmî mesaj (~100 kelime) — şikâyet, rica, bilgi isteme. Resmî hitap (Sehr geehrte Damen und Herren), kibar Konjunktiv II, uygun kapanış (Mit freundlichen Grüßen).",
+      "source": "goethe.de B2 + schubert B2",
+      "tasks": [
+        {
+          "id": "almanca.w60-pzt",
+          "day": "Pzt",
+          "text": "Goethe B2 Schreiben Aufgabe 2 örnek görevini ve model cevabı incele; resmî mektup kalıplarını (giriş-gövde-kapanış) not et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w60-car",
+          "day": "Çar",
+          "text": "Resmî dil kalıplarını topla (Ich wende mich an Sie, weil...; Ich wäre Ihnen dankbar, wenn...; Über eine baldige Antwort würde ich mich freuen); Tobo German'a ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w60-per",
+          "day": "Per",
+          "text": "DW/Easy German + kelime tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w60-cum",
+          "day": "Cum",
+          "text": "İLK FORMELLE NACHRICHT: bir şikâyet/rica mesajı yaz (~100 kelime, resmî ton); kalıpları kullan (35-45 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w60-cmt",
+          "day": "Cmt",
+          "text": "YOĞUN: tam Schreiben modülü simülasyonu — Aufgabe 1 + Aufgabe 2 arka arkaya gerçek sürede (~75 dk); model cevaplarla karşılaştır (75-90 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w60-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w60-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w60-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w61",
+      "phaseId": "faz4",
+      "no": "61",
+      "title": "Goethe B2: Sprechen (Vortrag + Diskussion)",
+      "episode": "örnek videolar",
+      "summary": "Sprechen: Teil 1 kısa sunum (Vortrag — bir konuyu yapılandır: giriş-avantaj/dezavantaj-kendi görüş-sonuç), Teil 2 tartışma (görüş savunma, karşı çıkma, uzlaşma). Akıcılık + bağlaç + kibarlık.",
+      "source": "goethe.de B2 (Sprechen örnek) + YouTube örnek sınav videoları",
+      "tasks": [
+        {
+          "id": "almanca.w61-pzt",
+          "day": "Pzt",
+          "text": "Goethe B2 Sprechen modülünün yapısını incele; YouTube'da bir \"Goethe B2 Sprechen Beispiel\" videosu izle, sunum yapısını not et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w61-car",
+          "day": "Çar",
+          "text": "Sunum kalıplarını topla (Ich möchte über... sprechen; Ein Vorteil ist...; Zusammenfassend...); tartışma kalıpları (Ich sehe das anders; Da stimme ich zu, aber...); Tobo German'a ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w61-per",
+          "day": "Per",
+          "text": "İLK VORTRAG: bir konu seç, 3-4 dakikalık sunumu telefona kaydet; dinleyip akıcılık/duraksama not et (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w61-cum",
+          "day": "Cum",
+          "text": "Tartışma pratiği: bir konunun lehinde ve aleyhinde ayrı ayrı 2'şer dakika kayıt yap (görüş + karşı görüş); Easy German shadowing (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w61-cmt",
+          "day": "Cmt",
+          "text": "YOĞUN: tam Sprechen simülasyonu (Vortrag + Diskussion) kaydet; goethe.de değerlendirme kriterlerine göre öz-puanla; Tobo German tekrarı (45-60 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w61-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w61-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w61-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w62",
+      "phaseId": "faz4",
+      "no": "62",
+      "title": "🔁 İleri Gramer Tekrarı (Konjunktiv, Passiv, Adjektive)",
+      "episode": "Easy German",
+      "summary": "Sınav öncesi gramer pekiştirme: Konjunktiv I/II, Passiv ve alternatifleri, sıfat/partisip çekimi — B2'nin en çok hata yapılan alanları.",
+      "source": "deutsch.lingolia.com (B2) + schubert-verlag.de B2",
+      "tasks": [
+        {
+          "id": "almanca.w62-pzt",
+          "day": "Pzt",
+          "text": "Konjunktiv I ve II karışık alıştırma (Lingolia B2); hatalarını not et (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w62-car",
+          "day": "Çar",
+          "text": "Passiv + Passiv-Ersatzformen + sıfat/partisip çekimi karışık alıştırma; schubert B2 (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w62-per",
+          "day": "Per",
+          "text": "DW/Easy German + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w62-cum",
+          "day": "Cum",
+          "text": "Hata defterindeki en sık 5 gramer hatasını seç; her biri için 3 doğru örnek cümle yaz, sesli oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w62-cmt",
+          "day": "Cmt",
+          "text": "Üretim: en zorlandığın 3 yapıyı bilinçli kullanan 10 cümlelik metin; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w62-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w62-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w62-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w63",
+      "phaseId": "faz4",
+      "no": "63",
+      "title": "Wortschatz + Redemittel Yoğunlaştırma",
+      "episode": "Easy German",
+      "summary": "B2 kelime sıçraması: soyut/akademik kelimeler, sabit kalıplar (Redemittel), fiil-isim birleşimleri (eine Entscheidung treffen, Kritik üben). Sınavda fark yaratan budur.",
+      "source": "Tobo German + deutsch.lingolia.com (Wortschatz) + Easy German",
+      "tasks": [
+        {
+          "id": "almanca.w63-pzt",
+          "day": "Pzt",
+          "text": "Tobo German'da biriken tüm B2 kelimelerini baştan tara; unutulanları tekrar sırasına al (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w63-car",
+          "day": "Çar",
+          "text": "Funktionsverbgefüge (eine Entscheidung treffen, in Frage stellen, zur Verfügung stehen) listesi çalış ve Tobo German'a ekle (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w63-per",
+          "day": "Per",
+          "text": "Easy German bir tartışma videosu; 10 Redemittel/kalıp yakala (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w63-cum",
+          "day": "Cum",
+          "text": "İkinci izleme + shadowing; öğrendiğin Funktionsverbgefüge'lerle 6 cümle (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w63-cmt",
+          "day": "Cmt",
+          "text": "Üretim: bir görüş metni yaz, en az 6 yeni kalıp/birleşim kullan; Tobo German tekrarı (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w63-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w63-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w63-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w64",
+      "phaseId": "faz4",
+      "no": "64",
+      "title": "🏁 Goethe B2 MODELLTEST 1 (tam)",
+      "episode": "—",
+      "summary": "Gerçek sınav koşullarında ilk tam deneme: dört modül tek günde (Cmt), gerçek süreler, sessiz ortam.",
+      "source": "goethe.de B2 Übungsmaterialien (Modellsatz)",
+      "tasks": [
+        {
+          "id": "almanca.w64-pzt",
+          "day": "Pzt",
+          "text": "Hafif gün: hata defterini baştan sona oku; her modül için \"sınavda dikkat\" 3'er madde çıkar (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w64-car",
+          "day": "Çar",
+          "text": "Lesen + Hören için kısa ısınma (birer Teil) + zaman yönetimi planı yap (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w64-per",
+          "day": "Per",
+          "text": "Schreiben kalıplarını + Sprechen sunum yapısını sesli tekrarla (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w64-cum",
+          "day": "Cum",
+          "text": "Hafif: Tobo German tekrar + Easy German keyif izleme; erken dinlen (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w64-cmt",
+          "day": "Cmt",
+          "text": "🏁 MODELLTEST 1: Goethe B2 örnek sınavının DÖRT modülünü gerçek sürede, tek oturuşta çöz (Lesen→Hören→Schreiben→Sprechen kaydı). Puanla, modül bandlarını not et (3-4 saat)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w64-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w64-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w64-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w65",
+      "phaseId": "faz4",
+      "no": "65",
+      "title": "Modelltest Analizi + Goethe B2 MODELLTEST 2",
+      "episode": "—",
+      "summary": "Birinci denemenin derin analizi + ikinci tam deneme. En zayıf modüle ekstra yüklenme.",
+      "source": "goethe.de B2 (ikinci Modellsatz) + schubert B2",
+      "tasks": [
+        {
+          "id": "almanca.w65-pzt",
+          "day": "Pzt",
+          "text": "Modelltest 1'in tüm hatalarını analiz et; en düşük modülü belirle ve o modülün stratejisini yeniden oku (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w65-car",
+          "day": "Çar",
+          "text": "En zayıf modülde hedefli pratik (1 tam Teil + hata analizi) (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w65-per",
+          "day": "Per",
+          "text": "İkinci en zayıf modülde hedefli pratik + Tobo German tekrar (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w65-cum",
+          "day": "Cum",
+          "text": "Schreiben: 1 forum yorumu + 1 resmî mesaj yaz (gerçek süre); model cevapla karşılaştır (40-45 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w65-cmt",
+          "day": "Cmt",
+          "text": "🏁 MODELLTEST 2: ikinci tam örnek sınavı gerçek sürede çöz; Modelltest 1 ile karşılaştır — hangi modül ne kadar ilerledi? (3-4 saat)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w65-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w65-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w65-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w66",
+      "phaseId": "faz4",
+      "no": "66",
+      "title": "🏁 Sınav Haftası",
+      "episode": "—",
+      "summary": "Yeni bilgi yok. Hafif tekrar, strateji özetleri, dinlenme. Goethe B2 sınav kaydını bu haftadan önce yapmış olmalısın (goethe.de veya yerel Goethe-Institut).",
+      "source": "Hata defteri + kendi özetlerin",
+      "tasks": [
+        {
+          "id": "almanca.w66-pzt",
+          "day": "Pzt",
+          "text": "Hata defteri final taraması; dört modülün \"sınavda dikkat\" maddelerini tek sayfaya temize çek (30-40 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w66-car",
+          "day": "Çar",
+          "text": "Hafif Lesen + Hören (birer Teil, keyif modunda); zaman yönetimini son kez gözden geçir (30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w66-per",
+          "day": "Per",
+          "text": "Schreiben kalıpları + Sprechen sunum açılışlarını sesli tekrarla (el/dil alışkanlığı) (25-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w66-cum",
+          "day": "Cum",
+          "text": "Hafif: Tobo German favori kelimeler + 5 dk rahat konuşma kaydı; sınav belgelerini (kimlik!) hazırla, erken yat (20-30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w66-cmt",
+          "day": "Cmt",
+          "text": "🏁 SINAV GÜNÜ (veya son dinlenme): tek sayfalık özetini oku, iyi kahvaltı yap, erken çık. Süre yönetimini unutma. Viel Erfolg! 🍀",
+          "recurring": false
+        },
+        {
+          "id": "almanca.w66-rec-sali",
+          "day": "Salı",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez; her ismi artikeliyle çalış: der/die/das)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w66-rec-per",
+          "day": "Per",
+          "text": "Tobo German uygulamasında geçmiş kelimelerin tekrarını yap — 10-15 dk (bugün YENİ kelime eklenmez)",
+          "recurring": true
+        },
+        {
+          "id": "almanca.w66-rec-words",
+          "day": "Pzt/Çar/Cum",
+          "text": "Tobo German uygulamasına günde 10-15 yeni kelime ekle ve çalış — her ismi MUTLAKA artikeliyle (das Haus, die Katze) ve çoğuluyla öğren (haftalık ~40-50)",
+          "recurring": true
+        }
+      ]
+    }
+  ]
+}

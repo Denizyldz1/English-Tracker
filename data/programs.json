@@ -20,5 +20,16 @@
     "planUrl": "data/programs/ielts/plan.json?v=1",
     "idPrefix": "ielts.",
     "taskCount": 117
+  },
+  {
+    "id": "almanca",
+    "title": "Almanca Master Plan — Goethe B2",
+    "shortTitle": "Almanca",
+    "description": "Sıfırdan Goethe-Zertifikat B2'ye 66 haftalık plan: A1→A2→B1→B2, DW Nicos Weg + gramer + sınav hazırlığı",
+    "durationLabel": "66 hafta",
+    "icon": "bi-translate",
+    "planUrl": "data/programs/almanca/plan.json?v=1",
+    "idPrefix": "almanca.",
+    "taskCount": 528
   }
 ]
