@@ -39,49 +39,49 @@
         {
           "id": "ielts.w1-sali",
           "day": "Salı",
-          "text": "ielts.org → \"sample test questions\" sayfasından Listening örnek sorularını çöz; 4 section'ın (günlük diyalog → akademik ders) zorluk sırasını gözlemle (30-40 dk)",
+          "text": "ielts.org → \"sample test questions\" sayfasından Listening örnek sorularını çöz; 4 section'ın (günlük diyalog → akademik ders) zorluk sırasını gözlemle, hangi section'da zorlandığını not et (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w1-car",
           "day": "Çar",
-          "text": "ielts.org örnek Reading sorularını çöz; soru tiplerini not et (multiple choice, True/False/Not Given, eşleştirme, boşluk doldurma) (30-45 dk)",
+          "text": "ielts.org → \"sample test questions\" sayfasından Academic Reading örnek sorularını çöz; karşılaştığın soru tiplerini listele (multiple choice, True/False/Not Given, eşleştirme, boşluk doldurma) (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w1-per",
           "day": "Per",
-          "text": "ielts.org örnek Writing Task 1 ve Task 2 sorularına bak; ieltsliz.com → Writing Task 1 sayfasındaki bir band 9 model cevabı oku ve yapısını (giriş-genel bakış-detay paragrafları) incele (30-45 dk)",
+          "text": "ielts.org örnek Writing Task 1 ve Task 2 sorularına bak (çözme, sadece tanı); ardından ieltsliz.com → Writing Task 1 sayfasından bir band 9 model cevabı oku ve yapısını incele: giriş nasıl paraphrase edilmiş, overview paragrafında ne var, detay paragrafları nasıl bölünmüş? (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w1-cum",
           "day": "Cum",
-          "text": "ielts.idp.com/prepare'daki Speaking bölümü videolarından birini izle (Part 1-2-3 formatı); telefona 2 dk kendini tanıtma kaydı yap, dinle (30 dk)",
+          "text": "ielts.idp.com/prepare adresindeki Speaking bölümü videolarından birini izle (Part 1-2-3 formatını gör); ardından telefona 2 dakikalık kendini tanıtma kaydı yap ve dinle — bu senin \"0. gün\" kaydın, Hafta 13'te tekrar dinleyeceksin (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w1-cmt",
           "day": "Cmt",
-          "text": "🏁 BAŞLANGIÇ DENEMESİ: ieltsonlinetests.com'a ücretsiz üye ol, tam bir Academic deneme testi çöz (Listening + Reading; gerçek süre: 30+60 dk). Çıkan bandları not et — bu senin başlangıç noktan (2-3 saat)",
+          "text": "🏁 BAŞLANGIÇ DENEMESİ: ieltsonlinetests.com'a ücretsiz üye ol; \"IELTS Mock Test\" bölümünden bir Academic deneme seç ve Listening (30 dk) + Reading (60 dk) bölümlerini gerçek süre tutarak çöz. Site otomatik puanlar — çıkan bandları not et: bu senin başlangıç noktan (2-3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w1-paz",
           "day": "Paz",
-          "text": "Dünkü denemenin hata analizi: yanlış yaptığın her soruya geri dön, doğru cevabın metindeki/ses kaydındaki yerini bul, \"neden kaçırdım\" notu yaz. Hata defterini başlat (45-60 dk)",
+          "text": "Dünkü denemenin hata analizi: yanlış yaptığın her soruya geri dön, doğru cevabın metindeki/ses kaydındaki (transkript) yerini bul, \"neden kaçırdım?\" cevabını bir cümleyle yaz. Bu notların biriktiği HATA DEFTERİNİ başlat (defter veya not uygulaması) (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w1-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w1-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -98,55 +98,55 @@
         {
           "id": "ielts.w2-pzt",
           "day": "Pzt",
-          "text": "ieltsliz.com → \"IELTS Listening\" sayfasındaki strateji derslerini oku: soru tipleri, ön okuma taktiği (kayıt başlamadan soruları okumak), yazım kuralları (büyük harf, tekil/çoğul) (30-40 dk)",
+          "text": "ieltsliz.com → \"IELTS Listening\" sayfasındaki strateji derslerini oku: soru tipleri, ön okuma taktiği (kayıt başlamadan soruları okuyup anahtar kelime işaretlemek), yazım kuralları (büyük harf serbestliği, tekil/çoğul tuzağı, sayı yazımı). 5 maddelik kendi Listening kural listeni çıkar (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w2-sali",
           "day": "Salı",
-          "text": "takeielts.britishcouncil.org → ücretsiz Listening practice test Section 1-2'yi çöz; form/not doldurma sorularında sayı ve isim yazımına odaklan (30-40 dk)",
+          "text": "takeielts.britishcouncil.org → \"Free IELTS practice tests\" → Listening testinin Section 1 ve 2'sini çöz; form/not doldurma sorularında sayıların ve özel isimlerin yazımına odaklan, her yanlışın sebebini not et (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w2-car",
           "day": "Çar",
-          "text": "Aynı practice testin Section 3-4'ünü çöz; akademik bölümlerde konuşmacının fikir değiştirdiği anları (\"actually\", \"but then again\") yakala — tuzaklar oradadır (30-45 dk)",
+          "text": "Aynı British Council Listening testinin Section 3 ve 4'ünü çöz; akademik bölümlerde konuşmacının fikir değiştirdiği anları (\"actually...\", \"but then again...\") yakala — cevap tuzakları tam oralardadır; 2 örnek not et (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w2-per",
           "day": "Per",
-          "text": "ieltsliz.com → Writing Task 1 sayfasından grafik tipleri dersini oku (line graph, bar chart, pie, table); 1 line graph örneğinin model cevabını incele: giriş nasıl paraphrase edilmiş, \"overview\" paragrafında ne var? (30-45 dk)",
+          "text": "ieltsliz.com → Writing Task 1 sayfasından grafik tipleri dersini oku (line graph, bar chart, pie chart, table); bir line graph model cevabını incele ve trend kelimelerinin listesini çıkar: rise/fall/fluctuate/peak/remain stable + sharply/gradually/slightly. Bu kelimeleri Quizlet'te kendi setine ekle (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w2-cum",
           "day": "Cum",
-          "text": "Speaking Part 1 pratiği: ieltsliz.com → Speaking Part 1 topics listesinden 2 konu seç (work/study, hometown); soruları telefona cevaplandırarak 3-4 dk kayıt yap, dinleyip dolgu seslerini (\"eee\", \"şey\") say (30 dk)",
+          "text": "ieltsliz.com → Speaking Part 1 topics listesinden 2 konu seç (work/study, hometown); soruları telefona cevaplayarak 3-4 dk kayıt yap; dinlerken dolgu seslerini (\"eee\", \"şey\", uzun duraksama) say ve not et (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w2-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: Cambridge IELTS 19 Test 1'in Listening bölümünü gerçek sürede çöz (kitap yoksa ieltsonlinetests.com'dan bir Listening denemesi). Ardından transkriptle dinle: kaçırdığın cevapların paraphrase'lerini işaretle (2-2.5 saat)",
+          "text": "YOĞUN: Cambridge IELTS 19 Test 1'in Listening bölümünü gerçek sürede (30 dk + 10 dk aktarma) çöz — kitap yoksa ieltsonlinetests.com'dan bir Listening denemesi. Ardından kaydı transkriptle takip ederek tekrar dinle: kaçırdığın her cevabın soru kâğıdındaki kelimeyle ses kaydındaki paraphrase'ini yan yana yaz (2-2.5 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w2-paz",
           "day": "Paz",
-          "text": "Hata analizi: bu haftanın tüm Listening yanlışlarını hata defterine işle; en sık hata tipini belirle (yazım mı, paraphrase mi, dikkat mi?) (45-60 dk)",
+          "text": "Hata analizi: bu haftanın tüm Listening yanlışlarını hata defterine işle; hatalarını üç tipe ayır (yazım / paraphrase kaçırma / dikkat) ve hangisinin baskın olduğunu yaz — önümüzdeki haftalarda onu hedefleyeceksin (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w2-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w2-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -163,55 +163,55 @@
         {
           "id": "ielts.w3-pzt",
           "day": "Pzt",
-          "text": "ieltsliz.com → \"IELTS Reading\" sayfasından strateji derslerini oku: skimming/scanning farkı, soru tiplerinin listesi, zaman yönetimi (soru başına ~1.5 dk) (30-40 dk)",
+          "text": "ieltsliz.com → \"IELTS Reading\" sayfasından strateji derslerini oku: skimming/scanning farkı, soru tiplerinin tam listesi, zaman yönetimi (soru başına ~1.5 dk, takılınca işaretleyip geç). 5 maddelik kendi Reading kural listeni çıkar (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w3-sali",
           "day": "Salı",
-          "text": "True/False/Not Given dersi: ieltsliz.com'daki TFNG dersini oku — \"Not Given\" = metinde HİÇ bilgi yok (yorum yapma!). Ardından sitedeki TFNG alıştırmasını çöz (30-40 dk)",
+          "text": "ieltsliz.com'daki True/False/Not Given dersini oku — altın kural: \"Not Given\" = metinde o bilgi HİÇ yok, kendi bilginle yorum yapma. Ardından sayfadaki TFNG alıştırmasını çöz ve her yanlışında metne dönüp kanıt cümlesi ara (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w3-car",
           "day": "Çar",
-          "text": "takeielts.britishcouncil.org → ücretsiz Academic Reading practice testinin 1. metnini süre tutarak çöz (hedef: 20 dk); bilmediğin 8-10 akademik kelimeyi Tobo English'e ekle (30-45 dk)",
+          "text": "takeielts.britishcouncil.org → \"Free IELTS practice tests\" → Academic Reading testinin 1. metnini 20 dk süre tutarak çöz; bilmediğin 8-10 akademik kelimeyi anlamlarıyla Quizlet'te kendi setine ekle (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w3-per",
           "day": "Per",
-          "text": "Writing Task 1 pratiği: ielts.org örneklerinden bir bar chart seç; SADECE giriş + overview paragrafı yaz (4-5 cümle): 1. cümle soruyu paraphrase, 2-3. cümle en çarpıcı 2 trend. ieltsliz.com model cevabıyla karşılaştır (30-45 dk)",
+          "text": "Writing Task 1 pratiği: ielts.org örnek sorularından bir bar chart seç; SADECE giriş + overview paragrafı yaz (4-5 cümle): 1. cümle soruyu kendi kelimelerinle paraphrase, 2-3. cümle en çarpıcı 2 trend (sayı vermeden). Bitince ieltsliz.com'daki bir model cevabın giriş+overview kısmıyla karşılaştır (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w3-cum",
           "day": "Cum",
-          "text": "Speaking Part 1: 2 yeni konu (hobbies, food) ile 3-4 dk kayıt; bu kez cevaplarını uzatmaya çalış — her soruya 2-3 cümle (sebep + örnek ekle) (30 dk)",
+          "text": "ieltsliz.com → Speaking Part 1 listesinden 2 yeni konu (hobbies, food) ile 3-4 dk kayıt yap; bu kez her cevabı 2-3 cümleye uzat: fikir + sebep + küçük örnek. Geçen haftaki kayıtla karşılaştır (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w3-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: Cambridge IELTS 19 Test 1'in Reading bölümünü gerçek sürede (60 dk) çöz (kitap yoksa ieltsonlinetests.com Reading denemesi). Puanla, band karşılığına bak (2-2.5 saat)",
+          "text": "YOĞUN: Cambridge IELTS 19 Test 1'in Reading bölümünü gerçek sürede (60 dk) çöz — kitap yoksa ieltsonlinetests.com'dan bir Academic Reading denemesi. Puanla; doğru sayını band karşılığına çevir (örn. 30/40 ≈ band 7) ve not et (2-2.5 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w3-paz",
           "day": "Paz",
-          "text": "Hata analizi: Reading yanlışlarını türlerine göre grupla (TFNG mi, eşleştirme mi, detay mı?); en zayıf soru tipini hata defterine yaz — Hafta 8'de ona yükleneceğiz (45-60 dk)",
+          "text": "Hata analizi: Reading yanlışlarını soru tipine göre grupla (TFNG / eşleştirme / boşluk / çoktan seçmeli); en zayıf soru tipini hata defterine yaz — Hafta 8'de özel olarak ona yükleneceğiz (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w3-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w3-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -222,61 +222,61 @@
       "no": "4",
       "title": "Writing Task 1: Rapor Yazma",
       "episode": "",
-      "summary": "Task 1 (20 dk, 150+ kelime): grafik/tablo/harita/süreç anlatımı. Yapı: giriş (paraphrase) → overview (2-3 ana trend, DETAYSIZ) → 2 detay paragrafı (veri + karşılaştırma). Band 7 için: net overview + doğru veri + çeşitli kıyas dili (increased sharply, remained stable...).",
+      "summary": "Task 1 (20 dk, 150+ kelime): grafik/tablo/harita/süreç anlatımı. Yapı: giriş (paraphrase) → overview (2-3 ana trend, DETAYSIZ) → 2 detay paragrafı (veri + karşılaştırma). Band 7 için: net overview + doğru veri + çeşitli kıyas dili.",
       "source": "ieltsliz.com → IELTS Writing Task 1 (model cevaplar + dersler)",
       "tasks": [
         {
           "id": "ielts.w4-pzt",
           "day": "Pzt",
-          "text": "ieltsliz.com → Writing Task 1 sayfasından \"structure\" ve \"overview\" derslerini oku; trend kelimelerinin listesini çıkar (rise/fall/fluctuate/peak/remain stable + zarflar: sharply, gradually, slightly) ve Tobo English'e ekle (30-40 dk)",
+          "text": "ieltsliz.com → Writing Task 1 sayfasından \"structure\" ve \"overview\" derslerini oku; ardından bir band 9 model cevabı paragraf paragraf incele: hangi paragrafta ne var, veriler nasıl seçilmiş (hepsi değil, çarpıcı olanlar)? Yapı şablonunu defterine çiz (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w4-sali",
           "day": "Salı",
-          "text": "Listening pratiği: ieltsonlinetests.com'dan 1 Listening section çöz (devam alışkanlığı) + yanlışların paraphrase analizini yap (30-40 dk)",
+          "text": "ieltsonlinetests.com'da 1 Listening section'ı süre tutarak çöz; bitince yanlışlarının ses kaydındaki paraphrase karşılıklarını transkriptten bul ve hata defterine ekle (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w4-car",
           "day": "Çar",
-          "text": "Reading pratiği: takeielts.britishcouncil.org practice testinin 2. metnini 20 dk'da çöz; 8-10 kelime Tobo'ya (30-45 dk)",
+          "text": "takeielts.britishcouncil.org Academic Reading testinin 2. metnini 20 dk süre tutarak çöz; yanlışlarının metindeki kanıt cümlelerini bul; 8-10 yeni akademik kelimeyi Quizlet setine ekle (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w4-per",
           "day": "Per",
-          "text": "İLK TAM TASK 1: ielts.org örneklerinden bir line graph'a 20 dk süre tutarak TAM rapor yaz (150+ kelime). Bitince ieltsliz.com model cevabıyla yapı yapıya karşılaştır: overview'un var mı, veri verdin mi? (40-45 dk)",
+          "text": "İLK TAM TASK 1: ielts.org örneklerinden bir line graph'a 20 dk süre tutarak TAM rapor yaz (150+ kelime: giriş + overview + 2 detay paragrafı). Bitince ieltsliz.com model cevabıyla karşılaştır: overview'un net mi, sayıları doğru kullandın mı, trend kelimelerin çeşitli mi? (40-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w4-cum",
           "day": "Cum",
-          "text": "Speaking Part 2 tanışma: ieltsliz.com → Speaking Part 2 sayfasından cue card formatını öğren (1 dk hazırlık + 2 dk konuşma); 1 cue card (\"Describe a place you like\") ile gerçek süre tutarak kayıt yap (30 dk)",
+          "text": "ieltsliz.com → Speaking Part 2 sayfasından cue card formatını öğren (1 dk hazırlık notu + 2 dk kesintisiz konuşma); listeden \"Describe a place you like\" benzeri 1 cue card seç, gerçek süre tutarak kayıt yap ve dinle: 2 dakikayı doldurabildin mi? (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w4-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: Cambridge IELTS 19 Test 2 Listening + Reading'i gerçek sürede çöz (kitap yoksa ieltsonlinetests.com tam deneme); puanla, Hafta 1 başlangıç denemesiyle karşılaştır (2.5-3 saat)",
+          "text": "YOĞUN: Cambridge IELTS 19 Test 2'nin Listening + Reading bölümlerini gerçek sürede çöz — kitap yoksa ieltsonlinetests.com'dan tam deneme. Puanla ve Hafta 1 başlangıç denemesiyle karşılaştır: hangi modülde kaç soru ilerledin? (2.5-3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w4-paz",
           "day": "Paz",
-          "text": "Hata analizi + Task 1 raporunu yeniden oku: tekrar eden kelimeleri eş anlamlılarıyla değiştir (rise→climb, about→approximately); hata defterini güncelle (45-60 dk)",
+          "text": "Hata analizi + Task 1 revizyonu: Perşembe yazdığın raporu yeniden oku; tekrar eden kelimeleri eş anlamlılarıyla değiştir (rise→climb, about→approximately, show→illustrate); düzeltilmiş versiyonu sakla — Hafta 12'de ilk haliyle karşılaştıracaksın (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w4-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w4-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -287,61 +287,61 @@
       "no": "5",
       "title": "Writing Task 2: Essay",
       "episode": "",
-      "summary": "Task 2 (40 dk, 250+ kelime, puanın 2/3'ü!): opinion / discussion / problem-solution / advantage-disadvantage tipleri. Yapı: giriş (paraphrase + tez) → 2 gövde paragrafı (ana fikir + açıklama + örnek) → sonuç. Band 7: net pozisyon, gelişmiş bağlaçlar, az hata.",
+      "summary": "Task 2 (40 dk, 250+ kelime, Writing puanının 2/3'ü!): opinion / discussion / problem-solution / advantage-disadvantage tipleri. Yapı: giriş (paraphrase + net tez) → 2 gövde paragrafı (ana fikir + açıklama + örnek) → sonuç. Band 7: net pozisyon, çeşitli bağlaçlar, az hata.",
       "source": "ieltsadvantage.com → 100 sample essays + ieltsliz.com → Writing Task 2",
       "tasks": [
         {
           "id": "ielts.w5-pzt",
           "day": "Pzt",
-          "text": "ieltsliz.com → Writing Task 2 sayfasından essay tiplerini ve yapı dersini oku; ieltsadvantage.com'daki \"100 IELTS Writing Task 2 sample essays\" sayfasından 2 band 7+ örnek oku — paragraf yapısını (fikir→açıklama→örnek) işaretle (35-45 dk)",
+          "text": "ieltsliz.com → Writing Task 2 sayfasından essay tiplerini ve yapı dersini oku; ardından ieltsadvantage.com → \"100 IELTS Writing Task 2 sample essays\" sayfasından 2 band 7+ örnek oku — her gövde paragrafında fikir→açıklama→örnek zincirini kalemle işaretle (35-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w5-sali",
           "day": "Salı",
-          "text": "Listening: 1 section pratiği (ieltsonlinetests.com) + map/plan sorusu içeren bir section seç — yön kelimelerini (opposite, adjacent, next to) Tobo'ya ekle (30-40 dk)",
+          "text": "ieltsonlinetests.com'da map/plan sorusu içeren bir Listening section bul ve çöz (Section 2'lerde sık çıkar); yön kelimelerini (opposite, adjacent, next to, just past) Quizlet setine ekle (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w5-car",
           "day": "Çar",
-          "text": "Reading: 1 metin süreli pratik + başlık eşleştirme (matching headings) sorularına odaklan: önce paragrafın İLK ve SON cümlesini oku (30-45 dk)",
+          "text": "ieltsonlinetests.com'dan 1 Academic Reading metnini 20 dk süreyle çöz; bu kez \"matching headings\" (başlık eşleştirme) sorusu içeren bir metin seç — taktik: önce her paragrafın İLK ve SON cümlesini oku, sonra başlık seç (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w5-per",
           "day": "Per",
-          "text": "İLK TAM TASK 2: ieltsliz.com'daki güncel essay sorularından bir opinion essay'i 40 dk süre tutarak yaz (250+ kelime). Yapı: giriş+tez, 2 gövde, sonuç (45 dk)",
+          "text": "İLK TAM TASK 2: ieltsliz.com'daki güncel essay sorularından bir opinion essay'i (\"To what extent do you agree?\") 40 dk süre tutarak yaz (250+ kelime). Yapı: giriş + net tez, 2 gövde paragrafı, kısa sonuç. Kelimeleri say! (45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w5-cum",
           "day": "Cum",
-          "text": "Speaking Part 2: 1 cue card (\"Describe a person you admire\") gerçek süreyle kaydet; dinlerken not al: 2 dakikayı doldurabildin mi, geçmiş zaman hataları var mı? (30 dk)",
+          "text": "ieltsliz.com Part 2 listesinden \"Describe a person you admire\" benzeri 1 cue card ile gerçek süreli kayıt yap; dinlerken iki şeyi kontrol et: 2 dakika doldu mu, geçmiş zaman anlatımında fiil hataları var mı? (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w5-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: Writing günü — dünkü Task 2 essay'ini ieltsadvantage.com band 7-9 örnekleriyle karşılaştırarak kendine puan ver (pozisyon net mi? her paragraf tek fikir mi? bağlaçlar çeşitli mi?). Sonra AYNI soruyu daha iyi versiyonla yeniden yaz + 1 yeni Task 1 raporu (2-2.5 saat)",
+          "text": "YOĞUN: Writing günü — dünkü Task 2 essay'ini ieltsadvantage.com'daki band 7-9 örnekleriyle yan yana koy ve 4 soruyla kendini puanla: pozisyonun net mi, her paragraf tek fikir mi, bağlaçların çeşitli mi (however/moreover/consequently), kaç gramer hatası var? Sonra AYNI soruyu sıfırdan daha iyi yaz + 1 yeni Task 1 raporu ekle (2-2.5 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w5-paz",
           "day": "Paz",
-          "text": "Hata analizi: iki essay versiyonunu karşılaştır, neyi düzelttiğini not et; Writing'de en sık 3 hatanı (artikel? tekrar? uzun cümle?) hata defterine yaz (45-60 dk)",
+          "text": "Hata analizi: iki essay versiyonunu karşılaştır, neyi düzelttiğini maddeler halinde yaz; Writing'de en sık 3 hatanı (artikel? kelime tekrarı? uzun bozuk cümle?) hata defterine işle (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w5-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w5-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -353,60 +353,60 @@
       "title": "Speaking Part 1-2 Yoğunlaşma",
       "episode": "",
       "summary": "Part 1 (4-5 dk): tanıdık konularda kısa sorular — 2-3 cümlelik doğal cevaplar. Part 2 (3-4 dk): cue card — 1 dk hazırlık, 2 dk kesintisiz konuşma. Band 7: akıcılık (uzun duraksamasız), çeşitli kelime, bağlaçlı cümleler, anlaşılır telaffuz.",
-      "source": "ieltsliz.com → Speaking + ielts.idp.com/prepare videoları",
+      "source": "ielts.org band descriptors + ieltsliz.com → Speaking",
       "tasks": [
         {
           "id": "ielts.w6-pzt",
           "day": "Pzt",
-          "text": "ielts.org'dan Speaking band descriptors'ı (puanlama kriterleri) indir/oku: Fluency, Lexical Resource, Grammar, Pronunciation — band 6 ile 7 arasındaki farkı her kriterde 1 cümleyle not et (30-40 dk)",
+          "text": "ielts.org'dan \"Speaking band descriptors\" PDF'ini indir ve oku: 4 kriter (Fluency & Coherence, Lexical Resource, Grammatical Range, Pronunciation). Band 6 ile band 7 arasındaki farkı her kriter için 1 cümleyle defterine yaz — kayıtlarını bununla puanlayacaksın (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w6-sali",
           "day": "Salı",
-          "text": "Listening: 1 section pratiği + bu hafta multiple choice sorularına odaklan: soruyu okurken seçeneklerin paraphrase'lerini bekle (30-40 dk)",
+          "text": "ieltsonlinetests.com'da multiple choice ağırlıklı 1 Listening section çöz (Section 3'lerde sık); taktik: kayıt başlamadan şıkların anahtar kelimelerini işaretle, cevabın paraphrase ile geleceğini bil (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w6-car",
           "day": "Çar",
-          "text": "Reading: 1 metin süreli pratik (rutin korunur); 8-10 kelime Tobo'ya (30-45 dk)",
+          "text": "ieltsonlinetests.com'dan 1 Academic Reading metnini 20 dk süreyle çöz; yanlışların için metinden kanıt cümlesi bul; 8-10 yeni kelimeyi Quizlet setine ekle (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w6-per",
           "day": "Per",
-          "text": "Writing Task 1: farklı grafik tipi — pie chart veya tablo ile 20 dk'lık tam rapor; ieltsliz.com model cevabıyla karşılaştır (40-45 dk)",
+          "text": "Writing Task 1: bu kez farklı grafik tipi — pie chart veya tablo ile 20 dk'lık tam rapor yaz; ieltsliz.com'daki aynı tip model cevapla karşılaştır (pie chart'ta oran dili: account for, make up, constitute) (40-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w6-cum",
           "day": "Cum",
-          "text": "Speaking maratonu: 2 cue card üst üste gerçek süreyle kaydet (ieltsliz.com Part 2 topics listesinden); ikisini de dinle, hangisinde 2 dakikayı doldurduğunu ve neden takıldığını not et (35-40 dk)",
+          "text": "Speaking maratonu: ieltsliz.com Part 2 listesinden 2 cue card'ı arka arkaya gerçek süreyle kaydet; ikisini de dinle ve Pazartesi çıkardığın band 6/7 farklarına göre hangisinin daha iyi olduğunu, neden takıldığını not et (35-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w6-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: Cambridge IELTS 18 Test 1 Listening + Reading gerçek sürede (kitap yoksa ieltsonlinetests.com); puanla ve modül bandlarını takip tablona işle (2.5-3 saat)",
+          "text": "YOĞUN: Cambridge IELTS 18 Test 1'in Listening + Reading bölümlerini gerçek sürede çöz — kitap yoksa ieltsonlinetests.com tam denemesi. Puanları modül bazında takip tablona işle (basit bir tablo tut: hafta, L, R puanları) (2.5-3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w6-paz",
           "day": "Paz",
-          "text": "Hata analizi + Speaking değerlendirme: haftanın en iyi kaydını seçip band descriptors'a göre 4 kriterde kendine puan ver; en zayıf kriteri belirle (45-60 dk)",
+          "text": "Hata analizi + Speaking değerlendirme: haftanın en iyi kaydını seç, band descriptors'ın 4 kriterine göre kendine 1-9 arası puan ver; en zayıf kriterini hata defterine yaz (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w6-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w6-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -423,55 +423,55 @@
         {
           "id": "ielts.w7-pzt",
           "day": "Pzt",
-          "text": "ieltsliz.com → Speaking Part 3 sayfasını oku: soru tipleri (opinion, compare, predict) ve cevap geliştirme tekniği (fikir → sebep → örnek → karşı durum). 5 kalıbı eze: \"It depends on...\", \"Generally speaking...\", \"On the other hand...\" (30-40 dk)",
+          "text": "ieltsliz.com → Speaking Part 3 sayfasını oku: soru tipleri (opinion, compare, predict) ve cevap geliştirme tekniği (fikir → sebep → örnek → karşı durum). Şu 5 kalıbı sesli tekrarla ezberle: \"It depends on...\", \"Generally speaking...\", \"On the other hand...\", \"From my perspective...\", \"I'd argue that...\" (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w7-sali",
           "day": "Salı",
-          "text": "Listening: 1 section pratiği — rutin (30-40 dk)",
+          "text": "ieltsonlinetests.com'da 1 Listening section'ı süre tutarak çöz; yanlışlarının paraphrase analizini yap ve hata defterine işle (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w7-car",
           "day": "Çar",
-          "text": "Reading: 1 metin süreli pratik — rutin (30-45 dk)",
+          "text": "ieltsonlinetests.com'dan 1 Academic Reading metnini 20 dk süreyle çöz; Hafta 3'te belirlediğin zayıf soru tipinden soru içeren bir metin seçmeye çalış (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w7-per",
           "day": "Per",
-          "text": "Writing Task 2: discussion essay (\"Some people think X, others Y. Discuss both views\") 40 dk süreyle yaz; iki görüşe de paragraf + kendi fikrin net olsun (45 dk)",
+          "text": "Writing Task 2: discussion essay (\"Some people think X, others think Y. Discuss both views and give your opinion\") 40 dk süreyle yaz; iki görüşe de birer paragraf ver ama kendi fikrini girişte ve sonuçta NET belirt (45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w7-cum",
           "day": "Cum",
-          "text": "Speaking tam simülasyon: Part 1 (2 konu) + Part 2 (1 cue card) + Part 3 (cue card'ın derin soruları — ieltsliz.com listesinden) tek seferde 12-14 dk kayıt yap (35-40 dk)",
+          "text": "Speaking tam simülasyon: ieltsliz.com listelerinden Part 1 (2 konu) + Part 2 (1 cue card) + Part 3 (aynı konunun derin soruları) — tamamını tek seferde, 12-14 dk kesintisiz kaydet; gerçek sınav temposunu hisset (35-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w7-cmt",
           "day": "Cmt",
-          "text": "🏁 ARA DENEME: ieltsonlinetests.com'da TAM deneme (Listening + Reading, gerçek süre) + 1 Task 2 essay (40 dk). Bandları Hafta 1 başlangıcıyla karşılaştır: hangi modül ne kadar ilerledi? (3 saat)",
+          "text": "🏁 ARA DENEME: ieltsonlinetests.com'da TAM deneme — Listening (30 dk) + Reading (60 dk) gerçek süreyle + ardından 1 Task 2 essay (40 dk). Bandları Hafta 1 başlangıç denemesiyle karşılaştır (3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w7-paz",
           "day": "Paz",
-          "text": "ARA DEĞERLENDİRME: 4 modülün tahmini bandlarını yaz; 7.0 hedefine en uzak 2 modülü belirle — Hafta 10 bu ikisine ayrılacak. Hata defterinin tamamını baştan tara (60 dk)",
+          "text": "ARA DEĞERLENDİRME: 4 modülün tahmini bandlarını tablona yaz; 7.0 hedefine en uzak 2 modülü belirle ve hata defterine yaz — Hafta 10 tamamen bu ikisine ayrılacak. Hata defterinin tamamını baştan tara (60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w7-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w7-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -482,61 +482,61 @@
       "no": "8",
       "title": "Listening & Reading İleri Taktikler",
       "episode": "",
-      "summary": "Hız ve tuzak yönetimi: map/diagram labelling, çoktan seçmelide şık eleme, Reading'de paralel okuma (soru-metin sıralı gider). Hedef: pratiklerde 30+/40 tutarlılığı (band 7 eşiği).",
-      "source": "ieltsliz.com (Listening/Reading dersleri) + Cambridge 18",
+      "summary": "Hız ve tuzak yönetimi: map/diagram labelling, çoktan seçmelide şık eleme, Reading'de soru-metin paralel ilerleme. Hedef: pratiklerde 30+/40 tutarlılığı (band 7 eşiği).",
+      "source": "ieltsliz.com (Listening/Reading ileri dersler) + Cambridge 18",
       "tasks": [
         {
           "id": "ielts.w8-pzt",
           "day": "Pzt",
-          "text": "ieltsliz.com'dan map labelling ve diagram dersi: kayıt başlamadan haritayı incele, başlangıç noktasını bul, yön dilini hazırla (turn left, go past, at the end of). 1 map alıştırması çöz (30-40 dk)",
+          "text": "ieltsliz.com'dan map labelling ve diagram dersini oku: kayıt başlamadan haritayı 20 saniye incele, başlangıç noktasını bul, yön dilini hazırla (turn left, go past, at the end of, directly opposite). Ardından 1 map alıştırması çöz (ieltsliz'in kendi alıştırması veya ieltsonlinetests'ten map'li section) (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w8-sali",
           "day": "Salı",
-          "text": "Listening: Section 3 (en zor section) özel pratiği — 2 kişili akademik diyalogda kimin ne dediğini ayırt etme; 1 section çöz + transkript analizi (35-40 dk)",
+          "text": "Section 3 özel pratiği — Listening'in en zor bölümü: ieltsonlinetests.com'dan Section 3 içeren bir test seç, çöz; iki konuşmacılı akademik diyalogda kimin ne dediğini ayırt etmeye odaklan, sonra transkriptle doğrula (35-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w8-car",
           "day": "Çar",
-          "text": "Reading hız çalışması: 1 metni 18 dk'da bitirmeye çalış (normalden 2 dk az); bitiremediysen hangi soru tipinde takıldığını not et (30-45 dk)",
+          "text": "Reading hız çalışması: ieltsonlinetests.com'dan 1 metni 18 dk'da bitirmeye çalış (normalden 2 dk az); bitiremediysen hangi soru tipinde zaman kaybettiğini ölç ve not et (30-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w8-per",
           "day": "Per",
-          "text": "Writing Task 1: süreç (process) diyagramı — ieltsliz.com process dersi + 20 dk'lık rapor (passive voice kullan: \"the water is heated...\") (40-45 dk)",
+          "text": "Writing Task 1: süreç (process) diyagramı — ieltsliz.com'daki process diagram dersini oku, sonra bir süreç sorusuna 20 dk'lık rapor yaz; passive voice kullan (the water is heated, the mixture is then filtered) (40-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w8-cum",
           "day": "Cum",
-          "text": "Speaking Part 3 pratiği: 1 soyut konu (education, technology) üzerine 5 soruya kayıtla cevap; her cevapta fikir+sebep+örnek zinciri kur (30 dk)",
+          "text": "Speaking Part 3 pratiği: ieltsliz.com Part 3 sorularından soyut bir konu seç (education, technology); 5 soruya kayıtla cevap ver, her cevapta fikir+sebep+örnek zincirini kur; kaydı dinleyip zincirin koptuğu yerleri not et (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w8-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: Cambridge IELTS 18 Test 2 Listening + Reading gerçek sürede; puanla. 30/40 altıysa yanlışların soru tipi dağılımını çıkar (2.5-3 saat)",
+          "text": "YOĞUN: Cambridge IELTS 18 Test 2'nin Listening + Reading bölümlerini gerçek sürede çöz — kitap yoksa ieltsonlinetests.com denemesi. 30/40 altında kalan modül varsa yanlışların soru tipi dağılımını çıkar (2.5-3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w8-paz",
           "day": "Paz",
-          "text": "Hata analizi: L/R yanlışlarının tip dağılımını önceki haftalarla karşılaştır — düzelen ve düzelmeyen tipleri hata defterine işle (45-60 dk)",
+          "text": "Hata analizi: bu haftanın L/R yanlış tiplerini Hafta 2-3'tekilerle karşılaştır — hangi hata tipi düzeldi, hangisi direniyor? Direnen tipi hata defterinde işaretle (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w8-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w8-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -553,55 +553,55 @@
         {
           "id": "ielts.w9-pzt",
           "day": "Pzt",
-          "text": "ielts.org'dan Writing Task 2 band descriptors'ı oku; band 6 vs 7 farkını 4 kritere göre tablo yap. ieltsadvantage.com'dan 1 band 9 essay oku — hangi cümleler \"karmaşık yapı\" sayılır işaretle (35-45 dk)",
+          "text": "ielts.org'dan \"Writing Task 2 band descriptors\" PDF'ini oku; band 6 vs band 7 farkını 4 kriter için tablo yap. Ardından ieltsadvantage.com'dan 1 band 9 essay oku — hangi cümlelerin \"karmaşık yapı\" sayıldığını (relative clause, koşul, passive) işaretle (35-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w9-sali",
           "day": "Salı",
-          "text": "Task 2 essay #1: problem-solution tipi (\"What problems does X cause? What solutions?\") 40 dk süreyle yaz (45 dk)",
+          "text": "Task 2 essay #1: ieltsliz.com sorularından problem-solution tipi (\"What problems does X cause? What solutions can you suggest?\") 40 dk süreyle yaz; problem ve çözüm paragraflarını dengeli tut (45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w9-car",
           "day": "Çar",
-          "text": "Dünkü essay'in öz-puanlaması: 4 band kriterine göre puanla; en zayıf kriteri düzelterek 2. versiyon yaz (sadece zayıf paragrafları) (35-45 dk)",
+          "text": "Dünkü essay'in öz-puanlaması: Pazartesi yaptığın band 6/7 tablosuyla 4 kriterde puanla; en zayıf çıkan kriteri düzelterek sadece o paragrafları yeniden yaz (35-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w9-per",
           "day": "Per",
-          "text": "Task 2 essay #2: advantage-disadvantage tipi 40 dk süreyle yaz (45 dk)",
+          "text": "Task 2 essay #2: advantage-disadvantage tipi (\"Do the advantages outweigh the disadvantages?\") 40 dk süreyle yaz; \"outweigh\" sorusunda net taraf seç ve sonuçta tekrarla (45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w9-cum",
           "day": "Cum",
-          "text": "Speaking: Part 2+3 kombinasyonu 1 kayıt (Writing yoğun haftasında konuşmayı düşürme) (30 dk)",
+          "text": "Speaking koruma günü: ieltsliz.com'dan 1 cue card ile Part 2+3 kombinasyonunu kaydet (Writing yoğun haftasında konuşma akıcılığı düşmesin); kaydı dinleyip 1 iyi + 1 kötü yönünü not et (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w9-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: tam Writing simülasyonu — 60 dk'da Task 1 + Task 2 arka arkaya (gerçek sınav düzeni: önce T1 20 dk, sonra T2 40 dk). Ardından ikisini de ieltsliz/ieltsadvantage modelleriyle karşılaştır (2.5 saat)",
+          "text": "YOĞUN: tam Writing simülasyonu — gerçek sınav düzeninde 60 dk: önce Task 1 (20 dk), sonra Task 2 (40 dk), molasız. Ardından her ikisini ieltsliz.com / ieltsadvantage.com model cevaplarıyla karşılaştır ve 4 kriterde puanla (2.5 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w9-paz",
           "day": "Paz",
-          "text": "Hata analizi: haftanın 4 yazısındaki ortak hataları listele; kendine 5 maddelik \"yazarken kontrol listesi\" çıkar (kelime sayısı, overview, tez, bağlaç çeşidi, artikeller) (45-60 dk)",
+          "text": "Hata analizi: bu haftanın 4 yazısındaki ortak hataları listele; kendine 5 maddelik \"yazarken kontrol listesi\" çıkar (kelime sayısı, overview/tez net, paragraf başına tek fikir, bağlaç çeşidi, artikel kontrolü) — sınava kadar her yazıda bunu kullan (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w9-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w9-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -612,61 +612,61 @@
       "no": "10",
       "title": "ZAYIF ALAN Haftası",
       "episode": "",
-      "summary": "Hafta 7 ara değerlendirmesinde belirlediğin EN ZAYIF 2 modüle özel hafta. Aşağıdaki görevlerde \"zayıf modül\" senin seçtiklerindir — günleri ona göre uygula.",
-      "source": "Önceki haftaların kaynakları (zayıf modüle göre seç)",
+      "summary": "Hafta 7 ara değerlendirmesinde belirlediğin EN ZAYIF 2 modüle özel hafta. Görevlerdeki \"zayıf modül\", senin Hafta 7 Pazar günü hata defterine yazdığın modüllerdir.",
+      "source": "Zayıf modüle göre: ieltsliz.com dersleri + ieltsonlinetests.com pratikleri + Cambridge 17",
       "tasks": [
         {
           "id": "ielts.w10-pzt",
           "day": "Pzt",
-          "text": "Zayıf modül #1 için strateji tekrarı: o modülün ieltsliz.com sayfasındaki dersleri yeniden oku; hata defterindeki o modül hatalarını tara, en sık 3 hata tipini yaz (30-40 dk)",
+          "text": "Zayıf modül #1 strateji tekrarı: o modülün ieltsliz.com sayfasındaki dersleri baştan oku; hata defterindeki o modüle ait tüm notları tara ve en sık 3 hata tipini bir karta yaz — bu hafta o kartla çalışacaksın (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w10-sali",
           "day": "Salı",
-          "text": "Zayıf modül #1 pratiği: 1 tam bölüm/görev gerçek sürede + detaylı hata analizi (35-45 dk)",
+          "text": "Zayıf modül #1 pratiği: ieltsonlinetests.com'dan o modülün 1 tam bölümünü gerçek sürede çöz; kart listendeki hata tiplerine düşüp düşmediğini kontrol et, her yanlışı hata defterine işle (35-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w10-car",
           "day": "Çar",
-          "text": "Zayıf modül #2 için strateji tekrarı: dersler + hata defteri taraması (30-40 dk)",
+          "text": "Zayıf modül #2 strateji tekrarı: ieltsliz.com dersleri + hata defteri taraması + en sık 3 hata kartı (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w10-per",
           "day": "Per",
-          "text": "Zayıf modül #2 pratiği: 1 tam bölüm/görev gerçek sürede + hata analizi (35-45 dk)",
+          "text": "Zayıf modül #2 pratiği: 1 tam bölüm/görev gerçek sürede (Writing zayıfsa: 1 tam Task 2 + öz-puanlama; Speaking zayıfsa: tam Part 1+2+3 kaydı + descriptors puanlaması) (35-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w10-cum",
           "day": "Cum",
-          "text": "Speaking rutini korunur: 1 tam Part 1+2+3 kaydı; önceki haftaki kayıtla karşılaştır — akıcılık ilerledi mi? (30-35 dk)",
+          "text": "Speaking koruma günü: ieltsliz.com'dan tam Part 1+2+3 kaydı yap; Hafta 7'deki simülasyon kaydınla karşılaştır — akıcılıkta fark var mı? (30-35 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w10-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: Cambridge IELTS 17 Test 1'den SADECE zayıf 2 modülün bölümlerini gerçek sürede çöz; kalan zamanı en zayıf soru tipinin nokta atışı pratiğine ayır (2.5-3 saat)",
+          "text": "YOĞUN: Cambridge IELTS 17 Test 1'den SADECE zayıf 2 modülün bölümlerini gerçek sürede çöz (kitap yoksa ieltsonlinetests.com'dan o modüllerin denemeleri); kalan süreyi en dirençli soru tipinin nokta atışı pratiğine ayır (2.5-3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w10-paz",
           "day": "Paz",
-          "text": "Hata analizi + karar: zayıf modüllerde ilerleme var mı? Yoksa Hafta 11'in bölüm denemelerinde bu modüllere ekstra ağırlık ver (45-60 dk)",
+          "text": "Hata analizi + karar: zayıf modüllerin puanı bu hafta yükseldi mi? Yükselmediyse Hafta 11'in bölüm denemelerinde bu modüllere çift ağırlık vereceksin — kararını hata defterine yaz (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w10-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w10-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -677,61 +677,61 @@
       "no": "11",
       "title": "Cambridge Bölüm Denemeleri",
       "episode": "",
-      "summary": "Her gün 1 modül bölümü, gerçek süre, sınav disiplini (telefon uzakta, tek oturuş). Amaç: dayanıklılık + istikrar. Band 7 eşiği: Listening/Reading'de tutarlı 30+/40.",
+      "summary": "Her gün 1 modül bölümü, gerçek süre, sınav disiplini (telefon uzakta, tek oturuş, süre bitince kalem bırak). Amaç: dayanıklılık + istikrar. Band 7 eşiği: Listening/Reading'de tutarlı 30+/40.",
       "source": "Cambridge IELTS 17-18 (kitap yoksa ieltsonlinetests.com denemeleri)",
       "tasks": [
         {
           "id": "ielts.w11-pzt",
           "day": "Pzt",
-          "text": "Cambridge 17 Test 2 Listening'i gerçek sürede çöz + transkript analizi (40-45 dk)",
+          "text": "Cambridge IELTS 17 Test 2'nin Listening bölümünü gerçek sürede çöz (kitap yoksa ieltsonlinetests.com Listening denemesi); ardından transkriptle kaçırdıklarının paraphrase analizini yap (40-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w11-sali",
           "day": "Salı",
-          "text": "Cambridge 17 Test 2 Reading'i gerçek sürede (60 dk) çöz — bugün süre 60 dk'yı geçebilir, sorun değil (60-70 dk)",
+          "text": "Cambridge IELTS 17 Test 2'nin Reading bölümünü gerçek sürede (60 dk) çöz — bugünün çalışması normalden uzun, sorun değil; puanı takip tablona işle (60-70 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w11-car",
           "day": "Çar",
-          "text": "Task 1 raporu: bugüne kadar yazmadığın grafik tipiyle (harita varsa harita) 20 dk'lık rapor + model karşılaştırması (35-40 dk)",
+          "text": "Writing Task 1: bugüne kadar yazmadığın soru tipiyle (harita karşılaştırması veya çift grafik) 20 dk'lık rapor yaz; ieltsliz.com'daki aynı tip model cevapla karşılaştır (35-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w11-per",
           "day": "Per",
-          "text": "Task 2 essay: ieltsliz.com güncel sorularından birini 40 dk'da yaz; kontrol listenle (Hafta 9 Paz) kendini denetle (45 dk)",
+          "text": "Writing Task 2: ieltsliz.com'un güncel soru listesinden birini 40 dk'da yaz; Hafta 9 Pazar çıkardığın 5 maddelik kontrol listesiyle kendini denetle (45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w11-cum",
           "day": "Cum",
-          "text": "Speaking: tam Part 1+2+3 simülasyonu kayıtla; band descriptors'la öz-puanla (30-35 dk)",
+          "text": "Speaking: ieltsliz.com listelerinden tam Part 1+2+3 simülasyonu kaydet; band descriptors'ın 4 kriteriyle öz-puanla ve takip tablona işle (30-35 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w11-cmt",
           "day": "Cmt",
-          "text": "YOĞUN: Cambridge 18 Test 3 Listening + Reading gerçek sürede + hata analizi aynı gün (2.5-3 saat)",
+          "text": "YOĞUN: Cambridge IELTS 18 Test 3'ün Listening + Reading bölümlerini gerçek sürede çöz; hata analizini AYNI GÜN yap — yanlışların kanıt/paraphrase'lerini bul, defterine işle (2.5-3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w11-paz",
           "day": "Paz",
-          "text": "Haftalık değerlendirme: tüm bölüm denemelerinin puanlarını tablola; 3 haftalık trend çiz — hangi modül stabil 7.0+ bandında? (45-60 dk)",
+          "text": "Haftalık değerlendirme: takip tablondaki tüm bölüm denemesi puanlarını alt alta yaz; 3 haftalık trende bak — hangi modül stabil band 7.0+ seviyesinde, hangisi dalgalı? Dalgalı olana Hafta 12'de ekstra 1 bölüm ekle (45-60 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w11-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w11-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -742,61 +742,61 @@
       "no": "12",
       "title": "TAM SİMÜLASYON Haftası",
       "episode": "",
-      "summary": "Gerçek sınav koşullarında 2 TAM deneme: sabah saatinde, tek oturuşta L→R→W sıralı (sınavın gerçek akışı), molasız. Speaking ayrı gün simüle edilir.",
+      "summary": "Gerçek sınav koşullarında 2 TAM deneme: sabah saatinde, tek oturuşta Listening→Reading→Writing sıralı (sınavın gerçek akışı), molasız. Speaking ayrı gün simüle edilir.",
       "source": "Cambridge IELTS 19-20 en taze testler (kitap yoksa ieltsonlinetests.com)",
       "tasks": [
         {
           "id": "ielts.w12-pzt",
           "day": "Pzt",
-          "text": "Hafif gün: hata defterinin tamamını oku; her modül için \"sınavda dikkat\" 3 maddelik özet çıkar (30-40 dk)",
+          "text": "Hafif gün: hata defterinin TAMAMINI baştan sona oku; her modül için \"sınavda dikkat edilecekler\" 3'er maddelik özet çıkar (toplam 12 madde) (30-40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w12-sali",
           "day": "Salı",
-          "text": "Speaking simülasyonu #1: tam Part 1+2+3 kaydı + öz-puanlama (30-35 dk)",
+          "text": "Speaking simülasyonu: ieltsliz.com listelerinden tam Part 1+2+3 kaydı + band descriptors ile öz-puanlama; Hafta 1'deki \"0. gün\" kaydını da dinle — farkı duy (30-35 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w12-car",
           "day": "Çar",
-          "text": "Task 2 hız pratiği: 1 essay'i 35 dk'da bitirmeye çalış (sınavda 5 dk tampon kazanırsın) (40 dk)",
+          "text": "Task 2 hız pratiği: ieltsliz.com sorularından 1 essay'i 35 dk'da bitirmeye çalış (sınavda 5 dk kontrol tamponu kazanırsın); kontrol listenle denetle (40 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w12-per",
           "day": "Per",
-          "text": "Listening + Reading karışık: zayıf soru tiplerinden seçme 20 soru (önceki testlerin çözmediğin bölümlerinden) (35-45 dk)",
+          "text": "Nokta atışı: önceki testlerin çözmediğin bölümlerinden, hata defterinde \"dirençli\" işaretli soru tiplerinden ~20 soru derle ve çöz (ieltsonlinetests.com'dan ilgili section/passage'lar) (35-45 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w12-cum",
           "day": "Cum",
-          "text": "Hafif gün: Tobo English'te AWL tekrarı + Speaking kalıplarını sesli tekrar et (25-30 dk)",
+          "text": "Hafif gün: Quizlet'te bu haftaya kadar biriken AWL setlerini Test moduyla tara; Speaking kalıplarını (\"It depends on...\", \"I'd argue that...\") sesli tekrar et. Erken yat (25-30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w12-cmt",
           "day": "Cmt",
-          "text": "🏁 TAM DENEME #1: Cambridge 20 Test 1 (veya ieltsonlinetests.com) — Listening (30 dk) → Reading (60 dk) → Writing T1+T2 (60 dk) molasız, gerçek sınav gibi (3 saat)",
+          "text": "🏁 TAM DENEME #1: Cambridge IELTS 20 Test 1 (kitap yoksa ieltsonlinetests.com tam denemesi) — Listening (30 dk) → Reading (60 dk) → Writing Task 1+2 (60 dk), molasız, gerçek sınav saatinde (sabah). Puanla ve tablona işle (3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w12-paz",
           "day": "Paz",
-          "text": "🏁 TAM DENEME #2 veya derin analiz: Dünkü denemenin tüm yanlışlarını analiz et + Writing'i modellerle karşılaştır. Enerjin varsa ikinci tam deneme (Cambridge 20 Test 2) (2-3 saat)",
+          "text": "🏁 TAM DENEME #2 veya derin analiz: enerjin varsa Cambridge IELTS 20 Test 2 ile ikinci tam deneme; yoksa dünkü denemenin tüm yanlışlarını analiz et + Writing cevaplarını model cevaplarla karşılaştır (2-3 saat)",
           "recurring": false
         },
         {
           "id": "ielts.w12-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w12-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]
@@ -807,61 +807,61 @@
       "no": "13",
       "title": "Sınav Haftası",
       "episode": "",
-      "summary": "Yeni bilgi YOK — beyin taze tutulur. Hafif tekrar, strateji özetleri, uyku düzeni. Sınav kaydını (IDP/British Council) bu haftadan önce yapmış olmalısın.",
+      "summary": "Yeni bilgi YOK — beyin taze tutulur. Hafif tekrar, strateji özetleri, uyku düzeni. Sınav kaydını (IDP veya British Council üzerinden) bu haftadan önce yapmış olmalısın.",
       "source": "Hata defteri + kendi özetlerin",
       "tasks": [
         {
           "id": "ielts.w13-pzt",
           "day": "Pzt",
-          "text": "Hata defteri final taraması: her modülün \"sınavda dikkat\" listesini tek sayfaya geçir — sınav sabahı SADECE bunu okuyacaksın (30 dk)",
+          "text": "Hata defteri final taraması: Hafta 12 Pazartesi çıkardığın 12 maddelik \"sınavda dikkat\" listesini tek sayfaya temize çek — sınav sabahı SADECE bu sayfayı okuyacaksın (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w13-sali",
           "day": "Salı",
-          "text": "Hafif Listening: 1 section, keyif modunda; yazım kurallarını (tekil/çoğul, büyük harf) son kez hatırla (25-30 dk)",
+          "text": "Hafif Listening: ieltsonlinetests.com'dan 1 kolay section'ı keyif modunda çöz; yazım kurallarını (tekil/çoğul, sayılar, büyük harf) son kez hatırla (25-30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w13-car",
           "day": "Çar",
-          "text": "Hafif Reading: 1 kısa metin + TFNG mantığını son kez tekrar et: \"Not Given = yorum yapma\" (25-30 dk)",
+          "text": "Hafif Reading: 1 kısa metin çöz + TFNG altın kuralını son kez tekrarla: \"Not Given = metinde yok, yorum yapma\" (25-30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w13-per",
           "day": "Per",
-          "text": "Writing son prova: 1 Task 1 overview paragrafı + 1 Task 2 giriş paragrafı yaz (tam essay değil, sadece açılışlar — el alışkanlığı) (30 dk)",
+          "text": "Writing el alışkanlığı: 1 Task 1 giriş+overview paragrafı ve 1 Task 2 giriş paragrafı yaz (tam metin değil, sadece açılışlar — kalıpların elinin altında olduğunu hisset) (30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w13-cum",
           "day": "Cum",
-          "text": "Speaking ısınması: Part 1 sorularıyla 5 dk rahat kayıt; kalıplarını sesli tekrar et. Erken yat! (20-25 dk)",
+          "text": "Speaking ısınması: ieltsliz.com Part 1 sorularıyla 5 dk rahat bir kayıt yap; kalıplarını sesli tekrarla. Sınav çantanı hazırla (kimlik!), erken yat (20-25 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w13-cmt",
           "day": "Cmt",
-          "text": "🏁 SINAV GÜNÜ (veya son dinlenme): Sınav sabahı tek sayfalık özetini oku, kahvaltını yap, erken çık. Başarılar! 🍀",
+          "text": "🏁 SINAV GÜNÜ (veya son dinlenme): sabah tek sayfalık özetini oku, iyi kahvaltı yap, erken çık. Süre yönetimini unutma: Reading'de takılırsan işaretle ve geç. Başarılar! 🍀",
           "recurring": false
         },
         {
           "id": "ielts.w13-paz",
           "day": "Paz",
-          "text": "Sınav sonrası değerlendirme: hangi modül beklediğin gibi geçti, hangisi sürpriz yaptı — not al (sonuç ~3-5 gün içinde açıklanır; 7.0 altı kalan modül olursa yeniden giriş planı buradan kurulur) (20-30 dk)",
+          "text": "Sınav sonrası değerlendirme: hangi modül beklediğin gibi geçti, hangisi sürpriz yaptı — not al. Sonuç ~3-5 gün içinde (bilgisayarlı sınavda daha hızlı) açıklanır; bir modül 7.0 altı kalırsa yeniden giriş planını bu notlardan kurarsın (20-30 dk)",
           "recurring": false
         },
         {
           "id": "ielts.w13-rec-awl",
           "day": "Hafta içi",
-          "text": "Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. Kaynak: \"Academic Word List (AWL)\" — internette \"AWL sublist\" diye aratınca çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)",
+          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
           "id": "ielts.w13-rec-speak",
           "day": "Her gün",
-          "text": "Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et",
+          "text": "Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini dinleyip 1 hatanı not et",
           "recurring": true
         }
       ]

@@ -61,14 +61,16 @@ const PROGRAM_CONFIGS = {
         recurring: [
             {
                 suffix: 'rec-awl', day: 'Hafta içi',
-                text: 'Tobo English uygulamasına bu hafta 15-20 akademik kelime ekle ve çalış. '
-                    + 'Kaynak: "Academic Word List (AWL)" — internette "AWL sublist" diye aratınca '
-                    + 'çıkan resmi 570 kelimelik listeden sırayla ilerle (haftada 1 alt liste)'
+                text: 'Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List '
+                    + '(AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste '
+                    + 'sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 '
+                    + 'alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary'
             },
             {
                 suffix: 'rec-speak', day: 'Her gün',
-                text: 'Her gün telefona 2 dakikalık serbest İngilizce konuşma kaydet (herhangi bir '
-                    + 'konu); haftada en az 5 kayıt. Haftanın sonunda birini dinleyip 1 hatanı not et'
+                text: 'Her gün telefona 2 dakikalık İngilizce konuşma kaydet; konuyu ieltsliz.com → '
+                    + 'Speaking Part 1 sorularından seç. Haftada en az 5 kayıt; hafta sonunda birini '
+                    + 'dinleyip 1 hatanı not et'
             }
         ]
     }
