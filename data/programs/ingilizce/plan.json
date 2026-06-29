@@ -28,7 +28,7 @@
       "title": "To be · Possessives · Present Simple (olumlu)",
       "episode": "S1E1 \"The Pilot\"",
       "summary": "I am tired. She is upset. They are friends. / my apartment, Ross's ex-wife / Monica cooks. I work here. (3. tekilde -s!)",
-      "source": "test-english.com → A1 → \"Verb to be\", \"Possessive adjectives\", \"Present simple\"",
+      "source": "test-english.com A1 — Verb to be (https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/), Possessive adjectives (https://test-english.com/grammar-points/a1/possessive-adjectives/), Present simple (https://test-english.com/grammar-points/a1/present-simple/)",
       "tasks": [
         {
           "id": "w1-pzt",
@@ -87,7 +87,7 @@
       "title": "Present Simple (do/does) · Articles · Çoğullar",
       "episode": "S1E2 \"The Sonogram at the End\"",
       "summary": "Do you like it? She doesn't know. (does varsa fiil yalın!) / İlk bahsedişte a/an, bilinende the / man→men, child→children",
-      "source": "test-english.com → A1 → \"Present simple negative & questions\", \"Articles a/an/the\", \"Plurals\"",
+      "source": "test-english.com A1 — Present simple negative & questions (https://test-english.com/grammar-points/a1/present-simple/), Articles a/an/the (https://test-english.com/grammar-points/a1/a-an-the-no-article/), Plurals (https://test-english.com/grammar-points/a1/a-an-plurals/)",
       "tasks": [
         {
           "id": "w2-pzt",
@@ -146,7 +146,7 @@
       "title": "Present Continuous (+Simple farkı) · There is/are · Can",
       "episode": "S1E3 \"The Thumb\"",
       "summary": "She is sleeping (şu an) vs She sleeps a lot (genelde) / There is a sofa. There are two beds. / I can swim. He can't sing. (cans ❌)",
-      "source": "test-english.com → A1 → \"Present continuous\", \"There is/are\", \"Can/can't\" + \"Present simple vs continuous\"",
+      "source": "test-english.com A1 — Present continuous (https://test-english.com/grammar-points/a1/present-continuous/), There is/are (https://test-english.com/grammar-points/a1/there-is-there-are/), Can/can't (https://test-english.com/grammar-points/a1/can-cant/), Present simple vs continuous (https://test-english.com/grammar-points/a1/present-simple-present-continuous/)",
       "tasks": [
         {
           "id": "w3-pzt",
@@ -205,7 +205,7 @@
       "title": "Past Simple (tamamı)",
       "episode": "S1E4 \"George Stephanopoulos\"",
       "summary": "I worked / I went (düzensizler!) / Did you see? I didn't know. (did varsa fiil yalın). Bu hafta tek konu — B1'deki present perfect ayrımı bu temele oturacak.",
-      "source": "test-english.com → A1-A2 → \"Past simple\" (was/were dahil) + \"Irregular verbs\"",
+      "source": "test-english.com A1 — Past simple, was/were dahil (https://test-english.com/grammar-points/a1/past-simple-regular-irregular/), Irregular verbs (https://test-english.com/grammar-points/a1/past-simple-regular-irregular/)",
       "tasks": [
         {
           "id": "w4-pzt",
@@ -264,7 +264,7 @@
       "title": "Comparatives/Superlatives · Some/Any/Much/Many",
       "episode": "S1E5 \"The East German Laundry Detergent\"",
       "summary": "bigger, more expensive, the best / some money, any questions?, how much time, how many friends",
-      "source": "test-english.com → A2 → \"Comparatives and superlatives\", \"Quantifiers: some/any/much/many\"",
+      "source": "test-english.com A2 — Comparatives and superlatives (https://test-english.com/grammar-points/a2/comparative-superlative-adjectives-adverbs/), Quantifiers some/any/much/many (https://test-english.com/grammar-points/a2/much-many-little-few-some-any/)",
       "tasks": [
         {
           "id": "w5-pzt",
@@ -323,7 +323,7 @@
       "title": "Going to / Will · Sıklık Zarfları · 🏁 A2 ÇIKIŞ TESTİ",
       "episode": "S1E6 \"The Butt\"",
       "summary": "I'm going to visit (plan) vs I'll help you (anlık karar) / always, usually, often, sometimes, never (be'den sonra, fiilden önce)",
-      "source": "test-english.com → A2 → \"Future: going to & will\", \"Adverbs of frequency\" + https://test-english.com/use-of-english/a2/",
+      "source": "test-english.com A2 — Future: going to & will (https://test-english.com/grammar-points/a2/will-vs-be-going-to/), Adverbs of frequency (https://test-english.com/grammar-points/a1/adverbs-frequency/) + https://test-english.com/use-of-english/a2/",
       "tasks": [
         {
           "id": "w6-pzt",
@@ -382,7 +382,7 @@
       "title": "Present Perfect (tanışma)",
       "episode": "S1E7 \"The Blackout\"",
       "summary": "have/has + V3. Geçmişte olmuş, etkisi şu ana uzanan olaylar: I have lost my keys (hâlâ kayıp). She has been to Paris (deneyim). Sinyal kelimeler: just, already, yet, ever, never.",
-      "source": "test-english.com → B1 → \"Present perfect\"",
+      "source": "test-english.com B1 — Present perfect (https://test-english.com/grammar-points/b1/present-perfect-simple-present-perfect-continuous/)",
       "tasks": [
         {
           "id": "w7-pzt",
@@ -441,7 +441,7 @@
       "title": "Present Perfect vs Past Simple",
       "episode": "S1E8 \"The Nana Dies Twice\"",
       "summary": "Zaman belliyse past simple: I saw him yesterday. Zaman belirsiz/etkisi sürüyorsa present perfect: I have seen this movie. B1'in EN KRİTİK ayrımı — acele etme.",
-      "source": "test-english.com → B1 → \"Present perfect vs past simple\" + perfect-english-grammar.com",
+      "source": "test-english.com B1 — Present perfect vs past simple (https://test-english.com/grammar-points/b1/past-simple-present-perfect/) + perfect-english-grammar.com",
       "tasks": [
         {
           "id": "w8-pzt",
@@ -500,7 +500,7 @@
       "title": "Past Continuous + when/while",
       "episode": "S1E9 \"The Underdog\"",
       "summary": "I was watching TV when she called. While Ross was talking, Rachel left. Arka plan eylemi (continuous) + kesen olay (simple).",
-      "source": "test-english.com → B1 → \"Past continuous and past simple\"",
+      "source": "test-english.com B1 — Past continuous (and past simple) (https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/)",
       "tasks": [
         {
           "id": "w9-pzt",
@@ -618,7 +618,7 @@
       "title": "Modals: should / must / have to / might",
       "episode": "S1E11 \"Mrs. Bing\"",
       "summary": "You should sleep (tavsiye). I must go (içsel zorunluluk). I have to work (dışsal kural). She might come (ihtimal). must not ≠ don't have to!",
-      "source": "test-english.com → B1 → \"Modal verbs\"",
+      "source": "test-english.com B1 — Modal verbs (https://test-english.com/grammar-points/b1/have-to-must-should/)",
       "tasks": [
         {
           "id": "w11-pzt",
@@ -677,7 +677,7 @@
       "title": "Zero & First Conditional",
       "episode": "S1E12 \"The Dozen Lasagnas\"",
       "summary": "Zero (genel gerçek): If you heat ice, it melts. First (gerçekçi gelecek): If she calls, I will answer. If'li tarafta will YOK.",
-      "source": "test-english.com → B1 → \"Conditionals: zero and first\"",
+      "source": "test-english.com B1 — Zero and first conditional (https://test-english.com/grammar-points/b1-b2/zero-first-conditional-future-time-clauses/)",
       "tasks": [
         {
           "id": "w12-pzt",
@@ -736,7 +736,7 @@
       "title": "Second Conditional",
       "episode": "S1E13 \"The Boobies\"",
       "summary": "Hayalî/şimdiki gerçek dışı: If I had money, I would travel. If I were you, I would apologize. (were her özneyle!)",
-      "source": "test-english.com → B1 → \"Second conditional\"",
+      "source": "test-english.com B1 — Second conditional (https://test-english.com/grammar-points/b1/second-conditional-unreal-situations/)",
       "tasks": [
         {
           "id": "w13-pzt",
@@ -854,7 +854,7 @@
       "title": "Gerund vs Infinitive",
       "episode": "S1E15 \"The Stoned Guy\"",
       "summary": "enjoy doing, finish doing, suggest doing vs want to do, decide to do, hope to do. Bazıları ikisini de alır: like doing / like to do. Ezber değil, fiil grupları halinde öğren.",
-      "source": "test-english.com → B1 → \"Gerunds and infinitives\"",
+      "source": "test-english.com B1 — Gerunds and infinitives (https://test-english.com/grammar-points/b1/gerund-or-infinitive-do-to-do-doing/)",
       "tasks": [
         {
           "id": "w15-pzt",
@@ -913,7 +913,7 @@
       "title": "Relative Clauses (who/which/that)",
       "episode": "S1E16 \"Two Parts: Part 1\"",
       "summary": "The man who lives next door... The book which/that I read... The girl (that) I met... (nesne konumundaysa atılabilir)",
-      "source": "test-english.com → B1 → \"Relative clauses: defining\"",
+      "source": "test-english.com B1 — Relative clauses: defining (https://test-english.com/grammar-points/b1/defining-and-non-defining-relative-clauses/)",
       "tasks": [
         {
           "id": "w16-pzt",
@@ -972,7 +972,7 @@
       "title": "Passive: Present & Past",
       "episode": "S1E17 \"Two Parts: Part 2\"",
       "summary": "The coffee is made here. The window was broken. Yapan değil yapılan önemliyse. be + V3.",
-      "source": "test-english.com → B1 → \"The passive\"",
+      "source": "test-english.com B1 — The passive (https://test-english.com/grammar-points/b1/passive-verb-forms/)",
       "tasks": [
         {
           "id": "w17-pzt",
@@ -1090,7 +1090,7 @@
       "title": "Used to + Reported Speech (temel)",
       "episode": "S1E19 \"The Monkey Gets Away\"",
       "summary": "I used to smoke (artık değil). / \"I am tired\" → He said (that) he was tired. (zaman bir geri kayar)",
-      "source": "test-english.com → B1 → \"Used to\", \"Reported speech\"",
+      "source": "test-english.com B1 — Used to (https://test-english.com/grammar-points/b1/usually-used-to-be-used-to-get-used-to/), Reported speech (https://test-english.com/grammar-points/b1/reported-speech-indirect-speech/)",
       "tasks": [
         {
           "id": "w19-pzt",
@@ -1208,7 +1208,7 @@
       "title": "Present Perfect Continuous",
       "episode": "S1E21",
       "summary": "I have been studying for two hours. She has been working here since 2020. Süreç vurgusu; for/since ile.",
-      "source": "test-english.com → B2 → \"Present perfect continuous\"",
+      "source": "test-english.com B2 — Present perfect continuous (https://test-english.com/grammar-points/b1-b2/present-perfect-simple-continuous/)",
       "tasks": [
         {
           "id": "w21-pzt",
@@ -1267,7 +1267,7 @@
       "title": "Past Perfect",
       "episode": "S1E22",
       "summary": "Geçmişin geçmişi: When I arrived, the film had already started. had + V3.",
-      "source": "test-english.com → B2 → \"Past perfect\"",
+      "source": "test-english.com B2 — Past perfect (https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/)",
       "tasks": [
         {
           "id": "w22-pzt",
@@ -1326,7 +1326,7 @@
       "title": "Narrative Tenses (hikâye anlatımı)",
       "episode": "S1E23",
       "summary": "Past simple + continuous + perfect'i tek anlatıda karıştırma: It was raining. I had forgotten my umbrella, so I ran home.",
-      "source": "test-english.com → B2 → \"Narrative tenses\"",
+      "source": "test-english.com B2 — Narrative tenses (https://test-english.com/grammar-points/b2/narrative-tenses-used-to-would/)",
       "tasks": [
         {
           "id": "w23-pzt",
@@ -1444,7 +1444,7 @@
       "title": "Third Conditional",
       "episode": "S2E1",
       "summary": "Geçmişin gerçek dışı hali (pişmanlık): If I had studied, I would have passed. if + had V3, would have V3.",
-      "source": "test-english.com → B2 → \"Third conditional\"",
+      "source": "test-english.com B2 — Third conditional (https://test-english.com/grammar-points/b1-b2/second-third-conditionals/)",
       "tasks": [
         {
           "id": "w25-pzt",
@@ -1503,7 +1503,7 @@
       "title": "Mixed Conditionals + wish/if only",
       "episode": "S2E2",
       "summary": "If I had saved money, I would be rich now. / I wish I knew. If only I had listened!",
-      "source": "test-english.com → B2 → \"Mixed conditionals\", \"Wish / if only\"",
+      "source": "test-english.com B2 — Mixed conditionals (https://test-english.com/grammar-points/b2/mixed-conditionals/), Wish / if only (https://test-english.com/grammar-points/b1-b2/wishes-regrets/)",
       "tasks": [
         {
           "id": "w26-pzt",
@@ -1562,7 +1562,7 @@
       "title": "Modals of Deduction",
       "episode": "S2E3",
       "summary": "Tahmin/çıkarım: He must be tired (kesin gibi). She might have left (belki). It can't be true (imkânsız). He must have forgotten (geçmiş çıkarım).",
-      "source": "test-english.com → B2 → \"Modals of deduction (present & past)\"",
+      "source": "test-english.com B2 — Modals of deduction, present & past (https://test-english.com/grammar-points/b2/speculation-deduction/)",
       "tasks": [
         {
           "id": "w27-pzt",
@@ -1680,7 +1680,7 @@
       "title": "Future Continuous & Future Perfect",
       "episode": "S2E5",
       "summary": "This time tomorrow I will be flying. By 2027 I will have finished this plan.",
-      "source": "test-english.com → B2 → \"Future continuous & future perfect\"",
+      "source": "test-english.com B2 — Future continuous & perfect (https://test-english.com/grammar-points/b1-b2/future-continuous-and-future-perfect/)",
       "tasks": [
         {
           "id": "w29-pzt",
@@ -1739,7 +1739,7 @@
       "title": "Causative (have/get something done)",
       "episode": "S2E6",
       "summary": "İşi başkasına yaptırma: I had my hair cut. She got her car repaired.",
-      "source": "test-english.com → B2 → \"Causative: have/get something done\"",
+      "source": "test-english.com B2 — Causative: have/get something done (https://test-english.com/grammar-points/b1-b2/have-something-done/)",
       "tasks": [
         {
           "id": "w30-pzt",
@@ -1798,7 +1798,7 @@
       "title": "İleri Passive",
       "episode": "S2E7",
       "summary": "It is said that... He is believed to be... The bridge is being built. The work has been done.",
-      "source": "test-english.com → B2 → \"Passive: all tenses & impersonal structures\"",
+      "source": "test-english.com B2 — Passive: all tenses & impersonal structures (https://test-english.com/grammar-points/b1-b2/passive-voice-all-tenses/)",
       "tasks": [
         {
           "id": "w31-pzt",
@@ -1916,7 +1916,7 @@
       "title": "İleri Relative Clauses",
       "episode": "S2E9",
       "summary": "Non-defining: My brother, who lives in Ankara, is a doctor. (virgüllü, that kullanılmaz) / Edatlı: the house in which I grew up.",
-      "source": "test-english.com → B2 → \"Relative clauses: defining & non-defining\"",
+      "source": "test-english.com B2 — Relative clauses: defining & non-defining (https://test-english.com/grammar-points/b1/defining-and-non-defining-relative-clauses/)",
       "tasks": [
         {
           "id": "w33-pzt",
@@ -1975,7 +1975,7 @@
       "title": "Bağlaçlar (Contrast & Purpose)",
       "episode": "S2E10",
       "summary": "Although it rained... / Despite the rain... / However, ... / in spite of / so that / in order to. Despite + isim, although + cümle!",
-      "source": "test-english.com → B2 → \"Linking words: contrast, purpose, reason\"",
+      "source": "test-english.com B2 — Linking words: contrast, purpose, reason (https://test-english.com/grammar-points/b2/discourse-markers/)",
       "tasks": [
         {
           "id": "w34-pzt",
@@ -2034,7 +2034,7 @@
       "title": "Question Tags · so/neither · Dolaylı Sorular",
       "episode": "S2E11",
       "summary": "You're coming, aren't you? / So do I. Neither can she. / Could you tell me where the bank is? (dolaylıda devrik YOK)",
-      "source": "test-english.com → B2 → \"Question tags\", \"Indirect questions\"",
+      "source": "test-english.com B2 — Question tags (https://test-english.com/grammar-points/b1/question-tags/), Indirect questions (https://test-english.com/grammar-points/b1-b2/indirect-questions/)",
       "tasks": [
         {
           "id": "w35-pzt",
@@ -2152,7 +2152,7 @@
       "title": "Phrasal Verbs (sistemli giriş)",
       "episode": "S2E13",
       "summary": "En sık 40 phrasal verb, fiil bazlı gruplarla: get up/over/along, give up/in, look for/after/forward to, put off/up with...",
-      "source": "test-english.com → B2 → \"Phrasal verbs\" + Language Reactor kelime listendeki phrasal verb'ler",
+      "source": "test-english.com B2 — Phrasal verbs (https://test-english.com/grammar-points/a2/phrasal-verbs-transitive-and-intransitive-separable-and-inseparable/) + Language Reactor kelime listendeki phrasal verb'ler",
       "tasks": [
         {
           "id": "w37-pzt",

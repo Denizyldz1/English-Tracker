@@ -38,7 +38,7 @@
 
 ### Hafta 1 — To be · Possessives · Present Simple (olumlu) · 📺 S1E1 "The Pilot"
 **Özet:** I am tired. She is upset. They are friends. / my apartment, Ross's ex-wife / Monica cooks. I work here. (3. tekilde -s!)
-**Kaynak:** test-english.com → A1 → "Verb to be", "Possessive adjectives", "Present simple"
+**Kaynak:** test-english.com A1 — Verb to be (https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/), Possessive adjectives (https://test-english.com/grammar-points/a1/possessive-adjectives/), Present simple (https://test-english.com/grammar-points/a1/present-simple/)
 - [ ] **[Pzt]** test-english.com sitesinde A1 seviyesini aç; "Verb to be", "Possessive adjectives" ve "Present simple" konularının testlerini KONUYU ÇALIŞMADAN çöz (amaç: neyi unuttuğunu bulmak). %70 altında kaldığın konuların anlatımını aynı sayfadan oku (30-40 dk)
 - [ ] **[Çar]** test-english.com'da Pazartesi zayıf çıkan konuların 2. test setini çöz; hâlâ %70 altıysa anlatımı bir kez daha oku (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E1 "The Pilot" bölümünü TÜRKÇE altyazıyla izle — analiz yapma, sadece keyif al (~25 dk)
@@ -47,7 +47,7 @@
 
 ### Hafta 2 — Present Simple (do/does) · Articles · Çoğullar · 📺 S1E2 "The Sonogram at the End"
 **Özet:** Do you like it? She doesn't know. (does varsa fiil yalın!) / İlk bahsedişte a/an, bilinende the / man→men, child→children
-**Kaynak:** test-english.com → A1 → "Present simple negative & questions", "Articles a/an/the", "Plurals"
+**Kaynak:** test-english.com A1 — Present simple negative & questions (https://test-english.com/grammar-points/a1/present-simple/), Articles a/an/the (https://test-english.com/grammar-points/a1/a-an-the-no-article/), Plurals (https://test-english.com/grammar-points/a1/a-an-plurals/)
 - [ ] **[Pzt]** test-english.com → A1 seviyesinde "Present simple negative & questions", "Articles a/an/the" ve "Plurals" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)
 - [ ] **[Çar]** test-english.com'da artikel (a/an/the) konusuna her durumda +1 ekstra test çöz — Türkçede artikel olmadığı için en kalıcı zayıflık budur. Diğer zayıf konuların da 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E2 "The Sonogram at the End" bölümünü Türkçe altyazıyla izle, sadece keyif (~25 dk)
@@ -56,7 +56,7 @@
 
 ### Hafta 3 — Present Continuous (+Simple farkı) · There is/are · Can · 📺 S1E3 "The Thumb"
 **Özet:** She is sleeping (şu an) vs She sleeps a lot (genelde) / There is a sofa. There are two beds. / I can swim. He can't sing. (cans ❌)
-**Kaynak:** test-english.com → A1 → "Present continuous", "There is/are", "Can/can't" + "Present simple vs continuous"
+**Kaynak:** test-english.com A1 — Present continuous (https://test-english.com/grammar-points/a1/present-continuous/), There is/are (https://test-english.com/grammar-points/a1/there-is-there-are/), Can/can't (https://test-english.com/grammar-points/a1/can-cant/), Present simple vs continuous (https://test-english.com/grammar-points/a1/present-simple-present-continuous/)
 - [ ] **[Pzt]** test-english.com → A1 seviyesinde "Present continuous", "There is/are" ve "Can/can't" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)
 - [ ] **[Çar]** test-english.com'da "Present simple vs present continuous" karşılaştırma testini çöz (şu an olan vs genelde olan ayrımı bu haftanın kalbi) (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E3 "The Thumb" bölümünü Türkçe altyazıyla izle, sadece keyif (~25 dk)
@@ -65,7 +65,7 @@
 
 ### Hafta 4 — Past Simple (tamamı) · 📺 S1E4 "George Stephanopoulos"
 **Özet:** I worked / I went (düzensizler!) / Did you see? I didn't know. (did varsa fiil yalın). Bu hafta tek konu — B1'deki present perfect ayrımı bu temele oturacak.
-**Kaynak:** test-english.com → A1-A2 → "Past simple" (was/were dahil) + "Irregular verbs"
+**Kaynak:** test-english.com A1 — Past simple, was/were dahil (https://test-english.com/grammar-points/a1/past-simple-regular-irregular/), Irregular verbs (https://test-english.com/grammar-points/a1/past-simple-regular-irregular/)
 - [ ] **[Pzt]** test-english.com → A1 ve A2 seviyelerinde "Past simple" testlerini (was/were dahil) konuyu çalışmadan çöz; %70 altıysa anlatımı oku (30-40 dk)
 - [ ] **[Çar]** İnternette "most common 50 irregular verbs" listesini aç (veya test-english.com'daki irregular verbs sayfasını kullan); en sık 50 düzensiz fiili tara, bilmediklerini Tobo English uygulamasına ekle (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E4 "George Stephanopoulos" bölümünü Türkçe altyazıyla izle, sadece keyif (~25 dk)
@@ -74,7 +74,7 @@
 
 ### Hafta 5 — Comparatives/Superlatives · Some/Any/Much/Many · 📺 S1E5 "The East German Laundry Detergent"
 **Özet:** bigger, more expensive, the best / some money, any questions?, how much time, how many friends
-**Kaynak:** test-english.com → A2 → "Comparatives and superlatives", "Quantifiers: some/any/much/many"
+**Kaynak:** test-english.com A2 — Comparatives and superlatives (https://test-english.com/grammar-points/a2/comparative-superlative-adjectives-adverbs/), Quantifiers some/any/much/many (https://test-english.com/grammar-points/a2/much-many-little-few-some-any/)
 - [ ] **[Pzt]** test-english.com → A2 seviyesinde "Comparatives and superlatives" ile "Quantifiers: some/any/much/many" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)
 - [ ] **[Çar]** test-english.com'da zayıf çıkan konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E5 "The East German Laundry Detergent" bölümünü Türkçe altyazıyla izle, sadece keyif (~25 dk)
@@ -83,7 +83,7 @@
 
 ### Hafta 6 — Going to / Will · Sıklık Zarfları · 🏁 A2 ÇIKIŞ TESTİ · 📺 S1E6 "The Butt"
 **Özet:** I'm going to visit (plan) vs I'll help you (anlık karar) / always, usually, often, sometimes, never (be'den sonra, fiilden önce)
-**Kaynak:** test-english.com → A2 → "Future: going to & will", "Adverbs of frequency" + https://test-english.com/use-of-english/a2/
+**Kaynak:** test-english.com A2 — Future: going to & will (https://test-english.com/grammar-points/a2/will-vs-be-going-to/), Adverbs of frequency (https://test-english.com/grammar-points/a1/adverbs-frequency/) + https://test-english.com/use-of-english/a2/
 - [ ] **[Pzt]** test-english.com → A2 seviyesinde "Future: going to & will" ile "Adverbs of frequency" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)
 - [ ] **[Çar]** Karışık A1-A2 mini tekrarı: Faz 0'da işlenen her konudan (to be, present simple/continuous, past simple, karşılaştırma, going to/will...) 1-2 tane olmak üzere toplam 10 cümle yaz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E6 "The Butt" bölümünü Türkçe altyazıyla izle — TR altyazı SON KEZ; gelecek haftadan itibaren ilk izleme de İngilizce altyazıyla olacak (~25 dk)
@@ -97,7 +97,7 @@
 
 ### Hafta 7 — Present Perfect (tanışma) · 📺 S1E7 "The Blackout"
 **Özet:** have/has + V3. Geçmişte olmuş, etkisi şu ana uzanan olaylar: I have lost my keys (hâlâ kayıp). She has been to Paris (deneyim). Sinyal kelimeler: just, already, yet, ever, never.
-**Kaynak:** test-english.com → B1 → "Present perfect"
+**Kaynak:** test-english.com B1 — Present perfect (https://test-english.com/grammar-points/b1/present-perfect-simple-present-perfect-continuous/)
 - [ ] **[Pzt]** test-english.com → B1 → "Present perfect" konu anlatımını OKU (bu fazda yeni konularda önce anlatım), sonra 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da present perfect 2. test setini çöz; just/already/yet sorularına özellikle dikkat et (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E7 "The Blackout" bölümünü İngilizce altyazıyla izle (kült bölüm) — takıldığın yerde geri sar (~25 dk)
@@ -106,7 +106,7 @@
 
 ### Hafta 8 — Present Perfect vs Past Simple · 📺 S1E8 "The Nana Dies Twice"
 **Özet:** Zaman belliyse past simple: I saw him yesterday. Zaman belirsiz/etkisi sürüyorsa present perfect: I have seen this movie. B1'in EN KRİTİK ayrımı — acele etme.
-**Kaynak:** test-english.com → B1 → "Present perfect vs past simple" + perfect-english-grammar.com
+**Kaynak:** test-english.com B1 — Present perfect vs past simple (https://test-english.com/grammar-points/b1/past-simple-present-perfect/) + perfect-english-grammar.com
 - [ ] **[Pzt]** test-english.com → B1 → "Present perfect or past simple" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da 2. test setini çöz + perfect-english-grammar.com sitesinden aynı konuda 1 ek test bul ve çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E8 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -115,7 +115,7 @@
 
 ### Hafta 9 — Past Continuous + when/while · 📺 S1E9 "The Underdog"
 **Özet:** I was watching TV when she called. While Ross was talking, Rachel left. Arka plan eylemi (continuous) + kesen olay (simple).
-**Kaynak:** test-english.com → B1 → "Past continuous and past simple"
+**Kaynak:** test-english.com B1 — Past continuous (and past simple) (https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/)
 - [ ] **[Pzt]** test-english.com → B1 → "Past continuous and past simple" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E9 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -133,7 +133,7 @@
 
 ### Hafta 11 — Modals: should / must / have to / might · 📺 S1E11 "Mrs. Bing"
 **Özet:** You should sleep (tavsiye). I must go (içsel zorunluluk). I have to work (dışsal kural). She might come (ihtimal). must not ≠ don't have to!
-**Kaynak:** test-english.com → B1 → "Modal verbs"
+**Kaynak:** test-english.com B1 — Modal verbs (https://test-english.com/grammar-points/b1/have-to-must-should/)
 - [ ] **[Pzt]** test-english.com → B1 → "Modal verbs" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da 2. test setini çöz; mustn't (yasak) vs don't have to (gerek yok) ayrımına özellikle dikkat (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E11 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -142,7 +142,7 @@
 
 ### Hafta 12 — Zero & First Conditional · 📺 S1E12 "The Dozen Lasagnas"
 **Özet:** Zero (genel gerçek): If you heat ice, it melts. First (gerçekçi gelecek): If she calls, I will answer. If'li tarafta will YOK.
-**Kaynak:** test-english.com → B1 → "Conditionals: zero and first"
+**Kaynak:** test-english.com B1 — Zero and first conditional (https://test-english.com/grammar-points/b1-b2/zero-first-conditional-future-time-clauses/)
 - [ ] **[Pzt]** test-english.com → B1 → "Zero and first conditional" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E12 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -151,7 +151,7 @@
 
 ### Hafta 13 — Second Conditional · 📺 S1E13 "The Boobies"
 **Özet:** Hayalî/şimdiki gerçek dışı: If I had money, I would travel. If I were you, I would apologize. (were her özneyle!)
-**Kaynak:** test-english.com → B1 → "Second conditional"
+**Kaynak:** test-english.com B1 — Second conditional (https://test-english.com/grammar-points/b1/second-conditional-unreal-situations/)
 - [ ] **[Pzt]** test-english.com → B1 → "Second conditional" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da 2. test setini çöz + first/second conditional karışık mini bir test bul ve çöz (ayrım: gerçekçi gelecek vs hayal) (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E13 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -169,7 +169,7 @@
 
 ### Hafta 15 — Gerund vs Infinitive · 📺 S1E15 "The Stoned Guy"
 **Özet:** enjoy doing, finish doing, suggest doing vs want to do, decide to do, hope to do. Bazıları ikisini de alır: like doing / like to do. Ezber değil, fiil grupları halinde öğren.
-**Kaynak:** test-english.com → B1 → "Gerunds and infinitives"
+**Kaynak:** test-english.com B1 — Gerunds and infinitives (https://test-english.com/grammar-points/b1/gerund-or-infinitive-do-to-do-doing/)
 - [ ] **[Pzt]** test-english.com → B1 → "Gerunds and infinitives" konu anlatımını oku, 1. test setini çöz. En sık kullanılan 15 fiili (enjoy, want, finish, decide, hope, suggest...) hangi yapıyı aldıklarıyla birlikte listele (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E15 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -178,7 +178,7 @@
 
 ### Hafta 16 — Relative Clauses (who/which/that) · 📺 S1E16 "Two Parts: Part 1"
 **Özet:** The man who lives next door... The book which/that I read... The girl (that) I met... (nesne konumundaysa atılabilir)
-**Kaynak:** test-english.com → B1 → "Relative clauses: defining"
+**Kaynak:** test-english.com B1 — Relative clauses: defining (https://test-english.com/grammar-points/b1/defining-and-non-defining-relative-clauses/)
 - [ ] **[Pzt]** test-english.com → B1 → "Defining relative clauses" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E16 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -187,7 +187,7 @@
 
 ### Hafta 17 — Passive: Present & Past · 📺 S1E17 "Two Parts: Part 2"
 **Özet:** The coffee is made here. The window was broken. Yapan değil yapılan önemliyse. be + V3.
-**Kaynak:** test-english.com → B1 → "The passive"
+**Kaynak:** test-english.com B1 — The passive (https://test-english.com/grammar-points/b1/passive-verb-forms/)
 - [ ] **[Pzt]** test-english.com → B1 → "The passive" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da 2. test setini çöz; aktif cümleyi pasife dönüştürme sorularına ağırlık ver (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E17 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -205,7 +205,7 @@
 
 ### Hafta 19 — Used to + Reported Speech (temel) · 📺 S1E19 "The Monkey Gets Away"
 **Özet:** I used to smoke (artık değil). / "I am tired" → He said (that) he was tired. (zaman bir geri kayar)
-**Kaynak:** test-english.com → B1 → "Used to", "Reported speech"
+**Kaynak:** test-english.com B1 — Used to (https://test-english.com/grammar-points/b1/usually-used-to-be-used-to-get-used-to/), Reported speech (https://test-english.com/grammar-points/b1/reported-speech-indirect-speech/)
 - [ ] **[Pzt]** test-english.com → B1 → "Used to" konu anlatımını oku ve testini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com → B1 → "Reported speech" konu anlatımını oku ve testini çöz (zaman kaydırma kuralına dikkat: am→was, will→would) (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E19 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -228,7 +228,7 @@
 
 ### Hafta 21 — Present Perfect Continuous · 📺 S1E21
 **Özet:** I have been studying for two hours. She has been working here since 2020. Süreç vurgusu; for/since ile.
-**Kaynak:** test-english.com → B2 → "Present perfect continuous"
+**Kaynak:** test-english.com B2 — Present perfect continuous (https://test-english.com/grammar-points/b1-b2/present-perfect-simple-continuous/)
 - [ ] **[Pzt]** test-english.com → B2 → "Present perfect continuous" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da 2. test setini çöz; present perfect simple vs continuous ayrımına odaklan (sonuç mu, süreç mi?) (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E21 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -237,7 +237,7 @@
 
 ### Hafta 22 — Past Perfect · 📺 S1E22
 **Özet:** Geçmişin geçmişi: When I arrived, the film had already started. had + V3.
-**Kaynak:** test-english.com → B2 → "Past perfect"
+**Kaynak:** test-english.com B2 — Past perfect (https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/)
 - [ ] **[Pzt]** test-english.com → B2 → "Past perfect" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E22 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -246,7 +246,7 @@
 
 ### Hafta 23 — Narrative Tenses (hikâye anlatımı) · 📺 S1E23
 **Özet:** Past simple + continuous + perfect'i tek anlatıda karıştırma: It was raining. I had forgotten my umbrella, so I ran home.
-**Kaynak:** test-english.com → B2 → "Narrative tenses"
+**Kaynak:** test-english.com B2 — Narrative tenses (https://test-english.com/grammar-points/b2/narrative-tenses-used-to-would/)
 - [ ] **[Pzt]** test-english.com → B2 → "Narrative tenses" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E23 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -264,7 +264,7 @@
 
 ### Hafta 25 — Third Conditional · 📺 S2E1
 **Özet:** Geçmişin gerçek dışı hali (pişmanlık): If I had studied, I would have passed. if + had V3, would have V3.
-**Kaynak:** test-english.com → B2 → "Third conditional"
+**Kaynak:** test-english.com B2 — Third conditional (https://test-english.com/grammar-points/b1-b2/second-third-conditionals/)
 - [ ] **[Pzt]** test-english.com → B2 → "Third conditional" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E1 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -273,7 +273,7 @@
 
 ### Hafta 26 — Mixed Conditionals + wish/if only · 📺 S2E2
 **Özet:** If I had saved money, I would be rich now. / I wish I knew. If only I had listened!
-**Kaynak:** test-english.com → B2 → "Mixed conditionals", "Wish / if only"
+**Kaynak:** test-english.com B2 — Mixed conditionals (https://test-english.com/grammar-points/b2/mixed-conditionals/), Wish / if only (https://test-english.com/grammar-points/b1-b2/wishes-regrets/)
 - [ ] **[Pzt]** test-english.com → B2 → "Mixed conditionals" ve "Wish / if only" konu anlatımlarını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da 2. test setini çöz + TÜM conditional'ların (zero/first/second/third/mixed) karışık mini testini bul ve çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E2 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -282,7 +282,7 @@
 
 ### Hafta 27 — Modals of Deduction · 📺 S2E3
 **Özet:** Tahmin/çıkarım: He must be tired (kesin gibi). She might have left (belki). It can't be true (imkânsız). He must have forgotten (geçmiş çıkarım).
-**Kaynak:** test-english.com → B2 → "Modals of deduction (present & past)"
+**Kaynak:** test-english.com B2 — Modals of deduction, present & past (https://test-english.com/grammar-points/b2/speculation-deduction/)
 - [ ] **[Pzt]** test-english.com → B2 → "Modal verbs of deduction" konu anlatımını oku (hem şimdiki hem geçmiş çıkarım), 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E3 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -300,7 +300,7 @@
 
 ### Hafta 29 — Future Continuous & Future Perfect · 📺 S2E5
 **Özet:** This time tomorrow I will be flying. By 2027 I will have finished this plan.
-**Kaynak:** test-english.com → B2 → "Future continuous & future perfect"
+**Kaynak:** test-english.com B2 — Future continuous & perfect (https://test-english.com/grammar-points/b1-b2/future-continuous-and-future-perfect/)
 - [ ] **[Pzt]** test-english.com → B2 → "Future continuous and future perfect" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E5 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -309,7 +309,7 @@
 
 ### Hafta 30 — Causative (have/get something done) · 📺 S2E6
 **Özet:** İşi başkasına yaptırma: I had my hair cut. She got her car repaired.
-**Kaynak:** test-english.com → B2 → "Causative: have/get something done"
+**Kaynak:** test-english.com B2 — Causative: have/get something done (https://test-english.com/grammar-points/b1-b2/have-something-done/)
 - [ ] **[Pzt]** test-english.com → B2 → "Have/get something done (causative)" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E6 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -318,7 +318,7 @@
 
 ### Hafta 31 — İleri Passive · 📺 S2E7
 **Özet:** It is said that... He is believed to be... The bridge is being built. The work has been done.
-**Kaynak:** test-english.com → B2 → "Passive: all tenses & impersonal structures"
+**Kaynak:** test-english.com B2 — Passive: all tenses & impersonal structures (https://test-english.com/grammar-points/b1-b2/passive-voice-all-tenses/)
 - [ ] **[Pzt]** test-english.com → B2 → "The passive (all tenses)" ve impersonal yapılar (It is said that...) konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E7 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -336,7 +336,7 @@
 
 ### Hafta 33 — İleri Relative Clauses · 📺 S2E9
 **Özet:** Non-defining: My brother, who lives in Ankara, is a doctor. (virgüllü, that kullanılmaz) / Edatlı: the house in which I grew up.
-**Kaynak:** test-english.com → B2 → "Relative clauses: defining & non-defining"
+**Kaynak:** test-english.com B2 — Relative clauses: defining & non-defining (https://test-english.com/grammar-points/b1/defining-and-non-defining-relative-clauses/)
 - [ ] **[Pzt]** test-english.com → B2 → "Defining & non-defining relative clauses" konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E9 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -345,7 +345,7 @@
 
 ### Hafta 34 — Bağlaçlar (Contrast & Purpose) · 📺 S2E10
 **Özet:** Although it rained... / Despite the rain... / However, ... / in spite of / so that / in order to. Despite + isim, although + cümle!
-**Kaynak:** test-english.com → B2 → "Linking words: contrast, purpose, reason"
+**Kaynak:** test-english.com B2 — Linking words: contrast, purpose, reason (https://test-english.com/grammar-points/b2/discourse-markers/)
 - [ ] **[Pzt]** test-english.com → B2 → "Linking words" (contrast/purpose/reason) konu anlatımını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konunun 2. test setini çöz; despite+isim vs although+cümle ayrımına dikkat (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E10 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -354,7 +354,7 @@
 
 ### Hafta 35 — Question Tags · so/neither · Dolaylı Sorular · 📺 S2E11
 **Özet:** You're coming, aren't you? / So do I. Neither can she. / Could you tell me where the bank is? (dolaylıda devrik YOK)
-**Kaynak:** test-english.com → B2 → "Question tags", "Indirect questions"
+**Kaynak:** test-english.com B2 — Question tags (https://test-english.com/grammar-points/b1/question-tags/), Indirect questions (https://test-english.com/grammar-points/b1-b2/indirect-questions/)
 - [ ] **[Pzt]** test-english.com → B2 → "Question tags" ve "Indirect questions" konu anlatımlarını oku, 1. test setini çöz (30-40 dk)
 - [ ] **[Çar]** test-english.com'da aynı konuların 2. test setini çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E11 bölümünü İngilizce altyazıyla izle (~25 dk)
@@ -372,7 +372,7 @@
 
 ### Hafta 37 — Phrasal Verbs (sistemli giriş) · 📺 S2E13
 **Özet:** En sık 40 phrasal verb, fiil bazlı gruplarla: get up/over/along, give up/in, look for/after/forward to, put off/up with...
-**Kaynak:** test-english.com → B2 → "Phrasal verbs" + Language Reactor kelime listendeki phrasal verb'ler
+**Kaynak:** test-english.com B2 — Phrasal verbs (https://test-english.com/grammar-points/a2/phrasal-verbs-transitive-and-intransitive-separable-and-inseparable/) + Language Reactor kelime listendeki phrasal verb'ler
 - [ ] **[Pzt]** test-english.com → B2 → "Phrasal verbs" sayfasından (veya "most common 40 phrasal verbs" araması ile) İLK 20 phrasal verb'ü fiil gruplarıyla çalış (get, give, look...) + 1 test çöz. Bilmediklerini Tobo English'e ekle (30-40 dk)
 - [ ] **[Çar]** İKİNCİ 20 phrasal verb'ü çalış + 1 test çöz; bunları da Tobo English'e ekle (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E13 bölümünü İngilizce altyazıyla izle (~25 dk)
