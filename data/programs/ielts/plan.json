@@ -39,7 +39,7 @@
         {
           "id": "ielts.w1-sali",
           "day": "Salı",
-          "text": "ielts.org → \"sample test questions\" sayfasından Listening örnek sorularını çöz; 4 section'ın (günlük diyalog → akademik ders) zorluk sırasını gözlemle, hangi section'da zorlandığını not et (30-40 dk)",
+          "text": "ielts.org → \"sample test questions\" sayfasından (https://ielts.org/take-a-test/preparation-resources/sample-test-questions → Academic) Listening örnek sorularını çöz; 4 section'ın (günlük diyalog → akademik ders) zorluk sırasını gözlemle, hangi section'da zorlandığını not et (30-40 dk)",
           "recurring": false
         },
         {
@@ -63,7 +63,7 @@
         {
           "id": "ielts.w1-cmt",
           "day": "Cmt",
-          "text": "🏁 BAŞLANGIÇ DENEMESİ: ieltsonlinetests.com'a ücretsiz üye ol; \"IELTS Mock Test\" bölümünden bir Academic deneme seç ve Listening (30 dk) + Reading (60 dk) bölümlerini gerçek süre tutarak çöz. Site otomatik puanlar — çıkan bandları not et: bu senin başlangıç noktan (2-3 saat)",
+          "text": "🏁 BAŞLANGIÇ DENEMESİ: ieltsonlinetests.com'a ücretsiz üye ol; \"IELTS Mock Test\" bölümünden bir Academic deneme seç ve Listening (30 dk) + Reading (60 dk) bölümlerini gerçek süre tutarak çöz. Site otomatik puanlar (Listening/Reading için) — çıkan bandları not et: bu senin başlangıç noktan (2-3 saat)",
           "recurring": false
         },
         {
@@ -75,7 +75,7 @@
         {
           "id": "ielts.w1-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -140,7 +140,7 @@
         {
           "id": "ielts.w2-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -205,7 +205,7 @@
         {
           "id": "ielts.w3-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -270,7 +270,7 @@
         {
           "id": "ielts.w4-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -335,7 +335,7 @@
         {
           "id": "ielts.w5-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -358,7 +358,7 @@
         {
           "id": "ielts.w6-pzt",
           "day": "Pzt",
-          "text": "ielts.org'dan \"Speaking band descriptors\" PDF'ini indir ve oku: 4 kriter (Fluency & Coherence, Lexical Resource, Grammatical Range, Pronunciation). Band 6 ile band 7 arasındaki farkı her kriter için 1 cümleyle defterine yaz — kayıtlarını bununla puanlayacaksın (30-40 dk)",
+          "text": "ielts.org'dan resmî \"Speaking band descriptors\" PDF'ini indir ve oku (ielts.org → Your results → \"IELTS scoring in detail\" sayfasındaki resmî band descriptors: https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail): 4 kriter (Fluency & Coherence, Lexical Resource, Grammatical Range, Pronunciation). Band 6 ile band 7 arasındaki farkı her kriter için 1 cümleyle defterine yaz — kayıtlarını bununla puanlayacaksın (30-40 dk)",
           "recurring": false
         },
         {
@@ -400,7 +400,7 @@
         {
           "id": "ielts.w6-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -465,7 +465,7 @@
         {
           "id": "ielts.w7-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -530,7 +530,7 @@
         {
           "id": "ielts.w8-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -553,7 +553,7 @@
         {
           "id": "ielts.w9-pzt",
           "day": "Pzt",
-          "text": "ielts.org'dan \"Writing Task 2 band descriptors\" PDF'ini oku; band 6 vs band 7 farkını 4 kriter için tablo yap. Ardından ieltsadvantage.com'dan 1 band 9 essay oku — hangi cümlelerin \"karmaşık yapı\" sayıldığını (relative clause, koşul, passive) işaretle (35-45 dk)",
+          "text": "ielts.org'dan resmî \"Writing Task 2 band descriptors\" PDF'ini oku (ielts.org → Your results → \"IELTS scoring in detail\" sayfasındaki resmî band descriptors: https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail); band 6 vs band 7 farkını 4 kriter için tablo yap. Ardından ieltsadvantage.com'dan 1 band 9 essay oku — hangi cümlelerin \"karmaşık yapı\" sayıldığını (relative clause, koşul, passive) işaretle (35-45 dk)",
           "recurring": false
         },
         {
@@ -595,7 +595,7 @@
         {
           "id": "ielts.w9-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -660,7 +660,7 @@
         {
           "id": "ielts.w10-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -725,7 +725,7 @@
         {
           "id": "ielts.w11-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -790,7 +790,7 @@
         {
           "id": "ielts.w12-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {
@@ -855,7 +855,7 @@
         {
           "id": "ielts.w13-rec-awl",
           "day": "Hafta içi",
-          "text": "Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List (AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
+          "text": "eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu haftanın 15-20 kelimesini çalış; Quizlet'te hazır AWL setleri ücretsiz Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary",
           "recurring": true
         },
         {

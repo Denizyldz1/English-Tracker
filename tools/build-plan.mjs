@@ -85,10 +85,10 @@ const PROGRAM_CONFIGS = {
         recurring: [
             {
                 suffix: 'rec-awl', day: 'Hafta içi',
-                text: 'Quizlet (ücretsiz site + mobil uygulama) üzerindeki hazır Academic Word List '
-                    + '(AWL) setlerinden bu haftanın 15-20 kelimesini Learn moduyla çalış. Alt liste '
-                    + 'sırası ve kelime listeleri: eapfoundation.com → AWL (570 kelime, haftada ~1 '
-                    + 'alt liste). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary'
+                text: 'eapfoundation.com → AWL (570 kelime, haftada ~1 alt liste) listesinden bu '
+                    + 'haftanın 15-20 kelimesini çalış; Quizlet\'te hazır AWL setleri ücretsiz '
+                    + 'Flashcards/Match ile tekrar için kullanılabilir (Learn/Test modu Quizlet Plus '
+                    + 'gerektirir). Yazma/konuşma için konu kelimeleri: ieltsliz.com → Vocabulary'
             },
             {
                 suffix: 'rec-speak', day: 'Her gün',

@@ -323,7 +323,7 @@
       "title": "Going to / Will · Sıklık Zarfları · 🏁 A2 ÇIKIŞ TESTİ",
       "episode": "S1E6 \"The Butt\"",
       "summary": "I'm going to visit (plan) vs I'll help you (anlık karar) / always, usually, often, sometimes, never (be'den sonra, fiilden önce)",
-      "source": "test-english.com → A2 → \"Future: going to & will\", \"Adverbs of frequency\" + https://test-english.com/level-test/ (A2)",
+      "source": "test-english.com → A2 → \"Future: going to & will\", \"Adverbs of frequency\" + https://test-english.com/use-of-english/a2/",
       "tasks": [
         {
           "id": "w6-pzt",
@@ -346,7 +346,7 @@
         {
           "id": "w6-cum",
           "day": "Cum",
-          "text": "🏁 A2 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden A2 seviye testini çöz. %75 ve üzeri → Faz 1'e geç. Altında kaldıysan zayıf konular için 1 yama haftası ekle, konuları tekrar çalış (35-40 dk)",
+          "text": "🏁 A2 ÇIKIŞ TESTİ: test-english.com/use-of-english/a2/ adresinden A2 testlerinden birini çöz. %75 ve üzeri → Faz 1'e geç. Altında kaldıysan zayıf konular için 1 yama haftası ekle, konuları tekrar çalış (35-40 dk)",
           "recurring": false
         },
         {
@@ -1149,7 +1149,7 @@
       "title": "🏁 B1 ÇIKIŞ TESTİ + Genel Tekrar",
       "episode": "S1E20 \"The Evil Orthodontist\"",
       "summary": "Faz 1 kapanışı: tüm B1 konularının taraması + çıkış testi. %75+ → Faz 2'ye geçiş.",
-      "source": "https://test-english.com/level-test/ (B1)",
+      "source": "https://test-english.com/use-of-english/b1/",
       "tasks": [
         {
           "id": "w20-pzt",
@@ -1172,7 +1172,7 @@
         {
           "id": "w20-cum",
           "day": "Cum",
-          "text": "🏁 B1 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden B1 testini çöz. %75 ve üzeri → Faz 2'ye geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)",
+          "text": "🏁 B1 ÇIKIŞ TESTİ: test-english.com/use-of-english/b1/ adresinden B1 testlerinden birini çöz. %75 ve üzeri → Faz 2'ye geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)",
           "recurring": false
         },
         {
@@ -2211,7 +2211,7 @@
       "title": "🏁 B2 ÇIKIŞ TESTİ",
       "episode": "S2E14",
       "summary": "Faz 2 kapanışı: zayıf konu taraması + çıkış testi. %75+ → Faz 3'e (C1) geçiş.",
-      "source": "https://test-english.com/level-test/ (B2)",
+      "source": "https://test-english.com/use-of-english/b2/",
       "tasks": [
         {
           "id": "w38-pzt",
@@ -2234,7 +2234,7 @@
         {
           "id": "w38-cum",
           "day": "Cum",
-          "text": "🏁 B2 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden B2 testini çöz. %75 ve üzeri → Faz 3'e geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)",
+          "text": "🏁 B2 ÇIKIŞ TESTİ: test-english.com/use-of-english/b2/ adresinden B2 testlerinden birini çöz. %75 ve üzeri → Faz 3'e geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)",
           "recurring": false
         },
         {
@@ -2270,12 +2270,12 @@
       "title": "Inversion",
       "episode": "S2E15-16",
       "summary": "Vurgu için devrik yapı: Never have I seen such a mess. Not only did he lie, but he also... Rarely do we...",
-      "source": "englishpage.com + bbc.co.uk/learningenglish → \"Towards Advanced\" inversion bölümleri",
+      "source": "bbc.co.uk/learningenglish → Towards Advanced Unit 25-26 (inversion)",
       "tasks": [
         {
           "id": "w39-40-pzt",
           "day": "Pzt",
-          "text": "englishpage.com ve bbc.co.uk/learningenglish (\"Towards Advanced\" araması) sitelerinde inversion (devrik yapı) anlatımını oku; Never/Rarely/Not only ile başlayan 5 örnek cümle topla ve defterine yaz (30-40 dk)",
+          "text": "bbc.co.uk/learningenglish Towards Advanced Unit 25-26'da inversion (devrik yapı) anlatımını oku; Never/Rarely/Not only ile başlayan 5 örnek cümle topla ve defterine yaz (30-40 dk)",
           "recurring": false
         },
         {
@@ -2329,12 +2329,12 @@
       "title": "Cleft Sentences",
       "episode": "S2E17",
       "summary": "Vurgulama: What I need is a holiday. It was Joey who ate the sandwich. The reason why I called is...",
-      "source": "bbc.co.uk/learningenglish → \"Towards Advanced\" + englishpage.com (cleft sentences)",
+      "source": "bbc.co.uk/learningenglish Towards Advanced + britishcouncil.org → C1 'emphasis: cleft sentences'",
       "tasks": [
         {
           "id": "w41-pzt",
           "day": "Pzt",
-          "text": "bbc.co.uk/learningenglish veya englishpage.com'da \"cleft sentences\" anlatımını oku; What.../It was...who.../The reason why... kalıplarından 5 örnek topla (30-40 dk)",
+          "text": "bbc.co.uk/learningenglish Towards Advanced veya britishcouncil.org C1 'emphasis: cleft sentences' anlatımını oku; What.../It was...who.../The reason why... kalıplarından 5 örnek topla (30-40 dk)",
           "recurring": false
         },
         {

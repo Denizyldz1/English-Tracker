@@ -12,11 +12,11 @@
 | Resmî örnek sorular | ielts.org → "sample test questions" |
 | Resmî ücretsiz pratik + IELTS Ready | takeielts.britishcouncil.org |
 | Video/podcast/hazırlık makaleleri | ielts.idp.com/prepare |
-| Ücretsiz TAM deneme (online, otomatik puanlı) | ieltsonlinetests.com |
-| Çıkmış sorular (gerçek geçmiş sınavlar) | Cambridge IELTS 17-20 kitapları — her kitapta 4 tam Academic test + ses + cevap anahtarı (20 en yenisi; kitap yoksa ieltsonlinetests.com'daki ücretsiz denemeler kullanılır) |
+| Ücretsiz TAM deneme (online, otomatik puanlı) | ieltsonlinetests.com (Listening/Reading ÜCRETSİZ otomatik puanlı; Writing/Speaking puanı ücretli) |
+| Çıkmış sorular (gerçek geçmiş sınavlar) | Cambridge IELTS 18-21 kitapları — her kitapta 4 tam Academic test + ses + cevap anahtarı (21 en yenisi, Tem 2026; bu kitaplar ÜCRETLİdir; kitap yoksa ieltsonlinetests.com ücretsiz denemeleri) |
 | Bölüm dersleri + band 7-9 model cevaplar | ieltsliz.com |
 | 100 gerçek band 7-9 Task 2 örneği | ieltsadvantage.com → "100 IELTS Writing Task 2 sample essays" |
-| Akademik kelime (AWL) çalışması | Quizlet (hazır AWL setleri, mobil uygulama + Learn modu) · liste kaynağı: eapfoundation.com → AWL · IELTS konu kelimeleri: ieltsliz.com → Vocabulary |
+| Akademik kelime (AWL) çalışması | Quizlet (hazır AWL setleri, mobil uygulama; Quizlet Learn/Test artık Quizlet Plus (ücretli), ücretsiz: Flashcards/Match) · Birincil ücretsiz AWL: eapfoundation.com (570 kelime) · IELTS konu kelimeleri: ieltsliz.com → Vocabulary |
 
 ## ⚖️ Sabit Kurallar
 
@@ -33,11 +33,11 @@
 **Özet:** IELTS Academic 4 modül: Listening (30 dk, 40 soru), Reading (60 dk, 40 soru), Writing (60 dk, 2 görev), Speaking (11-14 dk, 3 bölüm). Puanlama 0-9 band. Bu hafta format öğrenilir ve başlangıç seviyesi ölçülür.
 **Kaynak:** ielts.org → sample test questions + ieltsonlinetests.com
 - [ ] **[Pzt]** ielts.org sitesinde "How IELTS is scored" ve sınav formatı sayfalarını oku: 4 modülün süre/soru yapısını ve band sisteminin nasıl çalıştığını öğren; her modül için 2-3 cümlelik özet not çıkar (30-40 dk)
-- [ ] **[Salı]** ielts.org → "sample test questions" sayfasından Listening örnek sorularını çöz; 4 section'ın (günlük diyalog → akademik ders) zorluk sırasını gözlemle, hangi section'da zorlandığını not et (30-40 dk)
+- [ ] **[Salı]** ielts.org → "sample test questions" sayfasından (https://ielts.org/take-a-test/preparation-resources/sample-test-questions → Academic) Listening örnek sorularını çöz; 4 section'ın (günlük diyalog → akademik ders) zorluk sırasını gözlemle, hangi section'da zorlandığını not et (30-40 dk)
 - [ ] **[Çar]** ielts.org → "sample test questions" sayfasından Academic Reading örnek sorularını çöz; karşılaştığın soru tiplerini listele (multiple choice, True/False/Not Given, eşleştirme, boşluk doldurma) (30-45 dk)
 - [ ] **[Per]** ielts.org örnek Writing Task 1 ve Task 2 sorularına bak (çözme, sadece tanı); ardından ieltsliz.com → Writing Task 1 sayfasından bir band 9 model cevabı oku ve yapısını incele: giriş nasıl paraphrase edilmiş, overview paragrafında ne var, detay paragrafları nasıl bölünmüş? (30-45 dk)
 - [ ] **[Cum]** ielts.idp.com/prepare adresindeki Speaking bölümü videolarından birini izle (Part 1-2-3 formatını gör); ardından telefona 2 dakikalık kendini tanıtma kaydı yap ve dinle — bu senin "0. gün" kaydın, Hafta 13'te tekrar dinleyeceksin (30 dk)
-- [ ] **[Cmt]** 🏁 BAŞLANGIÇ DENEMESİ: ieltsonlinetests.com'a ücretsiz üye ol; "IELTS Mock Test" bölümünden bir Academic deneme seç ve Listening (30 dk) + Reading (60 dk) bölümlerini gerçek süre tutarak çöz. Site otomatik puanlar — çıkan bandları not et: bu senin başlangıç noktan (2-3 saat)
+- [ ] **[Cmt]** 🏁 BAŞLANGIÇ DENEMESİ: ieltsonlinetests.com'a ücretsiz üye ol; "IELTS Mock Test" bölümünden bir Academic deneme seç ve Listening (30 dk) + Reading (60 dk) bölümlerini gerçek süre tutarak çöz. Site otomatik puanlar (Listening/Reading için) — çıkan bandları not et: bu senin başlangıç noktan (2-3 saat)
 - [ ] **[Paz]** Dünkü denemenin hata analizi: yanlış yaptığın her soruya geri dön, doğru cevabın metindeki/ses kaydındaki (transkript) yerini bul, "neden kaçırdım?" cevabını bir cümleyle yaz. Bu notların biriktiği HATA DEFTERİNİ başlat (defter veya not uygulaması) (45-60 dk)
 
 ### Hafta 2 — Listening Derinleşme
@@ -91,7 +91,7 @@
 ### Hafta 6 — Speaking Part 1-2 Yoğunlaşma
 **Özet:** Part 1 (4-5 dk): tanıdık konularda kısa sorular — 2-3 cümlelik doğal cevaplar. Part 2 (3-4 dk): cue card — 1 dk hazırlık, 2 dk kesintisiz konuşma. Band 7: akıcılık (uzun duraksamasız), çeşitli kelime, bağlaçlı cümleler, anlaşılır telaffuz.
 **Kaynak:** ielts.org band descriptors + ieltsliz.com → Speaking
-- [ ] **[Pzt]** ielts.org'dan "Speaking band descriptors" PDF'ini indir ve oku: 4 kriter (Fluency & Coherence, Lexical Resource, Grammatical Range, Pronunciation). Band 6 ile band 7 arasındaki farkı her kriter için 1 cümleyle defterine yaz — kayıtlarını bununla puanlayacaksın (30-40 dk)
+- [ ] **[Pzt]** ielts.org'dan resmî "Speaking band descriptors" PDF'ini indir ve oku (ielts.org → Your results → "IELTS scoring in detail" sayfasındaki resmî band descriptors: https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail): 4 kriter (Fluency & Coherence, Lexical Resource, Grammatical Range, Pronunciation). Band 6 ile band 7 arasındaki farkı her kriter için 1 cümleyle defterine yaz — kayıtlarını bununla puanlayacaksın (30-40 dk)
 - [ ] **[Salı]** ieltsonlinetests.com'da multiple choice ağırlıklı 1 Listening section çöz (Section 3'lerde sık); taktik: kayıt başlamadan şıkların anahtar kelimelerini işaretle, cevabın paraphrase ile geleceğini bil (30-40 dk)
 - [ ] **[Çar]** ieltsonlinetests.com'dan 1 Academic Reading metnini 20 dk süreyle çöz; yanlışların için metinden kanıt cümlesi bul; 8-10 yeni kelimeyi Quizlet setine ekle (30-45 dk)
 - [ ] **[Per]** Writing Task 1: bu kez farklı grafik tipi — pie chart veya tablo ile 20 dk'lık tam rapor yaz; ieltsliz.com'daki aynı tip model cevapla karşılaştır (pie chart'ta oran dili: account for, make up, constitute) (40-45 dk)
@@ -128,7 +128,7 @@
 ### Hafta 9 — Writing Yoğunlaştırma
 **Özet:** Puanın en büyük kaldıracı: Task 2. Bu hafta günaşırı essay + band descriptor öz-puanlama. Band 7 kriterleri: Task Response (soruyu TAM cevapla), Coherence (paragraf başına tek fikir), Lexical Resource (az tekrar), Grammar (karmaşık cümle + az hata).
 **Kaynak:** ielts.org band descriptors + ieltsadvantage.com örnekleri
-- [ ] **[Pzt]** ielts.org'dan "Writing Task 2 band descriptors" PDF'ini oku; band 6 vs band 7 farkını 4 kriter için tablo yap. Ardından ieltsadvantage.com'dan 1 band 9 essay oku — hangi cümlelerin "karmaşık yapı" sayıldığını (relative clause, koşul, passive) işaretle (35-45 dk)
+- [ ] **[Pzt]** ielts.org'dan resmî "Writing Task 2 band descriptors" PDF'ini oku (ielts.org → Your results → "IELTS scoring in detail" sayfasındaki resmî band descriptors: https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail); band 6 vs band 7 farkını 4 kriter için tablo yap. Ardından ieltsadvantage.com'dan 1 band 9 essay oku — hangi cümlelerin "karmaşık yapı" sayıldığını (relative clause, koşul, passive) işaretle (35-45 dk)
 - [ ] **[Salı]** Task 2 essay #1: ieltsliz.com sorularından problem-solution tipi ("What problems does X cause? What solutions can you suggest?") 40 dk süreyle yaz; problem ve çözüm paragraflarını dengeli tut (45 dk)
 - [ ] **[Çar]** Dünkü essay'in öz-puanlaması: Pazartesi yaptığın band 6/7 tablosuyla 4 kriterde puanla; en zayıf çıkan kriteri düzelterek sadece o paragrafları yeniden yaz (35-45 dk)
 - [ ] **[Per]** Task 2 essay #2: advantage-disadvantage tipi ("Do the advantages outweigh the disadvantages?") 40 dk süreyle yaz; "outweigh" sorusunda net taraf seç ve sonuçta tekrarla (45 dk)

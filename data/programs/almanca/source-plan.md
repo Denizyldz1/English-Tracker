@@ -9,13 +9,13 @@
 
 | Amaç | Kaynak |
 |---|---|
-| Ana kurs (sıfırdan B1, ücretsiz video) | Deutsche Welle — Nicos Weg: learngerman.dw.com → "Nicos Weg" (A1/A2/B1 kursları, bölüm bölüm video + alıştırma) |
+| Ana kurs (sıfırdan B1, ücretsiz video) | Deutsche Welle — Nicos Weg: learngerman.dw.com → "Nicos Weg" (A1/A2/B1 kursları, bölüm bölüm video + alıştırma). NOT: Nicos Weg YALNIZCA A1-B1'i kapsar; B2 için ayrı ana kaynak gerekir (Aspekte neu B2 / Sicher! B2 / Erkundungen B2) |
 | Yerleştirme + ek alıştırma | learngerman.dw.com (DW Learn German: seviye testi, Deutschtrainer kelime, "Langsam gesprochene Nachrichten" yavaş haberler) |
-| Gramer anlatımı + alıştırma | deutsch.lingolia.com (her konu için açıklama + alıştırma) |
-| Seviye bazlı ücretsiz alıştırma | schubert-verlag.de → "Online-Aufgaben" (Begegnungen/Aspekte serisi, A1-B2) · mein-deutschbuch.de |
+| Gramer anlatımı + alıştırma | deutsch.lingolia.com (açıklama ÜCRETSİZ ve kapsamlı; ancak alıştırmaların ÇOĞU Lingolia Plus/ücretli — konu başına 1 ücretsiz. Alıştırma için Schubert-Verlag ve mein-deutschbuch.de kullan) |
+| Seviye bazlı ücretsiz alıştırma | schubert-verlag.de → "Online-Aufgaben" (Begegnungen A1-B1, Spektrum/Erkundungen B2 (NOT: Aspekte, Klett yayınıdır, Schubert değil); tamamen ücretsiz) · mein-deutschbuch.de |
 | Dinleme + konuşma dili (B1+) | Easy German (YouTube): sokak röportajları, çift altyazı |
-| Goethe sınav hazırlığı | goethe.de → Prüfungen → "Übungsmaterialien" (A1-B2 ücretsiz örnek sınavlar) |
-| Kelime | Tobo German uygulaması (aralıklı tekrar / spaced repetition) |
+| Goethe sınav hazırlığı | goethe.de → Prüfungen → "Übungsmaterialien" (A1-B2 ücretsiz örnek sınavlar). B2 Modellsatz (PDF+ses): https://www.goethe.de/pro/relaunch/prf/materialien/B2/b2_modellsatz_erwachsene.pdf |
+| Kelime | Tobo German uygulaması (aralıklı tekrar / spaced repetition) (freemium — tüm özellikler ücretli; ücretsiz alternatif: Anki) · https://apps.apple.com/us/app/tobo-learn-german-vocabulary/id1312643833 |
 | Dizi (B1+ bağışıklık) | Netflix: Dark, How to Sell Drugs Online (Fast), Türkisch für Anfänger — Almanca altyazıyla |
 
 ## ⚖️ Sabit Kurallar
@@ -45,7 +45,7 @@
 **Özet:** Almancada her ismin bir cinsiyeti (artikeli) vardır: der (eril), die (dişil), das (nötr); çoğul daima die. Belirsiz artikel: ein/eine. sein (olmak): ich bin, du bist... haben (sahip olmak): ich habe, du hast...
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → Nomen/Artikel, Verben "sein/haben"
 - [ ] **[Pzt]** deutsch.lingolia.com → "Bestimmter und unbestimmter Artikel" (der/die/das, ein/eine) konusunu oku; KURAL: her ismi artikeliyle öğren. Nicos Weg A1'in artikel bölümünü izle (30-40 dk)
-- [ ] **[Çar]** deutsch.lingolia.com → "sein" ve "haben" çekim tablolarını çalış; her ikisinin tüm şahıslarını sesli tekrarla. Sayfadaki alıştırmaları çöz (25-30 dk)
+- [ ] **[Çar]** deutsch.lingolia.com → "sein" ve "haben" çekim tablolarını çalış (açıklama ücretsiz); her ikisinin tüm şahıslarını sesli tekrarla. Ardından alıştırmaları ücretsiz schubert-verlag.de Online-Aufgaben (A1) veya mein-deutschbuch.de (niveau-a1) üzerinden çöz (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1'de sıradaki bölümü izle; 10-15 yeni ismi ARTİKELİYLE birlikte Tobo German'a ekle (das Haus, die Frau, der Mann) (30 dk)
 - [ ] **[Cum]** Bölümü ikinci izleme + shadowing; "Das ist ein/eine..." kalıbıyla çevrendeki 5 nesneyi tanımla (Das ist ein Tisch. Das ist eine Lampe.) (30-40 dk)
 - [ ] **[Cmt]** Üretim: sein ve haben ile 6 cümle yaz (Ich bin müde. Du hast ein Auto. Wir sind Freunde.); kelimeleri Tobo German'da tekrarla (30 dk)
@@ -54,7 +54,7 @@
 **Özet:** Düzenli fiil çekimi: kök + (e/st/t/en/t/en) → ich wohne, du wohnst, er wohnt... W-soruları: Wer? Was? Wo? Woher? Wohin? Wie? Wann? Warum? (fiil 2. pozisyonda)
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → Präsens, Fragen
 - [ ] **[Pzt]** deutsch.lingolia.com → "Konjugation Präsens" (düzenli fiiller) konusunu oku; wohnen, kommen, lernen, arbeiten fiillerini tüm şahıslarda çek. Nicos Weg'in ilgili bölümünü izle (30-40 dk)
-- [ ] **[Çar]** deutsch.lingolia.com → "W-Fragen" (soru kelimeleri) konusunu çalış; fiilin daima 2. pozisyonda olduğunu unutma. Lingolia ve Nicos Weg alıştırmalarını çöz (25-30 dk)
+- [ ] **[Çar]** deutsch.lingolia.com → "W-Fragen" (soru kelimeleri) konusunu çalış (açıklama ücretsiz); fiilin daima 2. pozisyonda olduğunu unutma. Alıştırmaları ücretsiz schubert-verlag.de Online-Aufgaben (A1) / mein-deutschbuch.de + Nicos Weg alıştırmalarından çöz (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1 sıradaki bölüm + 10-15 yeni fiil/kelimeyi Tobo German'a ekle (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; bir partnerin yokmuş gibi 5 W-sorusu sor ve cevapla (Wo wohnst du? — Ich wohne in Istanbul.) (30-40 dk)
 - [ ] **[Cmt]** Üretim: günlük rutinini 6 cümleyle anlat (Ich arbeite. Ich lerne Deutsch. Wir wohnen hier.); Tobo German tekrarı (30 dk)
@@ -63,7 +63,7 @@
 **Özet:** Akkusativ (-i hâli): eril artikel değişir → der→den, ein→einen (dişil/nötr/çoğul aynı kalır): Ich habe einen Hund. Olumsuzluk: kein (isim için), nicht (fiil/sıfat için).
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → Akkusativ, Negation
 - [ ] **[Pzt]** deutsch.lingolia.com → "Akkusativ" konusunu oku: SADECE eril artikel değişir (der→den, ein→einen). Nicos Weg'in ilgili bölümünü izle (30-40 dk)
-- [ ] **[Çar]** deutsch.lingolia.com → "Verneinung: kein oder nicht" konusunu çalış (kein + isim, nicht + fiil/sıfat); alıştırmaları çöz (25-30 dk)
+- [ ] **[Çar]** deutsch.lingolia.com → "Verneinung: kein oder nicht" konusunu çalış (kein + isim, nicht + fiil/sıfat; açıklama ücretsiz); alıştırmaları ücretsiz schubert-verlag.de Online-Aufgaben (A1) veya mein-deutschbuch.de'den çöz (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1 sıradaki bölüm; yiyecek/eşya kelimelerini artikeliyle Tobo German'a ekle (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; "Ich habe / Ich brauche + einen/eine/ein ..." ile 5 cümle sesli kur (30-40 dk)
 - [ ] **[Cmt]** Üretim: 3 olumlu + 3 olumsuz cümle yaz (Ich habe einen Bruder. Ich habe keine Zeit. Das ist nicht gut.); Tobo German tekrarı (30 dk)
@@ -72,7 +72,7 @@
 **Özet:** Almanca çoğul düzensizdir, kalıpla öğrenilir: -e (der Tisch→die Tische), -er (das Kind→die Kinder), -(e)n (die Frau→die Frauen), -s (das Auto→die Autos), Umlaut (der Apfel→die Äpfel). Saat: Wie spät ist es? Es ist halb drei.
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → Pluralbildung, Uhrzeit/Zahlen
 - [ ] **[Pzt]** deutsch.lingolia.com → "Pluralbildung" konusunu oku; her yeni ismi bundan sonra HEM tekil HEM çoğul haliyle öğren. Nicos Weg ilgili bölüm (30-40 dk)
-- [ ] **[Çar]** deutsch.lingolia.com → "Uhrzeit" ve "Zahlen" konularını çalış; saatleri (resmi ve günlük: halb/Viertel) sesli söyle; alıştırma çöz (25-30 dk)
+- [ ] **[Çar]** deutsch.lingolia.com → "Uhrzeit" ve "Zahlen" konularını çalış (açıklama ücretsiz); saatleri (resmi ve günlük: halb/Viertel) sesli söyle; alıştırmaları ücretsiz schubert-verlag.de Online-Aufgaben (A1) veya mein-deutschbuch.de'den çöz (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1 sıradaki bölüm; 10-15 ismi çoğuluyla Tobo German'a ekle (das Buch / die Bücher) (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; saatlerle 5 cümle ("Es ist Viertel nach acht. Der Kurs beginnt um neun.") (30-40 dk)
 - [ ] **[Cmt]** Üretim: günlük programını saatlerle yaz (Um 7 Uhr stehe ich auf. Um 8 Uhr frühstücke ich.); Tobo German tekrarı (30 dk)
@@ -81,7 +81,7 @@
 **Özet:** Modal fiiller cümleyi sarar: çekimli modal 2. pozisyonda, ESAS fiil mastar olarak SONA gider. Ich kann gut schwimmen. Du musst arbeiten. können, müssen, wollen, möchten, dürfen, sollen.
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → Modalverben
 - [ ] **[Pzt]** deutsch.lingolia.com → "Modalverben" konusunu oku: modal 2. pozisyonda, asıl fiil mastar halde SONDA (Satzklammer = cümle parantezi). Nicos Weg ilgili bölüm (30-40 dk)
-- [ ] **[Çar]** können/müssen/wollen/möchten çekim tablolarını çalış (bunlar düzensizdir!); Lingolia + Nicos Weg alıştırmaları (25-30 dk)
+- [ ] **[Çar]** können/müssen/wollen/möchten çekim tablolarını çalış (bunlar düzensizdir!); Schubert-Verlag (A1) / mein-deutschbuch + Nicos Weg alıştırmaları (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1 sıradaki bölüm + 10-15 kelime Tobo German'a (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; "Ich kann/muss/möchte + ... + mastar" ile 5 cümle kur (Ich möchte einen Kaffee trinken.) (30-40 dk)
 - [ ] **[Cmt]** Üretim: yapabildiklerin/yapman gerekenler üzerine 6 cümle (Ich kann kochen. Ich muss früh aufstehen. Ich will Deutsch lernen.); Tobo German tekrarı (30 dk)
@@ -90,7 +90,7 @@
 **Özet:** Ayrılabilen fiiller: ön ek cümle SONUNA gider. aufstehen → Ich stehe um 7 Uhr auf. anrufen, einkaufen, fernsehen. Emir kipi: Komm! Kommen Sie! Macht!
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → trennbare Verben, Imperativ
 - [ ] **[Pzt]** deutsch.lingolia.com → "Trennbare und untrennbare Verben" konusunu oku; ayrılabilen fiilde ön ek sona gider (aufstehen → ...auf). Nicos Weg ilgili bölüm (30-40 dk)
-- [ ] **[Çar]** deutsch.lingolia.com → "Imperativ" (emir kipi: du/ihr/Sie) konusunu çalış; alıştırmaları çöz (25-30 dk)
+- [ ] **[Çar]** deutsch.lingolia.com → "Imperativ" (emir kipi: du/ihr/Sie) konusunu çalış (açıklama ücretsiz); alıştırmaları ücretsiz schubert-verlag.de Online-Aufgaben (A1) veya mein-deutschbuch.de'den çöz (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1 sıradaki bölüm; 10-15 ayrılabilen fiili Tobo German'a ekle (anrufen, einkaufen, aufräumen) (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; günlük rutinini ayrılabilen fiillerle anlat (Ich stehe auf, ich kaufe ein, ich rufe meine Mutter an) (30-40 dk)
 - [ ] **[Cmt]** Üretim: 4 ayrılabilen fiilli cümle + 2 emir cümlesi (Steh bitte auf! Ruf mich an!); Tobo German tekrarı (30 dk)
@@ -99,7 +99,7 @@
 **Özet:** İyelik artikelleri ismin önünde, cinsiyete/hâle göre çekilir: mein Vater, meine Mutter, mein Kind, meine Eltern. Akkusativ'de eril: meinen. dein, sein, ihr, unser, euer, ihr/Ihr.
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → Possessivartikel
 - [ ] **[Pzt]** deutsch.lingolia.com → "Possessivartikel" konusunu oku (mein/dein/sein/ihr...); ein-kelimesi gibi çekildiğini gör. Nicos Weg ilgili bölüm (aile teması) (30-40 dk)
-- [ ] **[Çar]** Possessivartikel'i Nominativ ve Akkusativ'de çalış (mein Bruder → Ich liebe meinen Bruder); alıştırmaları çöz (25-30 dk)
+- [ ] **[Çar]** Possessivartikel'i Nominativ ve Akkusativ'de çalış (mein Bruder → Ich liebe meinen Bruder); alıştırmaları ücretsiz schubert-verlag.de Online-Aufgaben (A1) veya mein-deutschbuch.de'den çöz (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1 sıradaki bölüm; aile/akrabalık kelimelerini artikeliyle Tobo German'a (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; ailen hakkında 5 cümle sesli kur (Meine Schwester heißt... Mein Vater arbeitet als...) (30-40 dk)
 - [ ] **[Cmt]** Üretim: aileni 6 cümleyle tanıt (Das ist meine Familie. Meine Mutter ist Lehrerin.); Tobo German tekrarı (30 dk)
@@ -108,7 +108,7 @@
 **Özet:** Daima Akkusativ isteyen edatlar: für, ohne, gegen, um, durch, bis, entlang. Ein Geschenk für meinen Freund. Ich bin gegen diese Idee.
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → Präpositionen mit Akkusativ
 - [ ] **[Pzt]** deutsch.lingolia.com → "Präpositionen mit Akkusativ" konusunu oku (für, ohne, gegen, um, durch, bis); bunları kalıp olarak ezberle (FUDGBO). Nicos Weg ilgili bölüm (30-40 dk)
-- [ ] **[Çar]** Bu edatlarla alıştırma çöz; her edatla artikel değişimine dikkat (für + den/einen). Schubert-Verlag A1 alıştırması da ekle (25-30 dk)
+- [ ] **[Çar]** Bu edatlarla ücretsiz schubert-verlag.de Online-Aufgaben (A1) veya mein-deutschbuch.de'den alıştırma çöz; her edatla artikel değişimine dikkat (für + den/einen) (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1 sıradaki bölüm + 10-15 kelime Tobo German'a (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; bu edatlarla 5 cümle ("Ich kaufe ein Geschenk für meine Mutter.") (30-40 dk)
 - [ ] **[Cmt]** Üretim: 6 cümlede en az 4 farklı Akkusativ-edatı kullan; Tobo German tekrarı (30 dk)
@@ -116,7 +116,7 @@
 ### Hafta 10 — 🔁 TEKRAR (Hafta 6-9) · 📺 Nicos Weg A1
 **Özet:** Yeni konu yok. Modalverben, ayrılabilen fiiller, iyelik artikelleri ve Akkusativ-edatları pekiştirme.
 **Kaynak:** deutsch.lingolia.com + schubert-verlag.de (A1 karışık alıştırmalar)
-- [ ] **[Pzt]** Hafta 6-9 konularının (modal, trennbar, possessiv, Akk-Präpositionen) Lingolia alıştırmalarını karışık çöz (30-40 dk)
+- [ ] **[Pzt]** Hafta 6-9 konularının (modal, trennbar, possessiv, Akk-Präpositionen) karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (A1) veya mein-deutschbuch.de'den çöz (30-40 dk)
 - [ ] **[Çar]** schubert-verlag.de → Online-Aufgaben → A1'den karışık bir test çöz; en zayıf konunu belirle ve anlatımını yeniden oku (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1'de son birkaç bölümün tekrar izlemesi (analizsiz, kelime yakalama) + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Bugüne kadarki kelimelerden zayıf olanları Tobo German'da Test moduyla tara; 2 sahne shadowing (30-40 dk)
@@ -135,7 +135,7 @@
 **Özet:** İki hâlli edatlar: in, an, auf, über, unter, vor, hinter, neben, zwischen. Konum (Wo? → Dativ): Das Buch liegt auf dem Tisch. Yön (Wohin? → Akkusativ): Ich lege das Buch auf den Tisch.
 **Kaynak:** Nicos Weg A1 + deutsch.lingolia.com → Wechselpräpositionen
 - [ ] **[Pzt]** deutsch.lingolia.com → "Wechselpräpositionen" konusunu oku: Wo? sorusu Dativ, Wohin? sorusu Akkusativ alır. Bu A2'nin temelidir, acele etme. Nicos Weg ilgili bölüm (30-40 dk)
-- [ ] **[Çar]** 9 iki-hâlli edatı ezberle; "Wo?/Wohin?" ayrımıyla alıştırma çöz (Lingolia + Schubert A1) (25-30 dk)
+- [ ] **[Çar]** 9 iki-hâlli edatı ezberle; "Wo?/Wohin?" ayrımıyla alıştırma çöz (ücretsiz schubert-verlag.de Online-Aufgaben A1 / mein-deutschbuch.de) (25-30 dk)
 - [ ] **[Per]** Nicos Weg A1 sıradaki bölüm (ev/oda teması) + eşya/mekân kelimeleri Tobo German'a (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; odandaki eşyaların yerini anlat (Die Lampe steht auf dem Tisch. Das Bild hängt an der Wand.) (30-40 dk)
 - [ ] **[Cmt]** Üretim: odanı 6 cümleyle tarif et (en az 4 Wechselpräposition); Tobo German tekrarı (30 dk)
@@ -211,7 +211,7 @@
 ### Hafta 20 — 🔁 TEKRAR (Hafta 15-19) · 📺 Nicos Weg A2
 **Özet:** Yeni konu yok. Dativ, edatlar, Perfekt, Präteritum (sein/haben/modal) pekiştirme.
 **Kaynak:** deutsch.lingolia.com + schubert-verlag.de (A2 karışık)
-- [ ] **[Pzt]** Hafta 15-19 konularının Lingolia alıştırmalarını karışık çöz (Dativ, Wechselpräp., Perfekt) (30-40 dk)
+- [ ] **[Pzt]** Hafta 15-19 konularının karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (A2) veya mein-deutschbuch.de'den çöz (Dativ, Wechselpräp., Perfekt) (30-40 dk)
 - [ ] **[Çar]** schubert-verlag.de A2'den karışık test; en zayıf konuyu belirle, anlatımını yeniden oku (25-30 dk)
 - [ ] **[Per]** Nicos Weg A2 son bölümlerin tekrar izlemesi + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Zayıf kelimeleri Tobo German Test moduyla tara; 2 sahne shadowing (30-40 dk)
@@ -247,7 +247,7 @@
 ### Hafta 24 — 🔁 TEKRAR (Hafta 21-23) · 📺 Nicos Weg A2
 **Özet:** Yeni konu yok. Zamirler ve yan cümleler (weil/dass) pekiştirme.
 **Kaynak:** deutsch.lingolia.com + schubert-verlag.de
-- [ ] **[Pzt]** Hafta 21-23 konularının Lingolia karışık alıştırmaları (30-40 dk)
+- [ ] **[Pzt]** Hafta 21-23 konularının karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (A2) veya mein-deutschbuch.de'den çöz (30-40 dk)
 - [ ] **[Çar]** schubert-verlag.de A2 karışık test; en zayıf konu anlatımını yeniden oku (25-30 dk)
 - [ ] **[Per]** Nicos Weg A2 tekrar izleme + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)
@@ -342,7 +342,7 @@
 ### Hafta 34 — 🔁 TEKRAR (Hafta 31-33) · 📺 Easy German
 **Özet:** Yeni konu yok. Sıfat çekimi, Genitiv ve Genitiv-edatları pekiştirme.
 **Kaynak:** deutsch.lingolia.com + schubert-verlag.de + Easy German
-- [ ] **[Pzt]** Hafta 31-33 Lingolia karışık alıştırmaları (özellikle sıfat çekimi) (30-40 dk)
+- [ ] **[Pzt]** Hafta 31-33 karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (B1) veya mein-deutschbuch.de'den çöz (özellikle sıfat çekimi) (30-40 dk)
 - [ ] **[Çar]** Schubert B1 karışık test; en zayıf konuyu yeniden oku (25-30 dk)
 - [ ] **[Per]** Easy German bir video (keyif + kelime yakalama) + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Zayıf kelimeler Tobo German Test modu; bir Easy German sahnesini shadowing (30-40 dk)
@@ -378,7 +378,7 @@
 ### Hafta 38 — 🔁 TEKRAR (Hafta 35-37) · 📺 Easy German
 **Özet:** Yeni konu yok. Konjunktiv II ve Passiv pekiştirme.
 **Kaynak:** deutsch.lingolia.com + schubert-verlag.de + Easy German
-- [ ] **[Pzt]** Hafta 35-37 Lingolia karışık alıştırmaları (30-40 dk)
+- [ ] **[Pzt]** Hafta 35-37 karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (B1) veya mein-deutschbuch.de'den çöz (30-40 dk)
 - [ ] **[Çar]** Schubert B1 karışık test; en zayıf konuyu yeniden oku (25-30 dk)
 - [ ] **[Per]** Easy German video (keyif + kelime) + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)
@@ -414,7 +414,7 @@
 ### Hafta 42 — 🔁 TEKRAR (Hafta 39-41) · 📺 Easy German
 **Özet:** Yeni konu yok. İlgi cümleleri ve zu/um...zu yapıları pekiştirme.
 **Kaynak:** deutsch.lingolia.com + schubert-verlag.de + Easy German
-- [ ] **[Pzt]** Hafta 39-41 Lingolia karışık alıştırmaları (30-40 dk)
+- [ ] **[Pzt]** Hafta 39-41 karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (B1) veya mein-deutschbuch.de'den çöz (30-40 dk)
 - [ ] **[Çar]** Schubert B1 karışık test; en zayıf konuyu yeniden oku (25-30 dk)
 - [ ] **[Per]** Easy German video + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)
@@ -450,7 +450,7 @@
 ### Hafta 46 — 🔁 TEKRAR (Hafta 43-45) · 📺 Easy German
 **Özet:** Yeni konu yok. Präteritum, edatlı fiiller ve konnektörler pekiştirme.
 **Kaynak:** deutsch.lingolia.com + schubert-verlag.de + Easy German
-- [ ] **[Pzt]** Hafta 43-45 Lingolia karışık alıştırmaları (30-40 dk)
+- [ ] **[Pzt]** Hafta 43-45 karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (B1) veya mein-deutschbuch.de'den çöz (30-40 dk)
 - [ ] **[Çar]** Schubert B1 karışık test; en zayıf konuyu yeniden oku (25-30 dk)
 - [ ] **[Per]** Easy German video + DW yavaş haber + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)
@@ -509,7 +509,7 @@
 ### Hafta 52 — 🔁 TEKRAR (Hafta 49-51) · 📺 DW Jojo
 **Özet:** Yeni konu yok. İkili bağlaçlar, Konjunktiv I ve Passiv-Ersatzformen pekiştirme.
 **Kaynak:** deutsch.lingolia.com + schubert-verlag.de B2
-- [ ] **[Pzt]** Hafta 49-51 Lingolia karışık alıştırmaları (30-40 dk)
+- [ ] **[Pzt]** Hafta 49-51 karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (Spektrum/Erkundungen B2) veya mein-deutschbuch.de (niveau-b2)'den çöz (30-40 dk)
 - [ ] **[Çar]** schubert B2 karışık test; en zayıf konuyu yeniden oku (25-30 dk)
 - [ ] **[Per]** DW "Jojo" bölümü + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Zayıf kelimeler Tobo German Test modu; 2 sahne shadowing (30-40 dk)
@@ -545,7 +545,7 @@
 ### Hafta 56 — 🔁 TEKRAR (Hafta 53-55) + Modalpartikeln · 📺 Easy German
 **Özet:** Partisip-sıfat, Nominalstil ve ileri bağlaç pekiştirme + konuşma dilinin baharatı: Modalpartikeln (doch, mal, eben, halt, ja, wohl) — anlamı ince ayar yapar.
 **Kaynak:** deutsch.lingolia.com + Easy German
-- [ ] **[Pzt]** Hafta 53-55 Lingolia karışık alıştırmaları (30-40 dk)
+- [ ] **[Pzt]** Hafta 53-55 karışık alıştırmalarını ücretsiz schubert-verlag.de Online-Aufgaben (Spektrum/Erkundungen B2) veya mein-deutschbuch.de (niveau-b2)'den çöz (30-40 dk)
 - [ ] **[Çar]** deutsch.lingolia.com → "Modalpartikeln" konusunu oku (doch/mal/eben/halt/ja); Easy German'da kullanımını gözlemle (25-30 dk)
 - [ ] **[Per]** DW "Jojo" / Easy German + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** İkinci izleme + shadowing; Modalpartikel'li günlük cümleleri taklit et (Komm mal her! Das ist halt so.) (30-40 dk)
@@ -599,7 +599,7 @@
 ### Hafta 62 — 🔁 İleri Gramer Tekrarı (Konjunktiv, Passiv, Adjektive) · 📺 Easy German
 **Özet:** Sınav öncesi gramer pekiştirme: Konjunktiv I/II, Passiv ve alternatifleri, sıfat/partisip çekimi — B2'nin en çok hata yapılan alanları.
 **Kaynak:** deutsch.lingolia.com (B2) + schubert-verlag.de B2
-- [ ] **[Pzt]** Konjunktiv I ve II karışık alıştırma (Lingolia B2); hatalarını not et (30-40 dk)
+- [ ] **[Pzt]** Konjunktiv I ve II karışık alıştırma (ücretsiz schubert-verlag.de Online-Aufgaben Spektrum/Erkundungen B2 veya mein-deutschbuch.de niveau-b2); hatalarını not et (30-40 dk)
 - [ ] **[Çar]** Passiv + Passiv-Ersatzformen + sıfat/partisip çekimi karışık alıştırma; schubert B2 (25-30 dk)
 - [ ] **[Per]** DW/Easy German + Tobo German tekrar (30 dk)
 - [ ] **[Cum]** Hata defterindeki en sık 5 gramer hatasını seç; her biri için 3 doğru örnek cümle yaz, sesli oku (30-40 dk)

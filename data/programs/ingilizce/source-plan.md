@@ -10,13 +10,15 @@
 
 | Araç | Ne işe yarar | Adres |
 |---|---|---|
-| Test-English | Gramer konu anlatımı + testler (A1-B2) | https://test-english.com/grammar-points/ |
-| Test-English Level Test | Seviye çıkış testleri | https://test-english.com/level-test/ |
-| Perfect English Grammar | Ek gramer testi | https://www.perfect-english-grammar.com |
-| BBC Learning English | C1 gramer ve kalıp ("Towards Advanced", "The Grammar Gameshow") | https://www.bbc.co.uk/learningenglish |
-| EnglishPage | C1 tense detayları | https://www.englishpage.com |
-| Netflix + Language Reactor | Dizi izleme + kelime yakalama (Chrome eklentisi: çift altyazı, tıkla-kaydet) | https://www.languagereactor.com |
-| Tobo English | Kelime uygulaması (mobil, spaced repetition) | App Store / Google Play |
+| Test-English | Gramer konu anlatımı + testler (A1-B2); ücretsiz; konu kalıbı /grammar-points/<seviye>/<slug>/. Site katmanları A1/A2/B1/B1+(b1-b2)/B2 — bazı 'B2' konular B1+ altında | https://test-english.com/grammar-points/ |
+| Test-English Level Test | Seviye ÇIKIŞ testleri AYRI: A2/B1/B2 → /use-of-english/<seviye>/ (her birinde ~11 otomatik puanlı test). /level-test/ yalnız tek seferlik genel yerleştirme; sitenin geçme referansı %65 | https://test-english.com/use-of-english/b1/ |
+| Perfect English Grammar | Ek gramer testi | https://www.perfect-english-grammar.com/present-perfect-or-past-simple.html |
+| BBC Learning English | C1 'Towards Advanced' (inversion: Unit 25-26, discourse markers: Unit 27) — ücretsiz, quizli | https://www.bbc.co.uk/learningenglish/course/towards-advanced/unit-1 |
+| EnglishPage | C1 subjunctive + conditionals. DİKKAT: inversion/cleft EnglishPage'de YOK — onlar için BBC Towards Advanced / British Council C1 | https://www.englishpage.com/minitutorials/subjunctive.html |
+| Netflix + Language Reactor | Dizi izleme + kelime yakalama (Chrome eklentisi: çift altyazı, tıkla-kaydet). Çift altyazı ÜCRETSİZ; tıkla-kaydet/Anki aktarımı Pro (~5$/ay) | https://chromewebstore.google.com/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm |
+| Tobo English | Kelime uygulaması (freemium — tüm özellikler ücretli); ücretsiz alternatif: Anki | https://apps.apple.com/us/app/tobo-learn-english-vocabulary/id1358119362 |
+| EF SET (final ölçüm) | Hafta 56 ücretsiz deneme — DİKKAT: yalnız Reading+Listening ölçer | https://www.efset.org/ef-set-50/ |
+| Cambridge C1 Advanced örnek | Ücretsiz örnek sınav kâğıtları (ZIP) | https://www.cambridgeenglish.org/exams-and-tests/qualifications/advanced/preparation/ |
 
 ---
 
@@ -81,11 +83,11 @@
 
 ### Hafta 6 — Going to / Will · Sıklık Zarfları · 🏁 A2 ÇIKIŞ TESTİ · 📺 S1E6 "The Butt"
 **Özet:** I'm going to visit (plan) vs I'll help you (anlık karar) / always, usually, often, sometimes, never (be'den sonra, fiilden önce)
-**Kaynak:** test-english.com → A2 → "Future: going to & will", "Adverbs of frequency" + https://test-english.com/level-test/ (A2)
+**Kaynak:** test-english.com → A2 → "Future: going to & will", "Adverbs of frequency" + https://test-english.com/use-of-english/a2/
 - [ ] **[Pzt]** test-english.com → A2 seviyesinde "Future: going to & will" ile "Adverbs of frequency" testlerini konuyu çalışmadan çöz; %70 altı kalanların anlatımını oku (30-40 dk)
 - [ ] **[Çar]** Karışık A1-A2 mini tekrarı: Faz 0'da işlenen her konudan (to be, present simple/continuous, past simple, karşılaştırma, going to/will...) 1-2 tane olmak üzere toplam 10 cümle yaz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E6 "The Butt" bölümünü Türkçe altyazıyla izle — TR altyazı SON KEZ; gelecek haftadan itibaren ilk izleme de İngilizce altyazıyla olacak (~25 dk)
-- [ ] **[Cum]** 🏁 A2 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden A2 seviye testini çöz. %75 ve üzeri → Faz 1'e geç. Altında kaldıysan zayıf konular için 1 yama haftası ekle, konuları tekrar çalış (35-40 dk)
+- [ ] **[Cum]** 🏁 A2 ÇIKIŞ TESTİ: test-english.com/use-of-english/a2/ adresinden A2 testlerinden birini çöz. %75 ve üzeri → Faz 1'e geç. Altında kaldıysan zayıf konular için 1 yama haftası ekle, konuları tekrar çalış (35-40 dk)
 - [ ] **[Cmt]** Üretim günü: gelecek planların hakkında 5 cümle yaz (örn. I'm going to finish this plan. I will speak English fluently.). Kelimeleri Tobo English'e ekle. 1 sahne shadowing yap (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)
 
 ---
@@ -212,11 +214,11 @@
 
 ### Hafta 20 — 🏁 B1 ÇIKIŞ TESTİ + Genel Tekrar · 📺 S1E20 "The Evil Orthodontist"
 **Özet:** Faz 1 kapanışı: tüm B1 konularının taraması + çıkış testi. %75+ → Faz 2'ye geçiş.
-**Kaynak:** https://test-english.com/level-test/ (B1)
+**Kaynak:** https://test-english.com/use-of-english/b1/
 - [ ] **[Pzt]** Faz 1 konu listesini baştan tara (present perfect, pp vs past, past continuous, modallar, conditional'lar, gerund/infinitive, relative, passive, used to, reported speech); kendine en zayıf 3 konuyu işaretle (30-40 dk)
 - [ ] **[Çar]** test-english.com'da işaretlediğin o 3 konudan birer test çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S1E20 bölümünü İngilizce altyazıyla izle (~25 dk)
-- [ ] **[Cum]** 🏁 B1 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden B1 testini çöz. %75 ve üzeri → Faz 2'ye geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)
+- [ ] **[Cum]** 🏁 B1 ÇIKIŞ TESTİ: test-english.com/use-of-english/b1/ adresinden B1 testlerinden birini çöz. %75 ve üzeri → Faz 2'ye geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)
 - [ ] **[Cmt]** Üretim günü: Faz 1'i özetleyen 10 cümlelik mini paragraf yaz — farklı konuları (perfect, conditional, passive...) karıştırarak. Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)
 
 ---
@@ -379,11 +381,11 @@
 
 ### Hafta 38 — 🏁 B2 ÇIKIŞ TESTİ · 📺 S2E14
 **Özet:** Faz 2 kapanışı: zayıf konu taraması + çıkış testi. %75+ → Faz 3'e (C1) geçiş.
-**Kaynak:** https://test-english.com/level-test/ (B2)
+**Kaynak:** https://test-english.com/use-of-english/b2/
 - [ ] **[Pzt]** Faz 2 konu listesini tara (pp continuous, past perfect, narrative, conditional'lar, deduction, future, causative, passive, relative, bağlaçlar, tags, phrasal verbs); en zayıf 3 konuyu işaretle (30-40 dk)
 - [ ] **[Çar]** test-english.com'da o 3 konudan birer test çöz (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E14 bölümünü İngilizce altyazıyla izle (~25 dk)
-- [ ] **[Cum]** 🏁 B2 ÇIKIŞ TESTİ: test-english.com/level-test/ adresinden B2 testini çöz. %75 ve üzeri → Faz 3'e geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)
+- [ ] **[Cum]** 🏁 B2 ÇIKIŞ TESTİ: test-english.com/use-of-english/b2/ adresinden B2 testlerinden birini çöz. %75 ve üzeri → Faz 3'e geç. Altında kaldıysan zayıf konulara 1-2 yama haftası ekle (35-40 dk)
 - [ ] **[Cmt]** Üretim günü: Faz 2'yi özetleyen 10 cümlelik paragraf yaz (karışık konularla). Kelimeleri Tobo English'e ekle. 1 sahne shadowing (karakterle aynı anda 2-3 kez sesli tekrar) (30-40 dk)
 
 ---
@@ -393,8 +395,8 @@
 
 ### Hafta 39-40 — Inversion · 📺 S2E15-16
 **Özet:** Vurgu için devrik yapı: Never have I seen such a mess. Not only did he lie, but he also... Rarely do we...
-**Kaynak:** englishpage.com + bbc.co.uk/learningenglish → "Towards Advanced" inversion bölümleri
-- [ ] **[Pzt]** englishpage.com ve bbc.co.uk/learningenglish ("Towards Advanced" araması) sitelerinde inversion (devrik yapı) anlatımını oku; Never/Rarely/Not only ile başlayan 5 örnek cümle topla ve defterine yaz (30-40 dk)
+**Kaynak:** bbc.co.uk/learningenglish → Towards Advanced Unit 25-26 (inversion)
+- [ ] **[Pzt]** bbc.co.uk/learningenglish Towards Advanced Unit 25-26'da inversion (devrik yapı) anlatımını oku; Never/Rarely/Not only ile başlayan 5 örnek cümle topla ve defterine yaz (30-40 dk)
 - [ ] **[Çar]** BBC Learning English'teki inversion quiz'ini çöz; yanlışlarının kuralını not et (25-30 dk)
 - [ ] **[Per]** Netflix'te haftanın Friends bölümünü İngilizce altyazıyla izle (1. hafta S2E15, 2. hafta S2E16) (~25 dk)
 - [ ] **[Cum]** Aynı bölümü ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet kelime listesi) ile izle: 8-10 kelime + 5 konuşma kalıbı kaydet (35-40 dk)
@@ -402,8 +404,8 @@
 
 ### Hafta 41 — Cleft Sentences · 📺 S2E17
 **Özet:** Vurgulama: What I need is a holiday. It was Joey who ate the sandwich. The reason why I called is...
-**Kaynak:** bbc.co.uk/learningenglish → "Towards Advanced" + englishpage.com (cleft sentences)
-- [ ] **[Pzt]** bbc.co.uk/learningenglish veya englishpage.com'da "cleft sentences" anlatımını oku; What.../It was...who.../The reason why... kalıplarından 5 örnek topla (30-40 dk)
+**Kaynak:** bbc.co.uk/learningenglish Towards Advanced + britishcouncil.org → C1 'emphasis: cleft sentences'
+- [ ] **[Pzt]** bbc.co.uk/learningenglish Towards Advanced veya britishcouncil.org C1 'emphasis: cleft sentences' anlatımını oku; What.../It was...who.../The reason why... kalıplarından 5 örnek topla (30-40 dk)
 - [ ] **[Çar]** BBC Learning English'te cleft sentences alıştırması/quiz'i çöz; bulamazsan kendi yazdığın 5 normal cümleyi cleft yapıya çevir (25-30 dk)
 - [ ] **[Per]** Netflix'te Friends S2E17 bölümünü İngilizce altyazıyla izle (~25 dk)
 - [ ] **[Cum]** S2E17'yi ikinci kez İngilizce altyazı + Language Reactor (Chrome eklentisi; çift altyazı, tıkla-kaydet) ile izle: 8-10 kelime + 5 kalıp kaydet (35-40 dk)
@@ -535,9 +537,9 @@
 
 | Hafta | Olay | Geçiş Kriteri |
 |---|---|---|
-| 6 | A2 çıkış testi (test-english.com/level-test) | %75+ |
-| 20 | B1 çıkış testi (test-english.com/level-test) | %75+ |
-| 38 | B2 çıkış testi (test-english.com/level-test) | %75+ |
+| 6 | A2 çıkış testi (test-english.com/use-of-english) | %75+ |
+| 20 | B1 çıkış testi (test-english.com/use-of-english) | %75+ |
+| 38 | B2 çıkış testi (test-english.com/use-of-english) | %75+ |
 | 56 | C1 deneme (efset.org / Cambridge örnek) | Sonuca göre yama planı |
 
 Her testte %75 altı kalan konular, sonraki faza geçmeden 1-2 haftalık yamayla kapatılır. Plan uzayabilir — bu başarısızlık değil, sistemin tasarımıdır.
