@@ -6,7 +6,7 @@
     "description": "B1'den C1'e 56 haftalık gramer + dizi + kelime planı",
     "durationLabel": "56 hafta",
     "icon": "bi-journal-bookmark-fill",
-    "planUrl": "data/programs/ingilizce/plan.json?v=1",
+    "planUrl": "data/programs/ingilizce/plan.json?v=41ba30d6",
     "idPrefix": "",
     "taskCount": 416
   },
@@ -17,7 +17,7 @@
     "description": "13 haftada IELTS Academic hazırlığı: strateji, çıkmış sorular, deneme testleri ve yazma pratiği",
     "durationLabel": "13 hafta",
     "icon": "bi-mortarboard-fill",
-    "planUrl": "data/programs/ielts/plan.json?v=1",
+    "planUrl": "data/programs/ielts/plan.json?v=c47bf6db",
     "idPrefix": "ielts.",
     "taskCount": 117
   },
@@ -28,7 +28,7 @@
     "description": "Sıfırdan Goethe-Zertifikat B2'ye 66 haftalık plan: A1→A2→B1→B2, DW Nicos Weg + gramer + sınav hazırlığı",
     "durationLabel": "66 hafta",
     "icon": "bi-translate",
-    "planUrl": "data/programs/almanca/plan.json?v=1",
+    "planUrl": "data/programs/almanca/plan.json?v=bfe977ae",
     "idPrefix": "almanca.",
     "taskCount": 528
   }
