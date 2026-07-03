@@ -97,6 +97,21 @@ const PROGRAM_CONFIGS = {
                     + 'dinleyip 1 hatanı not et'
             }
         ]
+    },
+    kod: {
+        title: 'Code Practice — C# Focused (16 Weeks)',
+        idPrefix: 'kod.',
+        recurringNote:
+            'The solution log is added to every week as a fixed task; '
+            + 'Thursday re-solve day picks problems from this log.',
+        recurring: [
+            {
+                suffix: 'rec-log', day: 'Hafta içi',
+                text: 'Solution log: after each solved problem, add one line — problem name, '
+                    + 'language, one-line approach. Thursday re-solve day and season reviews '
+                    + 'pick from this log (5 min/day)'
+            }
+        ]
     }
 };
 

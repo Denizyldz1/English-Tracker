@@ -9,7 +9,7 @@
  * Sürüm değişince CACHE_NAME artırılır; eski cache activate'te silinir.
  */
 
-const CACHE_NAME = 'tracker-01442188';
+const CACHE_NAME = 'tracker-968bd438';
 
 const APP_SHELL = [
     './',
@@ -34,6 +34,7 @@ const APP_SHELL = [
     'data/programs/ingilizce/plan.json',
     'data/programs/ielts/plan.json',
     'data/programs/almanca/plan.json',
+    'data/programs/kod/plan.json',
     'assets/icons/icon-192.png',
     'assets/icons/icon-512.png'
 ];

@@ -31,5 +31,16 @@
     "planUrl": "data/programs/almanca/plan.json?v=bfe977ae",
     "idPrefix": "almanca.",
     "taskCount": 528
+  },
+  {
+    "id": "kod",
+    "title": "Code Practice — C# Focused",
+    "shortTitle": "Kod",
+    "description": "16-week coding practice in English: daily katas (C#/Python/Dart), SQL, timed tests, free certifications + a Flutter mini-app",
+    "durationLabel": "16 hafta",
+    "icon": "bi-code-slash",
+    "planUrl": "data/programs/kod/plan.json?v=b73dbe70",
+    "idPrefix": "kod.",
+    "taskCount": 96
   }
 ]
