@@ -29,7 +29,7 @@ const REGISTRY = join(DATA, 'programs.json');
 // ─── Program tanımları ─────────────────────────────────────────────
 const PROGRAM_CONFIGS = {
     ingilizce: {
-        title: 'İngilizce Master Plan — B1’den C1’e (56 Hafta)',
+        title: 'İngilizce Master Plan — B1’den C1’e (28 Hafta · Yoğun)',
         idPrefix: '', // ASLA değiştirme: canlı ilerleme öneksiz ID'lerde
         recurringNote:
             'Salı/Perşembe kelime tekrarı ve Pzt/Çar/Cum yeni kelime görevleri her haftaya '

@@ -3,12 +3,12 @@
     "id": "ingilizce",
     "title": "İngilizce Master Plan",
     "shortTitle": "İngilizce",
-    "description": "B1'den C1'e 56 haftalık gramer + dizi + kelime planı",
-    "durationLabel": "56 hafta",
+    "description": "B1'den C1'e 28 haftalık yoğun plan: haftada 2 konu + gömülü tekrar + haftalık sınav (dizi günü: Cum)",
+    "durationLabel": "28 hafta",
     "icon": "bi-journal-bookmark-fill",
-    "planUrl": "data/programs/ingilizce/plan.json?v=41ba30d6",
+    "planUrl": "data/programs/ingilizce/plan.json?v=723b37c7",
     "idPrefix": "",
-    "taskCount": 416
+    "taskCount": 252
   },
   {
     "id": "ielts",
