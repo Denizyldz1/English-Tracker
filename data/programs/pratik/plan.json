@@ -1,7 +1,7 @@
 {
   "title": "Dev Practice — C#/Python/Dart + MSSQL (20 Weeks)",
   "generatedFrom": "data/programs/pratik/source-plan.md",
-  "recurringNote": "The solution log is a fixed weekly task; Tuesday cross-language re-solve picks problems from it.",
+  "recurringNote": "Everything in this program runs in the browser — nothing to install. Your solved-problem history lives on the platforms themselves.",
   "phases": [
     {
       "id": "faz1",
@@ -19,13 +19,13 @@
       "no": "1",
       "title": "Kickoff: C# Katas and First T-SQL Module",
       "episode": "",
-      "summary": "Start the 3-week kata rotation with C#, open your solution log, and begin the T-SQL path with the introduction module.",
+      "summary": "Start the 3-week kata rotation with C# — everything solved on the site, in the browser — and begin the T-SQL path with the introduction module.",
       "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
       "tasks": [
         {
           "id": "pratik.w1-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in C# (7 kyu level) or 2 medium Exercism C# exercises. Then create a \"solution log\": a simple file where you write the problem name, language, and one lesson learned. Pick one problem you solved in the past (at work or in practice), re-solve it in Python or Dart, and add both entries to the log (30-40 min)",
+          "text": "Solve 2 CodeWars katas in C# (7 kyu level) or 2 medium Exercism C# exercises — the Exercism editor runs in the browser, nothing to install, tests run on the site. Then pick one of the problems you just solved and re-solve it in Python or Dart on the same site; both versions stay saved on your profile (30-40 min)",
           "recurring": false
         },
         {
@@ -35,9 +35,9 @@
           "recurring": false
         },
         {
-          "id": "pratik.w1-rec-log",
+          "id": "pratik.w1-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -54,7 +54,7 @@
         {
           "id": "pratik.w2-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in Python (7-6 kyu) or 2 medium Exercism Python exercises. Then open your solution log, pick one problem you originally solved in C#, and re-solve it in Python. Note in the log what felt different between the two languages (30-40 min)",
+          "text": "Solve 2 CodeWars katas in Python (7-6 kyu) or 2 medium Exercism Python exercises. Then open your CodeWars profile → Solutions tab (or your Exercism solutions page), pick one problem you originally solved in C#, and re-solve it in Python — CodeWars lets you re-train a completed kata in another language. Compare both versions on the site (30-40 min)",
           "recurring": false
         },
         {
@@ -64,9 +64,9 @@
           "recurring": false
         },
         {
-          "id": "pratik.w2-rec-log",
+          "id": "pratik.w2-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -83,7 +83,7 @@
         {
           "id": "pratik.w3-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in Dart (7-6 kyu) or 2 medium Exercism Dart exercises. Cross-language re-solve: take one problem from your solution log that was originally in Python or C# and solve it again in Dart. Add a short note about any Dart syntax you had to look up (30-40 min)",
+          "text": "Solve 2 CodeWars katas in Dart (7-6 kyu) or 2 medium Exercism Dart exercises. Cross-language re-solve: open your CodeWars Solutions tab (or Exercism solutions page), take one problem that was originally in Python or C#, and solve it again in Dart. Check the top solutions on the site for any Dart syntax you had to look up (30-40 min)",
           "recurring": false
         },
         {
@@ -93,9 +93,9 @@
           "recurring": false
         },
         {
-          "id": "pratik.w3-rec-log",
+          "id": "pratik.w3-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -104,27 +104,27 @@
       "id": "w4",
       "phaseId": "faz1",
       "no": "4",
-      "title": "C# Returns, jQuery Note, Flutter Upkeep",
+      "title": "C# Returns, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "C# is back in the rotation with a small jQuery side note, and Wednesday is a light Flutter maintenance day.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://docs.flutter.dev/testing/overview",
+      "summary": "C# is back in the rotation with in-browser jQuery exercises, and Wednesday is a DartPad Flutter mini-challenge day.",
+      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
       "tasks": [
         {
           "id": "pratik.w4-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas on CodeWars (7-6 kyu) or Exercism, then re-solve one logged problem in a different language than its original. jQuery upkeep (~10 min): take one jQuery pattern you use at work and write a one-paragraph English note on how you would test or refactor it (30-40 min)",
+          "text": "Solve 2 C# katas on CodeWars (7-6 kyu) or Exercism, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in a different language than its original. jQuery upkeep (~10 min): solve one section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w4-car",
           "day": "Çar",
-          "text": "Light Flutter day: open your flashcard app and add one widget test for a screen that has none (see the Flutter testing overview page). Run the test, make it pass, and commit. Keep it small — deep Flutter work is saved for a future dedicated program (30-40 min)",
+          "text": "DartPad Flutter day: go to https://dartpad.dev (free, no signup — Flutter widgets run right in the browser). Build a counter card widget with a StatefulWidget: a Card that shows a number and a button that increases it. Keep it dependency-free — most pub.dev packages are not available in DartPad. Deep Flutter work is saved for a future dedicated program (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w4-rec-log",
+          "id": "pratik.w4-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -141,7 +141,7 @@
         {
           "id": "pratik.w5-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas (6 kyu if 7 kyu feels easy) or 2 medium Exercism Python exercises. Then pick one Dart or C# problem from your solution log and rewrite it in Python. In the log, write one sentence about which version is cleaner and why (30-40 min)",
+          "text": "Solve 2 Python katas (6 kyu if 7 kyu feels easy) or 2 medium Exercism Python exercises. Then pick one Dart or C# problem from your CodeWars Solutions tab (or Exercism solutions page) and rewrite it in Python. Compare both versions on the site and decide which one is cleaner and why (30-40 min)",
           "recurring": false
         },
         {
@@ -151,9 +151,9 @@
           "recurring": false
         },
         {
-          "id": "pratik.w5-rec-log",
+          "id": "pratik.w5-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -170,7 +170,7 @@
         {
           "id": "pratik.w6-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (7-6 kyu) or 2 medium Exercism Dart exercises. Cross-language re-solve: choose one problem from the log that you have not yet touched in Dart and solve it in Dart. Update the log with the entry (30-40 min)",
+          "text": "Solve 2 Dart katas (7-6 kyu) or 2 medium Exercism Dart exercises. Cross-language re-solve: from your CodeWars Solutions tab, choose one problem that you have not yet touched in Dart and re-train it in Dart — your profile saves the new version automatically (30-40 min)",
           "recurring": false
         },
         {
@@ -180,9 +180,9 @@
           "recurring": false
         },
         {
-          "id": "pratik.w6-rec-log",
+          "id": "pratik.w6-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -199,19 +199,19 @@
         {
           "id": "pratik.w7-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas, now aiming at 6 kyu on CodeWars (or 2 medium Exercism exercises). Then take one Python problem from your solution log and re-solve it in C#. Note one thing LINQ made shorter — or longer (30-40 min)",
+          "text": "Solve 2 C# katas, now aiming at 6 kyu on CodeWars (or 2 medium Exercism exercises). Then take one Python problem from your CodeWars Solutions tab (or Exercism solutions page) and re-solve it in C#. Compare with the top solutions: what did LINQ make shorter — or longer? (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w7-car",
           "day": "Çar",
-          "text": "SQL practice day: solve 3-4 Easy problems on HackerRank SQL (MS SQL Server engine where offered) or LeetCode Database (always select the MS SQL Server dialect). Keep a small list of problems you found hard — you will retry them later (30-40 min)",
+          "text": "SQL practice day: solve 3-4 Easy problems on HackerRank SQL (MS SQL Server engine where offered) or LeetCode Database (always select the MS SQL Server dialect). If a problem feels hard, leave it in your attempted list on the site — both platforms keep your history, and you will retry them later (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w7-rec-log",
+          "id": "pratik.w7-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -220,27 +220,27 @@
       "id": "w8",
       "phaseId": "faz1",
       "no": "8",
-      "title": "Python Week, jQuery Note, Flutter Upkeep",
+      "title": "Python Week, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Python katas plus a short jQuery reflection on Tuesday; Wednesday is another light Flutter maintenance session.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://docs.flutter.dev/testing/overview",
+      "summary": "Python katas plus in-browser jQuery exercises on Tuesday; Wednesday is another DartPad Flutter mini-challenge in the browser.",
+      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
       "tasks": [
         {
           "id": "pratik.w8-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas (6 kyu) or 2 medium Exercism Python exercises, then re-solve one logged C# or Dart problem in Python. jQuery upkeep (~10 min): pick a jQuery snippet from a work project and write a short English paragraph on how you would replace it with plain JavaScript — would it be worth it? (30-40 min)",
+          "text": "Solve 2 Python katas (6 kyu) or 2 medium Exercism Python exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old C# or Dart problem in Python. jQuery upkeep (~10 min): solve the next section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — instant checking on the site (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w8-car",
           "day": "Çar",
-          "text": "Light Flutter day: run the analyzer on your flashcard app (`flutter analyze`) and fix one group of lint warnings (for example all unused imports, or all missing const keywords). Run the existing tests to confirm nothing broke, then commit (30-40 min)",
+          "text": "DartPad Flutter day: go to https://dartpad.dev and build an AnimatedContainer that changes its size and color when you tap it (wrap it in a GestureDetector). Everything runs in the browser — no install, no signup. Keep it dependency-free: most pub.dev packages are not available in DartPad (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w8-rec-log",
+          "id": "pratik.w8-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -257,7 +257,7 @@
         {
           "id": "pratik.w9-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6 kyu if possible) or 2 medium Exercism Dart exercises. Cross-language re-solve: pick the oldest problem in your solution log and solve it in Dart if it is not already in Dart — otherwise use another language. Write one line about what you remembered wrong (30-40 min)",
+          "text": "Solve 2 Dart katas (6 kyu if possible) or 2 medium Exercism Dart exercises. Cross-language re-solve: pick the oldest problem in your CodeWars Solutions tab and solve it in Dart if it is not already in Dart — otherwise use another language. Compare with your old solution on the site: what did you remember wrong? (30-40 min)",
           "recurring": false
         },
         {
@@ -267,9 +267,9 @@
           "recurring": false
         },
         {
-          "id": "pratik.w9-rec-log",
+          "id": "pratik.w9-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -286,19 +286,19 @@
         {
           "id": "pratik.w10-sali",
           "day": "Salı",
-          "text": "Warm-up for tomorrow: solve 2 C# katas (6 kyu) focusing on clean, fast solutions without looking things up. Then re-solve one logged Python or Dart problem in C#. Note in the log which C# features you reached for automatically (30-40 min)",
+          "text": "Warm-up for tomorrow: solve 2 C# katas (6 kyu) focusing on clean, fast solutions without looking things up. Then re-solve one Python or Dart problem from your CodeWars Solutions tab in C#. Notice which C# features you reached for automatically (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w10-car",
           "day": "Çar",
-          "text": "🏁 Take the FREE timed HackerRank \"C# (Basic)\" certification at https://www.hackerrank.com/skills-verification. Find a quiet 45-minute window, no notes. Afterwards, write 2-3 English sentences in your log: what was easy, what surprised you (30-40 min)",
+          "text": "🏁 Take the FREE timed HackerRank \"C# (Basic)\" certification at https://www.hackerrank.com/skills-verification. Find a quiet 45-minute window, no notes. Afterwards the result and certificate appear on your HackerRank profile — review on the site what was easy and what surprised you (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w10-rec-log",
+          "id": "pratik.w10-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -315,19 +315,19 @@
         {
           "id": "pratik.w11-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas at 6-5 kyu (or 2 medium-to-hard Exercism Python exercises). Cross-language re-solve: take one problem from the log and solve it in a language it has not been solved in yet. If every problem is covered in all three languages, pick the one whose solution you like least and improve it (30-40 min)",
+          "text": "Solve 2 Python katas at 6-5 kyu (or 2 medium-to-hard Exercism Python exercises). Cross-language re-solve: from your CodeWars Solutions tab (or Exercism solutions page), take one problem and solve it in a language it has not been solved in yet. If every problem is covered in all three languages, pick the one whose solution you like least and improve it (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w11-car",
           "day": "Çar",
-          "text": "Solve 2-3 Medium problems on LeetCode Database (always select the MS SQL Server dialect) or HackerRank SQL (MS SQL Server engine where offered). Focus on GROUP BY + HAVING patterns. Add any problem that took two tries to your retry list (30-40 min)",
+          "text": "Solve 2-3 Medium problems on LeetCode Database (always select the MS SQL Server dialect) or HackerRank SQL (MS SQL Server engine where offered). Focus on GROUP BY + HAVING patterns. Any problem that took two tries stays visible in your on-site history — you will revisit it in Hafta 14 (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w11-rec-log",
+          "id": "pratik.w11-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -336,27 +336,27 @@
       "id": "w12",
       "phaseId": "faz2",
       "no": "12",
-      "title": "Dart Week, jQuery Note, Flutter Upkeep",
+      "title": "Dart Week, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Dart katas with a short jQuery item on Tuesday; Wednesday gives the flashcard app one small visible improvement.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://docs.flutter.dev/ui/animations",
+      "summary": "Dart katas with in-browser jQuery exercises on Tuesday; Wednesday is a DartPad flashcard flip mini-challenge in the browser.",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
       "tasks": [
         {
           "id": "pratik.w12-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 medium Exercism Dart exercises, then re-solve one logged problem in a different language than its original. jQuery upkeep (~10 min): choose one jQuery selector-heavy block from work and write a one-paragraph English note on how you would make it more readable (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 medium Exercism Dart exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in a different language than its original. jQuery upkeep (~10 min): solve another section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w12-car",
           "day": "Çar",
-          "text": "Light Flutter day: add one small animation to your flashcard app — for example an AnimatedOpacity or AnimatedContainer when a card flips or appears (see the Flutter animations page). Keep the change under an hour of total effort; commit when it looks smooth (30-40 min)",
+          "text": "DartPad Flutter day: go to https://dartpad.dev and build a small flashcard flip effect with AnimatedSwitcher — tap a card to switch between a question side and an answer side. Runs fully in the browser, nothing to install; keep it dependency-free because most pub.dev packages are not available in DartPad (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w12-rec-log",
+          "id": "pratik.w12-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -373,19 +373,19 @@
         {
           "id": "pratik.w13-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas aiming at 6-5 kyu (or 2 harder Exercism C# exercises). Then pick a problem from your solution log that you last touched in Faz 1 and re-solve it in a different language than its original, from memory first, log second (30-40 min)",
+          "text": "Solve 2 C# katas aiming at 6-5 kyu (or 2 harder Exercism C# exercises). Then pick a problem from your CodeWars Solutions tab that you last touched in Faz 1 and re-solve it in a different language than its original — from memory first, then compare with your old solution on the site (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w13-car",
           "day": "Çar",
-          "text": "Solve 2-3 Medium problems on LeetCode Database (MS SQL Server dialect) that involve ranking or consecutive rows — these usually need ROW_NUMBER, RANK, or LAG/LEAD. If window functions feel rusty, spend the first 10 minutes re-reading your notes from the MS Learn path (30-40 min)",
+          "text": "Solve 2-3 Medium problems on LeetCode Database (MS SQL Server dialect) that involve ranking or consecutive rows — these usually need ROW_NUMBER, RANK, or LAG/LEAD. If window functions feel rusty, spend the first 10 minutes re-opening the relevant module page on the MS Learn path (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w13-rec-log",
+          "id": "pratik.w13-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -394,27 +394,27 @@
       "id": "w14",
       "phaseId": "faz2",
       "no": "14",
-      "title": "Python Week and the Retry List",
+      "title": "Python Week and the SQL Retry Round",
       "episode": "",
-      "summary": "Python katas continue; on Wednesday you clear old debts by retrying SQL problems that beat you before.",
+      "summary": "Python katas continue; on Wednesday you clear old debts by re-solving, on the site, the SQL problems that beat you before.",
       "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
       "tasks": [
         {
           "id": "pratik.w14-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas (6-5 kyu) or 2 harder Exercism Python exercises. Cross-language re-solve: choose one problem from the log where your original solution used a loop, and re-solve it in another language using a more functional style (LINQ, comprehension, or Dart collection methods) (30-40 min)",
+          "text": "Solve 2 Python katas (6-5 kyu) or 2 harder Exercism Python exercises. Cross-language re-solve: from your CodeWars Solutions tab, choose one problem where your original solution used a loop, and re-solve it in another language using a more functional style (LINQ, comprehension, or Dart collection methods) (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w14-car",
           "day": "Çar",
-          "text": "Open your SQL retry list and re-solve 2-3 problems from it without looking at your old answers (HackerRank SQL with the MS SQL Server engine, or LeetCode Database with the MS SQL Server dialect). Cross off the ones you now solve cleanly; keep the stubborn ones (30-40 min)",
+          "text": "Open your solved and attempted history on HackerRank SQL (MS SQL Server engine) or LeetCode Database (MS SQL Server dialect) and re-solve 2-3 problems that were hard the first time, without looking at your old submissions. The site marks them solved once you pass; the stubborn ones stay in your attempted list (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w14-rec-log",
+          "id": "pratik.w14-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -431,19 +431,19 @@
         {
           "id": "pratik.w15-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Then take one C# problem from your log and re-solve it in Dart, paying attention to null-safety differences. One log line: what did Dart force you to think about that C# did not? (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Then take one C# problem from your CodeWars Solutions tab and re-solve it in Dart, paying attention to null-safety differences. Compare both versions on the site: what did Dart force you to think about that C# did not? (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w15-car",
           "day": "Çar",
-          "text": "Attempt 1 Hard problem on LeetCode Database (MS SQL Server dialect) — give it 20 focused minutes before checking any hints. Whether you solve it or not, write down the key idea in English. Use remaining time for 1 Medium problem as a confidence reset (30-40 min)",
+          "text": "Attempt 1 Hard problem on LeetCode Database (MS SQL Server dialect) — give it 20 focused minutes before checking any hints. Whether you solve it or not, read the top discussion post on the site and make sure you can explain the key idea in English. Use remaining time for 1 Medium problem as a confidence reset (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w15-rec-log",
+          "id": "pratik.w15-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -452,27 +452,27 @@
       "id": "w16",
       "phaseId": "faz2",
       "no": "16",
-      "title": "C# Week, jQuery Note, Flutter Upkeep",
+      "title": "C# Week, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Last combined upkeep week: C# katas plus a jQuery note on Tuesday, and a final light Flutter session on Wednesday.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://docs.flutter.dev/testing/overview",
+      "summary": "Last combined upkeep week: C# katas plus in-browser jQuery exercises on Tuesday, and a final DartPad Flutter mini-challenge on Wednesday.",
+      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
       "tasks": [
         {
           "id": "pratik.w16-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas (5 kyu if you feel ready) or 2 harder Exercism C# exercises, then re-solve one logged problem in a different language than its original. jQuery upkeep (~10 min): pick one jQuery AJAX call from work and write a one-paragraph English note on how you would handle its error cases better (30-40 min)",
+          "text": "Solve 2 C# katas (5 kyu if you feel ready) or 2 harder Exercism C# exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in a different language than its original. jQuery upkeep (~10 min): solve the last section you have not done yet in the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w16-car",
           "day": "Çar",
-          "text": "Light Flutter day: add one more widget test to the flashcard app, this time for a user interaction (tap a button, expect a change). Run the full test suite and fix anything red. This is the last scheduled Flutter session — bigger Flutter plans wait for their own program (30-40 min)",
+          "text": "DartPad Flutter day: go to https://dartpad.dev and build a small ListView with dismissible items — swipe an item away with the Dismissible widget and show a SnackBar. All in the browser, no signup; keep it dependency-free (most pub.dev packages are not available in DartPad). This is the last scheduled Flutter session — bigger Flutter plans wait for their own program (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w16-rec-log",
+          "id": "pratik.w16-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -489,7 +489,7 @@
         {
           "id": "pratik.w17-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas (6-5 kyu) or 2 harder Exercism Python exercises. Cross-language re-solve: pick the problem from your log with the most entries and solve it one more time in the language you are slowest in. Time yourself and note the number (30-40 min)",
+          "text": "Solve 2 Python katas (6-5 kyu) or 2 harder Exercism Python exercises. Cross-language re-solve: in your CodeWars Solutions tab, pick the problem you have re-trained most often and solve it one more time in the language you are slowest in. Time yourself and try to beat your feeling of \"slow\" (30-40 min)",
           "recurring": false
         },
         {
@@ -499,9 +499,9 @@
           "recurring": false
         },
         {
-          "id": "pratik.w17-rec-log",
+          "id": "pratik.w17-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -518,19 +518,19 @@
         {
           "id": "pratik.w18-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises — this is Dart's final turn in the program. Re-solve one logged problem in a different language than its original, then skim your whole solution log and mark your 3 favorite solutions (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises — this is Dart's final turn in the program. Re-solve one problem from your CodeWars Solutions tab in a different language than its original, then skim your whole Solutions tab (and Exercism solutions pages) and pick your 3 favorite solutions (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w18-car",
           "day": "Çar",
-          "text": "Certification prep, round 1: set a 35-minute timer and solve as many Medium problems as you can on HackerRank SQL (MS SQL Server engine where offered) — no breaks, no docs, exam conditions. Afterwards note your count and the topic that slowed you down most (30-40 min)",
+          "text": "Certification prep, round 1: set a 35-minute timer and solve as many Medium problems as you can on HackerRank SQL (MS SQL Server engine where offered) — no breaks, no docs, exam conditions. Afterwards check your submission history on the site: how many did you finish, and which topic slowed you down most? (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w18-rec-log",
+          "id": "pratik.w18-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -547,7 +547,7 @@
         {
           "id": "pratik.w19-sali",
           "day": "Salı",
-          "text": "Final C# kata session: solve 2 katas at 6-5 kyu, then do one last cross-language re-solve from your log. Close with 5 minutes reviewing the log start to finish — write 3 English sentences about what improved since Hafta 1 (30-40 min)",
+          "text": "Final C# kata session: solve 2 katas at 6-5 kyu, then do one last cross-language re-solve from your CodeWars Solutions tab. Close with 5 minutes scrolling your whole solution history on the platforms, start to finish — see in the code itself what improved since Hafta 1 (30-40 min)",
           "recurring": false
         },
         {
@@ -557,9 +557,9 @@
           "recurring": false
         },
         {
-          "id": "pratik.w19-rec-log",
+          "id": "pratik.w19-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]
@@ -570,25 +570,25 @@
       "no": "20",
       "title": "Python Send-off and SQL Certification",
       "episode": "",
-      "summary": "Program finale: a relaxed Python kata session with the last jQuery note, then the free timed HackerRank SQL (Intermediate) certification.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.hackerrank.com/skills-verification",
+      "summary": "Program finale: a relaxed Python kata session with the final in-browser jQuery quiz, then the free timed HackerRank SQL (Intermediate) certification.",
+      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.w3schools.com/jquery/jquery_quiz.asp · https://www.hackerrank.com/skills-verification",
       "tasks": [
         {
           "id": "pratik.w20-sali",
           "day": "Salı",
-          "text": "Light warm-up before exam day: solve 2 Python katas at a comfortable level (6 kyu) and re-solve one logged problem in a different language than its original. jQuery upkeep (~10 min): write a final one-paragraph English note — which jQuery habit from these 20 weeks will you keep, and which will you drop? (30-40 min)",
+          "text": "Light warm-up before exam day: solve 2 Python katas at a comfortable level (6 kyu) and re-solve one problem from your CodeWars Solutions tab in a different language than its original. jQuery finale (~10 min): take the 25-question W3Schools jQuery quiz at https://www.w3schools.com/jquery/jquery_quiz.asp — your score appears instantly on the site (30-40 min)",
           "recurring": false
         },
         {
           "id": "pratik.w20-car",
           "day": "Çar",
-          "text": "🏁 Take the FREE timed HackerRank \"SQL (Intermediate)\" certification at https://www.hackerrank.com/skills-verification. Quiet room, full focus, no notes. Whatever the result, finish by writing a short English paragraph in your log: the one skill this program made noticeably stronger (30-40 min)",
+          "text": "🏁 Take the FREE timed HackerRank \"SQL (Intermediate)\" certification at https://www.hackerrank.com/skills-verification. Quiet room, full focus, no notes. Whatever the result, it lands on your HackerRank profile — and the whole 20 weeks is now visible on your CodeWars, Exercism, MS Learn, and HackerRank histories (30-40 min)",
           "recurring": false
         },
         {
-          "id": "pratik.w20-rec-log",
+          "id": "pratik.w20-rec-review",
           "day": "Hafta içi",
-          "text": "Solution log: after each solved problem, add one line — problem name, language, one-line approach. Tuesday cross-language re-solve picks from this log (5 min/day)",
+          "text": "After every solved problem, stay on the site: open 2 top-voted solutions and compare them with yours — spot one trick you did not use. The platform keeps your solution history; Tuesday re-solve picks from it (5 min)",
           "recurring": true
         }
       ]

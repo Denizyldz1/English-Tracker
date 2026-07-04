@@ -117,14 +117,15 @@ const PROGRAM_CONFIGS = {
         title: 'Dev Practice — C#/Python/Dart + MSSQL (20 Weeks)',
         idPrefix: 'pratik.',
         recurringNote:
-            'The solution log is a fixed weekly task; Tuesday cross-language re-solve '
-            + 'picks problems from it.',
+            'Everything in this program runs in the browser — nothing to install. '
+            + 'Your solved-problem history lives on the platforms themselves.',
         recurring: [
             {
-                suffix: 'rec-log', day: 'Hafta içi',
-                text: 'Solution log: after each solved problem, add one line — problem name, '
-                    + 'language, one-line approach. Tuesday cross-language re-solve picks '
-                    + 'from this log (5 min/day)'
+                suffix: 'rec-review', day: 'Hafta içi',
+                text: 'After every solved problem, stay on the site: open 2 top-voted '
+                    + 'solutions and compare them with yours — spot one trick you did not '
+                    + 'use. The platform keeps your solution history; Tuesday re-solve '
+                    + 'picks from it (5 min)'
             }
         ]
     }
