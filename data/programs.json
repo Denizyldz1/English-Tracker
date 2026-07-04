@@ -33,14 +33,25 @@
     "taskCount": 528
   },
   {
-    "id": "kod",
-    "title": "Code Practice — React/TS/Next + Flutter",
-    "shortTitle": "Kod",
-    "description": "16-week track in English: React+TypeScript+Next.js from zero (jQuery bridge), advanced Flutter, MSSQL-only SQL, C#/Dart katas + 2 portfolio projects",
-    "durationLabel": "16 hafta",
-    "icon": "bi-code-slash",
-    "planUrl": "data/programs/kod/plan.json?v=c9b6464d",
-    "idPrefix": "kod.",
-    "taskCount": 96
+    "id": "react",
+    "title": "React Stack — React/TS/Next",
+    "shortTitle": "React",
+    "description": "20-week path in English: Udemy courses (React 18 + Next.js 16, Turkish) + react.dev/Next Learn in English, DevBoard portfolio project, Redux Toolkit, auth, Vercel deploy",
+    "durationLabel": "20 hafta",
+    "icon": "bi-braces",
+    "planUrl": "data/programs/react/plan.json?v=3b27fa8c",
+    "idPrefix": "react.",
+    "taskCount": 80
+  },
+  {
+    "id": "pratik",
+    "title": "Dev Practice — C#/Python/Dart + MSSQL",
+    "shortTitle": "Pratik",
+    "description": "2 days/week in English: C#→Python→Dart kata rotation with cross-language re-solve, MSSQL/T-SQL track, light Flutter upkeep + free certifications",
+    "durationLabel": "20 hafta",
+    "icon": "bi-tools",
+    "planUrl": "data/programs/pratik/plan.json?v=23722075",
+    "idPrefix": "pratik.",
+    "taskCount": 60
   }
 ]

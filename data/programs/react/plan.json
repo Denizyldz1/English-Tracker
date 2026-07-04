@@ -1,0 +1,717 @@
+{
+  "title": "React Stack — React/TS/Next + Redux (20 Weeks)",
+  "generatedFrom": "data/programs/react/source-plan.md",
+  "recurringNote": "The course-notes task is added to every week; Thursday reviews and interview prep build on these notes.",
+  "phases": [
+    {
+      "id": "faz1",
+      "title": "FAZ 1 — Season 1: Course + React Core (Hafta 1-10)"
+    },
+    {
+      "id": "faz2",
+      "title": "FAZ 2 — Season 2: Redux, MUI and Next.js (Hafta 11-20)"
+    }
+  ],
+  "weeks": [
+    {
+      "id": "w1",
+      "phaseId": "faz1",
+      "no": "1",
+      "title": "Setup",
+      "episode": "",
+      "summary": "Install your tools, watch the first course videos, and create your DevBoard project. In jQuery you added a `<script>` tag to a page; in React you build the whole app from components inside a build tool (Vite).",
+      "source": "Your Udemy course (Can Boz) — Kurulum section; https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html ; https://www.typescriptlang.org/play",
+      "tasks": [
+        {
+          "id": "react.w1-pzt",
+          "day": "Pzt",
+          "text": "Watch the Kurulum section and the first component videos of your Udemy course (Can Boz) at 1.25x. Install Node.js and VS Code, and run the course starter project on your machine (45 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w1-per",
+          "day": "Per",
+          "text": "Read \"TypeScript for JavaScript Programmers\" (https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html). Then open the TS Playground (https://www.typescriptlang.org/play) and type every example yourself — change the values and watch the errors (35 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w1-cmt",
+          "day": "Cmt",
+          "text": "Scaffold your DevBoard project: run `npm create vite@latest devboard -- --template react-ts`, start it, delete the demo content, and render one small component (for example a `<Header />` with your name). Create a GitHub repo and push the first commit (70 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w1-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "phaseId": "faz1",
+      "no": "2",
+      "title": "Components",
+      "episode": "",
+      "summary": "Components are the building blocks of React. In jQuery you copied HTML blocks and changed them with selectors; in React you write a component once and reuse it with different props.",
+      "source": "Your Udemy course (Can Boz) — Componentler section; https://react.dev/learn",
+      "tasks": [
+        {
+          "id": "react.w2-pzt",
+          "day": "Pzt",
+          "text": "Watch the Componentler section of your Udemy course (Can Boz) at 1.25x. Code along: pause the video and type every component yourself instead of only watching (50 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w2-per",
+          "day": "Per",
+          "text": "On https://react.dev/learn read \"Your First Component\" and \"Importing and Exporting Components\", and complete ALL the challenges at the end of both pages (40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w2-cmt",
+          "day": "Cmt",
+          "text": "In DevBoard, build 3 typed components (for example `Card`, `Sidebar`, `StatBox`). Give each one a TypeScript `interface` for its props and render them with different prop values. Commit and push (70 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w2-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "phaseId": "faz1",
+      "no": "3",
+      "title": "State",
+      "episode": "",
+      "summary": "State is data that changes and makes the UI re-render. In jQuery you changed the DOM by hand with `.text()` and `.append()`; in React you change the state and React updates the DOM for you.",
+      "source": "Your Udemy course (Can Boz) — State section; https://www.typescriptlang.org/docs/handbook/intro.html ; https://exercism.org/tracks/typescript",
+      "tasks": [
+        {
+          "id": "react.w3-pzt",
+          "day": "Pzt",
+          "text": "Watch the State videos of your Udemy course (Can Boz) at 1.25x and code along. Write one sentence in your notes: \"What makes React re-render a component?\" (45 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w3-per",
+          "day": "Per",
+          "text": "Read \"Everyday Types\" in the TS Handbook (https://www.typescriptlang.org/docs/handbook/intro.html) and solve 2 easy exercises on the Exercism TypeScript track (https://exercism.org/tracks/typescript) (40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w3-cmt",
+          "day": "Cmt",
+          "text": "In DevBoard, create a local JSON array (for example 10 fake users or tasks) as typed data, put it in state with `useState`, and render it as a list of your Card components. Add a button that adds one item to the list. Commit and push (70 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w3-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "phaseId": "faz1",
+      "no": "4",
+      "title": "Events & Effects",
+      "episode": "",
+      "summary": "Handle user events and load data with useEffect. In jQuery you did `$('#btn').on('click', ...)`; in React you think in `onClick={handleClick}` directly on the JSX element.",
+      "source": "Your Udemy course (Can Boz) — Hooks section (useState/useEffect); https://react.dev/learn",
+      "tasks": [
+        {
+          "id": "react.w4-pzt",
+          "day": "Pzt",
+          "text": "Watch the Hooks introduction videos (useState and useEffect) of your Udemy course (Can Boz) at 1.25x and code along with the examples (50 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w4-per",
+          "day": "Per",
+          "text": "On https://react.dev/learn work through the \"Adding Interactivity\" pages (\"Responding to Events\" and \"State: A Component's Memory\") and complete all their challenges (40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w4-cmt",
+          "day": "Cmt",
+          "text": "In DevBoard, fetch real data from a public API (https://jsonplaceholder.typicode.com/users) inside `useEffect`, type the response with an interface, and show three UI states: loading, error, and the data list. Commit and push (75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w4-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "phaseId": "faz1",
+      "no": "5",
+      "title": "Hooks Deep",
+      "episode": "",
+      "summary": "Go deeper into hooks and rebuild your jQuery muscle memory the React way: search, filter, and sort are just state + derived data, not DOM manipulation.",
+      "source": "Your Udemy course (Can Boz) — Hooks section (devam); https://react.dev/learn",
+      "tasks": [
+        {
+          "id": "react.w5-pzt",
+          "day": "Pzt",
+          "text": "Watch the remaining Hooks videos of your Udemy course (Can Boz) at 1.25x and code along. Note down any hook you do not understand yet (45 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w5-per",
+          "day": "Per",
+          "text": "On https://react.dev/learn read \"Render and Commit\", \"State as a Snapshot\" and \"Synchronizing with Effects\", and complete all the challenges on those pages (40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w5-cmt",
+          "day": "Cmt",
+          "text": "In DevBoard, add a search input, a filter dropdown, and a sort button for your API list. In jQuery you would `.hide()` and `.show()` rows; in React you filter the array in state and render the result. Commit and push (75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w5-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "phaseId": "faz1",
+      "no": "6",
+      "title": "Custom Hooks",
+      "episode": "",
+      "summary": "Extract repeated logic into your own hooks, and learn how React developers plan a UI before coding it.",
+      "source": "Your Udemy course (Can Boz) — custom hooks videos; https://react.dev/learn/thinking-in-react",
+      "tasks": [
+        {
+          "id": "react.w6-pzt",
+          "day": "Pzt",
+          "text": "Watch the custom hooks videos of your Udemy course (Can Boz) at 1.25x and code along with at least one custom hook example (45 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w6-per",
+          "day": "Per",
+          "text": "Read \"Thinking in React\" (https://react.dev/learn/thinking-in-react) from start to finish. Take notes: write the 5 steps in your own simple English words (35 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w6-cmt",
+          "day": "Cmt",
+          "text": "Refactor DevBoard: move your fetch logic into a typed `useFetch<T>` custom hook that returns `{ data, loading, error }`, and use it in two different components. Commit and push (70 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w6-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "phaseId": "faz1",
+      "no": "7",
+      "title": "Router",
+      "episode": "",
+      "summary": "Turn DevBoard into a multi-page app with React Router 6. In jQuery each page was a separate HTML file; in React the router swaps components without reloading the page.",
+      "source": "Your Udemy course (Can Boz) — Router 6 section; https://www.typescriptlang.org/docs/handbook/intro.html ; https://exercism.org/tracks/typescript",
+      "tasks": [
+        {
+          "id": "react.w7-pzt",
+          "day": "Pzt",
+          "text": "Watch the Router 6 section of your Udemy course (Can Boz) at 1.25x and code along with the route examples (50 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w7-per",
+          "day": "Per",
+          "text": "In the TS Handbook (https://www.typescriptlang.org/docs/handbook/intro.html) read \"Narrowing\" and the basics of \"Generics\", then solve 2 more exercises on the Exercism TypeScript track (https://exercism.org/tracks/typescript) (40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w7-cmt",
+          "day": "Cmt",
+          "text": "Add React Router to DevBoard: a list page (`/users`) and a detail page (`/users/:id`) that fetches and shows one item. Add a simple navbar with links. Commit and push (75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w7-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w8",
+      "phaseId": "faz1",
+      "no": "8",
+      "title": "Fake Backend",
+      "episode": "",
+      "summary": "Use json-server as a fake backend and start real CRUD. Until now you only read data; this week you create and delete it.",
+      "source": "Your Udemy course (Can Boz) — json-server section; https://react.dev/learn",
+      "tasks": [
+        {
+          "id": "react.w8-pzt",
+          "day": "Pzt",
+          "text": "Watch the json-server section of your Udemy course (Can Boz) at 1.25x and code along: run json-server locally and hit it from a React app (45 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w8-per",
+          "day": "Per",
+          "text": "On https://react.dev/learn work through the \"Managing State\" pages (\"Reacting to Input with State\" and \"Choosing the State Structure\") and complete all their challenges (40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w8-cmt",
+          "day": "Cmt",
+          "text": "Add json-server to DevBoard with a `db.json` file. Build a form to CREATE a new item (POST) and a button to DELETE one (DELETE), then refresh the list from the server. Commit and push (75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w8-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w9",
+      "phaseId": "faz1",
+      "no": "9",
+      "title": "Context",
+      "episode": "",
+      "summary": "Context lets you pass data deeply without \"prop drilling\". In jQuery global state was often just a global variable; in React, Context gives shared data in a controlled way.",
+      "source": "Your Udemy course (Can Boz) — Context API section; https://react.dev/learn",
+      "tasks": [
+        {
+          "id": "react.w9-pzt",
+          "day": "Pzt",
+          "text": "Watch the Context API section of your Udemy course (Can Boz) at 1.25x and code along with the provider/consumer examples (50 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w9-per",
+          "day": "Per",
+          "text": "On https://react.dev/learn read \"Passing Data Deeply with Context\" and complete all the challenges at the end of the page (35 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w9-cmt",
+          "day": "Cmt",
+          "text": "In DevBoard, add a typed Context: either a dark/light theme toggle or a \"favorites\" list that any component can read and update. Commit and push (70 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w9-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w10",
+      "phaseId": "faz1",
+      "no": "10",
+      "title": "Season 1 Final",
+      "episode": "",
+      "summary": "Finish the season with a follow-along project, review your weak spots, and ship DevBoard v1 with your first certificate.",
+      "source": "Your Udemy course (Can Boz) — task management project; https://react.dev/learn ; https://www.hackerrank.com/skills-verification",
+      "tasks": [
+        {
+          "id": "react.w10-pzt",
+          "day": "Pzt",
+          "text": "Watch the first half of the task-management project videos in your Udemy course (Can Boz) at 1.25x and code along — this is a full app built from everything you learned (50 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w10-per",
+          "day": "Per",
+          "text": "Go back to the 3 hardest challenges you flagged on https://react.dev/learn during Weeks 2-9 and solve them again from scratch, without looking at your old answers (40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w10-cmt",
+          "day": "Cmt",
+          "text": "🏁 Take the FREE timed HackerRank \"JavaScript (Basic)\" certification test (https://www.hackerrank.com/skills-verification). Then tag DevBoard v1 on GitHub: list + detail + search + CRUD all working, and write a short English README with screenshots (75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w10-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w11",
+      "phaseId": "faz2",
+      "no": "11",
+      "title": "Redux Toolkit I",
+      "episode": "",
+      "summary": "Start global state management. Learn why Redux exists, then set it up in DevBoard.",
+      "source": "Your Udemy course (Can Boz) — Redux section; Redux Toolkit Quick Start: https://redux-toolkit.js.org/tutorials/quick-start",
+      "tasks": [
+        {
+          "id": "react.w11-pzt",
+          "day": "Pzt",
+          "text": "Watch the first half of the Redux section in your Udemy course (Can Boz). Take short notes: store, slice, dispatch (45 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w11-per",
+          "day": "Per",
+          "text": "Read the official Redux Toolkit Quick Start tutorial (https://redux-toolkit.js.org/tutorials/quick-start) and type the code along — do not copy-paste (35 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w11-cmt",
+          "day": "Cmt",
+          "text": "DevBoard: install Redux Toolkit and React-Redux, create a slice, and move the filters/favorites state from Context into the slice (70 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w11-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w12",
+      "phaseId": "faz2",
+      "no": "12",
+      "title": "Redux Toolkit II",
+      "episode": "",
+      "summary": "Finish the Redux section and learn async data with Redux Toolkit.",
+      "source": "Your Udemy course (Can Boz) — Redux section (rest); Redux Toolkit docs: https://redux-toolkit.js.org/tutorials/quick-start",
+      "tasks": [
+        {
+          "id": "react.w12-pzt",
+          "day": "Pzt",
+          "text": "Continue and finish the Redux section in your Udemy course (Can Boz). Code along with the examples (45 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w12-per",
+          "day": "Per",
+          "text": "Read about createAsyncThunk and RTK basics in the official Redux Toolkit docs. Write one small async example yourself (35 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w12-cmt",
+          "day": "Cmt",
+          "text": "DevBoard: load the json-server data through Redux Toolkit async logic — or keep your useFetch hook and write the tradeoff in English in the README (70 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w12-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w13",
+      "phaseId": "faz2",
+      "no": "13",
+      "title": "Material UI",
+      "episode": "",
+      "summary": "Learn a component library. Rebuild parts of the DevBoard UI with MUI.",
+      "source": "Your Udemy course (Can Boz) — Material UI section; MUI docs: https://mui.com/material-ui/getting-started/",
+      "tasks": [
+        {
+          "id": "react.w13-pzt",
+          "day": "Pzt",
+          "text": "Watch the Material UI section in your Udemy course (Can Boz) and code the MUI card project along with the videos (50 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w13-per",
+          "day": "Per",
+          "text": "Read the MUI getting-started guide (https://mui.com/material-ui/getting-started/), then try a custom theme and 2 components in a small sandbox app (35 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w13-cmt",
+          "day": "Cmt",
+          "text": "DevBoard UI pass with MUI: add an AppBar, turn list items into Cards, and use a TextField for the search box (75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w13-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w14",
+      "phaseId": "faz2",
+      "no": "14",
+      "title": "Course Wrap",
+      "episode": "",
+      "summary": "Finish the whole Udemy course and close Season 1 work. Start the free Next.js course.",
+      "source": "Your Udemy course (Can Boz) — final sections; Next.js Learn: https://nextjs.org/learn",
+      "tasks": [
+        {
+          "id": "react.w14-pzt",
+          "day": "Pzt",
+          "text": "Finish the remaining course videos: the React Bootstrap section and the burger project follow-along — watch and code along. Next week your Udemy course \"Next.js 16\" begins (50 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w14-per",
+          "day": "Per",
+          "text": "Start the official Next.js Learn course (https://nextjs.org/learn) — complete chapters 1-2 (35 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w14-cmt",
+          "day": "Cmt",
+          "text": "Finish any leftover course project work, polish DevBoard (README, small fixes), and tag the repo as v1 on GitHub (70 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w14-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w15",
+      "phaseId": "faz2",
+      "no": "15",
+      "title": "Next.js Kickoff",
+      "episode": "",
+      "summary": "Start your Udemy course \"Next.js 16\". Learn the App Router basics and scaffold DevBoard-Next.",
+      "source": "Your Udemy course \"Next.js 16\" — setup and App Router sections; Next.js Learn: https://nextjs.org/learn",
+      "tasks": [
+        {
+          "id": "react.w15-pzt",
+          "day": "Pzt",
+          "text": "Watch the setup and App Router fundamentals sections of your Udemy course \"Next.js 16\" at 1.25x speed. Take short notes in English (50-60 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w15-per",
+          "day": "Per",
+          "text": "Skim chapters 1-4 of the official Next.js Learn course (https://nextjs.org/learn) in English and do the interactive parts — this repeats Monday's ideas in English (35-40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w15-cmt",
+          "day": "Cmt",
+          "text": "Scaffold a new project \"DevBoard-Next\" with the App Router. Port the layout and the static pages from DevBoard, then push it to GitHub (70-75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w15-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w16",
+      "phaseId": "faz2",
+      "no": "16",
+      "title": "Routing and Rendering",
+      "episode": "",
+      "summary": "Learn routing, Server vs Client Components, and static vs dynamic rendering — then apply them to DevBoard-Next.",
+      "source": "Your Udemy course \"Next.js 16\" — routing and rendering sections; Next.js Learn: https://nextjs.org/learn",
+      "tasks": [
+        {
+          "id": "react.w16-pzt",
+          "day": "Pzt",
+          "text": "Watch the routing, Server vs Client Components, and static/dynamic rendering sections of your Udemy course \"Next.js 16\" at 1.25x speed (50-60 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w16-per",
+          "day": "Per",
+          "text": "Do the navigation and Server Components chapters of Next.js Learn (https://nextjs.org/learn) — the same concepts as Monday, now in English (35-40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w16-cmt",
+          "day": "Cmt",
+          "text": "DevBoard-Next: port the list and detail pages with dynamic routes ([id] segments), and add professional loading.js and not-found.js pages like in the course (70-75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w16-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w17",
+      "phaseId": "faz2",
+      "no": "17",
+      "title": "Data and Cache",
+      "episode": "",
+      "summary": "Learn data fetching, cache management, and revalidation — then move DevBoard-Next data to the server.",
+      "source": "Your Udemy course \"Next.js 16\" — fetch, cache and revalidation sections; Next.js Learn: https://nextjs.org/learn",
+      "tasks": [
+        {
+          "id": "react.w17-pzt",
+          "day": "Pzt",
+          "text": "Watch the fetch, cache management, and revalidation sections of your Udemy course \"Next.js 16\" at 1.25x speed. Note the cache options in English (50-60 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w17-per",
+          "day": "Per",
+          "text": "Do the data fetching and streaming chapters of Next.js Learn (https://nextjs.org/learn) — Monday's topics again, in English (35-40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w17-cmt",
+          "day": "Cmt",
+          "text": "DevBoard-Next: fetch data on the server side, add loading skeletons, and set up revalidation for the list page like in the course (70-75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w17-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w18",
+      "phaseId": "faz2",
+      "no": "18",
+      "title": "Forms and Server Actions",
+      "episode": "",
+      "summary": "Change data with Server Actions and validate forms with Formik and Yup.",
+      "source": "Your Udemy course \"Next.js 16\" — Server Actions and Formik/Yup sections; Next.js Learn: https://nextjs.org/learn",
+      "tasks": [
+        {
+          "id": "react.w18-pzt",
+          "day": "Pzt",
+          "text": "Watch the Server Actions and Formik/Yup form validation sections of your Udemy course \"Next.js 16\" at 1.25x speed (50-60 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w18-per",
+          "day": "Per",
+          "text": "Do the Server Actions (mutating data) chapter of Next.js Learn (https://nextjs.org/learn) — code the form examples yourself (35-40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w18-cmt",
+          "day": "Cmt",
+          "text": "DevBoard-Next: add a create/edit form with Formik and Yup validation, and submit it through a Server Action like in the course (70-75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w18-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w19",
+      "phaseId": "faz2",
+      "no": "19",
+      "title": "Auth and API Routes",
+      "episode": "",
+      "summary": "Learn authentication, authorization, and API Routes — then add login and go live on the internet.",
+      "source": "Your Udemy course \"Next.js 16\" — auth and API Routes sections; Next.js Learn: https://nextjs.org/learn; Vercel Hobby (free): https://vercel.com/pricing",
+      "tasks": [
+        {
+          "id": "react.w19-pzt",
+          "day": "Pzt",
+          "text": "Watch the Authentication & Authorization and API Routes (route.js) CRUD sections of your Udemy course \"Next.js 16\" at 1.25x speed (50-60 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w19-per",
+          "day": "Per",
+          "text": "Do the auth-related chapter and the error handling chapter of Next.js Learn (https://nextjs.org/learn) in English (35-40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w19-cmt",
+          "day": "Cmt",
+          "text": "🚀 Add simple auth to DevBoard-Next (login-protected favorites) following the course pattern, then deploy to Vercel on the free Hobby plan (https://vercel.com/pricing) and verify the live URL works (70-75 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w19-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w20",
+      "phaseId": "faz2",
+      "no": "20",
+      "title": "Finals",
+      "episode": "",
+      "summary": "Finish the Next.js 16 course, review everything, test yourself, and make both projects CV-ready.",
+      "source": "Your Udemy course \"Next.js 16\" — final CRUD project; react.dev: https://react.dev/learn; HackerRank: https://www.hackerrank.com/skills-verification",
+      "tasks": [
+        {
+          "id": "react.w20-pzt",
+          "day": "Pzt",
+          "text": "Finish the remaining videos of your Udemy course \"Next.js 16\" — the full CRUD project follow-along. Compare its architecture with yours and write 5 English interview-answer notes (50-60 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w20-per",
+          "day": "Per",
+          "text": "Redo the hardest challenges from react.dev (https://react.dev/learn) without looking at your old solutions, then reread all your course notes (35-40 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w20-cmt",
+          "day": "Cmt",
+          "text": "🏁 FINAL (~90 min): take the free timed HackerRank \"React (Basic)\" certification (https://www.hackerrank.com/skills-verification), confirm the live Vercel URL — now with auth — and make both READMEs CV-ready (90 min)",
+          "recurring": false
+        },
+        {
+          "id": "react.w20-rec-notes",
+          "day": "Hafta içi",
+          "text": "Course notes: after each Udemy video section, write a 3-line English summary in your log — what it does / why it exists / one gotcha (5 min per section)",
+          "recurring": true
+        }
+      ]
+    }
+  ]
+}

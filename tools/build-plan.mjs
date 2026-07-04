@@ -98,18 +98,33 @@ const PROGRAM_CONFIGS = {
             }
         ]
     },
-    kod: {
-        title: 'Code Practice — React/TS/Next + Flutter (16 Weeks)',
-        idPrefix: 'kod.',
+    react: {
+        title: 'React Stack — React/TS/Next + Redux (20 Weeks)',
+        idPrefix: 'react.',
         recurringNote:
-            'The solution log is added to every week as a fixed task; '
-            + 'Thursday re-solve day picks problems from this log.',
+            'The course-notes task is added to every week; Thursday reviews and '
+            + 'interview prep build on these notes.',
+        recurring: [
+            {
+                suffix: 'rec-notes', day: 'Hafta içi',
+                text: 'Course notes: after each Udemy video section, write a 3-line English '
+                    + 'summary in your log — what it does / why it exists / one gotcha '
+                    + '(5 min per section)'
+            }
+        ]
+    },
+    pratik: {
+        title: 'Dev Practice — C#/Python/Dart + MSSQL (20 Weeks)',
+        idPrefix: 'pratik.',
+        recurringNote:
+            'The solution log is a fixed weekly task; Tuesday cross-language re-solve '
+            + 'picks problems from it.',
         recurring: [
             {
                 suffix: 'rec-log', day: 'Hafta içi',
                 text: 'Solution log: after each solved problem, add one line — problem name, '
-                    + 'language, one-line approach. Thursday re-solve day and season reviews '
-                    + 'pick from this log (5 min/day)'
+                    + 'language, one-line approach. Tuesday cross-language re-solve picks '
+                    + 'from this log (5 min/day)'
             }
         ]
     }
