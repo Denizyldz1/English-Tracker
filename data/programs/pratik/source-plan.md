@@ -1,7 +1,7 @@
 # 🔧 DEV PRACTICE — C# / Python / Dart + MSSQL (20 Weeks, in English)
 
-> **Profile:** Working developer keeping known skills sharp while learning React in a separate program. This program owns ONLY Tuesday and Wednesday (30-40 min each) — Mon/Thu/Sat belong to React Stack, Friday to English.
-> **System:** **Tue** = kata day, 3-week language rotation (C# → Python → Dart) + EVERY week one cross-language re-solve from the solution log (a problem is never "done" — it comes back in another language). **Wed** = MSSQL day (T-SQL only), except every 4th week which is a light Flutter upkeep day. Deep Flutter work is intentionally postponed: when React Stack finishes, a dedicated Flutter Advanced program takes its place.
+> **Profile:** Working developer keeping known skills sharp: C#, Python, Dart katas + MSSQL + light Flutter upkeep. A deliberately LIGHT program — only 2 days/week (Tuesday and Wednesday, 30-40 min each). It stands alone, and because it is this light it can also run next to any other program without collisions if you ever choose to.
+> **System:** **Tue** = kata day, 3-week language rotation (C# → Python → Dart) + EVERY week one cross-language re-solve from the solution log (a problem is never "done" — it comes back in another language). **Wed** = MSSQL day (T-SQL only), except every 4th week which is a light Flutter upkeep day. Deep Flutter work is intentionally out of scope here: it deserves its own dedicated Flutter Advanced program later.
 > **Language note:** Written in English on purpose — reading it IS part of your English practice.
 
 ---
@@ -163,4 +163,4 @@
 | 15 | Kata level check | Solving 6-5 kyu comfortably in all three languages |
 | 20 | 🏁 HackerRank SQL (Intermediate) certification | Pass — MSSQL skills certified |
 
-After week 20: this program's slot is taken over by a dedicated **Flutter Advanced** program (state management, testing, animations, release) — planned separately when React Stack is done.
+After week 20: if you want to go deep on Flutter, a dedicated **Flutter Advanced** program (state management, testing, animations, release) is the natural next step — planned separately whenever you decide to start it.

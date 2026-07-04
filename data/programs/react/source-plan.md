@@ -1,7 +1,7 @@
 # ⚛️ REACT STACK — React / TypeScript / Next.js + Redux (20 Weeks, in English)
 
 > **Profile:** Developer coming from jQuery/Bootstrap — ZERO React/TS. Goal: the React + TypeScript + Next.js trio that European job ads keep asking for, plus Redux Toolkit and Context API. Your jQuery experience is the bridge, not the enemy.
-> **System:** 3 days/week, interlocked with your other programs (no day collisions): **Mon** = Udemy course day (Can Boz, Turkish video — concepts land fast) · **Thu** = English reinforcement of the SAME concept (react.dev challenges, TS Handbook, later Next.js Learn — double exposure IS the spaced repetition) · **Sat (60-75 min)** = "DevBoard" portfolio project. Tue/Wed belong to Dev Practice, Friday to English.
+> **System:** 3 days/week, spaced across the week on purpose (spacing helps retention): **Mon** = Udemy course day (Can Boz, Turkish video — concepts land fast) · **Thu** = English reinforcement of the SAME concept (react.dev challenges, TS Handbook, later Next.js Learn — double exposure IS the spaced repetition) · **Sat (60-75 min)** = "DevBoard" portfolio project. This program stands alone; the free days also mean it can run next to another program without collisions if you ever choose to.
 > **Courses:** Season 1-2a: your 32.5-hour Udemy course "React 18 — Component, State, Hooks, Router 6, TypeScript, Redux Toolkit, Context API" (Can Boz). Season 2b (from week 15): your ~10-hour Udemy course "Next.js 16: Sıfırdan İleri Seviye" (App Router, Server Actions, auth, Formik+Yup, Hero UI). Watch at 1.25x. Course projects are follow-along learning; DevBoard is YOUR portfolio piece.
 
 ---
