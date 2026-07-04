@@ -99,7 +99,7 @@ const PROGRAM_CONFIGS = {
         ]
     },
     kod: {
-        title: 'Code Practice — C# Focused (16 Weeks)',
+        title: 'Code Practice — React/TS/Next + Flutter (16 Weeks)',
         idPrefix: 'kod.',
         recurringNote:
             'The solution log is added to every week as a fixed task; '
