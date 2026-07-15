@@ -78,3 +78,15 @@ a:hover {
 @keyframes kt-spin {
     to { transform: rotate(360deg); }
 }
+
+/* Metin içi dış bağlantılar (görev metni, Kaynak satırı, kura) — global */
+a.ext-link {
+    color: var(--az-primary);
+    text-decoration: none;
+    word-break: break-word;
+}
+
+a.ext-link:hover {
+    color: var(--az-primary-active);
+    text-decoration: underline;
+}

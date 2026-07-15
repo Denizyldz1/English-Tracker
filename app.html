@@ -17,8 +17,8 @@
           href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
 
     <!-- Core + Page CSS -->
-    <link rel="stylesheet" href="css/core/theme.css?v=60a6a8ad" />
-    <link rel="stylesheet" href="css/pages/app.css?v=4c4c3b1e" />
+    <link rel="stylesheet" href="css/core/theme.css?v=r6" />
+    <link rel="stylesheet" href="css/pages/app.css?v=r6" />
 </head>
 
 <body>
@@ -64,6 +64,28 @@
     </main>
 
     <!-- ─── Templates (render: <template> + .text()) ─────────────────── -->
+
+    <template id="tplKura">
+        <div class="kura-box">
+            <div class="kura-head">
+                <span class="kura-title">Kura konuları</span>
+                <button type="button" class="btn btn-sm btn-outline-primary js-kura-btn">
+                    🎲 Kura çek
+                </button>
+            </div>
+            <div class="js-kura-list"></div>
+        </div>
+    </template>
+
+    <template id="tplKuraItem">
+        <div class="kura-item">
+            <span class="kura-week js-week badge"></span>
+            <span class="kura-info">
+                <span class="kura-topic js-topic"></span>
+                <span class="kura-source js-source"></span>
+            </span>
+        </div>
+    </template>
 
     <template id="tplPhase">
         <div class="accordion-item phase-item">
@@ -134,13 +156,13 @@
     <!-- Core helpers -->
     <script src="js/core/kt-config.js?v=2df99597"></script>
     <script src="js/core/kt-swal.js?v=dacb6b84"></script>
-    <script src="js/core/kt-helpers.js?v=04298fb5"></script>
-    <script src="js/core/kt-data.js?v=b65b114e"></script>
+    <script src="js/core/kt-helpers.js?v=r6"></script>
+    <script src="js/core/kt-data.js?v=r6"></script>
     <script src="js/core/kt-auth.js?v=a96a64c8"></script>
     <script src="js/core/kt-pwa.js?v=535a8f8a"></script>
 
     <!-- Page JS -->
-    <script src="js/pages/app.js?v=d2c4b268"></script>
+    <script src="js/pages/app.js?v=r6"></script>
 
 </body>
 

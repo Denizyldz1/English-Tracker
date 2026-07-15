@@ -23,10 +23,16 @@ const KTApp = (() => {
         check: '.js-check'
     };
 
-    const TPL = { phase: '#tplPhase', week: '#tplWeek', task: '#tplTask' };
+    const TPL = {
+        phase: '#tplPhase', week: '#tplWeek', task: '#tplTask',
+        kura: '#tplKura', kuraItem: '#tplKuraItem'
+    };
+
+    const KURA_COUNT = 2;
 
     let plan = null;
     let doneSet = new Set();
+    let currentProgram = null;
 
     // ─── Yardımcılar ───────────────────────────────────────────────
     const fromTpl = (sel) => $($(sel).html().trim());
@@ -48,7 +54,7 @@ const KTApp = (() => {
         $check[0].dataset.phaseId = task.phaseId;
         $row.find('.js-label').attr('for', task.id);
         $row.find('.js-day').text(task.day || '•');
-        $row.find('.js-text').text(task.text);
+        KTHelpers.linkifyInto($row.find('.js-text'), task.text);
         $row.toggleClass('is-done', doneSet.has(task.id));
         if (task.recurring) $row.addClass('is-recurring');
         return $row;
@@ -67,9 +73,14 @@ const KTApp = (() => {
         $card.find('.js-episode').text(week.episode ? `📺 ${week.episode}` : '');
         $card.find('.js-summary').text(week.summary || '');
         if (week.source) {
-            $card.find('.js-source').text(week.source);
+            KTHelpers.linkifyInto($card.find('.js-source'), week.source);
         } else {
             $card.find('.week-source').remove();
+        }
+
+        // Görevlerinde "kura ile" geçen (tekrar) haftalara kura paneli eklenir
+        if (week.tasks.some((t) => /kura ile/i.test(t.text))) {
+            $card.find('.js-tasks').before(renderKuraBox(week.id));
         }
 
         const $tasks = $card.find('.js-tasks');
@@ -79,6 +90,74 @@ const KTApp = (() => {
             (t.recurring ? $recurring : $tasks).append(renderTaskRow(ctx));
         }
         return $card;
+    };
+
+    // ─── Kura (tekrar haftaları için rastgele eski konu seçimi) ───────
+    const kuraKey = (weekId) => `kura:${currentProgram.id}:${weekId}`;
+
+    // Havuz: bu haftadan önceki, tekrar/çıkış olmayan konu haftaları
+    const kuraPool = (weekId) => {
+        const idx = plan.weeks.findIndex((w) => w.id === weekId);
+        return plan.weeks.slice(0, Math.max(0, idx))
+            .filter((w) => !w.title.includes('TEKRAR') && !w.title.startsWith('🏁'));
+    };
+
+    const readKura = (weekId) => {
+        try {
+            const raw = globalThis.localStorage.getItem(kuraKey(weekId));
+            const ids = raw ? JSON.parse(raw) : [];
+            return ids.filter((id) => plan.weeks.some((w) => w.id === id));
+        } catch {
+            return []; // localStorage kapalı/veri bozuksa kura kaydedilmemiş sayılır
+        }
+    };
+
+    const drawKura = (weekId) => {
+        const picks = KTHelpers.shuffleArray(kuraPool(weekId))
+            .slice(0, KURA_COUNT)
+            .map((w) => w.id);
+        try {
+            globalThis.localStorage.setItem(kuraKey(weekId), JSON.stringify(picks));
+        } catch {
+            KTSwal.warning('Kura kaydedilemedi (tarayıcı depolaması kapalı olabilir)');
+        }
+        return picks;
+    };
+
+    // Konu adı: hafta başlığındaki çıkış testi eklerini temizle
+    const kuraTopic = (week) => week.title.split('🏁')[0].replace(/·\s*$/, '').trim();
+
+    const renderKuraList = ($box, weekIds) => {
+        const $list = $box.find('.js-kura-list').empty();
+        for (const id of weekIds) {
+            const week = plan.weeks.find((w) => w.id === id);
+            if (!week) continue;
+            const $item = fromTpl(TPL.kuraItem);
+            $item.find('.js-week').text(`Hafta ${week.no}`);
+            $item.find('.js-topic').text(kuraTopic(week));
+            if (week.source) {
+                KTHelpers.linkifyInto($item.find('.js-source'), week.source);
+            } else {
+                $item.find('.js-source').remove();
+            }
+            $list.append($item);
+        }
+        $box.find('.js-kura-btn').text(weekIds.length ? '🎲 Yeniden çek' : '🎲 Kura çek');
+    };
+
+    const renderKuraBox = (weekId) => {
+        const $box = fromTpl(TPL.kura);
+        $box.attr('data-kura-week', weekId);
+        renderKuraList($box, readKura(weekId));
+        return $box;
+    };
+
+    const handleKura = () => {
+        $(SELECTORS.accordion).on('click', '.js-kura-btn', function () {
+            const $box = $(this).closest('.kura-box');
+            const weekId = $box[0].dataset.kuraWeek;
+            renderKuraList($box, drawKura(weekId));
+        });
     };
 
     const renderPhase = (phase) => {
@@ -192,12 +271,12 @@ const KTApp = (() => {
     };
 
     const loadAll = async (program) => {
-        const [planData, doneIds] = await Promise.all([
+        const [planData, doneRows] = await Promise.all([
             KTData.loadPlan(program.planUrl),
-            KTData.getDoneTaskIds()
+            KTData.getDoneRows()
         ]);
         plan = planData;
-        doneSet = new Set(doneIds);
+        doneSet = new Set(doneRows.map((r) => r.task_id));
     };
 
     const start = async () => {
@@ -209,6 +288,7 @@ const KTApp = (() => {
             KTAuth.redirect(KTAuth.HOME_PAGE);
             return;
         }
+        currentProgram = program;
         applyProgramHeader(program);
         renderUser();
         try {
@@ -221,6 +301,7 @@ const KTApp = (() => {
         renderPlan();
         recalcAll();
         handleToggle();
+        handleKura();
         handleSignOut();
     };
 
