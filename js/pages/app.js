@@ -140,11 +140,16 @@ const KTApp = (() => {
             if (!week) continue;
             const $item = fromTpl(TPL.kuraItem);
             $item.find('.js-week').text(`Hafta ${week.no}`);
-            $item.find('.js-topic').text(kuraTopic(week));
-            if (week.source) {
-                KTHelpers.linkifyInto($item.find('.js-source'), week.source);
+            const $topic = $item.find('.js-topic');
+            const href = week.source ? KTHelpers.firstLinkHref(week.source) : null;
+            if (href) {
+                // Konu adının kendisi link — haftanın kaynağına gider; tam yol tooltip'te
+                $('<a>', {
+                    href, target: '_blank', rel: 'noopener', class: 'ext-link',
+                    text: `${kuraTopic(week)} ↗`, title: week.source
+                }).appendTo($topic.empty());
             } else {
-                $item.find('.js-source').remove();
+                $topic.text(kuraTopic(week));
             }
             $list.append($item);
         }

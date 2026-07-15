@@ -325,12 +325,6 @@ a.app-back:hover {
     line-height: 1.3;
 }
 
-.kura-source {
-    font-size: 0.72rem;
-    color: var(--az-text-muted);
-    word-break: break-word;
-}
-
 .task-row.form-check {
     display: flex;
     align-items: flex-start;
