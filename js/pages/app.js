@@ -28,7 +28,7 @@ const KTApp = (() => {
         kura: '#tplKura', kuraItem: '#tplKuraItem'
     };
 
-    const KURA_COUNT = 2;
+    const KURA_COUNT = 3; // görevler "2-3 konu" der; 3 çekilir, kullanıcı eler
 
     let plan = null;
     let doneSet = new Set();
@@ -95,11 +95,17 @@ const KTApp = (() => {
     // ─── Kura (tekrar haftaları için rastgele eski konu seçimi) ───────
     const kuraKey = (weekId) => `kura:${currentProgram.id}:${weekId}`;
 
-    // Havuz: bu haftadan önceki, tekrar/çıkış olmayan konu haftaları
+    // Havuz: bu hafta DAHİL işlenmiş, konu taşıyan haftalar
+    // (görev metinleri "bu hafta işlenenler dahil" der; tekrar/final haftaları konu değildir)
+    // Not: /i bayrağı Türkçe I↔ı / İ↔i dönüşümünü yakalamaz; tr-lowercase ile test edilir.
+    const NON_TOPIC_WEEK = /tekrar|maraton|zayıf alan|final/;
+
+    const isTopicWeek = (week) => !week.title.startsWith('🏁')
+        && !NON_TOPIC_WEEK.test(week.title.toLocaleLowerCase('tr'));
+
     const kuraPool = (weekId) => {
         const idx = plan.weeks.findIndex((w) => w.id === weekId);
-        return plan.weeks.slice(0, Math.max(0, idx))
-            .filter((w) => !w.title.includes('TEKRAR') && !w.title.startsWith('🏁'));
+        return plan.weeks.slice(0, idx + 1).filter(isTopicWeek);
     };
 
     const readKura = (weekId) => {
