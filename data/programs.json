@@ -50,7 +50,7 @@
     "description": "20-week intensive path: Python deepening (Udemy + Kaggle) → pandas + scikit-learn → local LLM engineering on Ollama + Qwen (RAG, chatbot); certificates + work-project focus; weekends free",
     "durationLabel": "20 hafta",
     "icon": "bi-robot",
-    "planUrl": "data/programs/python/plan.json?v=58e2de72",
+    "planUrl": "data/programs/python/plan.json?v=8bcc1410",
     "idPrefix": "python.",
     "taskCount": 120
   }

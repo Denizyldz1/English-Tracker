@@ -23,19 +23,19 @@
       "no": "1",
       "title": "Kickoff",
       "episode": "",
-      "summary": "Restart Python with a test-first approach: skip what you already know, set up a clean dev environment, and push your first script to GitHub.",
+      "summary": "Restart Python following the course's real outline: basics, data types, type conversions and operators — with a 5-minute self-check before every section. Set up a clean dev environment and push your first script.",
       "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python",
       "tasks": [
         {
           "id": "python.w1-pzt",
           "day": "Pzt",
-          "text": "Open your Udemy Python course and go to the fundamentals sections (variables, types, operators). Do NOT watch first: try each section's exercises/quiz first. Only watch the videos for questions you got wrong. Note weak topics in a list (45-60 min)",
+          "text": "Self-check first: solve one easy exercise on Exercism Python (https://exercism.org/tracks/python) in the browser. Then open your Udemy Python course sections on basics, data types and type conversions: skim at 1.5x what the self-check proved you know; watch fully only what felt shaky. Note weak topics in a list (45-60 min)",
           "recurring": false
         },
         {
           "id": "python.w1-sali",
           "day": "Salı",
-          "text": "Continue the test-first pass in your Udemy Python course: next fundamentals sections (strings, input/output, conditionals). Exercises first, videos only for mistakes. Update your weak-topics list (45-60 min)",
+          "text": "Self-check first: one warm-up problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on operators (arithmetic, assignment, comparison, logical): skim at 1.5x or skip what you know, watch fully what you missed. Update your weak-topics list (45-60 min)",
           "recurring": false
         },
         {
@@ -68,21 +68,21 @@
       "id": "w2",
       "phaseId": "faz1",
       "no": "2",
-      "title": "Functions & Modules",
+      "title": "Conditionals, Lists and Loops",
       "episode": "",
-      "summary": "Write clean functions, import modules, and build a work-like CSV script. Same test-first rule: exercises before videos.",
+      "summary": "The course's control-flow block: conditionals, lists, for/while and break/continue. Kaggle covers the same ground in English this week — perfect double exposure.",
       "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w2-pzt",
           "day": "Pzt",
-          "text": "In your Udemy Python course, go to the functions sections (parameters, return values, scope). Try the exercises/quiz first; watch only the videos for the parts you got wrong (45-60 min)",
+          "text": "Self-check first: one conditionals/lists mini-exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on conditional statements and lists: skim at 1.5x what you know, watch fully what you missed (45-60 min)",
           "recurring": false
         },
         {
           "id": "python.w2-sali",
           "day": "Salı",
-          "text": "In your Udemy Python course, go to the modules and packages sections (import, standard library). Exercises first, videos only for mistakes. Try the `os` and `datetime` modules in a small scratch file (45-60 min)",
+          "text": "Self-check first: one loops problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on for/while loops and break/continue: same skim-or-watch rule (45-60 min)",
           "recurring": false
         },
         {
@@ -115,21 +115,21 @@
       "id": "w3",
       "phaseId": "faz1",
       "no": "3",
-      "title": "OOP",
+      "title": "Strings and Dictionaries",
       "episode": "",
-      "summary": "Classes, objects, and methods — the bridge from your C# knowledge to Python style. End the week by refactoring your own scripts.",
+      "summary": "The course's text-and-data block: character strings, string methods, list methods and dictionaries — the day-to-day tools of data work.",
       "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w3-pzt",
           "day": "Pzt",
-          "text": "In your Udemy Python course, go to the OOP sections (classes, `__init__`, methods). Exercises/quiz first; watch only what you got wrong. Compare with C# in your notes: what is different? (45-60 min)",
+          "text": "Self-check first: one string-manipulation exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on character strings and string methods: skim at 1.5x what you know, watch fully what you missed (45-60 min)",
           "recurring": false
         },
         {
           "id": "python.w3-sali",
           "day": "Salı",
-          "text": "In your Udemy Python course, continue the OOP sections (inheritance, special methods like `__str__`). Same test-first rule. Write one small class of your own to test the ideas (45-60 min)",
+          "text": "Self-check first: one dictionary problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on list methods and dictionaries: same skim-or-watch rule. Try 5 dict operations in a scratch file (45-60 min)",
           "recurring": false
         },
         {
@@ -147,7 +147,7 @@
         {
           "id": "python.w3-cum",
           "day": "Cum",
-          "text": "PROJECT: Refactor your \"python-journey\" scripts into classes and modules: e.g., a `FileOrganizer` class and a `CsvReport` class, each in its own file. Keep behavior the same, make the code cleaner. Push to GitHub (45-60 min)",
+          "text": "PROJECT: Build a dictionary-based report tool in \"python-journey\": take the CSV from Week 2 and produce a per-category summary using dicts (counts, totals per group), printed as a small readable report. Push to GitHub (45-60 min)",
           "recurring": false
         },
         {
@@ -162,21 +162,21 @@
       "id": "w4",
       "phaseId": "faz1",
       "no": "4",
-      "title": "Errors & Files",
+      "title": "Functions, Recursion and Errors",
       "episode": "",
-      "summary": "try/except, reading and writing files, and a robust CLI tool that does not crash on bad input.",
+      "summary": "The course's functions block: functions, recursive functions and error handling — plus a robust CLI tool that does not crash on bad input.",
       "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w4-pzt",
           "day": "Pzt",
-          "text": "In your Udemy Python course, go to the error-handling sections (try/except/finally, raising exceptions). Exercises/quiz first; watch only the videos for your mistakes (45-60 min)",
+          "text": "Self-check first: one functions exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on functions and recursive functions: skim at 1.5x what you know, watch fully what you missed. Write one small recursive function yourself (45-60 min)",
           "recurring": false
         },
         {
           "id": "python.w4-sali",
           "day": "Salı",
-          "text": "In your Udemy Python course, go to the file I/O sections (open, read, write, `with` blocks). Same test-first rule. Practice by reading and writing a small text file (45-60 min)",
+          "text": "Self-check first: one exceptions-flavored problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on error handling (try/except, raising): same skim-or-watch rule (45-60 min)",
           "recurring": false
         },
         {
@@ -209,21 +209,21 @@
       "id": "w5",
       "phaseId": "faz1",
       "no": "5",
-      "title": "Pythonic Python",
+      "title": "OOP and Polymorphism",
       "episode": "",
-      "summary": "Comprehensions, generators, and decorators — the parts that make Python feel different from C#. Finish the Kaggle course and claim your certificate.",
+      "summary": "The course's final block: classes, objects, inheritance and polymorphism — the bridge from your C# knowledge to Python style. Finish the Kaggle course and claim your certificate.",
       "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w5-pzt",
           "day": "Pzt",
-          "text": "In your Udemy Python course, go to the advanced sections on comprehensions and lambda/map/filter. Exercises/quiz first; watch only what you got wrong. Rewrite 3 of your old loops as comprehensions (45-60 min)",
+          "text": "Self-check first: one classes exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course OOP sections (classes, `__init__`, methods): skim at 1.5x what you know from C#, watch fully what is Python-specific. Note 3 differences from C# (45-60 min)",
           "recurring": false
         },
         {
           "id": "python.w5-sali",
           "day": "Salı",
-          "text": "In your Udemy Python course, go to the sections on generators and decorators. Same test-first rule. Write one tiny decorator (e.g., a timer) and one generator of your own (45-60 min)",
+          "text": "Your Udemy course sections on inheritance and polymorphism (plus special methods like `__str__`): same skim-or-watch rule. Write one small class hierarchy of your own to test the ideas (45-60 min)",
           "recurring": false
         },
         {
@@ -241,7 +241,7 @@
         {
           "id": "python.w5-cum",
           "day": "Cum",
-          "text": "PROJECT: Package your CLI tool properly in \"python-journey\": clean folder structure (src or package folder), requirements.txt, and a short English README that explains what it does and how to run it. Push to GitHub (45-60 min)",
+          "text": "PROJECT: Refactor your \"python-journey\" scripts into classes: e.g., a `FileOrganizer` class and a `CsvReport` class, each in its own file, using what the OOP week taught. Keep behavior the same, make the code cleaner. Push to GitHub (45-60 min)",
           "recurring": false
         },
         {
@@ -256,21 +256,21 @@
       "id": "w6",
       "phaseId": "faz1",
       "no": "6",
-      "title": "Phase Final",
+      "title": "Course Gaps and Phase Final",
       "episode": "",
-      "summary": "Close the course, review weak spots, and finish with a free timed HackerRank certification exam.",
-      "source": "your Udemy Python course · https://www.hackerrank.com/domains/python · https://www.hackerrank.com/skills-verification/python_basic",
+      "summary": "The course does NOT cover file I/O, modules/venv, comprehensions, generators or decorators — close those gaps from the official tutorial and Kaggle, then finish with the free timed certification.",
+      "source": "your Udemy Python course · https://docs.python.org/3/tutorial/ · https://www.hackerrank.com/domains/python · https://www.hackerrank.com/skills-verification/python_basic",
       "tasks": [
         {
           "id": "python.w6-pzt",
           "day": "Pzt",
-          "text": "In your Udemy Python course, finish the remaining core sections with the test-first method: exercises/quiz first, videos only for mistakes (45-60 min)",
+          "text": "COURSE GAP DAY 1: from the official Python tutorial (https://docs.python.org/3/tutorial/) read the \"Input and Output\" and \"Modules\" chapters — file reading/writing with `with`, imports, packages. Then apply: add requirements.txt and a clean package folder to \"python-journey\" (45-60 min)",
           "recurring": false
         },
         {
           "id": "python.w6-sali",
           "day": "Salı",
-          "text": "In your Udemy Python course, review your weak-topics list from Weeks 1-5: redo the exercises you failed before and rewatch only those videos. Optional reference for anything unclear: https://docs.python.org/3/tutorial/ (45-60 min)",
+          "text": "COURSE GAP DAY 2: comprehensions, generators, decorators. You met comprehensions in Kaggle Lesson 5 — now rewrite 3 of your old loops as comprehensions; then, using the official tutorial (https://docs.python.org/3/tutorial/), write one tiny generator and one tiny decorator (e.g., a timer). Review your weak-topics list from Weeks 1-5 and rewatch only those course videos (45-60 min)",
           "recurring": false
         },
         {

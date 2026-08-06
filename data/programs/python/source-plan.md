@@ -10,7 +10,7 @@
 
 | Resource | What for | Address |
 |---|---|---|
-| Udemy Python course | Turkish spine for Phase 1 — test-first fast-forward (try exercises first, watch only what you miss) | your Udemy library |
+| Udemy Python course | Turkish spine for Phase 1 — VIDEO-ONLY (no exercises inside); covers basics → OOP/polymorphism. Watch at 1.25-1.5x and skip sections you pass the 5-minute self-check for | your Udemy library |
 | Kaggle Learn | Free in-browser courses WITH completion certificates: Python, Pandas, Intro ML, Intermediate ML | https://www.kaggle.com/learn/python |
 | Kaggle Titanic | Your first competition submission (week 12) | https://www.kaggle.com/competitions/titanic |
 | scikit-learn | Official Getting Started — estimators, pipelines, evaluation | https://scikit-learn.org/stable/getting_started.html |
@@ -25,7 +25,7 @@
 
 ## ⚖️ Fixed Rules
 
-1. Test-first fast-forward in Phase 1: you already know some Python — for every course section, try its exercises FIRST; watch only the videos for what you got wrong. Never re-watch what you already know.
+1. Fast-forward rule for Phase 1: the course is VIDEO-ONLY (it has no exercises), so the check lives OUTSIDE it — before each course section, do a 5-minute self-check: solve one matching mini-exercise on Exercism Python or HackerRank Python. Passed easily → skim that section at 1.5x or skip it. Struggled → watch it fully. Never sit through what you already know.
 2. Friday project day always ends with a real GitHub push and a clear English commit message. These repos ARE your AI-engineer portfolio.
 3. Thursday re-solve is never skipped: your solved-problem history lives on the platforms (Exercism solutions page, HackerRank submissions) — pick an old one and solve it better.
 4. Everything you build points at the work project: prefer work-like data and work-like problems in every Friday session. Before closing, write one line: "how does this help the project at work?"
@@ -37,66 +37,66 @@
 
 ### Hafta 1 — Kickoff
 
-**Özet:** Restart Python with a test-first approach: skip what you already know, set up a clean dev environment, and push your first script to GitHub.
+**Özet:** Restart Python following the course's real outline: basics, data types, type conversions and operators — with a 5-minute self-check before every section. Set up a clean dev environment and push your first script.
 **Kaynak:** your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python
 
-- [ ] **[Pzt]** Open your Udemy Python course and go to the fundamentals sections (variables, types, operators). Do NOT watch first: try each section's exercises/quiz first. Only watch the videos for questions you got wrong. Note weak topics in a list (45-60 min)
-- [ ] **[Salı]** Continue the test-first pass in your Udemy Python course: next fundamentals sections (strings, input/output, conditionals). Exercises first, videos only for mistakes. Update your weak-topics list (45-60 min)
+- [ ] **[Pzt]** Self-check first: solve one easy exercise on Exercism Python (https://exercism.org/tracks/python) in the browser. Then open your Udemy Python course sections on basics, data types and type conversions: skim at 1.5x what the self-check proved you know; watch fully only what felt shaky. Note weak topics in a list (45-60 min)
+- [ ] **[Salı]** Self-check first: one warm-up problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on operators (arithmetic, assignment, comparison, logical): skim at 1.5x or skip what you know, watch fully what you missed. Update your weak-topics list (45-60 min)
 - [ ] **[Çar]** Go to Kaggle Learn Python (https://www.kaggle.com/learn/python) and complete Lessons 1-2 ("Hello, Python" and "Functions and Getting Help") in the browser. It is free and repeats the same ideas in English — good language practice too (45-60 min)
 - [ ] **[Per]** Open Exercism Python (https://exercism.org/tracks/python), join the track, and solve 2 easy exercises in the browser editor. The tests run on the site, so you need no local setup (45-60 min)
 - [ ] **[Cum]** PROJECT: Install Python and VS Code, create a venv, and write your first utility script — a folder organizer that sorts files in a folder by type. Create a GitHub repo named "python-journey" and push the script with a short commit message (45-60 min)
 
-### Hafta 2 — Functions & Modules
+### Hafta 2 — Conditionals, Lists and Loops
 
-**Özet:** Write clean functions, import modules, and build a work-like CSV script. Same test-first rule: exercises before videos.
+**Özet:** The course's control-flow block: conditionals, lists, for/while and break/continue. Kaggle covers the same ground in English this week — perfect double exposure.
 **Kaynak:** your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python
 
-- [ ] **[Pzt]** In your Udemy Python course, go to the functions sections (parameters, return values, scope). Try the exercises/quiz first; watch only the videos for the parts you got wrong (45-60 min)
-- [ ] **[Salı]** In your Udemy Python course, go to the modules and packages sections (import, standard library). Exercises first, videos only for mistakes. Try the `os` and `datetime` modules in a small scratch file (45-60 min)
+- [ ] **[Pzt]** Self-check first: one conditionals/lists mini-exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on conditional statements and lists: skim at 1.5x what you know, watch fully what you missed (45-60 min)
+- [ ] **[Salı]** Self-check first: one loops problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on for/while loops and break/continue: same skim-or-watch rule (45-60 min)
 - [ ] **[Çar]** On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lessons 3-4 ("Booleans and Conditionals" and "Lists") in the browser (45-60 min)
 - [ ] **[Per]** Solve 1 new exercise on Exercism Python (https://exercism.org/tracks/python) or HackerRank Python (https://www.hackerrank.com/domains/python), then RE-SOLVE 1 old problem from your platform history without looking at your old answer (45-60 min)
 - [ ] **[Cum]** PROJECT: Write a CSV-processing script in "python-journey": read a CSV file (e.g., an export like the ones at work), filter rows by a condition, and print a small summary (counts, totals). Use functions, not one long block. Push to GitHub (45-60 min)
 
-### Hafta 3 — OOP
+### Hafta 3 — Strings and Dictionaries
 
-**Özet:** Classes, objects, and methods — the bridge from your C# knowledge to Python style. End the week by refactoring your own scripts.
+**Özet:** The course's text-and-data block: character strings, string methods, list methods and dictionaries — the day-to-day tools of data work.
 **Kaynak:** your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python
 
-- [ ] **[Pzt]** In your Udemy Python course, go to the OOP sections (classes, `__init__`, methods). Exercises/quiz first; watch only what you got wrong. Compare with C# in your notes: what is different? (45-60 min)
-- [ ] **[Salı]** In your Udemy Python course, continue the OOP sections (inheritance, special methods like `__str__`). Same test-first rule. Write one small class of your own to test the ideas (45-60 min)
+- [ ] **[Pzt]** Self-check first: one string-manipulation exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on character strings and string methods: skim at 1.5x what you know, watch fully what you missed (45-60 min)
+- [ ] **[Salı]** Self-check first: one dictionary problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on list methods and dictionaries: same skim-or-watch rule. Try 5 dict operations in a scratch file (45-60 min)
 - [ ] **[Çar]** On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 5 ("Loops and List Comprehensions") in the browser. If time is left, redo the hardest exercise from Lessons 1-4 (45-60 min)
 - [ ] **[Per]** Solve 1 new OOP-flavored exercise on Exercism Python (https://exercism.org/tracks/python) or a Classes problem on HackerRank Python (https://www.hackerrank.com/domains/python), then RE-SOLVE 1 old problem from your platform history (45-60 min)
-- [ ] **[Cum]** PROJECT: Refactor your "python-journey" scripts into classes and modules: e.g., a `FileOrganizer` class and a `CsvReport` class, each in its own file. Keep behavior the same, make the code cleaner. Push to GitHub (45-60 min)
+- [ ] **[Cum]** PROJECT: Build a dictionary-based report tool in "python-journey": take the CSV from Week 2 and produce a per-category summary using dicts (counts, totals per group), printed as a small readable report. Push to GitHub (45-60 min)
 
-### Hafta 4 — Errors & Files
+### Hafta 4 — Functions, Recursion and Errors
 
-**Özet:** try/except, reading and writing files, and a robust CLI tool that does not crash on bad input.
+**Özet:** The course's functions block: functions, recursive functions and error handling — plus a robust CLI tool that does not crash on bad input.
 **Kaynak:** your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python
 
-- [ ] **[Pzt]** In your Udemy Python course, go to the error-handling sections (try/except/finally, raising exceptions). Exercises/quiz first; watch only the videos for your mistakes (45-60 min)
-- [ ] **[Salı]** In your Udemy Python course, go to the file I/O sections (open, read, write, `with` blocks). Same test-first rule. Practice by reading and writing a small text file (45-60 min)
+- [ ] **[Pzt]** Self-check first: one functions exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on functions and recursive functions: skim at 1.5x what you know, watch fully what you missed. Write one small recursive function yourself (45-60 min)
+- [ ] **[Salı]** Self-check first: one exceptions-flavored problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on error handling (try/except, raising): same skim-or-watch rule (45-60 min)
 - [ ] **[Çar]** On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 6 ("Strings and Dictionaries") in the browser (45-60 min)
 - [ ] **[Per]** Solve 1 new exercise on Exercism Python (https://exercism.org/tracks/python) or HackerRank Python (https://www.hackerrank.com/domains/python), then RE-SOLVE 1 old problem from your platform history (45-60 min)
 - [ ] **[Cum]** PROJECT: Build a robust CLI tool in "python-journey": use argparse for arguments, handle bad input with clear error messages (no raw tracebacks), and read/write files safely. Example: a tool that cleans or converts a CSV. Push to GitHub (45-60 min)
 
-### Hafta 5 — Pythonic Python
+### Hafta 5 — OOP and Polymorphism
 
-**Özet:** Comprehensions, generators, and decorators — the parts that make Python feel different from C#. Finish the Kaggle course and claim your certificate.
+**Özet:** The course's final block: classes, objects, inheritance and polymorphism — the bridge from your C# knowledge to Python style. Finish the Kaggle course and claim your certificate.
 **Kaynak:** your Udemy Python course · https://www.kaggle.com/learn/python · https://www.hackerrank.com/domains/python
 
-- [ ] **[Pzt]** In your Udemy Python course, go to the advanced sections on comprehensions and lambda/map/filter. Exercises/quiz first; watch only what you got wrong. Rewrite 3 of your old loops as comprehensions (45-60 min)
-- [ ] **[Salı]** In your Udemy Python course, go to the sections on generators and decorators. Same test-first rule. Write one tiny decorator (e.g., a timer) and one generator of your own (45-60 min)
+- [ ] **[Pzt]** Self-check first: one classes exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course OOP sections (classes, `__init__`, methods): skim at 1.5x what you know from C#, watch fully what is Python-specific. Note 3 differences from C# (45-60 min)
+- [ ] **[Salı]** Your Udemy course sections on inheritance and polymorphism (plus special methods like `__str__`): same skim-or-watch rule. Write one small class hierarchy of your own to test the ideas (45-60 min)
 - [ ] **[Çar]** On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 7 ("Working with External Libraries") and claim your COMPLETION CERTIFICATE. Save the certificate link or image — it goes on your profile later (45-60 min)
 - [ ] **[Per]** On HackerRank Python (https://www.hackerrank.com/domains/python) solve a set of medium-difficulty problems (aim for 3). Note which topics still feel slow (45-60 min)
-- [ ] **[Cum]** PROJECT: Package your CLI tool properly in "python-journey": clean folder structure (src or package folder), requirements.txt, and a short English README that explains what it does and how to run it. Push to GitHub (45-60 min)
+- [ ] **[Cum]** PROJECT: Refactor your "python-journey" scripts into classes: e.g., a `FileOrganizer` class and a `CsvReport` class, each in its own file, using what the OOP week taught. Keep behavior the same, make the code cleaner. Push to GitHub (45-60 min)
 
-### Hafta 6 — Phase Final
+### Hafta 6 — Course Gaps and Phase Final
 
-**Özet:** Close the course, review weak spots, and finish with a free timed HackerRank certification exam.
-**Kaynak:** your Udemy Python course · https://www.hackerrank.com/domains/python · https://www.hackerrank.com/skills-verification/python_basic
+**Özet:** The course does NOT cover file I/O, modules/venv, comprehensions, generators or decorators — close those gaps from the official tutorial and Kaggle, then finish with the free timed certification.
+**Kaynak:** your Udemy Python course · https://docs.python.org/3/tutorial/ · https://www.hackerrank.com/domains/python · https://www.hackerrank.com/skills-verification/python_basic
 
-- [ ] **[Pzt]** In your Udemy Python course, finish the remaining core sections with the test-first method: exercises/quiz first, videos only for mistakes (45-60 min)
-- [ ] **[Salı]** In your Udemy Python course, review your weak-topics list from Weeks 1-5: redo the exercises you failed before and rewatch only those videos. Optional reference for anything unclear: https://docs.python.org/3/tutorial/ (45-60 min)
+- [ ] **[Pzt]** COURSE GAP DAY 1: from the official Python tutorial (https://docs.python.org/3/tutorial/) read the "Input and Output" and "Modules" chapters — file reading/writing with `with`, imports, packages. Then apply: add requirements.txt and a clean package folder to "python-journey" (45-60 min)
+- [ ] **[Salı]** COURSE GAP DAY 2: comprehensions, generators, decorators. You met comprehensions in Kaggle Lesson 5 — now rewrite 3 of your old loops as comprehensions; then, using the official tutorial (https://docs.python.org/3/tutorial/), write one tiny generator and one tiny decorator (e.g., a timer). Review your weak-topics list from Weeks 1-5 and rewatch only those course videos (45-60 min)
 - [ ] **[Çar]** On HackerRank Python (https://www.hackerrank.com/domains/python) do timed practice: pick 3 medium problems and give yourself 15 minutes each. This is a warm-up for Friday's exam format (45-60 min)
 - [ ] **[Per]** RE-SOLVE marathon: pick 3 old problems from your Exercism/HackerRank history and solve them again from scratch, without looking at your old code. Fast and clean is the goal (45-60 min)
 - [ ] **[Cum]** 🏁 Take the FREE timed HackerRank "Python (Basic)" certification: 90 minutes, 2 questions (https://www.hackerrank.com/skills-verification/python_basic). After the exam, tidy the "python-journey" repo: update the README with what you built in Phase 1 and add the certificate link (~90 min)
