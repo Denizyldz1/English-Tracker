@@ -98,23 +98,8 @@ const PROGRAM_CONFIGS = {
             }
         ]
     },
-    react: {
-        title: 'React Stack — React/TS/Next + Redux (20 Weeks)',
-        idPrefix: 'react.',
-        recurringNote:
-            'The course-notes task is added to every week; Thursday reviews and '
-            + 'interview prep build on these notes.',
-        recurring: [
-            {
-                suffix: 'rec-notes', day: 'Hafta içi',
-                text: 'Course notes: after each Udemy video section, write a 3-line English '
-                    + 'summary in your log — what it does / why it exists / one gotcha '
-                    + '(5 min per section)'
-            }
-        ]
-    },
     pratik: {
-        title: 'Dev Practice — C#/Python/Dart + MSSQL (20 Weeks)',
+        title: 'Dev Practice — C#/Dart + MSSQL (20 Weeks)',
         idPrefix: 'pratik.',
         recurringNote:
             'Everything in this program runs in the browser — nothing to install. '
@@ -126,6 +111,21 @@ const PROGRAM_CONFIGS = {
                     + 'solutions and compare them with yours — spot one trick you did not '
                     + 'use. The platform keeps your solution history; Tuesday re-solve '
                     + 'picks from it (5 min)'
+            }
+        ]
+    },
+    python: {
+        title: 'Python → AI Engineering (20 Weeks)',
+        idPrefix: 'python.',
+        recurringNote:
+            'Intensive program: 5 days/week, weekend free. The AI-notes habit below '
+            + 'applies to every study block.',
+        recurring: [
+            {
+                suffix: 'rec-notes', day: 'Hafta içi',
+                text: 'AI notes: after each study block, write a 3-line English note — '
+                    + 'what you learned / why it matters / one gotcha. Before Friday '
+                    + 'closes, add one line: how does this help the project at work? (5 min)'
             }
         ]
     }

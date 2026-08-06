@@ -1,5 +1,5 @@
 {
-  "title": "Dev Practice — C#/Python/Dart + MSSQL (20 Weeks)",
+  "title": "Dev Practice — C#/Dart + MSSQL (20 Weeks)",
   "generatedFrom": "data/programs/pratik/source-plan.md",
   "recurringNote": "Everything in this program runs in the browser — nothing to install. Your solved-problem history lives on the platforms themselves.",
   "phases": [
@@ -19,13 +19,13 @@
       "no": "1",
       "title": "Kickoff: C# Katas and First T-SQL Module",
       "episode": "",
-      "summary": "Start the 3-week kata rotation with C# — everything solved on the site, in the browser — and begin the T-SQL path with the introduction module.",
+      "summary": "Start the 2-week kata rotation with C# — everything solved on the site, in the browser — and begin the T-SQL path with the introduction module.",
       "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
       "tasks": [
         {
           "id": "pratik.w1-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in C# (7 kyu level) or 2 medium Exercism C# exercises — the Exercism editor runs in the browser, nothing to install, tests run on the site. Then pick one of the problems you just solved and re-solve it in Python or Dart on the same site; both versions stay saved on your profile (30-40 min)",
+          "text": "Solve 2 CodeWars katas in C# (7 kyu level) or 2 medium Exercism C# exercises — the Exercism editor runs in the browser, nothing to install, tests run on the site. Then pick one of the problems you just solved and re-solve it in Dart on the same site; both versions stay saved on your profile (30-40 min)",
           "recurring": false
         },
         {
@@ -46,15 +46,15 @@
       "id": "w2",
       "phaseId": "faz1",
       "no": "2",
-      "title": "Python Week and Sorting Data",
+      "title": "Dart Week and Sorting Data",
       "episode": "",
-      "summary": "Rotation moves to Python; on the SQL side you learn to sort and filter query results.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
+      "summary": "Rotation moves to Dart; on the SQL side you learn to sort and filter query results.",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w2-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in Python (7-6 kyu) or 2 medium Exercism Python exercises. Then open your CodeWars profile → Solutions tab (or your Exercism solutions page), pick one problem you originally solved in C#, and re-solve it in Python — CodeWars lets you re-train a completed kata in another language. Compare both versions on the site (30-40 min)",
+          "text": "Solve 2 CodeWars katas in Dart (7-6 kyu) or 2 medium Exercism Dart exercises. Then open your CodeWars profile → Solutions tab (or your Exercism solutions page), pick one problem you originally solved in C#, and re-solve it in Dart — CodeWars lets you re-train a completed kata in another language. Compare both versions on the site (30-40 min)",
           "recurring": false
         },
         {
@@ -75,15 +75,15 @@
       "id": "w3",
       "phaseId": "faz1",
       "no": "3",
-      "title": "Dart Week and JOINs",
+      "title": "C# Week and JOINs",
       "episode": "",
-      "summary": "Dart takes its turn in the rotation, and you practice combining tables with JOINs.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
+      "summary": "C# takes its turn again in the rotation, and you practice combining tables with JOINs.",
+      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w3-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in Dart (7-6 kyu) or 2 medium Exercism Dart exercises. Cross-language re-solve: open your CodeWars Solutions tab (or Exercism solutions page), take one problem that was originally in Python or C#, and solve it again in Dart. Check the top solutions on the site for any Dart syntax you had to look up (30-40 min)",
+          "text": "Solve 2 CodeWars katas in C# (7-6 kyu) or 2 medium Exercism C# exercises. Cross-language re-solve: open your CodeWars Solutions tab (or Exercism solutions page), take one problem that was originally in Dart, and solve it again in C#. Check the top solutions on the site for one trick you did not use (30-40 min)",
           "recurring": false
         },
         {
@@ -104,15 +104,15 @@
       "id": "w4",
       "phaseId": "faz1",
       "no": "4",
-      "title": "C# Returns, jQuery Exercises, DartPad Flutter",
+      "title": "Dart Returns, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "C# is back in the rotation with in-browser jQuery exercises, and Wednesday is a DartPad Flutter mini-challenge day.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
+      "summary": "Dart is back in the rotation with in-browser jQuery exercises, and Wednesday is a DartPad Flutter mini-challenge day.",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
       "tasks": [
         {
           "id": "pratik.w4-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas on CodeWars (7-6 kyu) or Exercism, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in a different language than its original. jQuery upkeep (~10 min): solve one section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
+          "text": "Solve 2 Dart katas on CodeWars (7-6 kyu) or Exercism, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in the other language (C# ↔ Dart). jQuery upkeep (~10 min): solve one section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
           "recurring": false
         },
         {
@@ -133,15 +133,15 @@
       "id": "w5",
       "phaseId": "faz1",
       "no": "5",
-      "title": "Python Week and Subqueries",
+      "title": "C# Week and Subqueries",
       "episode": "",
-      "summary": "Python katas continue the rotation while the T-SQL path moves into subqueries.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
+      "summary": "C# katas continue the rotation while the T-SQL path moves into subqueries.",
+      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w5-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas (6 kyu if 7 kyu feels easy) or 2 medium Exercism Python exercises. Then pick one Dart or C# problem from your CodeWars Solutions tab (or Exercism solutions page) and rewrite it in Python. Compare both versions on the site and decide which one is cleaner and why (30-40 min)",
+          "text": "Solve 2 C# katas (6 kyu if 7 kyu feels easy) or 2 medium Exercism C# exercises. Then pick one Dart problem from your CodeWars Solutions tab (or Exercism solutions page) and rewrite it in C#. Compare both versions on the site and decide which one is cleaner and why (30-40 min)",
           "recurring": false
         },
         {
@@ -164,7 +164,7 @@
       "no": "6",
       "title": "Dart Week, Functions and Data Changes",
       "episode": "",
-      "summary": "Dart closes the second rotation cycle; you finish the MS Learn path with built-in functions, GROUP BY, and data modification.",
+      "summary": "Dart closes the third rotation cycle; you finish the MS Learn path with built-in functions, GROUP BY, and data modification.",
       "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
       "tasks": [
         {
@@ -193,13 +193,13 @@
       "no": "7",
       "title": "C# Week and the HackerRank SQL Ladder",
       "episode": "",
-      "summary": "Third rotation cycle starts with C#, and Wednesday switches from MS Learn modules to a steady HackerRank/LeetCode SQL practice ladder.",
+      "summary": "A new rotation cycle starts with C#, and Wednesday switches from MS Learn modules to a steady HackerRank/LeetCode SQL practice ladder.",
       "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
       "tasks": [
         {
           "id": "pratik.w7-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas, now aiming at 6 kyu on CodeWars (or 2 medium Exercism exercises). Then take one Python problem from your CodeWars Solutions tab (or Exercism solutions page) and re-solve it in C#. Compare with the top solutions: what did LINQ make shorter — or longer? (30-40 min)",
+          "text": "Solve 2 C# katas, now aiming at 6 kyu on CodeWars (or 2 medium Exercism exercises). Then take one Dart problem from your CodeWars Solutions tab (or Exercism solutions page) and re-solve it in C#. Compare with the top solutions: what did LINQ make shorter — or longer? (30-40 min)",
           "recurring": false
         },
         {
@@ -220,15 +220,15 @@
       "id": "w8",
       "phaseId": "faz1",
       "no": "8",
-      "title": "Python Week, jQuery Exercises, DartPad Flutter",
+      "title": "Dart Week, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Python katas plus in-browser jQuery exercises on Tuesday; Wednesday is another DartPad Flutter mini-challenge in the browser.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
+      "summary": "Dart katas plus in-browser jQuery exercises on Tuesday; Wednesday is another DartPad Flutter mini-challenge in the browser.",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
       "tasks": [
         {
           "id": "pratik.w8-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas (6 kyu) or 2 medium Exercism Python exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old C# or Dart problem in Python. jQuery upkeep (~10 min): solve the next section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — instant checking on the site (30-40 min)",
+          "text": "Solve 2 Dart katas (6 kyu) or 2 medium Exercism Dart exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old C# problem in Dart. jQuery upkeep (~10 min): solve the next section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — instant checking on the site (30-40 min)",
           "recurring": false
         },
         {
@@ -249,15 +249,15 @@
       "id": "w9",
       "phaseId": "faz1",
       "no": "9",
-      "title": "Dart Week and Easy-to-Medium SQL",
+      "title": "C# Week and Easy-to-Medium SQL",
       "episode": "",
-      "summary": "Dart week in the rotation; SQL practice starts mixing in the first Medium-level problems.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "C# week in the rotation; SQL practice starts mixing in the first Medium-level problems.",
+      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
       "tasks": [
         {
           "id": "pratik.w9-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6 kyu if possible) or 2 medium Exercism Dart exercises. Cross-language re-solve: pick the oldest problem in your CodeWars Solutions tab and solve it in Dart if it is not already in Dart — otherwise use another language. Compare with your old solution on the site: what did you remember wrong? (30-40 min)",
+          "text": "Solve 2 C# katas (6 kyu if possible) or 2 medium Exercism C# exercises. Cross-language re-solve: pick the oldest problem in your CodeWars Solutions tab and solve it in C# if it is not already in C# — otherwise re-solve it in Dart. Compare with your old solution on the site: what did you remember wrong? (30-40 min)",
           "recurring": false
         },
         {
@@ -278,15 +278,15 @@
       "id": "w10",
       "phaseId": "faz1",
       "no": "10",
-      "title": "C# Week and the C# (Basic) Certification",
+      "title": "Dart Week and the C# (Basic) Certification",
       "episode": "",
-      "summary": "Milestone week: C# katas as a warm-up on Tuesday, then the free timed HackerRank C# (Basic) certification on Wednesday.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/skills-verification",
+      "summary": "Milestone week: Dart katas on Tuesday with a C# re-solve as warm-up, then the free timed HackerRank C# (Basic) certification on Wednesday.",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification",
       "tasks": [
         {
           "id": "pratik.w10-sali",
           "day": "Salı",
-          "text": "Warm-up for tomorrow: solve 2 C# katas (6 kyu) focusing on clean, fast solutions without looking things up. Then re-solve one Python or Dart problem from your CodeWars Solutions tab in C#. Notice which C# features you reached for automatically (30-40 min)",
+          "text": "Solve 2 Dart katas (6 kyu) focusing on clean, fast solutions without looking things up. Then, as a warm-up for tomorrow, re-solve one old Dart problem from your CodeWars Solutions tab in C#. Notice which C# features you reached for automatically (30-40 min)",
           "recurring": false
         },
         {
@@ -307,15 +307,15 @@
       "id": "w11",
       "phaseId": "faz2",
       "no": "11",
-      "title": "Python Week and Medium SQL Territory",
+      "title": "C# Week and Medium SQL Territory",
       "episode": "",
-      "summary": "Phase 2 opens with Python katas at a higher level and SQL practice settling into Medium problems.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "Phase 2 opens with C# katas at a higher level and SQL practice settling into Medium problems.",
+      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
       "tasks": [
         {
           "id": "pratik.w11-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas at 6-5 kyu (or 2 medium-to-hard Exercism Python exercises). Cross-language re-solve: from your CodeWars Solutions tab (or Exercism solutions page), take one problem and solve it in a language it has not been solved in yet. If every problem is covered in all three languages, pick the one whose solution you like least and improve it (30-40 min)",
+          "text": "Solve 2 C# katas at 6-5 kyu (or 2 medium-to-hard Exercism C# exercises). Cross-language re-solve: from your CodeWars Solutions tab (or Exercism solutions page), take one problem and solve it in the other language (C# ↔ Dart). If every problem is covered in both languages, pick the one whose solution you like least and improve it (30-40 min)",
           "recurring": false
         },
         {
@@ -344,7 +344,7 @@
         {
           "id": "pratik.w12-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 medium Exercism Dart exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in a different language than its original. jQuery upkeep (~10 min): solve another section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 medium Exercism Dart exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in the other language (C# ↔ Dart). jQuery upkeep (~10 min): solve another section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
           "recurring": false
         },
         {
@@ -373,7 +373,7 @@
         {
           "id": "pratik.w13-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas aiming at 6-5 kyu (or 2 harder Exercism C# exercises). Then pick a problem from your CodeWars Solutions tab that you last touched in Faz 1 and re-solve it in a different language than its original — from memory first, then compare with your old solution on the site (30-40 min)",
+          "text": "Solve 2 C# katas aiming at 6-5 kyu (or 2 harder Exercism C# exercises). Then pick a problem from your CodeWars Solutions tab that you last touched in Faz 1 and re-solve it in the other language (C# ↔ Dart) — from memory first, then compare with your old solution on the site (30-40 min)",
           "recurring": false
         },
         {
@@ -394,15 +394,15 @@
       "id": "w14",
       "phaseId": "faz2",
       "no": "14",
-      "title": "Python Week and the SQL Retry Round",
+      "title": "Dart Week and the SQL Retry Round",
       "episode": "",
-      "summary": "Python katas continue; on Wednesday you clear old debts by re-solving, on the site, the SQL problems that beat you before.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "Dart katas continue; on Wednesday you clear old debts by re-solving, on the site, the SQL problems that beat you before.",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
       "tasks": [
         {
           "id": "pratik.w14-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas (6-5 kyu) or 2 harder Exercism Python exercises. Cross-language re-solve: from your CodeWars Solutions tab, choose one problem where your original solution used a loop, and re-solve it in another language using a more functional style (LINQ, comprehension, or Dart collection methods) (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Cross-language re-solve: from your CodeWars Solutions tab, choose one problem where your original solution used a loop, and re-solve it in the other language using a more functional style (LINQ in C# or Dart collection methods) (30-40 min)",
           "recurring": false
         },
         {
@@ -423,15 +423,15 @@
       "id": "w15",
       "phaseId": "faz2",
       "no": "15",
-      "title": "Dart Week and First Hard Attempt",
+      "title": "C# Week and First Hard Attempt",
       "episode": "",
-      "summary": "Dart takes its rotation turn, and you make your first serious attempt at a Hard SQL problem.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://leetcode.com/problemset/database/ · https://www.hackerrank.com/domains/sql",
+      "summary": "C# takes its rotation turn, and you make your first serious attempt at a Hard SQL problem.",
+      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://leetcode.com/problemset/database/ · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w15-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Then take one C# problem from your CodeWars Solutions tab and re-solve it in Dart, paying attention to null-safety differences. Compare both versions on the site: what did Dart force you to think about that C# did not? (30-40 min)",
+          "text": "Solve 2 C# katas (6-5 kyu) or 2 harder Exercism C# exercises. Then take one Dart problem from your CodeWars Solutions tab and re-solve it in C#, paying attention to null-safety differences. Compare both versions on the site: what did Dart force you to think about that C# did not? (30-40 min)",
           "recurring": false
         },
         {
@@ -452,15 +452,15 @@
       "id": "w16",
       "phaseId": "faz2",
       "no": "16",
-      "title": "C# Week, jQuery Exercises, DartPad Flutter",
+      "title": "Dart Week, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Last combined upkeep week: C# katas plus in-browser jQuery exercises on Tuesday, and a final DartPad Flutter mini-challenge on Wednesday.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
+      "summary": "Last combined upkeep week: Dart katas plus in-browser jQuery exercises on Tuesday, and a final DartPad Flutter mini-challenge on Wednesday.",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
       "tasks": [
         {
           "id": "pratik.w16-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas (5 kyu if you feel ready) or 2 harder Exercism C# exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in a different language than its original. jQuery upkeep (~10 min): solve the last section you have not done yet in the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp (30-40 min)",
+          "text": "Solve 2 Dart katas (5 kyu if you feel ready) or 2 harder Exercism Dart exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in the other language (C# ↔ Dart). jQuery upkeep (~10 min): solve the last section you have not done yet in the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp (30-40 min)",
           "recurring": false
         },
         {
@@ -481,15 +481,15 @@
       "id": "w17",
       "phaseId": "faz2",
       "no": "17",
-      "title": "Python Week and SQL Mixed Set",
+      "title": "C# Week and SQL Mixed Set",
       "episode": "",
-      "summary": "The final regular practice week: Python katas and a mixed-difficulty SQL set that simulates real exam variety.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "The final regular practice week: C# katas and a mixed-difficulty SQL set that simulates real exam variety.",
+      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
       "tasks": [
         {
           "id": "pratik.w17-sali",
           "day": "Salı",
-          "text": "Solve 2 Python katas (6-5 kyu) or 2 harder Exercism Python exercises. Cross-language re-solve: in your CodeWars Solutions tab, pick the problem you have re-trained most often and solve it one more time in the language you are slowest in. Time yourself and try to beat your feeling of \"slow\" (30-40 min)",
+          "text": "Solve 2 C# katas (6-5 kyu) or 2 harder Exercism C# exercises. Cross-language re-solve: in your CodeWars Solutions tab, pick the problem you have re-trained most often and solve it one more time in the language you are slowest in (C# or Dart). Time yourself and try to beat your feeling of \"slow\" (30-40 min)",
           "recurring": false
         },
         {
@@ -512,13 +512,13 @@
       "no": "18",
       "title": "Dart Week and Timed Prep Round 1",
       "episode": "",
-      "summary": "Dart closes its rotation for this program, and SQL work moves to exam conditions: timed problem sets.",
+      "summary": "Dart continues the rotation, and SQL work moves to exam conditions: timed problem sets.",
       "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
       "tasks": [
         {
           "id": "pratik.w18-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises — this is Dart's final turn in the program. Re-solve one problem from your CodeWars Solutions tab in a different language than its original, then skim your whole Solutions tab (and Exercism solutions pages) and pick your 3 favorite solutions (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Re-solve one problem from your CodeWars Solutions tab in the other language (C# ↔ Dart), then skim your whole Solutions tab (and Exercism solutions pages) and pick your 3 favorite solutions (30-40 min)",
           "recurring": false
         },
         {
@@ -541,7 +541,7 @@
       "no": "19",
       "title": "C# Finale and Timed Prep Round 2",
       "episode": "",
-      "summary": "C# takes the last kata slot of the program, and you run a second timed SQL rehearsal targeting your weak topic.",
+      "summary": "C# takes its last kata slot of the program, and you run a second timed SQL rehearsal targeting your weak topic.",
       "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
       "tasks": [
         {
@@ -568,15 +568,15 @@
       "id": "w20",
       "phaseId": "faz2",
       "no": "20",
-      "title": "Python Send-off and SQL Certification",
+      "title": "Dart Send-off and SQL Certification",
       "episode": "",
-      "summary": "Program finale: a relaxed Python kata session with the final in-browser jQuery quiz, then the free timed HackerRank SQL (Intermediate) certification.",
-      "source": "https://www.codewars.com/kata/search/python · https://exercism.org/tracks/python · https://www.w3schools.com/jquery/jquery_quiz.asp · https://www.hackerrank.com/skills-verification",
+      "summary": "Program finale: a relaxed Dart kata session with the final in-browser jQuery quiz, then the free timed HackerRank SQL (Intermediate) certification.",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_quiz.asp · https://www.hackerrank.com/skills-verification",
       "tasks": [
         {
           "id": "pratik.w20-sali",
           "day": "Salı",
-          "text": "Light warm-up before exam day: solve 2 Python katas at a comfortable level (6 kyu) and re-solve one problem from your CodeWars Solutions tab in a different language than its original. jQuery finale (~10 min): take the 25-question W3Schools jQuery quiz at https://www.w3schools.com/jquery/jquery_quiz.asp — your score appears instantly on the site (30-40 min)",
+          "text": "Light warm-up before exam day: solve 2 Dart katas at a comfortable level (6 kyu) and re-solve one problem from your CodeWars Solutions tab in the other language (C# ↔ Dart). jQuery finale (~10 min): take the 25-question W3Schools jQuery quiz at https://www.w3schools.com/jquery/jquery_quiz.asp — your score appears instantly on the site (30-40 min)",
           "recurring": false
         },
         {

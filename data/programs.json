@@ -33,25 +33,25 @@
     "taskCount": 528
   },
   {
-    "id": "react",
-    "title": "React Stack — React/TS/Next",
-    "shortTitle": "React",
-    "description": "20-week path in English: Udemy courses (React 18 + Next.js 16, Turkish) + react.dev/Next Learn in English, DevBoard portfolio project, Redux Toolkit, auth, Vercel deploy",
-    "durationLabel": "20 hafta",
-    "icon": "bi-braces",
-    "planUrl": "data/programs/react/plan.json?v=3b27fa8c",
-    "idPrefix": "react.",
-    "taskCount": 80
-  },
-  {
     "id": "pratik",
-    "title": "Dev Practice — C#/Python/Dart + MSSQL",
+    "title": "Dev Practice — C#/Dart + MSSQL",
     "shortTitle": "Pratik",
-    "description": "2 days/week in English: C#→Python→Dart kata rotation with cross-language re-solve, MSSQL/T-SQL track, light Flutter upkeep + free certifications",
+    "description": "2 days/week in English: C#↔Dart kata rotation with cross-language re-solve, MSSQL/T-SQL track, DartPad Flutter mini-challenges + free certifications",
     "durationLabel": "20 hafta",
     "icon": "bi-tools",
-    "planUrl": "data/programs/pratik/plan.json?v=f3c2c88e",
+    "planUrl": "data/programs/pratik/plan.json?v=e8a1ee6f",
     "idPrefix": "pratik.",
     "taskCount": 60
+  },
+  {
+    "id": "python",
+    "title": "Python → AI Engineering",
+    "shortTitle": "Python",
+    "description": "20-week intensive path: Python deepening (Udemy + Kaggle) → pandas + scikit-learn → local LLM engineering on Ollama + Qwen (RAG, chatbot); certificates + work-project focus; weekends free",
+    "durationLabel": "20 hafta",
+    "icon": "bi-robot",
+    "planUrl": "data/programs/python/plan.json?v=58e2de72",
+    "idPrefix": "python.",
+    "taskCount": 120
   }
 ]

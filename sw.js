@@ -9,7 +9,7 @@
  * Sürüm değişince CACHE_NAME artırılır; eski cache activate'te silinir.
  */
 
-const CACHE_NAME = 'tracker-v5-linkzincir';
+const CACHE_NAME = 'tracker-dfc61ef4';
 
 const APP_SHELL = [
     './',
@@ -34,8 +34,8 @@ const APP_SHELL = [
     'data/programs/ingilizce/plan.json',
     'data/programs/ielts/plan.json',
     'data/programs/almanca/plan.json',
-    'data/programs/react/plan.json',
     'data/programs/pratik/plan.json',
+    'data/programs/python/plan.json',
     'assets/icons/icon-192.png',
     'assets/icons/icon-512.png'
 ];
