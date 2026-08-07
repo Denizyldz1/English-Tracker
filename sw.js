@@ -9,7 +9,7 @@
  * Sürüm değişince CACHE_NAME artırılır; eski cache activate'te silinir.
  */
 
-const CACHE_NAME = 'tracker-2c0ab6a7';
+const CACHE_NAME = 'tracker-6702e331';
 
 const APP_SHELL = [
     './',
@@ -26,6 +26,7 @@ const APP_SHELL = [
     'js/core/kt-helpers.js',
     'js/core/kt-data.js',
     'js/core/kt-auth.js',
+    'js/core/kt-lang.js',
     'js/core/kt-pwa.js',
     'js/pages/login.js',
     'js/pages/programs.js',

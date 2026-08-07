@@ -35,22 +35,26 @@
   {
     "id": "pratik",
     "title": "Dev Practice — C#/Dart + MSSQL",
+    "titleTr": "Geliştirici Pratiği — C#/Dart + MSSQL",
     "shortTitle": "Pratik",
     "description": "2 days/week in English: C#↔Dart kata rotation with cross-language re-solve, MSSQL/T-SQL track, DartPad Flutter mini-challenges + free certifications",
+    "descriptionTr": "Haftada 2 gün: C#↔Dart kata rotasyonu ve diller arası yeniden çözüm, MSSQL/T-SQL rayı, DartPad Flutter mini görevleri + ücretsiz sertifikalar",
     "durationLabel": "20 hafta",
     "icon": "bi-tools",
-    "planUrl": "data/programs/pratik/plan.json?v=e8a1ee6f",
+    "planUrl": "data/programs/pratik/plan.json?v=5d8f6d91",
     "idPrefix": "pratik.",
     "taskCount": 60
   },
   {
     "id": "python",
     "title": "Python → AI Engineering",
+    "titleTr": "Python → Yapay Zekâ Mühendisliği",
     "shortTitle": "Python",
     "description": "20-week intensive path: Python deepening (Udemy + Kaggle) → pandas + scikit-learn → local LLM engineering on Ollama + Qwen (RAG, chatbot); certificates + work-project focus; weekends free",
+    "descriptionTr": "20 haftalık yoğun yol: Python derinleşme (Udemy + Kaggle) → pandas + scikit-learn → Ollama + Qwen ile yerel LLM mühendisliği (RAG, chatbot); sertifikalar + iş projesine odak; hafta sonu boş",
     "durationLabel": "20 hafta",
     "icon": "bi-robot",
-    "planUrl": "data/programs/python/plan.json?v=8bcc1410",
+    "planUrl": "data/programs/python/plan.json?v=71a40795",
     "idPrefix": "python.",
     "taskCount": 120
   }

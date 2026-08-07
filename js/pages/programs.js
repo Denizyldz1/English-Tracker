@@ -36,8 +36,8 @@ const KTPrograms = (() => {
         $card.attr('data-program-id', program.id);
         $card.attr('href', `app.html?program=${encodeURIComponent(program.id)}`);
         $card.find('.js-icon').addClass(`bi ${program.icon}`);
-        $card.find('.js-title').text(program.title);
-        $card.find('.js-desc').text(program.description);
+        $card.find('.js-title').text(KTLang.pick(program, 'title'));
+        $card.find('.js-desc').text(KTLang.pick(program, 'description'));
         $card.find('.js-duration').text(program.durationLabel);
         $card.find('.js-count').text(`${done}/${total} görev · %${pct}`);
         $card.find('.js-bar')
@@ -69,6 +69,7 @@ const KTPrograms = (() => {
         const session = await KTAuth.requireAuth();
         if (!session) return;
         renderUser();
+        KTLang.mountToggle('#langBtn');
         try {
             const [programs, doneRows] = await Promise.all([
                 KTData.loadPrograms(),

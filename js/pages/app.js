@@ -54,7 +54,7 @@ const KTApp = (() => {
         $check[0].dataset.phaseId = task.phaseId;
         $row.find('.js-label').attr('for', task.id);
         $row.find('.js-day').text(task.day || '•');
-        KTHelpers.linkifyInto($row.find('.js-text'), task.text);
+        KTHelpers.linkifyInto($row.find('.js-text'), KTLang.pick(task, 'text'));
         $row.toggleClass('is-done', doneSet.has(task.id));
         if (task.recurring) $row.addClass('is-recurring');
         return $row;
@@ -69,11 +69,11 @@ const KTApp = (() => {
             .attr('aria-controls', collapseId);
         $card.find('.week-body').attr('id', collapseId);
         $card.find('.js-no').text(`Hafta ${week.no}`);
-        $card.find('.js-title').text(week.title);
+        $card.find('.js-title').text(KTLang.pick(week, 'title'));
         $card.find('.js-episode').text(week.episode ? `📺 ${week.episode}` : '');
-        $card.find('.js-summary').text(week.summary || '');
+        $card.find('.js-summary').text(KTLang.pick(week, 'summary'));
         if (week.source) {
-            KTHelpers.linkifyInto($card.find('.js-source'), week.source);
+            KTHelpers.linkifyInto($card.find('.js-source'), KTLang.pick(week, 'source'));
         } else {
             $card.find('.week-source').remove();
         }
@@ -131,7 +131,8 @@ const KTApp = (() => {
     };
 
     // Konu adı: hafta başlığındaki çıkış testi eklerini temizle
-    const kuraTopic = (week) => week.title.split('🏁')[0].replace(/·\s*$/, '').trim();
+    const kuraTopic = (week) =>
+        KTLang.pick(week, 'title').split('🏁')[0].replace(/·\s*$/, '').trim();
 
     const renderKuraList = ($box, weekIds) => {
         const $list = $box.find('.js-kura-list').empty();
@@ -179,7 +180,7 @@ const KTApp = (() => {
             .attr('data-bs-target', `#${collapseId}`)
             .attr('aria-controls', collapseId);
         $item.find('.accordion-collapse').attr('id', collapseId);
-        $item.find('.js-title').text(phase.title);
+        $item.find('.js-title').text(KTLang.pick(phase, 'title'));
 
         const $weeks = $item.find('.js-weeks');
         const weeks = plan.weeks.filter((w) => w.phaseId === phase.id);
@@ -302,6 +303,7 @@ const KTApp = (() => {
         currentProgram = program;
         applyProgramHeader(program);
         renderUser();
+        KTLang.mountToggle('#langBtn');
         try {
             await loadAll(program);
         } catch {

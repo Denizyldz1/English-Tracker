@@ -90,3 +90,12 @@ a.ext-link:hover {
     color: var(--az-primary-active);
     text-decoration: underline;
 }
+
+/* Görev dili düğmesi (profil yanında; TR/EN) */
+.lang-btn {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    padding: 0.2rem 0.5rem;
+    white-space: nowrap;
+}

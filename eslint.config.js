@@ -29,7 +29,8 @@ export default [
                 KTSwal: 'readonly',
                 KTHelpers: 'readonly',
                 KTData: 'readonly',
-                KTAuth: 'readonly'
+                KTAuth: 'readonly',
+                KTLang: 'readonly'
             }
         },
         linterOptions: {

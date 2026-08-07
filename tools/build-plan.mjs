@@ -18,7 +18,7 @@
  *   node tools/build-plan.mjs            -> tüm programları derler
  *   node tools/build-plan.mjs ielts      -> tek programı derler
  */
-import { readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -100,6 +100,7 @@ const PROGRAM_CONFIGS = {
     },
     pratik: {
         title: 'Dev Practice — C#/Dart + MSSQL (20 Weeks)',
+        titleTr: 'Geliştirici Pratiği — C#/Dart + MSSQL (20 Hafta)',
         idPrefix: 'pratik.',
         recurringNote:
             'Everything in this program runs in the browser — nothing to install. '
@@ -110,12 +111,17 @@ const PROGRAM_CONFIGS = {
                 text: 'After every solved problem, stay on the site: open 2 top-voted '
                     + 'solutions and compare them with yours — spot one trick you did not '
                     + 'use. The platform keeps your solution history; Tuesday re-solve '
-                    + 'picks from it (5 min)'
+                    + 'picks from it (5 min)',
+                textTr: 'Her çözdüğün problemden sonra sitede kal: en çok oy alan 2 çözümü '
+                    + 'aç ve kendi çözümünle karşılaştır — kullanmadığın bir numarayı yakala. '
+                    + 'Çözüm geçmişin platformda durur; Salı günkü yeniden çözüm oradan '
+                    + 'seçilir (5 dk)'
             }
         ]
     },
     python: {
         title: 'Python → AI Engineering (20 Weeks)',
+        titleTr: 'Python → Yapay Zekâ Mühendisliği (20 Hafta)',
         idPrefix: 'python.',
         recurringNote:
             'Intensive program: 5 days/week, weekend free. The AI-notes habit below '
@@ -125,7 +131,10 @@ const PROGRAM_CONFIGS = {
                 suffix: 'rec-notes', day: 'Hafta içi',
                 text: 'AI notes: after each study block, write a 3-line English note — '
                     + 'what you learned / why it matters / one gotcha. Before Friday '
-                    + 'closes, add one line: how does this help the project at work? (5 min)'
+                    + 'closes, add one line: how does this help the project at work? (5 min)',
+                textTr: 'Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — '
+                    + 'ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: '
+                    + 'bu, işteki projeye nasıl yarıyor? (5 dk)'
             }
         ]
     }
@@ -178,8 +187,8 @@ const parseTaskLine = (content, prefix, wId, counters) => {
     return out;
 };
 
-const parseProgram = (programId, config) => {
-    const src = join(DATA, 'programs', programId, 'source-plan.md');
+const parseProgram = (programId, config, fileName = 'source-plan.md') => {
+    const src = join(DATA, 'programs', programId, fileName);
     const lines = readFileSync(src, 'utf8').split(/\r?\n/);
     const prefix = config.idPrefix;
 
@@ -200,7 +209,8 @@ const parseProgram = (programId, config) => {
         if (!week) return;
         for (const r of config.recurring) {
             week.tasks.push({
-                id: `${prefix}${week.id}-${r.suffix}`, day: r.day, text: r.text, recurring: true
+                id: `${prefix}${week.id}-${r.suffix}`, day: r.day, text: r.text,
+                ...(r.textTr ? { textTr: r.textTr } : {}), recurring: true
             });
         }
         weeks.push(week);
@@ -251,11 +261,44 @@ const parseProgram = (programId, config) => {
 
     return {
         title: config.title,
-        generatedFrom: `data/programs/${programId}/source-plan.md`,
+        generatedFrom: `data/programs/${programId}/${fileName}`,
         recurringNote: config.recurringNote,
         phases,
         weeks
     };
+};
+
+// ─── Çeviri birleştirme (source-plan.tr.md varsa) ──────────────────
+// Çeviri dosyası temel planla BİREBİR aynı yapıda olmalı (aynı faz/hafta/görev
+// sayısı ve sırası); eşleşme bozuksa build durur — sessiz kayma olmasın.
+const assertSame = (what, a, b) => {
+    if (a !== b) {
+        console.error(`Çeviri yapısı uyuşmuyor (${what}): temel=${a}, çeviri=${b}`);
+        process.exit(1);
+    }
+};
+
+const mergeTranslation = (plan, tr) => {
+    assertSame('faz sayısı', plan.phases.length, tr.phases.length);
+    assertSame('hafta sayısı', plan.weeks.length, tr.weeks.length);
+
+    plan.phases.forEach((p, i) => { p.titleTr = tr.phases[i].title; });
+
+    plan.weeks.forEach((w, i) => {
+        const tw = tr.weeks[i];
+        assertSame(`hafta ${w.no} no`, w.no, tw.no);
+        w.titleTr = tw.title;
+        if (tw.summary) w.summaryTr = tw.summary;
+        if (tw.source) w.sourceTr = tw.source;
+
+        // recurring görevler config'ten gelir (textTr'leri orada tanımlı)
+        const base = w.tasks.filter((t) => !t.recurring);
+        const trTasks = tw.tasks.filter((t) => !t.recurring);
+        assertSame(`hafta ${w.no} görev sayısı`, base.length, trTasks.length);
+        base.forEach((t, j) => { t.textTr = trTasks[j].text; });
+    });
+
+    if (plan.titleTr === undefined && tr.title) plan.titleTr = tr.title;
 };
 
 // ─── Build + registry güncelleme ───────────────────────────────────
@@ -267,11 +310,22 @@ const buildProgram = (programId) => {
     }
 
     const plan = parseProgram(programId, config);
+
+    // Çeviri dosyası varsa Türkçe alanlar (…Tr) eklenir; yoksa plan olduğu gibi kalır
+    const trSrc = join(DATA, 'programs', programId, 'source-plan.tr.md');
+    let translated = false;
+    if (existsSync(trSrc)) {
+        if (config.titleTr) plan.titleTr = config.titleTr;
+        mergeTranslation(plan, parseProgram(programId, config, 'source-plan.tr.md'));
+        translated = true;
+    }
+
     const out = join(DATA, 'programs', programId, 'plan.json');
     writeFileSync(out, JSON.stringify(plan, null, 2) + '\n', 'utf8');
 
     const totalTasks = plan.weeks.reduce((a, w) => a + w.tasks.length, 0);
-    console.log(`[${programId}] phases=${plan.phases.length} weeks=${plan.weeks.length} tasks=${totalTasks}`);
+    console.log(`[${programId}] phases=${plan.phases.length} weeks=${plan.weeks.length} tasks=${totalTasks}`
+        + (translated ? ' (+TR)' : ''));
     return totalTasks;
 };
 

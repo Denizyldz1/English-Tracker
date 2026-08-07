@@ -5,15 +5,18 @@
   "phases": [
     {
       "id": "faz1",
-      "title": "FAZ 1 — Python Deepening (Hafta 1-6)"
+      "title": "FAZ 1 — Python Deepening (Hafta 1-6)",
+      "titleTr": "FAZ 1 — Python Derinleşme (Hafta 1-6)"
     },
     {
       "id": "faz2",
-      "title": "FAZ 2 — Data and Classical ML (Hafta 7-12)"
+      "title": "FAZ 2 — Data and Classical ML (Hafta 7-12)",
+      "titleTr": "FAZ 2 — Veri ve Klasik ML (Hafta 7-12)"
     },
     {
       "id": "faz3",
-      "title": "FAZ 3 — Local LLM Engineering: Ollama + Qwen (Hafta 13-20)"
+      "title": "FAZ 3 — Local LLM Engineering: Ollama + Qwen (Hafta 13-20)",
+      "titleTr": "FAZ 3 — Yerel LLM Mühendisliği: Ollama + Qwen (Hafta 13-20)"
     }
   ],
   "weeks": [
@@ -30,39 +33,48 @@
           "id": "python.w1-pzt",
           "day": "Pzt",
           "text": "Self-check first: solve one easy exercise on Exercism Python (https://exercism.org/tracks/python) in the browser. Then open your Udemy Python course sections on basics, data types and type conversions: skim at 1.5x what the self-check proved you know; watch fully only what felt shaky. Note weak topics in a list (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: Exercism Python'da (https://exercism.org/tracks/python) tarayıcıda bir kolay alıştırma çöz. Sonra Udemy Python kursunun temeller, veri tipleri ve tip dönüşümleri bölümlerini aç: öz-testin bildiğini kanıtladığı yerleri 1.5x hızda tara; yalnız sallantılı hissettiklerini baştan sona izle. Zayıf konuları bir listeye not al (45-60 dk)"
         },
         {
           "id": "python.w1-sali",
           "day": "Salı",
           "text": "Self-check first: one warm-up problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on operators (arithmetic, assignment, comparison, logical): skim at 1.5x or skip what you know, watch fully what you missed. Update your weak-topics list (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: HackerRank Python'da (https://www.hackerrank.com/domains/python) bir ısınma problemi. Sonra Udemy kursunun operatörler bölümleri (aritmetik, atama, karşılaştırma, mantıksal): bildiğini 1.5x hızda tara veya atla, kaçırdığını baştan sona izle. Zayıf konular listeni güncelle (45-60 dk)"
         },
         {
           "id": "python.w1-car",
           "day": "Çar",
           "text": "Go to Kaggle Learn Python (https://www.kaggle.com/learn/python) and complete Lessons 1-2 (\"Hello, Python\" and \"Functions and Getting Help\") in the browser. It is free and repeats the same ideas in English — good language practice too (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Learn Python'a git (https://www.kaggle.com/learn/python) ve Ders 1-2'yi (\"Hello, Python\" ve \"Functions and Getting Help\") tarayıcıda tamamla. Ücretsiz ve aynı fikirleri İngilizce tekrar ediyor — iyi bir dil pratiği de olur (45-60 dk)"
         },
         {
           "id": "python.w1-per",
           "day": "Per",
           "text": "Open Exercism Python (https://exercism.org/tracks/python), join the track, and solve 2 easy exercises in the browser editor. The tests run on the site, so you need no local setup (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Exercism Python'ı aç (https://exercism.org/tracks/python), track'e katıl ve tarayıcı editöründe 2 kolay alıştırma çöz. Testler sitede çalıştığı için yerel bir kuruluma ihtiyacın yok (45-60 dk)"
         },
         {
           "id": "python.w1-cum",
           "day": "Cum",
           "text": "PROJECT: Install Python and VS Code, create a venv, and write your first utility script — a folder organizer that sorts files in a folder by type. Create a GitHub repo named \"python-journey\" and push the script with a short commit message (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: Python ve VS Code'u kur, bir venv oluştur ve ilk yardımcı scriptini yaz — bir klasördeki dosyaları türüne göre ayıran bir klasör düzenleyici. \"python-journey\" adında bir GitHub repo'su aç ve scripti kısa bir commit mesajıyla push et (45-60 dk)"
         },
         {
           "id": "python.w1-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Başlangıç",
+      "summaryTr": "Kursun gerçek içerik akışını izleyerek Python'a yeniden başla: temeller, veri tipleri, tip dönüşümleri ve operatörler — her bölümden önce 5 dakikalık bir öz-testle. Temiz bir geliştirme ortamı kur ve ilk scriptini push et.",
+      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python"
     },
     {
       "id": "w2",
@@ -77,39 +89,48 @@
           "id": "python.w2-pzt",
           "day": "Pzt",
           "text": "Self-check first: one conditionals/lists mini-exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on conditional statements and lists: skim at 1.5x what you know, watch fully what you missed (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: Exercism Python'da (https://exercism.org/tracks/python) koşullar/listeler konulu bir mini alıştırma. Sonra Udemy kursunun koşullu ifadeler ve listeler bölümleri: bildiğini 1.5x hızda tara, kaçırdığını baştan sona izle (45-60 dk)"
         },
         {
           "id": "python.w2-sali",
           "day": "Salı",
           "text": "Self-check first: one loops problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on for/while loops and break/continue: same skim-or-watch rule (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: HackerRank Python'da (https://www.hackerrank.com/domains/python) bir döngü problemi. Sonra Udemy kursunun for/while döngüleri ve break/continue bölümleri: aynı tara-ya-da-izle kuralı (45-60 dk)"
         },
         {
           "id": "python.w2-car",
           "day": "Çar",
           "text": "On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lessons 3-4 (\"Booleans and Conditionals\" and \"Lists\") in the browser (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Learn Python'da (https://www.kaggle.com/learn/python) Ders 3-4'ü (\"Booleans and Conditionals\" ve \"Lists\") tarayıcıda tamamla (45-60 dk)"
         },
         {
           "id": "python.w2-per",
           "day": "Per",
           "text": "Solve 1 new exercise on Exercism Python (https://exercism.org/tracks/python) or HackerRank Python (https://www.hackerrank.com/domains/python), then RE-SOLVE 1 old problem from your platform history without looking at your old answer (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Exercism Python'da (https://exercism.org/tracks/python) veya HackerRank Python'da (https://www.hackerrank.com/domains/python) 1 yeni alıştırma çöz, sonra platform geçmişinden 1 eski problemi eski cevabına bakmadan YENİDEN ÇÖZ (45-60 dk)"
         },
         {
           "id": "python.w2-cum",
           "day": "Cum",
           "text": "PROJECT: Write a CSV-processing script in \"python-journey\": read a CSV file (e.g., an export like the ones at work), filter rows by a condition, and print a small summary (counts, totals). Use functions, not one long block. Push to GitHub (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: \"python-journey\" içinde bir CSV işleme scripti yaz: bir CSV dosyasını oku (ör. işteki gibi bir dışa aktarım), satırları bir koşula göre filtrele ve küçük bir özet yazdır (adetler, toplamlar). Tek uzun blok değil, fonksiyonlar kullan. GitHub'a push et (45-60 dk)"
         },
         {
           "id": "python.w2-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Koşullar, Listeler ve Döngüler",
+      "summaryTr": "Kursun akış kontrolü bloğu: koşullar, listeler, for/while ve break/continue. Kaggle bu hafta aynı zemini İngilizce işliyor — mükemmel bir çift maruz kalma.",
+      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w3",
@@ -124,39 +145,48 @@
           "id": "python.w3-pzt",
           "day": "Pzt",
           "text": "Self-check first: one string-manipulation exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on character strings and string methods: skim at 1.5x what you know, watch fully what you missed (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: Exercism Python'da (https://exercism.org/tracks/python) metin işleme konulu bir alıştırma. Sonra Udemy kursunun karakter dizileri ve string metotları bölümleri: bildiğini 1.5x hızda tara, kaçırdığını baştan sona izle (45-60 dk)"
         },
         {
           "id": "python.w3-sali",
           "day": "Salı",
           "text": "Self-check first: one dictionary problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on list methods and dictionaries: same skim-or-watch rule. Try 5 dict operations in a scratch file (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: HackerRank Python'da (https://www.hackerrank.com/domains/python) bir sözlük problemi. Sonra Udemy kursunun liste metotları ve sözlükler bölümleri: aynı tara-ya-da-izle kuralı. Bir deneme dosyasında 5 sözlük işlemi dene (45-60 dk)"
         },
         {
           "id": "python.w3-car",
           "day": "Çar",
           "text": "On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 5 (\"Loops and List Comprehensions\") in the browser. If time is left, redo the hardest exercise from Lessons 1-4 (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Learn Python'da (https://www.kaggle.com/learn/python) Ders 5'i (\"Loops and List Comprehensions\") tarayıcıda tamamla. Vakit kalırsa Ders 1-4'ün en zor alıştırmasını yeniden yap (45-60 dk)"
         },
         {
           "id": "python.w3-per",
           "day": "Per",
           "text": "Solve 1 new OOP-flavored exercise on Exercism Python (https://exercism.org/tracks/python) or a Classes problem on HackerRank Python (https://www.hackerrank.com/domains/python), then RE-SOLVE 1 old problem from your platform history (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Exercism Python'da (https://exercism.org/tracks/python) OOP tadında 1 yeni alıştırma ya da HackerRank Python'da (https://www.hackerrank.com/domains/python) bir Classes problemi çöz, sonra platform geçmişinden 1 eski problemi YENİDEN ÇÖZ (45-60 dk)"
         },
         {
           "id": "python.w3-cum",
           "day": "Cum",
           "text": "PROJECT: Build a dictionary-based report tool in \"python-journey\": take the CSV from Week 2 and produce a per-category summary using dicts (counts, totals per group), printed as a small readable report. Push to GitHub (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: \"python-journey\" içinde sözlük tabanlı bir rapor aracı kur: Hafta 2'deki CSV'yi al ve sözlükler kullanarak kategori bazlı bir özet üret (grup başına adetler, toplamlar), küçük ve okunabilir bir rapor olarak yazdır. GitHub'a push et (45-60 dk)"
         },
         {
           "id": "python.w3-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Metinler ve Sözlükler",
+      "summaryTr": "Kursun metin-ve-veri bloğu: karakter dizileri, string metotları, liste metotları ve sözlükler — veri işinin günlük araçları.",
+      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w4",
@@ -171,39 +201,48 @@
           "id": "python.w4-pzt",
           "day": "Pzt",
           "text": "Self-check first: one functions exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course sections on functions and recursive functions: skim at 1.5x what you know, watch fully what you missed. Write one small recursive function yourself (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: Exercism Python'da (https://exercism.org/tracks/python) fonksiyonlar konulu bir alıştırma. Sonra Udemy kursunun fonksiyonlar ve özyinelemeli fonksiyonlar bölümleri: bildiğini 1.5x hızda tara, kaçırdığını baştan sona izle. Kendin küçük bir özyinelemeli fonksiyon yaz (45-60 dk)"
         },
         {
           "id": "python.w4-sali",
           "day": "Salı",
           "text": "Self-check first: one exceptions-flavored problem on HackerRank Python (https://www.hackerrank.com/domains/python). Then your Udemy course sections on error handling (try/except, raising): same skim-or-watch rule (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: HackerRank Python'da (https://www.hackerrank.com/domains/python) istisna tadında bir problem. Sonra Udemy kursunun hata yönetimi bölümleri (try/except, hata fırlatma): aynı tara-ya-da-izle kuralı (45-60 dk)"
         },
         {
           "id": "python.w4-car",
           "day": "Çar",
           "text": "On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 6 (\"Strings and Dictionaries\") in the browser (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Learn Python'da (https://www.kaggle.com/learn/python) Ders 6'yı (\"Strings and Dictionaries\") tarayıcıda tamamla (45-60 dk)"
         },
         {
           "id": "python.w4-per",
           "day": "Per",
           "text": "Solve 1 new exercise on Exercism Python (https://exercism.org/tracks/python) or HackerRank Python (https://www.hackerrank.com/domains/python), then RE-SOLVE 1 old problem from your platform history (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Exercism Python'da (https://exercism.org/tracks/python) veya HackerRank Python'da (https://www.hackerrank.com/domains/python) 1 yeni alıştırma çöz, sonra platform geçmişinden 1 eski problemi YENİDEN ÇÖZ (45-60 dk)"
         },
         {
           "id": "python.w4-cum",
           "day": "Cum",
           "text": "PROJECT: Build a robust CLI tool in \"python-journey\": use argparse for arguments, handle bad input with clear error messages (no raw tracebacks), and read/write files safely. Example: a tool that cleans or converts a CSV. Push to GitHub (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: \"python-journey\" içinde sağlam bir CLI aracı kur: argümanlar için argparse kullan, bozuk girdiyi net hata mesajlarıyla karşıla (ham traceback yok) ve dosyaları güvenle oku/yaz. Örnek: bir CSV'yi temizleyen ya da dönüştüren bir araç. GitHub'a push et (45-60 dk)"
         },
         {
           "id": "python.w4-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Fonksiyonlar, Özyineleme ve Hatalar",
+      "summaryTr": "Kursun fonksiyonlar bloğu: fonksiyonlar, özyinelemeli fonksiyonlar ve hata yönetimi — artı bozuk girdide çökmeyen sağlam bir CLI aracı.",
+      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w5",
@@ -218,39 +257,48 @@
           "id": "python.w5-pzt",
           "day": "Pzt",
           "text": "Self-check first: one classes exercise on Exercism Python (https://exercism.org/tracks/python). Then your Udemy course OOP sections (classes, `__init__`, methods): skim at 1.5x what you know from C#, watch fully what is Python-specific. Note 3 differences from C# (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce öz-test: Exercism Python'da (https://exercism.org/tracks/python) sınıflar konulu bir alıştırma. Sonra Udemy kursunun OOP bölümleri (sınıflar, `__init__`, metotlar): C#'tan bildiklerini 1.5x hızda tara, Python'a özgü olanları baştan sona izle. C#'tan 3 farkı not al (45-60 dk)"
         },
         {
           "id": "python.w5-sali",
           "day": "Salı",
           "text": "Your Udemy course sections on inheritance and polymorphism (plus special methods like `__str__`): same skim-or-watch rule. Write one small class hierarchy of your own to test the ideas (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Udemy kursunun kalıtım ve polimorfizm bölümleri (artı `__str__` gibi özel metotlar): aynı tara-ya-da-izle kuralı. Fikirleri sınamak için kendi küçük sınıf hiyerarşini yaz (45-60 dk)"
         },
         {
           "id": "python.w5-car",
           "day": "Çar",
           "text": "On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 7 (\"Working with External Libraries\") and claim your COMPLETION CERTIFICATE. Save the certificate link or image — it goes on your profile later (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Learn Python'da (https://www.kaggle.com/learn/python) Ders 7'yi (\"Working with External Libraries\") tamamla ve TAMAMLAMA SERTİFİKANI al. Sertifika linkini ya da görselini sakla — ilerde profiline girecek (45-60 dk)"
         },
         {
           "id": "python.w5-per",
           "day": "Per",
           "text": "On HackerRank Python (https://www.hackerrank.com/domains/python) solve a set of medium-difficulty problems (aim for 3). Note which topics still feel slow (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "HackerRank Python'da (https://www.hackerrank.com/domains/python) orta zorlukta bir problem seti çöz (hedef 3 tane). Hangi konular hâlâ yavaş geliyor, not al (45-60 dk)"
         },
         {
           "id": "python.w5-cum",
           "day": "Cum",
           "text": "PROJECT: Refactor your \"python-journey\" scripts into classes: e.g., a `FileOrganizer` class and a `CsvReport` class, each in its own file, using what the OOP week taught. Keep behavior the same, make the code cleaner. Push to GitHub (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: \"python-journey\" scriptlerini sınıflara dönüştür: ör. her biri kendi dosyasında bir `FileOrganizer` sınıfı ve bir `CsvReport` sınıfı, OOP haftasının öğrettiklerini kullanarak. Davranışı aynı tut, kodu daha temiz yap. GitHub'a push et (45-60 dk)"
         },
         {
           "id": "python.w5-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "OOP ve Polimorfizm",
+      "summaryTr": "Kursun son bloğu: sınıflar, nesneler, kalıtım ve polimorfizm — C# bilgin ile Python üslubu arasındaki köprü. Kaggle kursunu bitir ve sertifikanı al.",
+      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w6",
@@ -265,39 +313,48 @@
           "id": "python.w6-pzt",
           "day": "Pzt",
           "text": "COURSE GAP DAY 1: from the official Python tutorial (https://docs.python.org/3/tutorial/) read the \"Input and Output\" and \"Modules\" chapters — file reading/writing with `with`, imports, packages. Then apply: add requirements.txt and a clean package folder to \"python-journey\" (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "KURS BOŞLUĞU GÜNÜ 1: resmî Python tutorial'ından (https://docs.python.org/3/tutorial/) \"Input and Output\" ve \"Modules\" bölümlerini oku — `with` ile dosya okuma/yazma, import'lar, paketler. Sonra uygula: \"python-journey\" repo'suna requirements.txt ve düzgün bir paket klasörü ekle (45-60 dk)"
         },
         {
           "id": "python.w6-sali",
           "day": "Salı",
           "text": "COURSE GAP DAY 2: comprehensions, generators, decorators. You met comprehensions in Kaggle Lesson 5 — now rewrite 3 of your old loops as comprehensions; then, using the official tutorial (https://docs.python.org/3/tutorial/), write one tiny generator and one tiny decorator (e.g., a timer). Review your weak-topics list from Weeks 1-5 and rewatch only those course videos (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "KURS BOŞLUĞU GÜNÜ 2: comprehension'lar, generator'lar, decorator'lar. Comprehension'larla Kaggle Ders 5'te tanıştın — şimdi eski döngülerinden 3'ünü comprehension olarak yeniden yaz; sonra resmî tutorial'ı (https://docs.python.org/3/tutorial/) kullanarak minik bir generator ve minik bir decorator yaz (ör. bir süre ölçer). Hafta 1-5'ten kalan zayıf konular listeni gözden geçir ve yalnız o kurs videolarını yeniden izle (45-60 dk)"
         },
         {
           "id": "python.w6-car",
           "day": "Çar",
           "text": "On HackerRank Python (https://www.hackerrank.com/domains/python) do timed practice: pick 3 medium problems and give yourself 15 minutes each. This is a warm-up for Friday's exam format (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "HackerRank Python'da (https://www.hackerrank.com/domains/python) süreli pratik yap: 3 orta seviye problem seç ve her birine 15 dakika ver. Bu, cuma günkü sınav formatı için bir ısınma (45-60 dk)"
         },
         {
           "id": "python.w6-per",
           "day": "Per",
           "text": "RE-SOLVE marathon: pick 3 old problems from your Exercism/HackerRank history and solve them again from scratch, without looking at your old code. Fast and clean is the goal (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "YENİDEN ÇÖZÜM maratonu: Exercism/HackerRank geçmişinden 3 eski problem seç ve eski kodlarına bakmadan sıfırdan yeniden çöz. Hedef hızlı ve temiz olmak (45-60 dk)"
         },
         {
           "id": "python.w6-cum",
           "day": "Cum",
           "text": "🏁 Take the FREE timed HackerRank \"Python (Basic)\" certification: 90 minutes, 2 questions (https://www.hackerrank.com/skills-verification/python_basic). After the exam, tidy the \"python-journey\" repo: update the README with what you built in Phase 1 and add the certificate link (~90 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "🏁 ÜCRETSİZ süreli HackerRank \"Python (Basic)\" sertifikasyonuna gir: 90 dakika, 2 soru (https://www.hackerrank.com/skills-verification/python_basic). Sınavdan sonra \"python-journey\" repo'sunu topla: README'yi Faz 1'de neler kurduğunla güncelle ve sertifika linkini ekle (~90 dk)"
         },
         {
           "id": "python.w6-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Kurs Boşlukları ve Faz Finali",
+      "summaryTr": "Kurs dosya I/O'sunu, modülleri/venv'i, comprehension'ları, generator'ları ve decorator'ları kapsamıyor — bu boşlukları resmî tutorial ve Kaggle ile kapat, sonra ücretsiz süreli sertifikasyonla bitir.",
+      "sourceTr": "Udemy Python kursun · https://docs.python.org/3/tutorial/ · https://www.hackerrank.com/domains/python · https://www.hackerrank.com/skills-verification/python_basic"
     },
     {
       "id": "w7",
@@ -312,39 +369,48 @@
           "id": "python.w7-pzt",
           "day": "Pzt",
           "text": "Open the Kaggle Pandas course (https://www.kaggle.com/learn/pandas) and complete Lesson 1 (Creating, Reading and Writing) and Lesson 2 (Indexing, Selecting, Assigning). Read the tutorial pages carefully and run the code cells in the browser. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Pandas kursunu aç (https://www.kaggle.com/learn/pandas) ve Ders 1'i (Creating, Reading and Writing) ve Ders 2'yi (Indexing, Selecting, Assigning) tamamla. Tutorial sayfalarını dikkatle oku ve kod hücrelerini tarayıcıda çalıştır. (45-60 dk)"
         },
         {
           "id": "python.w7-sali",
           "day": "Salı",
           "text": "Continue the Kaggle Pandas course (https://www.kaggle.com/learn/pandas) and complete Lesson 3 (Summary Functions and Maps). Take short notes: which pandas function does what? (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Pandas kursuna devam et (https://www.kaggle.com/learn/pandas) ve Ders 3'ü (Summary Functions and Maps) tamamla. Kısa notlar al: hangi pandas fonksiyonu ne yapıyor? (45-60 dk)"
         },
         {
           "id": "python.w7-car",
           "day": "Çar",
           "text": "Go back to the Kaggle Pandas course (https://www.kaggle.com/learn/pandas) and finish the hands-on exercises of Lessons 1-3. Try to solve each exercise yourself before you look at the hint. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Pandas kursuna geri dön (https://www.kaggle.com/learn/pandas) ve Ders 1-3'ün uygulamalı alıştırmalarını bitir. İpucuna bakmadan önce her alıştırmayı kendin çözmeye çalış. (45-60 dk)"
         },
         {
           "id": "python.w7-per",
           "day": "Per",
           "text": "Python upkeep: solve one new kata on Exercism (https://exercism.org/tracks/python) or HackerRank (https://www.hackerrank.com/domains/python). Then re-solve one old problem from your platform history without looking at your previous answer. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Python bakımı: Exercism'de (https://exercism.org/tracks/python) veya HackerRank'te (https://www.hackerrank.com/domains/python) bir yeni kata çöz. Sonra platform geçmişinden bir eski problemi önceki cevabına bakmadan yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w7-cum",
           "day": "Cum",
           "text": "PROJECT: On your own computer, load a real CSV file about a topic you care about (for example football, movies, or prices). Explore it with pandas: check .shape, .dtypes, .head() and .value_counts(). Commit the notebook or script to your GitHub repo. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: Kendi bilgisayarında, ilgini çeken bir konuya dair gerçek bir CSV dosyası yükle (ör. futbol, filmler ya da fiyatlar). Onu pandas ile keşfet: .shape, .dtypes, .head() ve .value_counts()'a bak. Notebook'u ya da scripti GitHub repo'na commit'le. (45-60 dk)"
         },
         {
           "id": "python.w7-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Pandas I",
+      "summaryTr": "Gerçek veriyle çalışmaya başla. Kaggle Learn üzerinde pandas'ın temellerini öğren: veri oluşturma, okuma, seçme ve özetleme. Cuma günü yeni becerilerinle gerçek bir CSV dosyasını keşfediyorsun.",
+      "sourceTr": "https://www.kaggle.com/learn/pandas • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w8",
@@ -359,39 +425,48 @@
           "id": "python.w8-pzt",
           "day": "Pzt",
           "text": "In the Kaggle Pandas course (https://www.kaggle.com/learn/pandas), complete Lesson 4 (Grouping and Sorting) and Lesson 5 (Data Types and Missing Values). Run every code example yourself. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Pandas kursunda (https://www.kaggle.com/learn/pandas) Ders 4'ü (Grouping and Sorting) ve Ders 5'i (Data Types and Missing Values) tamamla. Her kod örneğini kendin çalıştır. (45-60 dk)"
         },
         {
           "id": "python.w8-sali",
           "day": "Salı",
           "text": "Complete Lesson 6 (Renaming and Combining) in the Kaggle Pandas course (https://www.kaggle.com/learn/pandas). Then finish any open steps and claim your Pandas COMPLETION CERTIFICATE from the course page. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Pandas kursunda (https://www.kaggle.com/learn/pandas) Ders 6'yı (Renaming and Combining) tamamla. Sonra açık kalan adımları bitir ve kurs sayfasından Pandas TAMAMLAMA SERTİFİKANI al. (45-60 dk)"
         },
         {
           "id": "python.w8-car",
           "day": "Çar",
           "text": "Finish the remaining exercises of the Kaggle Pandas course (https://www.kaggle.com/learn/pandas). Then practice groupby on your own: take any dataset and answer two questions with .groupby() (for example: average value per category). (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Pandas kursunun (https://www.kaggle.com/learn/pandas) kalan alıştırmalarını bitir. Sonra kendi başına groupby pratiği yap: herhangi bir veri seti al ve .groupby() ile iki soru cevapla (ör. kategori başına ortalama değer). (45-60 dk)"
         },
         {
           "id": "python.w8-per",
           "day": "Per",
           "text": "Python upkeep: solve one new kata on Exercism (https://exercism.org/tracks/python) or HackerRank (https://www.hackerrank.com/domains/python). Then re-solve one old problem from your platform history from memory. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Python bakımı: Exercism'de (https://exercism.org/tracks/python) veya HackerRank'te (https://www.hackerrank.com/domains/python) bir yeni kata çöz. Sonra platform geçmişinden bir eski problemi ezberden yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w8-cum",
           "day": "Cum",
           "text": "PROJECT: Take a messy dataset (or make your CSV from last week messy) and clean it with pandas: fix missing values, wrong data types and duplicate rows. Write a short English summary of what you fixed and push everything to GitHub. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: Dağınık bir veri seti al (ya da geçen haftaki CSV'ni dağıt) ve pandas ile temizle: eksik değerleri, yanlış veri tiplerini ve yinelenen satırları düzelt. Neyi düzelttiğine dair kısa bir İngilizce özet yaz ve her şeyi GitHub'a push et. (45-60 dk)"
         },
         {
           "id": "python.w8-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Pandas II",
+      "summaryTr": "Pandas kursunu bitir ve ilk Kaggle sertifikanı al. Gruplama, sıralama, veri tipleri, eksik değerler ve veri birleştirmeyi öğren. Cuma günü gerçek bir veri mühendisi gibi dağınık bir veri setini temizliyorsun.",
+      "sourceTr": "https://www.kaggle.com/learn/pandas • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w9",
@@ -406,39 +481,48 @@
           "id": "python.w9-pzt",
           "day": "Pzt",
           "text": "Start the Kaggle Intro to Machine Learning course (https://www.kaggle.com/learn/intro-to-machine-learning). Complete Lesson 1 (How Models Work) and Lesson 2 (Basic Data Exploration). (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Intro to Machine Learning kursuna başla (https://www.kaggle.com/learn/intro-to-machine-learning). Ders 1'i (How Models Work) ve Ders 2'yi (Basic Data Exploration) tamamla. (45-60 dk)"
         },
         {
           "id": "python.w9-sali",
           "day": "Salı",
           "text": "Continue the Intro to ML course (https://www.kaggle.com/learn/intro-to-machine-learning). Complete Lesson 3 (Your First Machine Learning Model) and Lesson 4 (Model Validation). Make sure you understand why we split data into train and validation sets. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Intro to ML kursuna devam et (https://www.kaggle.com/learn/intro-to-machine-learning). Ders 3'ü (Your First Machine Learning Model) ve Ders 4'ü (Model Validation) tamamla. Veriyi neden eğitim ve doğrulama setlerine ayırdığımızı anladığından emin ol. (45-60 dk)"
         },
         {
           "id": "python.w9-car",
           "day": "Çar",
           "text": "Do the hands-on exercises of Lessons 1-4 in the Intro to ML course (https://www.kaggle.com/learn/intro-to-machine-learning). Write one sentence in English for each lesson: what did I learn? (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Intro to ML kursunda (https://www.kaggle.com/learn/intro-to-machine-learning) Ders 1-4'ün uygulamalı alıştırmalarını yap. Her ders için İngilizce tek cümle yaz: ne öğrendim? (45-60 dk)"
         },
         {
           "id": "python.w9-per",
           "day": "Per",
           "text": "Python upkeep: solve one new kata on Exercism (https://exercism.org/tracks/python) or HackerRank (https://www.hackerrank.com/domains/python). Then re-solve one old problem from your platform history without looking at your previous answer. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Python bakımı: Exercism'de (https://exercism.org/tracks/python) veya HackerRank'te (https://www.hackerrank.com/domains/python) bir yeni kata çöz. Sonra platform geçmişinden bir eski problemi önceki cevabına bakmadan yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w9-cum",
           "day": "Cum",
           "text": "PROJECT: Train your first DecisionTreeRegressor (or classifier) locally. First repeat it on the course data, then try it on YOUR dataset from Week 7-8. Compare the results and commit the notebook to GitHub. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: İlk DecisionTreeRegressor'ını (ya da sınıflandırıcını) yerelde eğit. Önce kurs verisi üzerinde tekrarla, sonra Hafta 7-8'deki KENDİ veri setinde dene. Sonuçları karşılaştır ve notebook'u GitHub'a commit'le. (45-60 dk)"
         },
         {
           "id": "python.w9-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "İlk Modeller",
+      "summaryTr": "Makine öğrenmesi burada başlıyor. Kaggle Intro to ML kursu modellerin nasıl çalıştığını, ilk modelini nasıl kuracağını ve nasıl doğrulayacağını gösteriyor. Cuma günü ilk karar ağacını eğitiyorsun.",
+      "sourceTr": "https://www.kaggle.com/learn/intro-to-machine-learning • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w10",
@@ -453,39 +537,48 @@
           "id": "python.w10-pzt",
           "day": "Pzt",
           "text": "In the Intro to ML course (https://www.kaggle.com/learn/intro-to-machine-learning), complete Lesson 5 (Underfitting and Overfitting) and Lesson 6 (Random Forests). Note the difference between a single tree and a forest. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Intro to ML kursunda (https://www.kaggle.com/learn/intro-to-machine-learning) Ders 5'i (Underfitting and Overfitting) ve Ders 6'yı (Random Forests) tamamla. Tek bir ağaçla bir orman arasındaki farkı not al. (45-60 dk)"
         },
         {
           "id": "python.w10-sali",
           "day": "Salı",
           "text": "Complete Lesson 7 (the final lesson) of the Intro to ML course (https://www.kaggle.com/learn/intro-to-machine-learning) and its exercises. Then claim your Intro to ML COMPLETION CERTIFICATE from the course page. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Intro to ML kursunun (https://www.kaggle.com/learn/intro-to-machine-learning) Ders 7'sini (son ders) ve alıştırmalarını tamamla. Sonra kurs sayfasından Intro to ML TAMAMLAMA SERTİFİKANI al. (45-60 dk)"
         },
         {
           "id": "python.w10-car",
           "day": "Çar",
           "text": "Read the official scikit-learn Getting Started guide (https://scikit-learn.org/stable/getting_started.html). Run the examples yourself: estimators, fit/predict, transformers and pipelines. This is the library you will use at work. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Resmî scikit-learn Getting Started rehberini oku (https://scikit-learn.org/stable/getting_started.html). Örnekleri kendin çalıştır: estimator'lar, fit/predict, transformer'lar ve pipeline'lar. İşte kullanacağın kütüphane bu. (45-60 dk)"
         },
         {
           "id": "python.w10-per",
           "day": "Per",
           "text": "Python upkeep: solve one new kata on Exercism (https://exercism.org/tracks/python) or HackerRank (https://www.hackerrank.com/domains/python). Then re-solve one old problem from your platform history from memory. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Python bakımı: Exercism'de (https://exercism.org/tracks/python) veya HackerRank'te (https://www.hackerrank.com/domains/python) bir yeni kata çöz. Sonra platform geçmişinden bir eski problemi ezberden yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w10-cum",
           "day": "Cum",
           "text": "PROJECT: Build a scikit-learn Pipeline (preprocessing + model) for a classification task on work-like synthetic data. You can generate the data with make_classification. Train it, print a simple accuracy score, and push the code to GitHub. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: İşe benzeyen sentetik veri üzerinde bir sınıflandırma görevi için scikit-learn Pipeline'ı kur (ön işleme + model). Veriyi make_classification ile üretebilirsin. Eğit, basit bir doğruluk skoru yazdır ve kodu GitHub'a push et. (45-60 dk)"
         },
         {
           "id": "python.w10-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Model Kalitesi",
+      "summaryTr": "Modellerin neden başarısız olduğunu öğren: underfitting ve overfitting. Random forest'larla tanış, Intro to ML sertifikanı al ve pipeline kurmanın scikit-learn yolunu öğren. Cuma günü eksiksiz bir pipeline kuruyorsun.",
+      "sourceTr": "https://www.kaggle.com/learn/intro-to-machine-learning • https://scikit-learn.org/stable/getting_started.html • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w11",
@@ -500,39 +593,48 @@
           "id": "python.w11-pzt",
           "day": "Pzt",
           "text": "Start the Kaggle Intermediate Machine Learning course (https://www.kaggle.com/learn/intermediate-machine-learning). Complete Lesson 1 (Introduction) and Lesson 2 (Missing Values). (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kaggle Intermediate Machine Learning kursuna başla (https://www.kaggle.com/learn/intermediate-machine-learning). Ders 1'i (Introduction) ve Ders 2'yi (Missing Values) tamamla. (45-60 dk)"
         },
         {
           "id": "python.w11-sali",
           "day": "Salı",
           "text": "Continue the Intermediate ML course (https://www.kaggle.com/learn/intermediate-machine-learning). Complete Lesson 3 (Categorical Variables) and Lesson 4 (Pipelines). Compare this pipeline lesson with the scikit-learn guide from last week. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Intermediate ML kursuna devam et (https://www.kaggle.com/learn/intermediate-machine-learning). Ders 3'ü (Categorical Variables) ve Ders 4'ü (Pipelines) tamamla. Bu pipeline dersini geçen haftaki scikit-learn rehberiyle karşılaştır. (45-60 dk)"
         },
         {
           "id": "python.w11-car",
           "day": "Çar",
           "text": "Do the hands-on exercises of Lessons 1-4 in the Intermediate ML course (https://www.kaggle.com/learn/intermediate-machine-learning). Focus on the missing values and categorical variables exercises — you will need them at work. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Intermediate ML kursunda (https://www.kaggle.com/learn/intermediate-machine-learning) Ders 1-4'ün uygulamalı alıştırmalarını yap. Eksik değerler ve kategorik değişkenler alıştırmalarına odaklan — işte bunlara ihtiyacın olacak. (45-60 dk)"
         },
         {
           "id": "python.w11-per",
           "day": "Per",
           "text": "Python upkeep: solve one new kata on Exercism (https://exercism.org/tracks/python) or HackerRank (https://www.hackerrank.com/domains/python). Then re-solve one old problem from your platform history without looking at your previous answer. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Python bakımı: Exercism'de (https://exercism.org/tracks/python) veya HackerRank'te (https://www.hackerrank.com/domains/python) bir yeni kata çöz. Sonra platform geçmişinden bir eski problemi önceki cevabına bakmadan yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w11-cum",
           "day": "Cum",
           "text": "PROJECT: Apply cross-validation to your model from Week 10 and try to improve it (better features, better parameters). Log your metrics (before and after) in the README of your GitHub repo in English. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: Hafta 10'daki modeline çapraz doğrulama uygula ve onu iyileştirmeye çalış (daha iyi özellikler, daha iyi parametreler). Metriklerini (öncesi ve sonrası) GitHub repo'nun README'sine İngilizce olarak kaydet. (45-60 dk)"
         },
         {
           "id": "python.w11-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Intermediate ML I",
+      "summaryTr": "Kaggle Intermediate ML kursuyla seviye atla: eksik değerleri ve kategorik değişkenleri doğru şekilde ele al ve her şeyi pipeline'lara koy. Cuma günü kendi projene çapraz doğrulama ekliyorsun.",
+      "sourceTr": "https://www.kaggle.com/learn/intermediate-machine-learning • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w12",
@@ -547,39 +649,48 @@
           "id": "python.w12-pzt",
           "day": "Pzt",
           "text": "In the Intermediate ML course (https://www.kaggle.com/learn/intermediate-machine-learning), complete the cross-validation and XGBoost lessons with their exercises. XGBoost is one of the most used models in real projects. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Intermediate ML kursunda (https://www.kaggle.com/learn/intermediate-machine-learning) çapraz doğrulama ve XGBoost derslerini alıştırmalarıyla birlikte tamamla. XGBoost, gerçek projelerde en çok kullanılan modellerden biri. (45-60 dk)"
         },
         {
           "id": "python.w12-sali",
           "day": "Salı",
           "text": "Complete the final data leakage lesson of the Intermediate ML course (https://www.kaggle.com/learn/intermediate-machine-learning) and its exercises. Then claim your Intermediate ML COMPLETION CERTIFICATE from the course page. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Intermediate ML kursunun (https://www.kaggle.com/learn/intermediate-machine-learning) son dersi olan veri sızıntısı dersini ve alıştırmalarını tamamla. Sonra kurs sayfasından Intermediate ML TAMAMLAMA SERTİFİKANI al. (45-60 dk)"
         },
         {
           "id": "python.w12-car",
           "day": "Çar",
           "text": "Titanic preparation: read the Kaggle Titanic competition page (https://www.kaggle.com/competitions/titanic) — the description, the data page and the rules. Write a short plan in English: which features will you use, which model will you start with? (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Titanic hazırlığı: Kaggle Titanic yarışma sayfasını oku (https://www.kaggle.com/competitions/titanic) — açıklamayı, veri sayfasını ve kuralları. İngilizce kısa bir plan yaz: hangi özellikleri kullanacaksın, hangi modelle başlayacaksın? (45-60 dk)"
         },
         {
           "id": "python.w12-per",
           "day": "Per",
           "text": "Python upkeep: solve one new kata on Exercism (https://exercism.org/tracks/python) or HackerRank (https://www.hackerrank.com/domains/python). Then re-solve one old problem from your platform history from memory. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Python bakımı: Exercism'de (https://exercism.org/tracks/python) veya HackerRank'te (https://www.hackerrank.com/domains/python) bir yeni kata çöz. Sonra platform geçmişinden bir eski problemi ezberden yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w12-cum",
           "day": "Cum",
           "text": "🏁 MILESTONE PROJECT: Build and train your model for the Kaggle Titanic competition (https://www.kaggle.com/competitions/titanic) and SUBMIT your first entry. Then write an English README in your GitHub repo describing your approach: features, model, score, and what you want to try next. (90 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "🏁 KİLOMETRE TAŞI PROJESİ: Kaggle Titanic yarışması (https://www.kaggle.com/competitions/titanic) için modelini kur ve eğit, sonra ilk gönderimini YAP. Ardından GitHub repo'nda yaklaşımını anlatan İngilizce bir README yaz: özellikler, model, skor ve bir sonraki adımda denemek istediklerin. (90 dk)"
         },
         {
           "id": "python.w12-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Titanic Kilometre Taşı",
+      "summaryTr": "Büyük hafta. Intermediate ML'i bitir (XGBoost ve veri sızıntısı), sertifikayı al ve sonra ilk Kaggle yarışmana gir: gerçek bir Titanic tahmini gönder ve onu İngilizce anlat.",
+      "sourceTr": "https://www.kaggle.com/learn/intermediate-machine-learning • https://www.kaggle.com/competitions/titanic • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w13",
@@ -594,39 +705,48 @@
           "id": "python.w13-pzt",
           "day": "Pzt",
           "text": "Read the Ollama REST API docs at https://docs.ollama.com/api. Send a chat request to your installed Qwen model with curl, then do the same with Python `requests`. Print the answer. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "https://docs.ollama.com/api adresindeki Ollama REST API dokümanlarını oku. Kurulu Qwen modeline curl ile bir sohbet isteği gönder, sonra aynısını Python `requests` ile yap. Cevabı ekrana yazdır. (45-60 dk)"
         },
         {
           "id": "python.w13-sali",
           "day": "Salı",
           "text": "Install the official Python library from https://github.com/ollama/ollama-python (`pip install ollama`). Rewrite yesterday's chat in Python with `ollama.chat`, then turn on streaming and print the tokens as they arrive. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "https://github.com/ollama/ollama-python adresinden resmi Python kütüphanesini kur (`pip install ollama`). Dünkü sohbeti `ollama.chat` ile Python'da yeniden yaz, sonra streaming'i aç ve token'ları geldikçe ekrana bas. (45-60 dk)"
         },
         {
           "id": "python.w13-car",
           "day": "Çar",
           "text": "Sklearn upkeep: open your Titanic notebook from https://www.kaggle.com/competitions/titanic and make ONE improvement to your pipeline (a new feature or a better model setting). Check if your score changes. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Sklearn bakımı: https://www.kaggle.com/competitions/titanic sayfasındaki Titanic notebook'unu aç ve pipeline'ında TEK bir iyileştirme yap (yeni bir özellik ya da daha iyi bir model ayarı). Skorun değişiyor mu bak. (45-60 dk)"
         },
         {
           "id": "python.w13-per",
           "day": "Per",
           "text": "Kata day: solve one new exercise on https://exercism.org/tracks/python, then re-solve one OLD problem from your Exercism or HackerRank history without looking at your old code. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kata günü: https://exercism.org/tracks/python üzerinde bir yeni alıştırma çöz, sonra Exercism ya da HackerRank geçmişinden ESKİ bir problemi eski koduna bakmadan yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w13-cum",
           "day": "Cum",
           "text": "PROJECT: create a new repo \"local-ai-lab\" on GitHub. Write a clean Python chat script for your installed Qwen model: streaming output plus easy-to-change model parameters (temperature, model name). Push it. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: GitHub'da \"local-ai-lab\" adında yeni bir repo oluştur. Kurulu Qwen modelin için temiz bir Python sohbet script'i yaz: streaming çıktı ve kolayca değiştirilebilir model parametreleri (temperature, model adı). Push et. (45-60 dk)"
         },
         {
           "id": "python.w13-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Modelinle Konuş",
+      "summaryTr": "Kurulu Qwen modelinle (https://ollama.com/library/qwen3) kod üzerinden konuşmaya başlıyorsun. Önce REST API ile, sonra resmi Python kütüphanesiyle. Cuma günü \"local-ai-lab\" proje repo'nu temiz bir sohbet script'iyle açıyorsun.",
+      "sourceTr": "Ollama REST API (https://docs.ollama.com/api), ollama-python (https://github.com/ollama/ollama-python), Qwen sürümleri (https://ollama.com/library/qwen3)"
     },
     {
       "id": "w14",
@@ -641,39 +761,48 @@
           "id": "python.w14-pzt",
           "day": "Pzt",
           "text": "Experiment with your installed Qwen model: give it different system prompts and change temperature and top_p (options are in https://docs.ollama.com/api). Write down in a notes file how each change affects the answers. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kurulu Qwen modelinle deney yap: farklı sistem prompt'ları ver, temperature ve top_p değerlerini değiştir (seçenekler https://docs.ollama.com/api içinde). Her değişikliğin cevapları nasıl etkilediğini bir not dosyasına yaz. (45-60 dk)"
         },
         {
           "id": "python.w14-sali",
           "day": "Salı",
           "text": "Read chapter 1 of the free Hugging Face LLM course at https://huggingface.co/learn/llm-course/chapter1/1 to see how LLMs actually work. Then ask Qwen for structured output: request JSON format and parse it with Python `json.loads`. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "LLM'lerin gerçekte nasıl çalıştığını görmek için https://huggingface.co/learn/llm-course/chapter1/1 adresindeki ücretsiz Hugging Face LLM kursunun 1. bölümünü oku. Sonra Qwen'den yapılandırılmış çıktı iste: JSON formatı talep et ve Python `json.loads` ile ayrıştır. (45-60 dk)"
         },
         {
           "id": "python.w14-car",
           "day": "Çar",
           "text": "Data practice: pick any small dataset (CSV) you like and do a quick pandas analysis — load, clean, group, and make one plot. Keep your Phase 2 skills warm. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Veri pratiği: sevdiğin küçük bir veri kümesi (CSV) seç ve hızlı bir pandas analizi yap — yükle, temizle, grupla ve bir grafik çiz. Faz 2 becerilerini sıcak tut. (45-60 dk)"
         },
         {
           "id": "python.w14-per",
           "day": "Per",
           "text": "Kata day: solve one new exercise on https://www.hackerrank.com/domains/python, then re-solve one OLD problem from your platform history from memory. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kata günü: https://www.hackerrank.com/domains/python üzerinde bir yeni alıştırma çöz, sonra platform geçmişinden ESKİ bir problemi ezberden yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w14-cum",
           "day": "Cum",
           "text": "PROJECT: in \"local-ai-lab\", build a CLI chatbot for Qwen that keeps the conversation history in a list and loads the system prompt from a small config file. Push to GitHub. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: \"local-ai-lab\" içinde Qwen için bir CLI sohbet botu yaz; konuşma geçmişini bir listede tutsun ve sistem prompt'unu küçük bir config dosyasından okusun. GitHub'a push et. (45-60 dk)"
         },
         {
           "id": "python.w14-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Prompt Mühendisliği",
+      "summaryTr": "Qwen modelini nasıl kontrol edeceğini öğreniyorsun: sistem prompt'ları, temperature, top_p ve JSON çıktı. Ayrıca LLM'lerin gerçekte nasıl çalıştığını anlamak için ücretsiz Hugging Face LLM kursunun 1. bölümünü okuyorsun. Cuma: hafızalı bir CLI sohbet botu.",
+      "sourceTr": "HF LLM kursu 1. bölüm (https://huggingface.co/learn/llm-course/chapter1/1), Ollama API (https://docs.ollama.com/api)"
     },
     {
       "id": "w15",
@@ -688,39 +817,48 @@
           "id": "python.w15-pzt",
           "day": "Pzt",
           "text": "Run `ollama pull nomic-embed-text` (model page: https://ollama.com/library/nomic-embed-text). Use the Python library from https://github.com/ollama/ollama-python to embed 5 short sentences and look at the vector shape and values. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "`ollama pull nomic-embed-text` komutunu çalıştır (model sayfası: https://ollama.com/library/nomic-embed-text). https://github.com/ollama/ollama-python adresindeki Python kütüphanesiyle 5 kısa cümlenin embedding'ini çıkar ve vektörün boyutuna ve değerlerine bak. (45-60 dk)"
         },
         {
           "id": "python.w15-sali",
           "day": "Salı",
           "text": "Write a cosine similarity function with numpy and compare your embedded sentences: which pairs are close, which are far? Test with similar and very different sentences to check it makes sense. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "numpy ile bir kosinüs benzerliği fonksiyonu yaz ve embedding'e çevirdiğin cümleleri karşılaştır: hangi çiftler yakın, hangileri uzak? Mantıklı çalıştığını doğrulamak için hem benzer hem çok farklı cümlelerle test et. (45-60 dk)"
         },
         {
           "id": "python.w15-car",
           "day": "Çar",
           "text": "Sklearn upkeep: revisit https://scikit-learn.org/stable/getting_started.html and practice one thing you feel weak on (pipelines, cross-validation, or a new model type) on the Titanic data. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Sklearn bakımı: https://scikit-learn.org/stable/getting_started.html adresine geri dön ve kendini zayıf hissettiğin bir konuyu (pipeline'lar, çapraz doğrulama veya yeni bir model tipi) Titanic verisi üzerinde çalış. (45-60 dk)"
         },
         {
           "id": "python.w15-per",
           "day": "Per",
           "text": "Kata day: one new exercise on https://exercism.org/tracks/python plus one re-solve from your old solutions, without peeking. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kata günü: https://exercism.org/tracks/python üzerinde bir yeni alıştırma, artı eski çözümlerinden birini bakmadan yeniden çözme. (45-60 dk)"
         },
         {
           "id": "python.w15-cum",
           "day": "Cum",
           "text": "PROJECT: build semantic search over a folder of your own notes or documents: embed each file with nomic-embed-text, embed a query, rank files by cosine similarity, print the top 3. Push to \"local-ai-lab\". (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: kendi notlarının veya belgelerinin bulunduğu bir klasör üzerinde anlamsal arama kur: her dosyayı nomic-embed-text ile embedding'e çevir, sorguyu da embedding'e çevir, dosyaları kosinüs benzerliğine göre sırala, ilk 3'ü yazdır. \"local-ai-lab\" repo'suna push et. (45-60 dk)"
         },
         {
           "id": "python.w15-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Embedding'ler",
+      "summaryTr": "Bu hafta metin sayıya dönüşüyor. nomic-embed-text modelini indiriyor, Python'da embedding üretiyor ve metinleri kosinüs benzerliğiyle karşılaştırıyorsun. Cuma: kendi notların üzerinde anlamsal arama.",
+      "sourceTr": "nomic-embed-text (https://ollama.com/library/nomic-embed-text), ollama-python (https://github.com/ollama/ollama-python)"
     },
     {
       "id": "w16",
@@ -735,39 +873,48 @@
           "id": "python.w16-pzt",
           "day": "Pzt",
           "text": "Read the ChromaDB getting-started docs at https://docs.trychroma.com. Install it, create a collection, add a few documents, and run your first `query`. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "https://docs.trychroma.com adresindeki ChromaDB başlangıç dokümanlarını oku. Kur, bir koleksiyon oluştur, birkaç belge ekle ve ilk `query` sorgunu çalıştır. (45-60 dk)"
         },
         {
           "id": "python.w16-sali",
           "day": "Salı",
           "text": "Continue with https://docs.trychroma.com: learn persistence (saving the database to disk) and metadata filters. Restart Python and confirm your collection is still there. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "https://docs.trychroma.com ile devam et: kalıcılığı (veritabanını diske kaydetme) ve metadata filtrelerini öğren. Python'u yeniden başlat ve koleksiyonunun hâlâ orada olduğunu doğrula. (45-60 dk)"
         },
         {
           "id": "python.w16-car",
           "day": "Çar",
           "text": "Data practice: take a messy CSV (or make one), and practice cleaning with pandas — missing values, wrong types, duplicates. Twenty minutes at the end: one groupby insight, one chart. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Veri pratiği: dağınık bir CSV al (ya da kendin dağıt) ve pandas ile temizleme pratiği yap — eksik değerler, yanlış tipler, tekrar eden satırlar. Sondaki yirmi dakika: bir groupby çıkarımı, bir grafik. (45-60 dk)"
         },
         {
           "id": "python.w16-per",
           "day": "Per",
           "text": "Kata day: one new problem on https://www.hackerrank.com/domains/python and one re-solve from your history. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kata günü: https://www.hackerrank.com/domains/python üzerinde bir yeni problem ve geçmişinden bir yeniden çözme. (45-60 dk)"
         },
         {
           "id": "python.w16-cum",
           "day": "Cum",
           "text": "PROJECT: index your documents in a persistent Chroma collection using embeddings from https://ollama.com/library/nomic-embed-text, and write a small search script that queries the collection. Push to \"local-ai-lab\". (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: https://ollama.com/library/nomic-embed-text ile ürettiğin embedding'leri kullanarak belgelerini kalıcı bir Chroma koleksiyonunda indeksle ve koleksiyonu sorgulayan küçük bir arama script'i yaz. \"local-ai-lab\" repo'suna push et. (45-60 dk)"
         },
         {
           "id": "python.w16-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Vektör Deposu",
+      "summaryTr": "10 dosya için numpy ile arama yeterli, ama gerçek bir vektör deposuna ihtiyacın var. Bu hafta ChromaDB'yi öğreniyorsun (açık kaynak, yerelde çalışır): koleksiyonlar, add, query ve kalıcılık. Cuma: belgelerin artık Chroma'da yaşıyor.",
+      "sourceTr": "ChromaDB dokümanları (https://docs.trychroma.com), nomic-embed-text (https://ollama.com/library/nomic-embed-text)"
     },
     {
       "id": "w17",
@@ -782,39 +929,48 @@
           "id": "python.w17-pzt",
           "day": "Pzt",
           "text": "Study the RAG pattern on paper first: question → embed → retrieve top-k from Chroma (https://docs.trychroma.com) → build a context string → ask the LLM. Write the retrieve step: a function that returns the top 3 chunks for a question. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Önce RAG desenini kâğıt üzerinde çalış: soru → embedding → Chroma'dan (https://docs.trychroma.com) en iyi k sonucu çekme → bağlam metnini oluşturma → LLM'e sorma. Çekme adımını yaz: bir soru için en iyi 3 parçayı döndüren bir fonksiyon. (45-60 dk)"
         },
         {
           "id": "python.w17-sali",
           "day": "Salı",
           "text": "Write the generation step: put the retrieved chunks into a prompt template and send it to your installed Qwen model via https://docs.ollama.com/api. Also skim a Hugging Face course page from https://huggingface.co/learn/llm-course/chapter1/1 for background reading. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Üretim adımını yaz: çektiğin parçaları bir prompt şablonuna yerleştir ve https://docs.ollama.com/api üzerinden kurulu Qwen modeline gönder. Ayrıca arka plan okuması olarak https://huggingface.co/learn/llm-course/chapter1/1 adresinden bir Hugging Face kurs sayfasına göz at. (45-60 dk)"
         },
         {
           "id": "python.w17-car",
           "day": "Çar",
           "text": "Sklearn upkeep: try one more Titanic improvement on https://www.kaggle.com/competitions/titanic — for example a different model or better feature encoding — and submit if the local score looks better. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Sklearn bakımı: https://www.kaggle.com/competitions/titanic üzerinde bir Titanic iyileştirmesi daha dene — örneğin farklı bir model veya daha iyi bir özellik kodlaması — ve yerel skorun daha iyi görünüyorsa gönderimini yap. (45-60 dk)"
         },
         {
           "id": "python.w17-per",
           "day": "Per",
           "text": "Kata day: one new exercise on https://exercism.org/tracks/python plus one re-solve from your platform history. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kata günü: https://exercism.org/tracks/python üzerinde bir yeni alıştırma, artı platform geçmişinden bir yeniden çözme. (45-60 dk)"
         },
         {
           "id": "python.w17-cum",
           "day": "Cum",
           "text": "🚀 PROJECT: connect the pieces into end-to-end minimal RAG over YOUR documents: question → Chroma retrieval → Qwen answer that also lists its sources. Test with 5 real questions and push to \"local-ai-lab\". (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "🚀 PROJE: parçaları birleştirip SENİN belgelerin üzerinde uçtan uca minimal bir RAG kur: soru → Chroma'dan çekme → kaynaklarını da listeleyen bir Qwen cevabı. 5 gerçek soruyla test et ve \"local-ai-lab\" repo'suna push et. (45-60 dk)"
         },
         {
           "id": "python.w17-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "RAG v1",
+      "summaryTr": "Büyük hafta: her şeyi RAG'de birleştiriyorsun. Chroma'dan en iyi k parçayı çek, bir bağlam oluştur ve Qwen modelin SENİN belgelerini kullanarak cevap versin. Tamamen yerel — bulut API'sine ihtiyaç yok (OpenAI tarzı kurulumlara kıyasla bütün mesele bu).",
+      "sourceTr": "HF LLM kursu (https://huggingface.co/learn/llm-course/chapter1/1), Ollama API (https://docs.ollama.com/api), ChromaDB (https://docs.trychroma.com)"
     },
     {
       "id": "w18",
@@ -829,39 +985,48 @@
           "id": "python.w18-pzt",
           "day": "Pzt",
           "text": "Experiment with chunking strategies for your documents: try small chunks vs big chunks (and some overlap), re-index in Chroma (https://docs.trychroma.com), and compare the retrieved results for 3 test questions. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Belgelerin için parçalama (chunking) stratejileriyle deney yap: küçük parçalara karşı büyük parçaları (ve biraz örtüşmeyi) dene, Chroma'da (https://docs.trychroma.com) yeniden indeksle ve 3 test sorusu için gelen sonuçları karşılaştır. (45-60 dk)"
         },
         {
           "id": "python.w18-sali",
           "day": "Salı",
           "text": "Tune top-k (try 2, 4, 8) and rewrite your prompt template so Qwen must cite its sources, e.g. \"[source: filename]\". Check the effect on answer quality via https://docs.ollama.com/api chat calls. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "top-k değerini ayarla (2, 4, 8 dene) ve prompt şablonunu Qwen kaynaklarını belirtmek zorunda kalacak şekilde yeniden yaz, örneğin \"[kaynak: dosya adı]\". Etkisini https://docs.ollama.com/api sohbet çağrılarıyla cevap kalitesi üzerinden kontrol et. (45-60 dk)"
         },
         {
           "id": "python.w18-car",
           "day": "Çar",
           "text": "Data practice: pandas session with any dataset — practice merge/join of two tables and a pivot table. Finish with one clear chart. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Veri pratiği: herhangi bir veri kümesiyle pandas seansı — iki tablonun merge/join işlemini ve bir pivot tablo pratiği yap. Net bir grafikle bitir. (45-60 dk)"
         },
         {
           "id": "python.w18-per",
           "day": "Per",
           "text": "Kata day: one new problem on https://www.hackerrank.com/domains/python and one re-solve from memory. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kata günü: https://www.hackerrank.com/domains/python üzerinde bir yeni problem ve ezberden bir yeniden çözme. (45-60 dk)"
         },
         {
           "id": "python.w18-cum",
           "day": "Cum",
           "text": "PROJECT: write 10 test questions with expected answers, run them through your RAG, and score each answer by hand (good / partial / wrong). Apply the best chunking + citation setup and record the eval results in the README. Push to \"local-ai-lab\". (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: beklenen cevaplarıyla birlikte 10 test sorusu yaz, hepsini RAG'inden geçir ve her cevabı elle puanla (iyi / kısmen / yanlış). En iyi parçalama (chunking) + kaynak gösterme ayarını uygula ve değerlendirme sonuçlarını README'ye kaydet. \"local-ai-lab\" repo'suna push et. (45-60 dk)"
         },
         {
           "id": "python.w18-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "RAG Kalitesi",
+      "summaryTr": "Çalışan bir RAG, henüz iyi bir RAG değil. Bu hafta kaliteyi yükseltiyorsun: daha iyi parçalama (chunking), top-k ayarı, kaynak gösteren bir prompt şablonu ve 10 test sorusuyla basit bir elle değerlendirme. Cuma: sonuçları ölç ve kaydet.",
+      "sourceTr": "ChromaDB (https://docs.trychroma.com), Ollama API (https://docs.ollama.com/api)"
     },
     {
       "id": "w19",
@@ -876,39 +1041,48 @@
           "id": "python.w19-pzt",
           "day": "Pzt",
           "text": "Choose FastAPI or Flask and follow its official docs to build a hello-world web API locally. Add one POST endpoint that receives JSON and returns JSON. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "FastAPI ya da Flask'tan birini seç ve resmi dokümanlarını takip ederek yerelde bir hello-world web API'si kur. JSON alıp JSON döndüren bir POST endpoint ekle. (45-60 dk)"
         },
         {
           "id": "python.w19-sali",
           "day": "Salı",
           "text": "Connect the API to your RAG code: a `/chat` endpoint that takes a question, runs retrieval + Qwen (via https://docs.ollama.com/api), and returns the answer with sources. Define simple request/response models. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "API'yi RAG koduna bağla: bir soru alan, çekme + Qwen (https://docs.ollama.com/api üzerinden) çalıştıran ve cevabı kaynaklarıyla döndüren bir `/chat` endpoint'i. Basit istek/cevap modelleri tanımla. (45-60 dk)"
         },
         {
           "id": "python.w19-car",
           "day": "Çar",
           "text": "Sklearn upkeep: save your trained Titanic model with joblib, then load it inside the API and test a prediction from Python. Refresh basics at https://scikit-learn.org/stable/getting_started.html if needed. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Sklearn bakımı: eğitilmiş Titanic modelini joblib ile kaydet, sonra API'nin içinde yükle ve Python'dan bir tahmini test et. Gerekirse https://scikit-learn.org/stable/getting_started.html adresinden temelleri tazele. (45-60 dk)"
         },
         {
           "id": "python.w19-per",
           "day": "Per",
           "text": "Kata day: one new exercise on https://exercism.org/tracks/python plus one re-solve from your old solutions. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Kata günü: https://exercism.org/tracks/python üzerinde bir yeni alıştırma, artı eski çözümlerinden bir yeniden çözme. (45-60 dk)"
         },
         {
           "id": "python.w19-cum",
           "day": "Cum",
           "text": "PROJECT: finish the local API that serves BOTH endpoints: `/chat` (RAG + Qwen) and `/predict` (your joblib-loaded sklearn model). Test both with curl or requests and push to \"local-ai-lab\". (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "PROJE: HER İKİ endpoint'i de servis eden yerel API'yi tamamla: `/chat` (RAG + Qwen) ve `/predict` (joblib ile yüklenen sklearn modelin). İkisini de curl veya requests ile test et ve \"local-ai-lab\" repo'suna push et. (45-60 dk)"
         },
         {
           "id": "python.w19-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Servise Aç",
+      "summaryTr": "RAG sohbet botun bu hafta gerçek bir yerel servise dönüşüyor. Onu FastAPI veya Flask ile küçük bir web API'si olarak açıyorsun ve aynı API'nin arkasından sklearn Titanic modelini de servis ediyorsun. Tek servis, iki beyin: LLM ve klasik ML.",
+      "sourceTr": "FastAPI veya Flask resmi dokümanları (birini seç, onu takip et), Ollama API (https://docs.ollama.com/api), scikit-learn (https://scikit-learn.org/stable/getting_started.html)"
     },
     {
       "id": "w20",
@@ -923,39 +1097,49 @@
           "id": "python.w20-pzt",
           "day": "Pzt",
           "text": "Review your whole journey and write 5 short English interview answers in a notes file: \"How does RAG work?\", \"What is overfitting?\", \"What is an embedding?\", \"Why run an LLM locally?\", \"How do you evaluate a model?\". (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Bütün yolculuğunu gözden geçir ve bir not dosyasına 5 kısa İngilizce mülakat cevabı yaz: \"RAG nasıl çalışır?\", \"Overfitting nedir?\", \"Embedding nedir?\", \"Neden LLM'i yerelde çalıştırırsın?\", \"Bir modeli nasıl değerlendirirsin?\". (45-60 dk)"
         },
         {
           "id": "python.w20-sali",
           "day": "Salı",
           "text": "Go back to the Hugging Face LLM course (start at https://huggingface.co/learn/llm-course/chapter1/1) and skim one more chapter of your choice. Note 3 new things you learned. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Hugging Face LLM kursuna geri dön (https://huggingface.co/learn/llm-course/chapter1/1 adresinden başla) ve kendi seçtiğin bir bölüme daha göz at. Öğrendiğin 3 yeni şeyi not et. (45-60 dk)"
         },
         {
           "id": "python.w20-car",
           "day": "Çar",
           "text": "Final Titanic score attempt on https://www.kaggle.com/competitions/titanic: apply your best ideas from the last 8 weeks and make one last submission. Compare with your Phase 2 score. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "https://www.kaggle.com/competitions/titanic üzerinde son Titanic skor denemesi: son 8 haftanın en iyi fikirlerini uygula ve son bir gönderim yap. Faz 2 skorunla karşılaştır. (45-60 dk)"
         },
         {
           "id": "python.w20-per",
           "day": "Per",
           "text": "Re-solve marathon: pick 3 OLD problems from your https://exercism.org/tracks/python and HackerRank history and solve them again from scratch, no peeking. (45-60 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "Yeniden çözme maratonu: https://exercism.org/tracks/python ve HackerRank geçmişinden 3 ESKİ problem seç ve hiç bakmadan sıfırdan yeniden çöz. (45-60 dk)"
         },
         {
           "id": "python.w20-cum",
           "day": "Cum",
           "text": "🏁 FINAL: demo day — run the local RAG chatbot and the ML API end to end on your machine. Make sure both repos have English READMEs with short architecture notes, and list 3 things to bring into your work project next week. (90 min)",
-          "recurring": false
+          "recurring": false,
+          "textTr": "🏁 FİNAL: demo günü — yerel RAG sohbet botunu ve ML API'sini kendi makinende uçtan uca çalıştır. Her iki repo'da da kısa mimari notları içeren İngilizce README'ler olduğundan emin ol ve önümüzdeki hafta iş projene taşıyacağın 3 şeyi listele. (90 dk)"
         },
         {
           "id": "python.w20-rec-notes",
           "day": "Hafta içi",
           "text": "AI notes: after each study block, write a 3-line English note — what you learned / why it matters / one gotcha. Before Friday closes, add one line: how does this help the project at work? (5 min)",
+          "textTr": "Yapay zekâ notları: her çalışma bloğundan sonra 3 satırlık not yaz — ne öğrendin / neden önemli / bir tuzak. Cuma kapanmadan bir satır ekle: bu, işteki projeye nasıl yarıyor? (5 dk)",
           "recurring": true
         }
-      ]
+      ],
+      "titleTr": "Final",
+      "summaryTr": "Son hafta: Python temellerinden yerel bir AI yığınına kadar bütün yolculuğu gözden geçiriyorsun. İngilizce mülakat cevapları, bir kurs bölümü daha, son bir Titanic denemesi, bir yeniden çözme maratonu ve her şeyin uçtan uca çalıştığı bir demo günü.",
+      "sourceTr": "HF LLM kursu (https://huggingface.co/learn/llm-course/chapter1/1), Titanic (https://www.kaggle.com/competitions/titanic), Exercism (https://exercism.org/tracks/python)"
     }
-  ]
+  ],
+  "titleTr": "Python → Yapay Zekâ Mühendisliği (20 Hafta)"
 }
