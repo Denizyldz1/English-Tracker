@@ -129,6 +129,17 @@ npm run lint           # ESLint (SonarJS) + Stylelint
 npm run build:plan     # source-plan.md değişirse plan.json'ı yeniden üret
 ```
 
+### Görev dili (TR/EN)
+
+Başlıkta profil yanındaki düğme görev metinlerinin dilini değiştirir (varsayılan
+Türkçe, tercih `localStorage`'da). Bir programa çeviri eklemek için, o programın
+klasörüne `source-plan.tr.md` konur: temel `source-plan.md` ile **birebir aynı
+yapıda** olmalı (aynı faz/hafta/görev sayısı ve sırası, aynı `**[Gün]**`
+işaretleri, aynı URL'ler; yalnız insan metni çevrilir). `build:plan` ikisini
+eşleştirip `plan.json`'a `…Tr` alanlarını ekler; yapı uyuşmazsa build durur.
+Çevirisi olmayan programlar (İngilizce/IELTS/Almanca — zaten Türkçe) her iki
+modda da temel metinlerini gösterir.
+
 ## Standart uyarlaması (MVC → statik + Supabase)
 
 `FRONTEND_STANDARD.md` ASP.NET MVC/Razor için yazılmıştır. **Aynen korunan:**
