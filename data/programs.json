@@ -50,11 +50,11 @@
     "title": "Python → AI Engineering",
     "titleTr": "Python → Yapay Zekâ Mühendisliği",
     "shortTitle": "Python",
-    "description": "20-week intensive path: Python deepening (Udemy + Kaggle) → pandas + scikit-learn → local LLM engineering on Ollama + Qwen (RAG, chatbot); certificates + work-project focus; weekends free",
-    "descriptionTr": "20 haftalık yoğun yol: Python derinleşme (Udemy + Kaggle) → pandas + scikit-learn → Ollama + Qwen ile yerel LLM mühendisliği (RAG, chatbot); sertifikalar + iş projesine odak; hafta sonu boş",
+    "description": "20-week intensive path: Python deepening (Udemy + official docs) → pandas + scikit-learn → local LLM engineering on Ollama + Qwen (RAG, chatbot); certification + work-project focus; weekends free",
+    "descriptionTr": "20 haftalık yoğun yol: Python derinleşme (Udemy + resmî dokümanlar) → pandas + scikit-learn → Ollama + Qwen ile yerel LLM mühendisliği (RAG, chatbot); sertifikasyon + iş projesine odak; hafta sonu boş",
     "durationLabel": "20 hafta",
     "icon": "bi-robot",
-    "planUrl": "data/programs/python/plan.json?v=71a40795",
+    "planUrl": "data/programs/python/plan.json?v=a52e5c88",
     "idPrefix": "python.",
     "taskCount": 120
   }

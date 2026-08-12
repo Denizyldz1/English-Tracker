@@ -27,7 +27,7 @@
       "title": "Kickoff",
       "episode": "",
       "summary": "Restart Python following the course's real outline: basics, data types, type conversions and operators — with a 5-minute self-check before every section. Set up a clean dev environment and push your first script.",
-      "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python",
+      "source": "your Udemy Python course · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w1-pzt",
@@ -46,9 +46,9 @@
         {
           "id": "python.w1-car",
           "day": "Çar",
-          "text": "Go to Kaggle Learn Python (https://www.kaggle.com/learn/python) and complete Lessons 1-2 (\"Hello, Python\" and \"Functions and Getting Help\") in the browser. It is free and repeats the same ideas in English — good language practice too (45-60 min)",
+          "text": "HACKERRANK DAY: on HackerRank Python (https://www.hackerrank.com/domains/python) work through the \"Introduction\" subdomain — solve 3 problems (Python If-Else, Arithmetic Operators, Loops). The problem statements are in English, so this is language practice too. After each accepted solution open the Discussions tab and read one solution shorter than yours. If a concept is missing, the matching chapter is https://docs.python.org/3/tutorial/introduction.html (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Learn Python'a git (https://www.kaggle.com/learn/python) ve Ders 1-2'yi (\"Hello, Python\" ve \"Functions and Getting Help\") tarayıcıda tamamla. Ücretsiz ve aynı fikirleri İngilizce tekrar ediyor — iyi bir dil pratiği de olur (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: HackerRank Python'da (https://www.hackerrank.com/domains/python) \"Introduction\" alt alanını çalış — 3 problem çöz (Python If-Else, Arithmetic Operators, Loops). Problem metinleri İngilizce, yani bu aynı zamanda dil pratiği. Kabul edilen her çözümden sonra Discussions sekmesini aç ve seninkinden kısa bir çözüm oku. Eksik kalan bir kavram olursa karşılığı: https://docs.python.org/3/tutorial/introduction.html (45-60 dk)"
         },
         {
           "id": "python.w1-per",
@@ -74,7 +74,7 @@
       ],
       "titleTr": "Başlangıç",
       "summaryTr": "Kursun gerçek içerik akışını izleyerek Python'a yeniden başla: temeller, veri tipleri, tip dönüşümleri ve operatörler — her bölümden önce 5 dakikalık bir öz-testle. Temiz bir geliştirme ortamı kur ve ilk scriptini push et.",
-      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python"
+      "sourceTr": "Udemy Python kursun · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w2",
@@ -82,8 +82,8 @@
       "no": "2",
       "title": "Conditionals, Lists and Loops",
       "episode": "",
-      "summary": "The course's control-flow block: conditionals, lists, for/while and break/continue. Kaggle covers the same ground in English this week — perfect double exposure.",
-      "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
+      "summary": "The course's control-flow block: conditionals, lists, for/while and break/continue. The official tutorial covers the same ground in English this week — perfect double exposure.",
+      "source": "your Udemy Python course · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w2-pzt",
@@ -102,9 +102,9 @@
         {
           "id": "python.w2-car",
           "day": "Çar",
-          "text": "On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lessons 3-4 (\"Booleans and Conditionals\" and \"Lists\") in the browser (45-60 min)",
+          "text": "HACKERRANK DAY: on HackerRank Python (https://www.hackerrank.com/domains/python) solve 3 problems from the \"Basic Data Types\" subdomain (Lists, Tuples, Find the Runner-Up Score, Nested Lists) — every one of them is loops and conditionals over lists. Read one Discussions solution after each. Stuck on a construct? https://docs.python.org/3/tutorial/controlflow.html (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Learn Python'da (https://www.kaggle.com/learn/python) Ders 3-4'ü (\"Booleans and Conditionals\" ve \"Lists\") tarayıcıda tamamla (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: HackerRank Python'da (https://www.hackerrank.com/domains/python) \"Basic Data Types\" alt alanından 3 problem çöz (Lists, Tuples, Find the Runner-Up Score, Nested Lists) — hepsi listeler üzerinde döngü ve koşul. Her birinden sonra bir Discussions çözümü oku. Bir yapıda takılırsan: https://docs.python.org/3/tutorial/controlflow.html (45-60 dk)"
         },
         {
           "id": "python.w2-per",
@@ -129,8 +129,8 @@
         }
       ],
       "titleTr": "Koşullar, Listeler ve Döngüler",
-      "summaryTr": "Kursun akış kontrolü bloğu: koşullar, listeler, for/while ve break/continue. Kaggle bu hafta aynı zemini İngilizce işliyor — mükemmel bir çift maruz kalma.",
-      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
+      "summaryTr": "Kursun akış kontrolü bloğu: koşullar, listeler, for/while ve break/continue. Resmî tutorial bu hafta aynı zemini İngilizce işliyor — mükemmel bir çift maruz kalma.",
+      "sourceTr": "Udemy Python kursun · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w3",
@@ -139,7 +139,7 @@
       "title": "Strings and Dictionaries",
       "episode": "",
       "summary": "The course's text-and-data block: character strings, string methods, list methods and dictionaries — the day-to-day tools of data work.",
-      "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
+      "source": "your Udemy Python course · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w3-pzt",
@@ -158,9 +158,9 @@
         {
           "id": "python.w3-car",
           "day": "Çar",
-          "text": "On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 5 (\"Loops and List Comprehensions\") in the browser. If time is left, redo the hardest exercise from Lessons 1-4 (45-60 min)",
+          "text": "HACKERRANK DAY: on HackerRank Python (https://www.hackerrank.com/domains/python) solve 3 problems across the \"Strings\" and \"Collections\" subdomains (sWAP cASE, String Split and Join, collections.Counter()). `Counter` and `defaultdict` are the dictionary tools you will actually reach for in real code. Comprehensions come back in Week 6 — if they feel shaky, read https://docs.python.org/3/tutorial/datastructures.html (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Learn Python'da (https://www.kaggle.com/learn/python) Ders 5'i (\"Loops and List Comprehensions\") tarayıcıda tamamla. Vakit kalırsa Ders 1-4'ün en zor alıştırmasını yeniden yap (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: HackerRank Python'da (https://www.hackerrank.com/domains/python) \"Strings\" ve \"Collections\" alt alanlarından 3 problem çöz (sWAP cASE, String Split and Join, collections.Counter()). `Counter` ve `defaultdict`, gerçek kodda gerçekten uzanacağın sözlük araçları. Comprehension'lar Hafta 6'da geri gelecek — sallantılıysa oku: https://docs.python.org/3/tutorial/datastructures.html (45-60 dk)"
         },
         {
           "id": "python.w3-per",
@@ -186,7 +186,7 @@
       ],
       "titleTr": "Metinler ve Sözlükler",
       "summaryTr": "Kursun metin-ve-veri bloğu: karakter dizileri, string metotları, liste metotları ve sözlükler — veri işinin günlük araçları.",
-      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
+      "sourceTr": "Udemy Python kursun · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w4",
@@ -195,7 +195,7 @@
       "title": "Functions, Recursion and Errors",
       "episode": "",
       "summary": "The course's functions block: functions, recursive functions and error handling — plus a robust CLI tool that does not crash on bad input.",
-      "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
+      "source": "your Udemy Python course · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w4-pzt",
@@ -214,9 +214,9 @@
         {
           "id": "python.w4-car",
           "day": "Çar",
-          "text": "On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 6 (\"Strings and Dictionaries\") in the browser (45-60 min)",
+          "text": "HACKERRANK DAY: on HackerRank Python (https://www.hackerrank.com/domains/python) solve the \"Errors and Exceptions\" subdomain (Exceptions, Incorrect Regex) plus one more problem of your choice — but add your own rule: every solution must fail gracefully with try/except instead of crashing. Then write one custom exception class of your own; the reference is https://docs.python.org/3/tutorial/errors.html (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Learn Python'da (https://www.kaggle.com/learn/python) Ders 6'yı (\"Strings and Dictionaries\") tarayıcıda tamamla (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: HackerRank Python'da (https://www.hackerrank.com/domains/python) \"Errors and Exceptions\" alt alanını çöz (Exceptions, Incorrect Regex) artı seçeceğin bir problem daha — ama kendi kuralını koy: her çözüm çökmek yerine try/except ile düzgünce hata versin. Sonra kendi istisna sınıfını yaz; başvuru kaynağı https://docs.python.org/3/tutorial/errors.html (45-60 dk)"
         },
         {
           "id": "python.w4-per",
@@ -242,7 +242,7 @@
       ],
       "titleTr": "Fonksiyonlar, Özyineleme ve Hatalar",
       "summaryTr": "Kursun fonksiyonlar bloğu: fonksiyonlar, özyinelemeli fonksiyonlar ve hata yönetimi — artı bozuk girdide çökmeyen sağlam bir CLI aracı.",
-      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
+      "sourceTr": "Udemy Python kursun · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w5",
@@ -250,8 +250,8 @@
       "no": "5",
       "title": "OOP and Polymorphism",
       "episode": "",
-      "summary": "The course's final block: classes, objects, inheritance and polymorphism — the bridge from your C# knowledge to Python style. Finish the Kaggle course and claim your certificate.",
-      "source": "your Udemy Python course · https://www.kaggle.com/learn/python · https://www.hackerrank.com/domains/python",
+      "summary": "The course's final block: classes, objects, inheritance and polymorphism — the bridge from your C# knowledge to Python style. Read the official Classes chapter next to it: Python's object model is NOT C#'s.",
+      "source": "your Udemy Python course · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w5-pzt",
@@ -270,9 +270,9 @@
         {
           "id": "python.w5-car",
           "day": "Çar",
-          "text": "On Kaggle Learn Python (https://www.kaggle.com/learn/python) complete Lesson 7 (\"Working with External Libraries\") and claim your COMPLETION CERTIFICATE. Save the certificate link or image — it goes on your profile later (45-60 min)",
+          "text": "HACKERRANK DAY: on HackerRank Python (https://www.hackerrank.com/domains/python) solve both problems of the \"Classes\" subdomain (Dealing with Complex Numbers, Class 2 - Find the Torsional Angle) — Python OOP under exam conditions, which is exactly what Week 6 will ask of you. Then read https://docs.python.org/3/tutorial/classes.html for class vs instance attributes and why Python has no `private`, and add those to your C#-difference notes (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Learn Python'da (https://www.kaggle.com/learn/python) Ders 7'yi (\"Working with External Libraries\") tamamla ve TAMAMLAMA SERTİFİKANI al. Sertifika linkini ya da görselini sakla — ilerde profiline girecek (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: HackerRank Python'da (https://www.hackerrank.com/domains/python) \"Classes\" alt alanındaki iki problemi de çöz (Dealing with Complex Numbers, Class 2 - Find the Torsional Angle) — sınav koşullarında Python OOP'si, ki Hafta 6 tam olarak bunu isteyecek. Sonra https://docs.python.org/3/tutorial/classes.html adresinden sınıf ve örnek nitelikleri farkını ve Python'da neden `private` olmadığını oku, C# farkları notuna ekle (45-60 dk)"
         },
         {
           "id": "python.w5-per",
@@ -297,8 +297,8 @@
         }
       ],
       "titleTr": "OOP ve Polimorfizm",
-      "summaryTr": "Kursun son bloğu: sınıflar, nesneler, kalıtım ve polimorfizm — C# bilgin ile Python üslubu arasındaki köprü. Kaggle kursunu bitir ve sertifikanı al.",
-      "sourceTr": "Udemy Python kursun · https://www.kaggle.com/learn/python · https://www.hackerrank.com/domains/python"
+      "summaryTr": "Kursun son bloğu: sınıflar, nesneler, kalıtım ve polimorfizm — C# bilgin ile Python üslubu arasındaki köprü. Yanında resmî Classes bölümünü de oku: Python'un nesne modeli C#'ınki DEĞİL.",
+      "sourceTr": "Udemy Python kursun · https://docs.python.org/3/tutorial/ · https://exercism.org/tracks/python · https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w6",
@@ -306,7 +306,7 @@
       "no": "6",
       "title": "Course Gaps and Phase Final",
       "episode": "",
-      "summary": "The course does NOT cover file I/O, modules/venv, comprehensions, generators or decorators — close those gaps from the official tutorial and Kaggle, then finish with the free timed certification.",
+      "summary": "The course does NOT cover file I/O, modules/venv, generators or decorators — close those gaps from the official tutorial, then finish with the free timed certification.",
       "source": "your Udemy Python course · https://docs.python.org/3/tutorial/ · https://www.hackerrank.com/domains/python · https://www.hackerrank.com/skills-verification/python_basic",
       "tasks": [
         {
@@ -319,9 +319,9 @@
         {
           "id": "python.w6-sali",
           "day": "Salı",
-          "text": "COURSE GAP DAY 2: comprehensions, generators, decorators. You met comprehensions in Kaggle Lesson 5 — now rewrite 3 of your old loops as comprehensions; then, using the official tutorial (https://docs.python.org/3/tutorial/), write one tiny generator and one tiny decorator (e.g., a timer). Review your weak-topics list from Weeks 1-5 and rewatch only those course videos (45-60 min)",
+          "text": "COURSE GAP DAY 2: comprehensions, generators, decorators. You met comprehensions in the Week 3 Data Structures chapter — now rewrite 3 of your old loops as comprehensions; then, using the official tutorial (https://docs.python.org/3/tutorial/), write one tiny generator and one tiny decorator (e.g., a timer). Review your weak-topics list from Weeks 1-5 and rewatch only those course videos (45-60 min)",
           "recurring": false,
-          "textTr": "KURS BOŞLUĞU GÜNÜ 2: comprehension'lar, generator'lar, decorator'lar. Comprehension'larla Kaggle Ders 5'te tanıştın — şimdi eski döngülerinden 3'ünü comprehension olarak yeniden yaz; sonra resmî tutorial'ı (https://docs.python.org/3/tutorial/) kullanarak minik bir generator ve minik bir decorator yaz (ör. bir süre ölçer). Hafta 1-5'ten kalan zayıf konular listeni gözden geçir ve yalnız o kurs videolarını yeniden izle (45-60 dk)"
+          "textTr": "KURS BOŞLUĞU GÜNÜ 2: comprehension'lar, generator'lar, decorator'lar. Comprehension'larla Hafta 3'teki Data Structures bölümünde tanıştın — şimdi eski döngülerinden 3'ünü comprehension olarak yeniden yaz; sonra resmî tutorial'ı (https://docs.python.org/3/tutorial/) kullanarak minik bir generator ve minik bir decorator yaz (ör. bir süre ölçer). Hafta 1-5'ten kalan zayıf konular listeni gözden geçir ve yalnız o kurs videolarını yeniden izle (45-60 dk)"
         },
         {
           "id": "python.w6-car",
@@ -353,7 +353,7 @@
         }
       ],
       "titleTr": "Kurs Boşlukları ve Faz Finali",
-      "summaryTr": "Kurs dosya I/O'sunu, modülleri/venv'i, comprehension'ları, generator'ları ve decorator'ları kapsamıyor — bu boşlukları resmî tutorial ve Kaggle ile kapat, sonra ücretsiz süreli sertifikasyonla bitir.",
+      "summaryTr": "Kurs dosya I/O'sunu, modülleri/venv'i, generator'ları ve decorator'ları kapsamıyor — bu boşlukları resmî tutorial ile kapat, sonra ücretsiz süreli sertifikasyonla bitir.",
       "sourceTr": "Udemy Python kursun · https://docs.python.org/3/tutorial/ · https://www.hackerrank.com/domains/python · https://www.hackerrank.com/skills-verification/python_basic"
     },
     {
@@ -362,29 +362,29 @@
       "no": "7",
       "title": "Pandas I",
       "episode": "",
-      "summary": "Start working with real data. Learn the basics of pandas on Kaggle Learn: how to create, read, select and summarize data. On Friday you explore a real CSV file with your new skills.",
-      "source": "https://www.kaggle.com/learn/pandas • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python",
+      "summary": "Start working with real data. Learn the basics of pandas from the official documentation: what a DataFrame is, reading and writing files, selecting subsets and plotting. On Friday you explore a real CSV file with your new skills.",
+      "source": "https://pandas.pydata.org/docs/user_guide/10min.html • https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html • https://www.hackerrank.com/domains/sql • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python",
       "tasks": [
         {
           "id": "python.w7-pzt",
           "day": "Pzt",
-          "text": "Open the Kaggle Pandas course (https://www.kaggle.com/learn/pandas) and complete Lesson 1 (Creating, Reading and Writing) and Lesson 2 (Indexing, Selecting, Assigning). Read the tutorial pages carefully and run the code cells in the browser. (45-60 min)",
+          "text": "Read \"10 minutes to pandas\" (https://pandas.pydata.org/docs/user_guide/10min.html) from top to bottom and TYPE every example yourself in a notebook or script — no copy-paste. This one page is your map of the whole library. Then skim tutorials 1-2 of the official series (https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html): DataFrame vs Series, and reading/writing CSV. (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Pandas kursunu aç (https://www.kaggle.com/learn/pandas) ve Ders 1'i (Creating, Reading and Writing) ve Ders 2'yi (Indexing, Selecting, Assigning) tamamla. Tutorial sayfalarını dikkatle oku ve kod hücrelerini tarayıcıda çalıştır. (45-60 dk)"
+          "textTr": "\"10 minutes to pandas\" sayfasını (https://pandas.pydata.org/docs/user_guide/10min.html) baştan sona oku ve her örneği bir notebook'ta veya scriptte KENDİN YAZ — kopyala-yapıştır yok. Bu tek sayfa, bütün kütüphanenin haritası. Sonra resmî serinin (https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) 1-2. tutorial'larına göz at: DataFrame ile Series farkı ve CSV okuma/yazma. (45-60 dk)"
         },
         {
           "id": "python.w7-sali",
           "day": "Salı",
-          "text": "Continue the Kaggle Pandas course (https://www.kaggle.com/learn/pandas) and complete Lesson 3 (Summary Functions and Maps). Take short notes: which pandas function does what? (45-60 min)",
+          "text": "In the official pandas \"Getting started\" tutorial series (https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) work through tutorials 3-4: selecting a subset of a DataFrame (`loc`/`iloc`, boolean filters) and plotting. Take short notes: which pandas function does what? (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Pandas kursuna devam et (https://www.kaggle.com/learn/pandas) ve Ders 3'ü (Summary Functions and Maps) tamamla. Kısa notlar al: hangi pandas fonksiyonu ne yapıyor? (45-60 dk)"
+          "textTr": "Resmî pandas \"Getting started\" tutorial serisinde (https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) 3-4. tutorial'ları çalış: bir DataFrame'den alt küme seçme (`loc`/`iloc`, boolean filtreler) ve grafik çizme. Kısa notlar al: hangi pandas fonksiyonu ne yapıyor? (45-60 dk)"
         },
         {
           "id": "python.w7-car",
           "day": "Çar",
-          "text": "Go back to the Kaggle Pandas course (https://www.kaggle.com/learn/pandas) and finish the hands-on exercises of Lessons 1-3. Try to solve each exercise yourself before you look at the hint. (45-60 min)",
+          "text": "HACKERRANK DAY: on HackerRank SQL (https://www.hackerrank.com/domains/sql) solve 5 problems from the \"Basic Select\" subdomain. A `WHERE` clause is the exact same thought as yesterday's boolean mask in pandas — watch two languages say the same thing. Everything runs in the browser, and SQL is half of every real data job. (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Pandas kursuna geri dön (https://www.kaggle.com/learn/pandas) ve Ders 1-3'ün uygulamalı alıştırmalarını bitir. İpucuna bakmadan önce her alıştırmayı kendin çözmeye çalış. (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: HackerRank SQL'de (https://www.hackerrank.com/domains/sql) \"Basic Select\" alt alanından 5 problem çöz. Bir `WHERE` cümlesi, dün pandas'ta yazdığın boolean maskeyle tıpatıp aynı düşünce — iki dilin aynı şeyi söylediğini gör. Hepsi tarayıcıda çalışır ve SQL, her gerçek veri işinin yarısıdır. (45-60 dk)"
         },
         {
           "id": "python.w7-per",
@@ -409,8 +409,8 @@
         }
       ],
       "titleTr": "Pandas I",
-      "summaryTr": "Gerçek veriyle çalışmaya başla. Kaggle Learn üzerinde pandas'ın temellerini öğren: veri oluşturma, okuma, seçme ve özetleme. Cuma günü yeni becerilerinle gerçek bir CSV dosyasını keşfediyorsun.",
-      "sourceTr": "https://www.kaggle.com/learn/pandas • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
+      "summaryTr": "Gerçek veriyle çalışmaya başla. Pandas'ın temellerini resmî dokümantasyondan öğren: DataFrame nedir, dosya okuma/yazma, alt küme seçme ve grafik çizme. Cuma günü yeni becerilerinle gerçek bir CSV dosyasını keşfediyorsun.",
+      "sourceTr": "https://pandas.pydata.org/docs/user_guide/10min.html • https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html • https://www.hackerrank.com/domains/sql • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
     },
     {
       "id": "w8",
@@ -418,29 +418,29 @@
       "no": "8",
       "title": "Pandas II",
       "episode": "",
-      "summary": "Finish the pandas course and claim your first Kaggle certificate. Learn grouping, sorting, data types, missing values and combining data. On Friday you clean a messy dataset like a real data engineer.",
-      "source": "https://www.kaggle.com/learn/pandas • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python",
+      "summary": "Finish the official tutorial series and go one level deeper into the user guide: new columns, grouping, reshaping, combining tables and missing values. On Friday you clean a messy dataset like a real data engineer.",
+      "source": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html • https://pandas.pydata.org/docs/user_guide/merging.html • https://pandas.pydata.org/docs/user_guide/missing_data.html • https://www.hackerrank.com/domains/sql • https://exercism.org/tracks/python",
       "tasks": [
         {
           "id": "python.w8-pzt",
           "day": "Pzt",
-          "text": "In the Kaggle Pandas course (https://www.kaggle.com/learn/pandas), complete Lesson 4 (Grouping and Sorting) and Lesson 5 (Data Types and Missing Values). Run every code example yourself. (45-60 min)",
+          "text": "In the pandas tutorial series (https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) complete tutorials 5-6: creating new columns derived from existing ones, and calculating summary statistics with `groupby` and `value_counts`. Run every example yourself. (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Pandas kursunda (https://www.kaggle.com/learn/pandas) Ders 4'ü (Grouping and Sorting) ve Ders 5'i (Data Types and Missing Values) tamamla. Her kod örneğini kendin çalıştır. (45-60 dk)"
+          "textTr": "Pandas tutorial serisinde (https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) 5-6. tutorial'ları tamamla: mevcut sütunlardan yeni sütun türetme ve `groupby` ile `value_counts` kullanarak özet istatistik hesaplama. Her örneği kendin çalıştır. (45-60 dk)"
         },
         {
           "id": "python.w8-sali",
           "day": "Salı",
-          "text": "Complete Lesson 6 (Renaming and Combining) in the Kaggle Pandas course (https://www.kaggle.com/learn/pandas). Then finish any open steps and claim your Pandas COMPLETION CERTIFICATE from the course page. (45-60 min)",
+          "text": "Complete tutorials 7-8 of the same series (https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html): reshaping the table layout (sort, pivot, melt) and combining data from multiple tables. Then read the user guide on merge/join (https://pandas.pydata.org/docs/user_guide/merging.html) and merge two tables of your own. (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Pandas kursunda (https://www.kaggle.com/learn/pandas) Ders 6'yı (Renaming and Combining) tamamla. Sonra açık kalan adımları bitir ve kurs sayfasından Pandas TAMAMLAMA SERTİFİKANI al. (45-60 dk)"
+          "textTr": "Aynı serinin (https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) 7-8. tutorial'larını tamamla: tablo düzenini yeniden şekillendirme (sort, pivot, melt) ve birden çok tablodaki veriyi birleştirme. Sonra user guide'ın merge/join bölümünü oku (https://pandas.pydata.org/docs/user_guide/merging.html) ve kendi iki tablonu birleştir. (45-60 dk)"
         },
         {
           "id": "python.w8-car",
           "day": "Çar",
-          "text": "Finish the remaining exercises of the Kaggle Pandas course (https://www.kaggle.com/learn/pandas). Then practice groupby on your own: take any dataset and answer two questions with .groupby() (for example: average value per category). (45-60 min)",
+          "text": "HACKERRANK DAY: on HackerRank SQL (https://www.hackerrank.com/domains/sql) solve 5 problems from the \"Aggregation\" subdomain — COUNT, SUM, AVG, MIN/MAX with GROUP BY. This is Monday's `.groupby()` in the other language; doing both in one week is what makes the concept stick. (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Pandas kursunun (https://www.kaggle.com/learn/pandas) kalan alıştırmalarını bitir. Sonra kendi başına groupby pratiği yap: herhangi bir veri seti al ve .groupby() ile iki soru cevapla (ör. kategori başına ortalama değer). (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: HackerRank SQL'de (https://www.hackerrank.com/domains/sql) \"Aggregation\" alt alanından 5 problem çöz — GROUP BY ile COUNT, SUM, AVG, MIN/MAX. Bu, pazartesi yaptığın `.groupby()`'ın öteki dildeki hâli; ikisini aynı hafta yapmak kavramı kalıcı kılan şeydir. (45-60 dk)"
         },
         {
           "id": "python.w8-per",
@@ -452,9 +452,9 @@
         {
           "id": "python.w8-cum",
           "day": "Cum",
-          "text": "PROJECT: Take a messy dataset (or make your CSV from last week messy) and clean it with pandas: fix missing values, wrong data types and duplicate rows. Write a short English summary of what you fixed and push everything to GitHub. (45-60 min)",
+          "text": "PROJECT: Take a messy dataset (or make your CSV from last week messy) and clean it with pandas: fix missing values, wrong data types and duplicate rows. Keep the missing-data user guide open while you work (https://pandas.pydata.org/docs/user_guide/missing_data.html) — `isna`/`dropna`/`fillna` and why the column dtype decides what \"missing\" even means. Write a short English summary of what you fixed and push everything to GitHub. (45-60 min)",
           "recurring": false,
-          "textTr": "PROJE: Dağınık bir veri seti al (ya da geçen haftaki CSV'ni dağıt) ve pandas ile temizle: eksik değerleri, yanlış veri tiplerini ve yinelenen satırları düzelt. Neyi düzelttiğine dair kısa bir İngilizce özet yaz ve her şeyi GitHub'a push et. (45-60 dk)"
+          "textTr": "PROJE: Dağınık bir veri seti al (ya da geçen haftaki CSV'ni dağıt) ve pandas ile temizle: eksik değerleri, yanlış veri tiplerini ve yinelenen satırları düzelt. Çalışırken user guide'ın eksik veri bölümünü açık tut (https://pandas.pydata.org/docs/user_guide/missing_data.html) — `isna`/`dropna`/`fillna` ve sütunun dtype'ının \"eksik\"in ne demek olduğunu nasıl belirlediği. Neyi düzelttiğine dair kısa bir İngilizce özet yaz ve her şeyi GitHub'a push et. (45-60 dk)"
         },
         {
           "id": "python.w8-rec-notes",
@@ -465,8 +465,8 @@
         }
       ],
       "titleTr": "Pandas II",
-      "summaryTr": "Pandas kursunu bitir ve ilk Kaggle sertifikanı al. Gruplama, sıralama, veri tipleri, eksik değerler ve veri birleştirmeyi öğren. Cuma günü gerçek bir veri mühendisi gibi dağınık bir veri setini temizliyorsun.",
-      "sourceTr": "https://www.kaggle.com/learn/pandas • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
+      "summaryTr": "Resmî tutorial serisini bitir ve user guide ile bir seviye derine in: yeni sütunlar, gruplama, yeniden şekillendirme, tablo birleştirme ve eksik değerler. Cuma günü gerçek bir veri mühendisi gibi dağınık bir veri setini temizliyorsun.",
+      "sourceTr": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html • https://pandas.pydata.org/docs/user_guide/merging.html • https://pandas.pydata.org/docs/user_guide/missing_data.html • https://www.hackerrank.com/domains/sql • https://exercism.org/tracks/python"
     },
     {
       "id": "w9",
@@ -474,29 +474,29 @@
       "no": "9",
       "title": "First Models",
       "episode": "",
-      "summary": "Machine learning starts here. The Kaggle Intro to ML course shows how models work, how to build your first model and how to validate it. On Friday you train your first decision tree.",
-      "source": "https://www.kaggle.com/learn/intro-to-machine-learning • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python",
+      "summary": "Machine learning starts here, straight from the scikit-learn documentation: the estimator API (fit/predict), decision trees, and why we split data into train and validation sets. On Friday you train your first decision tree.",
+      "source": "https://scikit-learn.org/stable/getting_started.html • https://scikit-learn.org/stable/modules/tree.html • https://scikit-learn.org/stable/modules/cross_validation.html • https://www.hackerrank.com/domains/tutorials/10-days-of-statistics • https://exercism.org/tracks/python",
       "tasks": [
         {
           "id": "python.w9-pzt",
           "day": "Pzt",
-          "text": "Start the Kaggle Intro to Machine Learning course (https://www.kaggle.com/learn/intro-to-machine-learning). Complete Lesson 1 (How Models Work) and Lesson 2 (Basic Data Exploration). (45-60 min)",
+          "text": "Read the official scikit-learn Getting Started guide (https://scikit-learn.org/stable/getting_started.html) and run every example yourself: estimators, fit/predict, transformers and pipelines. This is the library you will use at work — this page is its grammar. (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Intro to Machine Learning kursuna başla (https://www.kaggle.com/learn/intro-to-machine-learning). Ders 1'i (How Models Work) ve Ders 2'yi (Basic Data Exploration) tamamla. (45-60 dk)"
+          "textTr": "Resmî scikit-learn Getting Started rehberini oku (https://scikit-learn.org/stable/getting_started.html) ve her örneği kendin çalıştır: estimator'lar, fit/predict, transformer'lar ve pipeline'lar. İşte kullanacağın kütüphane bu — bu sayfa da onun grameri. (45-60 dk)"
         },
         {
           "id": "python.w9-sali",
           "day": "Salı",
-          "text": "Continue the Intro to ML course (https://www.kaggle.com/learn/intro-to-machine-learning). Complete Lesson 3 (Your First Machine Learning Model) and Lesson 4 (Model Validation). Make sure you understand why we split data into train and validation sets. (45-60 min)",
+          "text": "Read the decision trees chapter of the User Guide (https://scikit-learn.org/stable/modules/tree.html): how a tree splits, what `max_depth` changes, classifier vs regressor. Train one on a dataset that ships with scikit-learn (`load_iris` or `fetch_california_housing`). Then take the `train_test_split` part of https://scikit-learn.org/stable/modules/cross_validation.html and score your tree on a held-out half — write one English sentence: why can the training score lie? (45-60 min)",
           "recurring": false,
-          "textTr": "Intro to ML kursuna devam et (https://www.kaggle.com/learn/intro-to-machine-learning). Ders 3'ü (Your First Machine Learning Model) ve Ders 4'ü (Model Validation) tamamla. Veriyi neden eğitim ve doğrulama setlerine ayırdığımızı anladığından emin ol. (45-60 dk)"
+          "textTr": "User Guide'ın karar ağaçları bölümünü oku (https://scikit-learn.org/stable/modules/tree.html): bir ağaç nasıl dallanır, `max_depth` neyi değiştirir, sınıflandırıcı ile regresör farkı. scikit-learn ile birlikte gelen bir veri setinde (`load_iris` ya da `fetch_california_housing`) bir tane eğit. Sonra https://scikit-learn.org/stable/modules/cross_validation.html sayfasının `train_test_split` kısmını al ve ağacını ayırdığın yarıda puanla — İngilizce tek cümle yaz: eğitim skoru neden yalan söyleyebilir? (45-60 dk)"
         },
         {
           "id": "python.w9-car",
           "day": "Çar",
-          "text": "Do the hands-on exercises of Lessons 1-4 in the Intro to ML course (https://www.kaggle.com/learn/intro-to-machine-learning). Write one sentence in English for each lesson: what did I learn? (45-60 min)",
+          "text": "HACKERRANK DAY: start \"10 Days of Statistics\" (https://www.hackerrank.com/domains/tutorials/10-days-of-statistics) and finish Days 0-2 — mean/median/mode, weighted mean, quartiles, standard deviation and basic probability. Every ML metric you will read from now on sits on top of exactly this. (45-60 min)",
           "recurring": false,
-          "textTr": "Intro to ML kursunda (https://www.kaggle.com/learn/intro-to-machine-learning) Ders 1-4'ün uygulamalı alıştırmalarını yap. Her ders için İngilizce tek cümle yaz: ne öğrendim? (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: \"10 Days of Statistics\"e başla (https://www.hackerrank.com/domains/tutorials/10-days-of-statistics) ve Gün 0-2'yi bitir — ortalama/medyan/mod, ağırlıklı ortalama, çeyreklikler, standart sapma ve temel olasılık. Bundan sonra okuyacağın her ML metriği tam olarak bunun üstüne oturuyor. (45-60 dk)"
         },
         {
           "id": "python.w9-per",
@@ -508,9 +508,9 @@
         {
           "id": "python.w9-cum",
           "day": "Cum",
-          "text": "PROJECT: Train your first DecisionTreeRegressor (or classifier) locally. First repeat it on the course data, then try it on YOUR dataset from Week 7-8. Compare the results and commit the notebook to GitHub. (45-60 min)",
+          "text": "PROJECT: Train your first DecisionTreeRegressor (or classifier) locally. First repeat it on a dataset bundled with scikit-learn, then try it on YOUR dataset from Week 7-8. Compare the results and commit the notebook to GitHub. (45-60 min)",
           "recurring": false,
-          "textTr": "PROJE: İlk DecisionTreeRegressor'ını (ya da sınıflandırıcını) yerelde eğit. Önce kurs verisi üzerinde tekrarla, sonra Hafta 7-8'deki KENDİ veri setinde dene. Sonuçları karşılaştır ve notebook'u GitHub'a commit'le. (45-60 dk)"
+          "textTr": "PROJE: İlk DecisionTreeRegressor'ını (ya da sınıflandırıcını) yerelde eğit. Önce scikit-learn ile gelen bir veri setinde tekrarla, sonra Hafta 7-8'deki KENDİ veri setinde dene. Sonuçları karşılaştır ve notebook'u GitHub'a commit'le. (45-60 dk)"
         },
         {
           "id": "python.w9-rec-notes",
@@ -521,8 +521,8 @@
         }
       ],
       "titleTr": "İlk Modeller",
-      "summaryTr": "Makine öğrenmesi burada başlıyor. Kaggle Intro to ML kursu modellerin nasıl çalıştığını, ilk modelini nasıl kuracağını ve nasıl doğrulayacağını gösteriyor. Cuma günü ilk karar ağacını eğitiyorsun.",
-      "sourceTr": "https://www.kaggle.com/learn/intro-to-machine-learning • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
+      "summaryTr": "Makine öğrenmesi burada, doğrudan scikit-learn dokümantasyonundan başlıyor: estimator API'si (fit/predict), karar ağaçları ve veriyi neden eğitim/doğrulama diye ayırdığımız. Cuma günü ilk karar ağacını eğitiyorsun.",
+      "sourceTr": "https://scikit-learn.org/stable/getting_started.html • https://scikit-learn.org/stable/modules/tree.html • https://scikit-learn.org/stable/modules/cross_validation.html • https://www.hackerrank.com/domains/tutorials/10-days-of-statistics • https://exercism.org/tracks/python"
     },
     {
       "id": "w10",
@@ -530,29 +530,29 @@
       "no": "10",
       "title": "Model Quality",
       "episode": "",
-      "summary": "Learn why models fail: underfitting and overfitting. Meet random forests, claim your Intro to ML certificate, and learn the scikit-learn way of building pipelines. On Friday you build a full pipeline.",
-      "source": "https://www.kaggle.com/learn/intro-to-machine-learning • https://scikit-learn.org/stable/getting_started.html • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python",
+      "summary": "Learn why models fail: underfitting and overfitting. Meet random forests and gradient boosting, and learn to measure a model with the RIGHT metric instead of bare accuracy. On Friday you build a full pipeline.",
+      "source": "https://scikit-learn.org/stable/modules/learning_curve.html • https://scikit-learn.org/stable/modules/ensemble.html • https://scikit-learn.org/stable/modules/model_evaluation.html • https://www.hackerrank.com/domains/tutorials/10-days-of-statistics • https://exercism.org/tracks/python",
       "tasks": [
         {
           "id": "python.w10-pzt",
           "day": "Pzt",
-          "text": "In the Intro to ML course (https://www.kaggle.com/learn/intro-to-machine-learning), complete Lesson 5 (Underfitting and Overfitting) and Lesson 6 (Random Forests). Note the difference between a single tree and a forest. (45-60 min)",
+          "text": "Underfitting and overfitting: read the validation-curve and learning-curve guide (https://scikit-learn.org/stable/modules/learning_curve.html). Then take your Week 9 tree and plot its validation score against `max_depth` — find the exact depth where it starts to overfit. (45-60 min)",
           "recurring": false,
-          "textTr": "Intro to ML kursunda (https://www.kaggle.com/learn/intro-to-machine-learning) Ders 5'i (Underfitting and Overfitting) ve Ders 6'yı (Random Forests) tamamla. Tek bir ağaçla bir orman arasındaki farkı not al. (45-60 dk)"
+          "textTr": "Underfitting ve overfitting: doğrulama eğrisi ve öğrenme eğrisi rehberini oku (https://scikit-learn.org/stable/modules/learning_curve.html). Sonra Hafta 9'daki ağacını al ve doğrulama skorunu `max_depth`e karşı çiz — overfit etmeye tam olarak nerede başladığını bul. (45-60 dk)"
         },
         {
           "id": "python.w10-sali",
           "day": "Salı",
-          "text": "Complete Lesson 7 (the final lesson) of the Intro to ML course (https://www.kaggle.com/learn/intro-to-machine-learning) and its exercises. Then claim your Intro to ML COMPLETION CERTIFICATE from the course page. (45-60 min)",
+          "text": "Read the ensembles chapter (https://scikit-learn.org/stable/modules/ensemble.html): random forests and HistGradientBoosting, the two workhorses of real tabular projects. Train both on your dataset and note the difference between one tree and a forest. (45-60 min)",
           "recurring": false,
-          "textTr": "Intro to ML kursunun (https://www.kaggle.com/learn/intro-to-machine-learning) Ders 7'sini (son ders) ve alıştırmalarını tamamla. Sonra kurs sayfasından Intro to ML TAMAMLAMA SERTİFİKANI al. (45-60 dk)"
+          "textTr": "Topluluk (ensemble) bölümünü oku (https://scikit-learn.org/stable/modules/ensemble.html): random forest ve HistGradientBoosting, gerçek tablo projelerinin iki iş atı. İkisini de kendi veri setinde eğit ve tek bir ağaçla bir orman arasındaki farkı not al. (45-60 dk)"
         },
         {
           "id": "python.w10-car",
           "day": "Çar",
-          "text": "Read the official scikit-learn Getting Started guide (https://scikit-learn.org/stable/getting_started.html). Run the examples yourself: estimators, fit/predict, transformers and pipelines. This is the library you will use at work. (45-60 min)",
+          "text": "HACKERRANK DAY: back to \"10 Days of Statistics\" (https://www.hackerrank.com/domains/tutorials/10-days-of-statistics) for Days 7-9 — Pearson correlation, the least-squares regression line and multiple linear regression. You are implementing by hand this week what scikit-learn hands you as one `fit()` call; that is the point. (45-60 min)",
           "recurring": false,
-          "textTr": "Resmî scikit-learn Getting Started rehberini oku (https://scikit-learn.org/stable/getting_started.html). Örnekleri kendin çalıştır: estimator'lar, fit/predict, transformer'lar ve pipeline'lar. İşte kullanacağın kütüphane bu. (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: \"10 Days of Statistics\"e geri dön (https://www.hackerrank.com/domains/tutorials/10-days-of-statistics) ve Gün 7-9'u yap — Pearson korelasyonu, en küçük kareler regresyon doğrusu ve çoklu doğrusal regresyon. Bu hafta elle kurduğun şeyi scikit-learn sana tek bir `fit()` çağrısı olarak veriyor; olay tam da bu. (45-60 dk)"
         },
         {
           "id": "python.w10-per",
@@ -564,9 +564,9 @@
         {
           "id": "python.w10-cum",
           "day": "Cum",
-          "text": "PROJECT: Build a scikit-learn Pipeline (preprocessing + model) for a classification task on work-like synthetic data. You can generate the data with make_classification. Train it, print a simple accuracy score, and push the code to GitHub. (45-60 min)",
+          "text": "PROJECT: Build a scikit-learn Pipeline (preprocessing + model) for a classification task on work-like synthetic data. You can generate the data with make_classification. Train it, then score it with TWO metrics, not just accuracy — open https://scikit-learn.org/stable/modules/model_evaluation.html and add precision/recall or a confusion matrix, and write one line about where bare accuracy would have fooled you. Push the code to GitHub. (45-60 min)",
           "recurring": false,
-          "textTr": "PROJE: İşe benzeyen sentetik veri üzerinde bir sınıflandırma görevi için scikit-learn Pipeline'ı kur (ön işleme + model). Veriyi make_classification ile üretebilirsin. Eğit, basit bir doğruluk skoru yazdır ve kodu GitHub'a push et. (45-60 dk)"
+          "textTr": "PROJE: İşe benzeyen sentetik veri üzerinde bir sınıflandırma görevi için scikit-learn Pipeline'ı kur (ön işleme + model). Veriyi make_classification ile üretebilirsin. Eğit, sonra yalnız accuracy ile değil İKİ metrikle puanla — https://scikit-learn.org/stable/modules/model_evaluation.html sayfasını aç ve precision/recall ya da karmaşıklık matrisi ekle, çıplak accuracy'nin seni nerede yanıltacağını tek satırla yaz. Kodu GitHub'a push et. (45-60 dk)"
         },
         {
           "id": "python.w10-rec-notes",
@@ -577,38 +577,38 @@
         }
       ],
       "titleTr": "Model Kalitesi",
-      "summaryTr": "Modellerin neden başarısız olduğunu öğren: underfitting ve overfitting. Random forest'larla tanış, Intro to ML sertifikanı al ve pipeline kurmanın scikit-learn yolunu öğren. Cuma günü eksiksiz bir pipeline kuruyorsun.",
-      "sourceTr": "https://www.kaggle.com/learn/intro-to-machine-learning • https://scikit-learn.org/stable/getting_started.html • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
+      "summaryTr": "Modellerin neden başarısız olduğunu öğren: underfitting ve overfitting. Random forest ve gradient boosting ile tanış ve bir modeli çıplak doğruluk yerine DOĞRU metrikle ölçmeyi öğren. Cuma günü eksiksiz bir pipeline kuruyorsun.",
+      "sourceTr": "https://scikit-learn.org/stable/modules/learning_curve.html • https://scikit-learn.org/stable/modules/ensemble.html • https://scikit-learn.org/stable/modules/model_evaluation.html • https://www.hackerrank.com/domains/tutorials/10-days-of-statistics • https://exercism.org/tracks/python"
     },
     {
       "id": "w11",
       "phaseId": "faz2",
       "no": "11",
-      "title": "Intermediate ML I",
+      "title": "Preprocessing and Pipelines",
       "episode": "",
-      "summary": "Level up with the Kaggle Intermediate ML course: handle missing values and categorical variables the right way, and put everything into pipelines. On Friday you add cross-validation to your own project.",
-      "source": "https://www.kaggle.com/learn/intermediate-machine-learning • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python",
+      "summary": "Real data is dirty: missing values and categorical columns. Learn the scikit-learn way to handle both — imputers, encoders and ColumnTransformer — and pack everything into ONE pipeline object. On Friday you add cross-validation to your own project.",
+      "source": "https://scikit-learn.org/stable/modules/impute.html • https://scikit-learn.org/stable/modules/preprocessing.html • https://scikit-learn.org/stable/modules/compose.html • https://www.hackerrank.com/domains/sql • https://exercism.org/tracks/python",
       "tasks": [
         {
           "id": "python.w11-pzt",
           "day": "Pzt",
-          "text": "Start the Kaggle Intermediate Machine Learning course (https://www.kaggle.com/learn/intermediate-machine-learning). Complete Lesson 1 (Introduction) and Lesson 2 (Missing Values). (45-60 min)",
+          "text": "Read the imputation guide (https://scikit-learn.org/stable/modules/impute.html): SimpleImputer strategies, and why imputation must live INSIDE the pipeline instead of running before the split. Apply it to a dataset that has missing values. (45-60 min)",
           "recurring": false,
-          "textTr": "Kaggle Intermediate Machine Learning kursuna başla (https://www.kaggle.com/learn/intermediate-machine-learning). Ders 1'i (Introduction) ve Ders 2'yi (Missing Values) tamamla. (45-60 dk)"
+          "textTr": "Eksik değer doldurma rehberini oku (https://scikit-learn.org/stable/modules/impute.html): SimpleImputer stratejileri ve doldurmanın neden bölmeden önce değil, pipeline'ın İÇİNDE yaşaması gerektiği. Eksik değerleri olan bir veri setinde uygula. (45-60 dk)"
         },
         {
           "id": "python.w11-sali",
           "day": "Salı",
-          "text": "Continue the Intermediate ML course (https://www.kaggle.com/learn/intermediate-machine-learning). Complete Lesson 3 (Categorical Variables) and Lesson 4 (Pipelines). Compare this pipeline lesson with the scikit-learn guide from last week. (45-60 min)",
+          "text": "Read the preprocessing guide (https://scikit-learn.org/stable/modules/preprocessing.html) for OneHotEncoder, OrdinalEncoder and scaling, then the ColumnTransformer guide (https://scikit-learn.org/stable/modules/compose.html). Build ONE pipeline that treats numeric and categorical columns differently and ends in a model — this single object is the thing you actually ship at work. (45-60 min)",
           "recurring": false,
-          "textTr": "Intermediate ML kursuna devam et (https://www.kaggle.com/learn/intermediate-machine-learning). Ders 3'ü (Categorical Variables) ve Ders 4'ü (Pipelines) tamamla. Bu pipeline dersini geçen haftaki scikit-learn rehberiyle karşılaştır. (45-60 dk)"
+          "textTr": "Ön işleme rehberini oku (https://scikit-learn.org/stable/modules/preprocessing.html) — OneHotEncoder, OrdinalEncoder ve ölçekleme — sonra ColumnTransformer rehberini (https://scikit-learn.org/stable/modules/compose.html). Sayısal ile kategorik sütunlara farklı davranan, sonunda bir modele bağlanan TEK bir pipeline kur; iş yerinde gerçekten teslim ettiğin şey bu tek nesnedir. (45-60 dk)"
         },
         {
           "id": "python.w11-car",
           "day": "Çar",
-          "text": "Do the hands-on exercises of Lessons 1-4 in the Intermediate ML course (https://www.kaggle.com/learn/intermediate-machine-learning). Focus on the missing values and categorical variables exercises — you will need them at work. (45-60 min)",
+          "text": "HACKERRANK DAY: on HackerRank SQL (https://www.hackerrank.com/domains/sql) solve 5 problems from the \"Basic Join\" subdomain. A JOIN is `pd.merge` with different punctuation. This is also your warm-up for next week's timed SQL certification, so time yourself loosely. (45-60 min)",
           "recurring": false,
-          "textTr": "Intermediate ML kursunda (https://www.kaggle.com/learn/intermediate-machine-learning) Ders 1-4'ün uygulamalı alıştırmalarını yap. Eksik değerler ve kategorik değişkenler alıştırmalarına odaklan — işte bunlara ihtiyacın olacak. (45-60 dk)"
+          "textTr": "HACKERRANK GÜNÜ: HackerRank SQL'de (https://www.hackerrank.com/domains/sql) \"Basic Join\" alt alanından 5 problem çöz. JOIN, noktalaması değişmiş bir `pd.merge`'dür. Bu aynı zamanda haftaya gireceğin süreli SQL sertifikasyonunun ısınması, o yüzden kendini gevşekçe süre tut. (45-60 dk)"
         },
         {
           "id": "python.w11-per",
@@ -632,39 +632,39 @@
           "recurring": true
         }
       ],
-      "titleTr": "Intermediate ML I",
-      "summaryTr": "Kaggle Intermediate ML kursuyla seviye atla: eksik değerleri ve kategorik değişkenleri doğru şekilde ele al ve her şeyi pipeline'lara koy. Cuma günü kendi projene çapraz doğrulama ekliyorsun.",
-      "sourceTr": "https://www.kaggle.com/learn/intermediate-machine-learning • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
+      "titleTr": "Ön İşleme ve Pipeline'lar",
+      "summaryTr": "Gerçek veri kirlidir: eksik değerler ve kategorik sütunlar. İkisini de scikit-learn yoluyla ele almayı öğren — imputer'lar, encoder'lar ve ColumnTransformer — ve her şeyi TEK bir pipeline nesnesine paketle. Cuma günü kendi projene çapraz doğrulama ekliyorsun.",
+      "sourceTr": "https://scikit-learn.org/stable/modules/impute.html • https://scikit-learn.org/stable/modules/preprocessing.html • https://scikit-learn.org/stable/modules/compose.html • https://www.hackerrank.com/domains/sql • https://exercism.org/tracks/python"
     },
     {
       "id": "w12",
       "phaseId": "faz2",
       "no": "12",
-      "title": "Titanic Milestone",
+      "title": "End-to-End ML Milestone",
       "episode": "",
-      "summary": "The big week. Finish Intermediate ML (XGBoost and data leakage), claim the certificate, and then enter your first Kaggle competition: submit a real Titanic prediction and describe it in English.",
-      "source": "https://www.kaggle.com/learn/intermediate-machine-learning • https://www.kaggle.com/competitions/titanic • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python",
+      "summary": "The big week, and it pays out twice: a FREE timed SQL certification on Wednesday, and a complete end-to-end model on YOUR OWN dataset on Friday. Before those, cross-validation done right, hyperparameter search, and the leakage traps that silently ruin real projects.",
+      "source": "https://scikit-learn.org/stable/modules/cross_validation.html • https://scikit-learn.org/stable/modules/grid_search.html • https://scikit-learn.org/stable/common_pitfalls.html • https://www.hackerrank.com/skills-verification/sql_basic • https://exercism.org/tracks/python",
       "tasks": [
         {
           "id": "python.w12-pzt",
           "day": "Pzt",
-          "text": "In the Intermediate ML course (https://www.kaggle.com/learn/intermediate-machine-learning), complete the cross-validation and XGBoost lessons with their exercises. XGBoost is one of the most used models in real projects. (45-60 min)",
+          "text": "Go back to the cross-validation guide (https://scikit-learn.org/stable/modules/cross_validation.html), this time for `cross_val_score` and KFold on your own model. Then read the hyperparameter tuning guide (https://scikit-learn.org/stable/modules/grid_search.html) and run one small GridSearchCV. (45-60 min)",
           "recurring": false,
-          "textTr": "Intermediate ML kursunda (https://www.kaggle.com/learn/intermediate-machine-learning) çapraz doğrulama ve XGBoost derslerini alıştırmalarıyla birlikte tamamla. XGBoost, gerçek projelerde en çok kullanılan modellerden biri. (45-60 dk)"
+          "textTr": "Çapraz doğrulama rehberine geri dön (https://scikit-learn.org/stable/modules/cross_validation.html), bu sefer kendi modelin üzerinde `cross_val_score` ve KFold için. Sonra hiperparametre ayarlama rehberini oku (https://scikit-learn.org/stable/modules/grid_search.html) ve küçük bir GridSearchCV çalıştır. (45-60 dk)"
         },
         {
           "id": "python.w12-sali",
           "day": "Salı",
-          "text": "Complete the final data leakage lesson of the Intermediate ML course (https://www.kaggle.com/learn/intermediate-machine-learning) and its exercises. Then claim your Intermediate ML COMPLETION CERTIFICATE from the course page. (45-60 min)",
+          "text": "Read \"Common pitfalls and recommended practices\" (https://scikit-learn.org/stable/common_pitfalls.html), especially the DATA LEAKAGE section — this is the mistake that makes a model look great in the notebook and fail in production. Then audit your own code: is any preprocessing fitted on test data? Fix what you find. (45-60 min)",
           "recurring": false,
-          "textTr": "Intermediate ML kursunun (https://www.kaggle.com/learn/intermediate-machine-learning) son dersi olan veri sızıntısı dersini ve alıştırmalarını tamamla. Sonra kurs sayfasından Intermediate ML TAMAMLAMA SERTİFİKANI al. (45-60 dk)"
+          "textTr": "\"Common pitfalls and recommended practices\" sayfasını oku (https://scikit-learn.org/stable/common_pitfalls.html), özellikle VERİ SIZINTISI bölümünü — bu, modeli notebook'ta harika gösterip canlıda çökerten hatadır. Sonra kendi kodunu denetle: herhangi bir ön işleme test verisi üzerinde fit ediliyor mu? Bulduğunu düzelt. (45-60 dk)"
         },
         {
           "id": "python.w12-car",
           "day": "Çar",
-          "text": "Titanic preparation: read the Kaggle Titanic competition page (https://www.kaggle.com/competitions/titanic) — the description, the data page and the rules. Write a short plan in English: which features will you use, which model will you start with? (45-60 min)",
+          "text": "🏁 HACKERRANK DAY: take the FREE timed HackerRank \"SQL (Basic)\" certification (https://www.hackerrank.com/skills-verification/sql_basic) — you have been building toward it since Week 7 with Basic Select, Aggregation and Basic Join. Add the certificate link to your GitHub profile README next to the Python (Basic) one. (45-60 min)",
           "recurring": false,
-          "textTr": "Titanic hazırlığı: Kaggle Titanic yarışma sayfasını oku (https://www.kaggle.com/competitions/titanic) — açıklamayı, veri sayfasını ve kuralları. İngilizce kısa bir plan yaz: hangi özellikleri kullanacaksın, hangi modelle başlayacaksın? (45-60 dk)"
+          "textTr": "🏁 HACKERRANK GÜNÜ: ÜCRETSİZ süreli HackerRank \"SQL (Basic)\" sertifikasyonuna gir (https://www.hackerrank.com/skills-verification/sql_basic) — Hafta 7'den beri Basic Select, Aggregation ve Basic Join ile buna hazırlanıyorsun. Sertifika linkini GitHub profil README'ne Python (Basic) sertifikanın yanına ekle. (45-60 dk)"
         },
         {
           "id": "python.w12-per",
@@ -676,9 +676,9 @@
         {
           "id": "python.w12-cum",
           "day": "Cum",
-          "text": "🏁 MILESTONE PROJECT: Build and train your model for the Kaggle Titanic competition (https://www.kaggle.com/competitions/titanic) and SUBMIT your first entry. Then write an English README in your GitHub repo describing your approach: features, model, score, and what you want to try next. (90 min)",
+          "text": "🏁 MILESTONE PROJECT: pick your dataset — work-like data if you can get it — and build the complete model on it: one pipeline (impute + encode + model), a cross-validated score, and at least one tuned hyperparameter. Then write an English README in your GitHub repo describing your approach: which features, which model, which metric decided success, the score, and what you want to try next. (90 min)",
           "recurring": false,
-          "textTr": "🏁 KİLOMETRE TAŞI PROJESİ: Kaggle Titanic yarışması (https://www.kaggle.com/competitions/titanic) için modelini kur ve eğit, sonra ilk gönderimini YAP. Ardından GitHub repo'nda yaklaşımını anlatan İngilizce bir README yaz: özellikler, model, skor ve bir sonraki adımda denemek istediklerin. (90 dk)"
+          "textTr": "🏁 KİLOMETRE TAŞI PROJESİ: veri setini seç — elde edebiliyorsan işe benzeyen veri — ve üzerine eksiksiz modeli kur: tek bir pipeline (doldurma + kodlama + model), çapraz doğrulanmış bir skor ve en az bir ayarlanmış hiperparametre. Ardından GitHub repo'nda yaklaşımını anlatan İngilizce bir README yaz: hangi özellikler, hangi model, başarıya hangi metrik karar verdi, skor ve bir sonraki adımda denemek istediklerin. (90 dk)"
         },
         {
           "id": "python.w12-rec-notes",
@@ -688,9 +688,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "Titanic Kilometre Taşı",
-      "summaryTr": "Büyük hafta. Intermediate ML'i bitir (XGBoost ve veri sızıntısı), sertifikayı al ve sonra ilk Kaggle yarışmana gir: gerçek bir Titanic tahmini gönder ve onu İngilizce anlat.",
-      "sourceTr": "https://www.kaggle.com/learn/intermediate-machine-learning • https://www.kaggle.com/competitions/titanic • https://exercism.org/tracks/python • https://www.hackerrank.com/domains/python"
+      "titleTr": "Uçtan Uca ML Kilometre Taşı",
+      "summaryTr": "Büyük hafta ve iki kez ödeme yapıyor: çarşamba ÜCRETSİZ süreli bir SQL sertifikasyonu, cuma KENDİ veri setin üzerinde uçtan uca eksiksiz bir model. Onlardan önce: doğru yapılmış çapraz doğrulama, hiperparametre araması ve gerçek projeleri sessizce mahveden sızıntı tuzakları.",
+      "sourceTr": "https://scikit-learn.org/stable/modules/cross_validation.html • https://scikit-learn.org/stable/modules/grid_search.html • https://scikit-learn.org/stable/common_pitfalls.html • https://www.hackerrank.com/skills-verification/sql_basic • https://exercism.org/tracks/python"
     },
     {
       "id": "w13",
@@ -718,9 +718,9 @@
         {
           "id": "python.w13-car",
           "day": "Çar",
-          "text": "Sklearn upkeep: open your Titanic notebook from https://www.kaggle.com/competitions/titanic and make ONE improvement to your pipeline (a new feature or a better model setting). Check if your score changes. (45-60 min)",
+          "text": "Sklearn upkeep: open your Week 12 milestone project and make ONE improvement to the pipeline (a new feature or a better model setting). Check whether your cross-validated score actually moves. (45-60 min)",
           "recurring": false,
-          "textTr": "Sklearn bakımı: https://www.kaggle.com/competitions/titanic sayfasındaki Titanic notebook'unu aç ve pipeline'ında TEK bir iyileştirme yap (yeni bir özellik ya da daha iyi bir model ayarı). Skorun değişiyor mu bak. (45-60 dk)"
+          "textTr": "Sklearn bakımı: Hafta 12'deki kilometre taşı projeni aç ve pipeline'ında TEK bir iyileştirme yap (yeni bir özellik ya da daha iyi bir model ayarı). Çapraz doğrulanmış skorun gerçekten kıpırdıyor mu bak. (45-60 dk)"
         },
         {
           "id": "python.w13-per",
@@ -830,9 +830,9 @@
         {
           "id": "python.w15-car",
           "day": "Çar",
-          "text": "Sklearn upkeep: revisit https://scikit-learn.org/stable/getting_started.html and practice one thing you feel weak on (pipelines, cross-validation, or a new model type) on the Titanic data. (45-60 min)",
+          "text": "Sklearn upkeep: revisit https://scikit-learn.org/stable/getting_started.html and practice one thing you feel weak on (pipelines, cross-validation, or a new model type) on your Week 12 project data. (45-60 min)",
           "recurring": false,
-          "textTr": "Sklearn bakımı: https://scikit-learn.org/stable/getting_started.html adresine geri dön ve kendini zayıf hissettiğin bir konuyu (pipeline'lar, çapraz doğrulama veya yeni bir model tipi) Titanic verisi üzerinde çalış. (45-60 dk)"
+          "textTr": "Sklearn bakımı: https://scikit-learn.org/stable/getting_started.html adresine geri dön ve kendini zayıf hissettiğin bir konuyu (pipeline'lar, çapraz doğrulama veya yeni bir model tipi) Hafta 12 projendeki veri üzerinde çalış. (45-60 dk)"
         },
         {
           "id": "python.w15-per",
@@ -942,9 +942,9 @@
         {
           "id": "python.w17-car",
           "day": "Çar",
-          "text": "Sklearn upkeep: try one more Titanic improvement on https://www.kaggle.com/competitions/titanic — for example a different model or better feature encoding — and submit if the local score looks better. (45-60 min)",
+          "text": "Sklearn upkeep: try one more improvement on your Week 12 model — for example a different model family or better feature encoding — and record the new cross-validated score in the project README. (45-60 min)",
           "recurring": false,
-          "textTr": "Sklearn bakımı: https://www.kaggle.com/competitions/titanic üzerinde bir Titanic iyileştirmesi daha dene — örneğin farklı bir model veya daha iyi bir özellik kodlaması — ve yerel skorun daha iyi görünüyorsa gönderimini yap. (45-60 dk)"
+          "textTr": "Sklearn bakımı: Hafta 12 modelinde bir iyileştirme daha dene — örneğin farklı bir model ailesi veya daha iyi bir özellik kodlaması — ve yeni çapraz doğrulanmış skoru proje README'sine kaydet. (45-60 dk)"
         },
         {
           "id": "python.w17-per",
@@ -1034,7 +1034,7 @@
       "no": "19",
       "title": "Serve It",
       "episode": "",
-      "summary": "Your RAG chatbot becomes a real local service this week. You expose it as a small web API with FastAPI or Flask, and you also serve your sklearn Titanic model behind the same API. One service, two brains: LLM and classical ML.",
+      "summary": "Your RAG chatbot becomes a real local service this week. You expose it as a small web API with FastAPI or Flask, and you also serve your sklearn model from Week 12 behind the same API. One service, two brains: LLM and classical ML.",
       "source": "FastAPI or Flask official docs (choose one, follow it), Ollama API (https://docs.ollama.com/api), scikit-learn (https://scikit-learn.org/stable/getting_started.html)",
       "tasks": [
         {
@@ -1054,9 +1054,9 @@
         {
           "id": "python.w19-car",
           "day": "Çar",
-          "text": "Sklearn upkeep: save your trained Titanic model with joblib, then load it inside the API and test a prediction from Python. Refresh basics at https://scikit-learn.org/stable/getting_started.html if needed. (45-60 min)",
+          "text": "Sklearn upkeep: save your trained Week 12 model with joblib, then load it inside the API and test a prediction from Python. Refresh basics at https://scikit-learn.org/stable/getting_started.html if needed. (45-60 min)",
           "recurring": false,
-          "textTr": "Sklearn bakımı: eğitilmiş Titanic modelini joblib ile kaydet, sonra API'nin içinde yükle ve Python'dan bir tahmini test et. Gerekirse https://scikit-learn.org/stable/getting_started.html adresinden temelleri tazele. (45-60 dk)"
+          "textTr": "Sklearn bakımı: Hafta 12'de eğittiğin modeli joblib ile kaydet, sonra API'nin içinde yükle ve Python'dan bir tahmini test et. Gerekirse https://scikit-learn.org/stable/getting_started.html adresinden temelleri tazele. (45-60 dk)"
         },
         {
           "id": "python.w19-per",
@@ -1081,7 +1081,7 @@
         }
       ],
       "titleTr": "Servise Aç",
-      "summaryTr": "RAG sohbet botun bu hafta gerçek bir yerel servise dönüşüyor. Onu FastAPI veya Flask ile küçük bir web API'si olarak açıyorsun ve aynı API'nin arkasından sklearn Titanic modelini de servis ediyorsun. Tek servis, iki beyin: LLM ve klasik ML.",
+      "summaryTr": "RAG sohbet botun bu hafta gerçek bir yerel servise dönüşüyor. Onu FastAPI veya Flask ile küçük bir web API'si olarak açıyorsun ve aynı API'nin arkasından Hafta 12'deki sklearn modelini de servis ediyorsun. Tek servis, iki beyin: LLM ve klasik ML.",
       "sourceTr": "FastAPI veya Flask resmi dokümanları (birini seç, onu takip et), Ollama API (https://docs.ollama.com/api), scikit-learn (https://scikit-learn.org/stable/getting_started.html)"
     },
     {
@@ -1090,8 +1090,8 @@
       "no": "20",
       "title": "Finals",
       "episode": "",
-      "summary": "Final week: you review the whole journey from Python basics to a local AI stack. Interview answers in English, one more course chapter, a last Titanic attempt, a re-solve marathon, and a demo day where everything runs end to end.",
-      "source": "HF LLM course (https://huggingface.co/learn/llm-course/chapter1/1), Titanic (https://www.kaggle.com/competitions/titanic), Exercism (https://exercism.org/tracks/python)",
+      "summary": "Final week: you review the whole journey from Python basics to a local AI stack. Interview answers in English, one more course chapter, a last improvement to your ML model, a re-solve marathon, and a demo day where everything runs end to end.",
+      "source": "HF LLM course (https://huggingface.co/learn/llm-course/chapter1/1), scikit-learn (https://scikit-learn.org/stable/getting_started.html), Exercism (https://exercism.org/tracks/python)",
       "tasks": [
         {
           "id": "python.w20-pzt",
@@ -1110,9 +1110,9 @@
         {
           "id": "python.w20-car",
           "day": "Çar",
-          "text": "Final Titanic score attempt on https://www.kaggle.com/competitions/titanic: apply your best ideas from the last 8 weeks and make one last submission. Compare with your Phase 2 score. (45-60 min)",
+          "text": "Final score attempt on your Week 12 model: apply your best ideas from the last 8 weeks and make one last improvement. Compare it with the score you recorded in Phase 2 and write down what actually moved the needle. (45-60 min)",
           "recurring": false,
-          "textTr": "https://www.kaggle.com/competitions/titanic üzerinde son Titanic skor denemesi: son 8 haftanın en iyi fikirlerini uygula ve son bir gönderim yap. Faz 2 skorunla karşılaştır. (45-60 dk)"
+          "textTr": "Hafta 12 modelinde son skor denemesi: son 8 haftanın en iyi fikirlerini uygula ve son bir iyileştirme yap. Faz 2'de kaydettiğin skorla karşılaştır ve asıl neyin işe yaradığını yaz. (45-60 dk)"
         },
         {
           "id": "python.w20-per",
@@ -1137,8 +1137,8 @@
         }
       ],
       "titleTr": "Final",
-      "summaryTr": "Son hafta: Python temellerinden yerel bir AI yığınına kadar bütün yolculuğu gözden geçiriyorsun. İngilizce mülakat cevapları, bir kurs bölümü daha, son bir Titanic denemesi, bir yeniden çözme maratonu ve her şeyin uçtan uca çalıştığı bir demo günü.",
-      "sourceTr": "HF LLM kursu (https://huggingface.co/learn/llm-course/chapter1/1), Titanic (https://www.kaggle.com/competitions/titanic), Exercism (https://exercism.org/tracks/python)"
+      "summaryTr": "Son hafta: Python temellerinden yerel bir AI yığınına kadar bütün yolculuğu gözden geçiriyorsun. İngilizce mülakat cevapları, bir kurs bölümü daha, ML modeline son bir iyileştirme, bir yeniden çözme maratonu ve her şeyin uçtan uca çalıştığı bir demo günü.",
+      "sourceTr": "HF LLM kursu (https://huggingface.co/learn/llm-course/chapter1/1), scikit-learn (https://scikit-learn.org/stable/getting_started.html), Exercism (https://exercism.org/tracks/python)"
     }
   ],
   "titleTr": "Python → Yapay Zekâ Mühendisliği (20 Hafta)"
