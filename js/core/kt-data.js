@@ -12,7 +12,7 @@
 const KTData = (() => {
 
     const TABLE = 'task_progress';
-    const PROGRAMS_URL = 'data/programs.json?v=5f38308f';
+    const PROGRAMS_URL = 'data/programs.json?v=c4af27e8';
     const ERR_GENERIC = 'Bir hata oluştu, lütfen tekrar deneyin';
 
     const table = () => KTConfig.client.from(TABLE);

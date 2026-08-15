@@ -41,7 +41,7 @@
     "descriptionTr": "Haftada 2 gün: C#↔Dart kata rotasyonu ve diller arası yeniden çözüm, MSSQL/T-SQL rayı, DartPad Flutter mini görevleri + ücretsiz sertifikalar",
     "durationLabel": "20 hafta",
     "icon": "bi-tools",
-    "planUrl": "data/programs/pratik/plan.json?v=5d8f6d91",
+    "planUrl": "data/programs/pratik/plan.json?v=dae4e9c3",
     "idPrefix": "pratik.",
     "taskCount": 60
   },
@@ -54,7 +54,7 @@
     "descriptionTr": "20 haftalık yoğun yol: Python derinleşme (Udemy + resmî dokümanlar) → pandas + scikit-learn → Ollama + Qwen ile yerel LLM mühendisliği (RAG, chatbot); sertifikasyon + iş projesine odak; hafta sonu boş",
     "durationLabel": "20 hafta",
     "icon": "bi-robot",
-    "planUrl": "data/programs/python/plan.json?v=a52e5c88",
+    "planUrl": "data/programs/python/plan.json?v=02962c44",
     "idPrefix": "python.",
     "taskCount": 120
   }

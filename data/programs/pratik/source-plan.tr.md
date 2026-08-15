@@ -1,7 +1,7 @@
 # 🔧 DEV PRACTICE — C# / Dart + MSSQL (20 Hafta, İngilizce)
 
-> **Profil:** Bildiği becerileri keskin tutan, çalışan bir geliştirici: C# ve Dart kataları + MSSQL + Flutter mini-görevleri. Bilerek HAFİF tutulmuş bir program — haftada yalnızca 2 gün (Salı ve Çarşamba, her biri 30-40 dk). HER ŞEY tarayıcıda yürür: bir siteyi açarsın, orada çözersin, sekmeyi kaparsın. Kurulacak bir şey yok, yerel proje yok. Tek başına ayakta durur ve bu kadar hafif olduğu için, istersen başka bir programın yanında çakışma yaratmadan da yürüyebilir.
-> **Sistem:** **Salı** = kata günü, 2 haftalık dil rotasyonu (tek haftalar C#, çift haftalar Dart) + HER hafta platform geçmişinden bir diller arası yeniden çözüm: CodeWars profilini aç → Solutions sekmesi (ya da Exercism çözümler sayfan), eski bir problem seç ve onu DİĞER dilde yeniden çöz (C# ↔ Dart) (bir problem asla "bitmiş" değildir — diğer dilde geri gelir). **Çar** = MSSQL günü (yalnızca T-SQL), her 4. hafta hariç: o haftalar DartPad Flutter mini-görev günü, o da tamamen tarayıcıda. Derin Flutter çalışması bilerek kapsam dışı: ileride kendi başına adanmış bir Flutter Advanced programını hak ediyor.
+> **Profil:** Bildiği becerileri keskin tutan, çalışan bir geliştirici: C# ve Dart pratik problemleri + MSSQL + Flutter mini-görevleri. Bilerek HAFİF tutulmuş bir program — haftada yalnızca 2 gün (Salı ve Çarşamba, her biri 30-40 dk). HER ŞEY tarayıcıda yürür: bir siteyi açarsın, orada çözersin, sekmeyi kaparsın. Kurulacak bir şey yok, yerel proje yok. Tek başına ayakta durur ve bu kadar hafif olduğu için, istersen başka bir programın yanında çakışma yaratmadan da yürüyebilir.
+> **Sistem:** **Salı** = pratik günü, 2 haftalık dil rotasyonu — tek haftalar HackerRank'te C# (Algorithms / Data Structures, gönderim dili C#), çift haftalar CodeWars/Exercism'de Dart — artı HER hafta iki geçmiş arasında bir diller arası yeniden çözüm: C# haftalarında CodeWars/Exercism'deki Dart çözümlerinden bir problem alıp onu C# ile yeniden çözersin, Dart haftalarında HackerRank'teki C# gönderimlerinden birini alıp onu Dart ile yeniden çözersin (bir problem asla "bitmiş" değildir — diğer dilde geri gelir). **Çar** = MSSQL günü (yalnızca T-SQL): müfredat olarak MS Learn T-SQL patikası, pratik platformu olarak HackerRank SQL — her 4. hafta hariç: o haftalar DartPad Flutter mini-görev günü, o da tamamen tarayıcıda. Derin Flutter çalışması bilerek kapsam dışı: ileride kendi başına adanmış bir Flutter Advanced programını hak ediyor.
 > **Dil notu:** Bilerek İngilizce yazıldı — onu okumak İngilizce pratiğinin bir parçası.
 
 ---
@@ -10,148 +10,148 @@
 
 | Kaynak | Ne için | Adres |
 |---|---|---|
-| Exercism | C# ve Dart parkurları + ücretsiz insan mentorluğu | https://exercism.org/tracks/csharp |
-| CodeWars | Kyu seviyeli katalar; çözdükten sonra en iyi çözümlerle karşılaştır | https://www.codewars.com/kata/search/csharp |
+| HackerRank Algorithms / Data Structures | C# pratiği — C# ile çöz, .NET 8; Data Structures alanı kardeş parkur | https://www.hackerrank.com/domains/algorithms |
+| Exercism | Dart parkuru + ücretsiz insan mentorluğu | https://exercism.org/tracks/dart |
+| CodeWars | Kyu seviyeli Dart kataları; çözdükten sonra en iyi çözümlerle karşılaştır | https://www.codewars.com/kata/search/dart |
 | MS Learn T-SQL | Resmî ücretsiz patika "Query and modify data with Transact-SQL" (6 modül) | https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ |
 | HackerRank SQL | Pratik — problem sunuyorsa MS SQL Server motorunu seç | https://www.hackerrank.com/domains/sql |
-| LeetCode Database | SQL problemleri — HER ZAMAN MS SQL Server lehçesini seç | https://leetcode.com/problemset/database/ |
 | HackerRank sertifikaları | ÜCRETSİZ ve süreli: 10. haftada C# (Basic), 20. haftada SQL (Intermediate) | https://www.hackerrank.com/skills-verification |
 | DartPad | Flutter mini-görev haftaları: Dart ve Flutter widget'larını tarayıcıda çalıştır — ücretsiz, kayıt yok | https://dartpad.dev |
 | W3Schools jQuery | Tarayıcı içi jQuery alıştırmaları, anında kontrol ve sonunda bir quiz | https://www.w3schools.com/jquery/jquery_exercises.asp |
 
 ## ⚖️ Sabit Kurallar
 
-1. HER ŞEY tarayıcıda: kurulum yok, yerel dosya yok. Çözdüğün problemlerin geçmişi platformlarda duruyor — CodeWars Solutions sekmesi ve Exercism çözümler sayfası senin kaydın; Salı'nın yeniden çözümü hep oradan seçilir.
-2. Diller arası yeniden çözüm asla atlanmaz: CodeWars profilini aç → Solutions sekmesi (ya da Exercism çözümler sayfan), eski bir problem seç ve onu DİĞER dilde yeniden çöz (C# ↔ Dart) — CodeWars tamamlanmış kataları yeniden çalışmayı resmen destekliyor. Bütün mesele bu.
-3. Her katadan sonra platformdaki en iyi çözümlerden en az 2 tanesini oku ve kullanmadığın BİR numara bul.
-4. SQL yalnızca MSSQL: T-SQL sözdizimiyle çalış (TOP, GETDATE, ISNULL). LeetCode'da her zaman MS SQL Server lehçesini seç.
+1. HER ŞEY tarayıcıda: kurulum yok, yerel dosya yok. Çözdüğün problemlerin geçmişi artık İKİ platformda duruyor — HackerRank gönderimlerin (C# ve SQL) ve CodeWars Solutions sekmen / Exercism çözümler sayfan (Dart) — ve Salı'nın yeniden çözümü hep bu ikisinden birinden seçilir.
+2. Diller arası yeniden çözüm asla atlanmaz: C# haftalarında CodeWars/Exercism'deki Dart geçmişinden eski bir problem al ve onu HackerRank'te C# ile yeniden çöz; Dart haftalarında HackerRank'teki C# gönderimlerinden birini al ve onu CodeWars/Exercism'de Dart ile yeniden çöz. Bir problem asla "bitmiş" değildir — diğer dilde geri gelir. Bütün mesele bu.
+3. Her çözdüğün problemden sonra en az 2 başka çözüm oku — HackerRank'te Discussions sekmesi, CodeWars'ta en iyi çözümler — ve kullanmadığın BİR numara bul.
+4. SQL yalnızca MSSQL: T-SQL sözdizimiyle çalış (TOP, GETDATE, ISNULL). HackerRank SQL'de, problem sunuyorsa MS SQL Server motorunu seç.
 5. Her 4. Salı ~10 dakikalık W3Schools jQuery alıştırması içerir — tarayıcıda çözülür, anında kontrol edilir, kurulum gerekmez.
 6. Süreli sertifika günleri dürüst geçer: kronometre açık, mola yok. Bir hafta kayarsa hafta uzar; sıra hiç değişmez.
 
 ---
 # 🟠 FAZ 1 — Rotasyon ve T-SQL Temeli (Hafta 1-10)
 
-### Hafta 1 — Açılış: C# Kataları ve İlk T-SQL Modülü
-**Özet:** 2 haftalık kata rotasyonuna C# ile başla — her şey sitede, tarayıcıda çözülür — ve T-SQL patikasına giriş modülüyle giriş yap.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/
-- [ ] **[Salı]** CodeWars'ta C# ile 2 kata çöz (7 kyu seviyesi) ya da Exercism'de 2 orta seviye C# alıştırması yap — Exercism editörü tarayıcıda çalışır, kurulacak bir şey yok, testler sitede koşar. Sonra az önce çözdüğün problemlerden birini seç ve aynı sitede Dart ile yeniden çöz; iki sürüm de profilinde kayıtlı kalır (30-40 dk)
-- [ ] **[Çar]** MS Learn'de, "Query and modify data with Transact-SQL" patikasındaki "Introduction to Transact-SQL" modülünü tamamla. Örnek sorguları yalnızca okumak yerine kendin yaz, ardından HackerRank SQL'de 1-2 kolay problem çöz (sunulduğu yerde MS SQL Server motorunu seç) (30-40 dk)
+### Hafta 1 — Açılış: HackerRank C# Günü ve İlk T-SQL Modülü
+**Özet:** 2 haftalık dil rotasyonuna HackerRank'te C# ile başla — her şey sitede, tarayıcıda çözülür — ve T-SQL patikasına giriş modülüyle giriş yap.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/
+- [ ] **[Salı]** HackerRank Algorithms (https://www.hackerrank.com/domains/algorithms) ya da Data Structures (https://www.hackerrank.com/domains/data-structures) alanında 2 Easy problem çöz, gönderim dili olarak C# (.NET 8) seçerek — editör tarayıcıda çalışır, kurulacak bir şey yok, testler sitede koşar. Dart geçmişin henüz boş, o yüzden bugün tohumu at: iki problemden birini CodeWars ya da Exercism'de bir de Dart ile çöz; haftaya başlayarak diller arası yeniden çözüm hep bu geçmişten seçilir (30-40 dk)
+- [ ] **[Çar]** MS Learn'de, "Query and modify data with Transact-SQL" patikasındaki "Introduction to Transact-SQL" modülünü tamamla. Örnek sorguları yalnızca okumak yerine kendin yaz, ardından HackerRank SQL'de 1-2 kolay problem çöz (problem sunuyorsa MS SQL Server motorunu seç) (30-40 dk)
 
 ### Hafta 2 — Dart Haftası ve Veriyi Sıralama
-**Özet:** Rotasyon Dart'a geçiyor; SQL tarafında sorgu sonuçlarını sıralamayı ve filtrelemeyi öğreniyorsun.
+**Özet:** Rotasyon CodeWars/Exercism'de Dart'a geçiyor; SQL tarafında sorgu sonuçlarını sıralamayı ve filtrelemeyi öğreniyorsun.
 **Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql
-- [ ] **[Salı]** CodeWars'ta Dart ile 2 kata çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Sonra CodeWars profilini aç → Solutions sekmesi (ya da Exercism çözümler sayfan), aslen C# ile çözdüğün bir problem seç ve onu Dart ile yeniden çöz — CodeWars tamamlanmış bir katayı başka bir dilde yeniden çalışmana izin veriyor. İki sürümü sitede karşılaştır (30-40 dk)
-- [ ] **[Çar]** MS Learn'deki "Sort and filter results in T-SQL queries" modülünü tamamla (WHERE, ORDER BY, TOP, OFFSET-FETCH). Sonra filtreleme kullanan 1-2 kolay HackerRank SQL problemi çöz, sunulduğu yerde MS SQL Server motoruyla (30-40 dk)
+- [ ] **[Salı]** CodeWars'ta Dart ile 2 kata çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Sonra HackerRank gönderim geçmişini aç, orada C# ile çözdüğün bir problem seç ve onu CodeWars ya da Exercism'de bir de Dart ile çöz — bir problem asla "bitmiş" değildir, diğer dilde geri gelir. İki sürümü karşılaştır (30-40 dk)
+- [ ] **[Çar]** MS Learn'deki "Sort and filter results in T-SQL queries" modülünü tamamla (WHERE, ORDER BY, TOP, OFFSET-FETCH). Sonra filtreleme kullanan 1-2 kolay HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motoruyla (30-40 dk)
 
-### Hafta 3 — C# Haftası ve JOIN'ler
-**Özet:** Rotasyonda sıra yine C#'ta ve tabloları JOIN'lerle birleştirmeyi çalışıyorsun.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql
-- [ ] **[Salı]** CodeWars'ta C# ile 2 kata çöz (7-6 kyu) ya da Exercism'de 2 orta seviye C# alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç, aslen Dart ile yazılmış bir problemi al ve onu tekrar C# ile çöz. Sitedeki en iyi çözümlere bak ve kullanmadığın bir numara yakala (30-40 dk)
-- [ ] **[Çar]** MS Learn'deki "Combine multiple tables with JOINs in T-SQL" modülünü tamamla (INNER, LEFT, RIGHT, self join). Sonra JOIN gerektiren 1-2 HackerRank SQL problemi çöz, sunulduğu yerde MS SQL Server motorunu kullanarak (30-40 dk)
+### Hafta 3 — HackerRank C# Günü ve JOIN'ler
+**Özet:** Rotasyonda sıra yine HackerRank'te C#'ta ve tabloları JOIN'lerle birleştirmeyi çalışıyorsun.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** HackerRank Algorithms ya da Data Structures alanında, gönderim dili olarak C# seçili şekilde 2 Easy problem çöz. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi seç (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. Sonra problemin Discussions sekmesini aç ve kullanmadığın bir yaklaşım yakala (30-40 dk)
+- [ ] **[Çar]** MS Learn'deki "Combine multiple tables with JOINs in T-SQL" modülünü tamamla (INNER, LEFT, RIGHT, self join). Sonra JOIN gerektiren 1-2 HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motorunu kullanarak (30-40 dk)
 
 ### Hafta 4 — Dart Dönüyor, jQuery Alıştırmaları, DartPad Flutter
 **Özet:** Rotasyonda Dart geri döndü, yanında tarayıcı içi jQuery alıştırmalarıyla; Çarşamba ise DartPad Flutter mini-görev günü.
 **Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev
-- [ ] **[Salı]** CodeWars'ta (7-6 kyu) ya da Exercism'de 2 Dart katası çöz, sonra CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç ve eski bir problemi diğer dilde yeniden çöz (C# ↔ Dart). jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü çöz — site cevaplarını anında kontrol ediyor (30-40 dk)
+- [ ] **[Salı]** CodeWars'ta (7-6 kyu) ya da Exercism'de 2 Dart katası çöz, sonra HackerRank gönderim geçmişini aç, C# ile çözdüğün bir problem al ve onu CodeWars ya da Exercism'de bir de Dart ile çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü çöz — site cevaplarını anında kontrol ediyor (30-40 dk)
 - [ ] **[Çar]** DartPad Flutter günü: https://dartpad.dev adresine git (ücretsiz, kayıt yok — Flutter widget'ları doğrudan tarayıcıda çalışıyor). StatefulWidget ile bir sayaç kartı widget'ı yap: bir sayı gösteren bir Card ve onu artıran bir buton. Bağımlılıksız tut — pub.dev paketlerinin çoğu DartPad'de yok. Derin Flutter çalışması ileride adanmış bir programa saklı (30-40 dk)
 
-### Hafta 5 — C# Haftası ve Alt Sorgular
-**Özet:** C# kataları rotasyonu sürdürürken T-SQL patikası alt sorgulara geçiyor.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql
-- [ ] **[Salı]** 2 C# katası çöz (7 kyu kolay geliyorsa 6 kyu) ya da Exercism'de 2 orta seviye C# alıştırması yap. Sonra CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi seç ve onu C# ile yeniden yaz. İki sürümü sitede karşılaştır ve hangisinin daha temiz olduğuna, nedenini de söyleyerek karar ver (30-40 dk)
-- [ ] **[Çar]** MS Learn'deki "Write subqueries in T-SQL" modülünü tamamla (skaler, çok değerli, ilişkili alt sorgular). Sonra alt sorgunun işe yaradığı 1-2 HackerRank SQL problemi çöz, sunulduğu yerde MS SQL Server motorunu seçerek (30-40 dk)
+### Hafta 5 — HackerRank C# Günü ve Alt Sorgular
+**Özet:** HackerRank'teki C# problemleri rotasyonu sürdürürken T-SQL patikası alt sorgulara geçiyor.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** HackerRank Algorithms ya da Data Structures alanında C# ile 2 Easy problem çöz — Easy artık rutin geliyorsa uzun metinli, kısıtları daha sıkı olanları seç. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi al (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. İki sürümü karşılaştır ve hangisinin daha temiz olduğuna, nedenini de söyleyerek karar ver (30-40 dk)
+- [ ] **[Çar]** MS Learn'deki "Write subqueries in T-SQL" modülünü tamamla (skaler, çok değerli, ilişkili alt sorgular). Sonra alt sorgunun işe yaradığı 1-2 HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)
 
 ### Hafta 6 — Dart Haftası, Fonksiyonlar ve Veri Değişiklikleri
 **Özet:** Dart üçüncü rotasyon turunu kapatıyor; MS Learn patikasını yerleşik fonksiyonlar, GROUP BY ve veri değiştirme ile bitiriyorsun.
 **Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/
-- [ ] **[Salı]** 2 Dart katası çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmenden, Dart ile henüz hiç dokunmadığın bir problem seç ve onu Dart ile yeniden çalış — profilin yeni sürümü otomatik kaydediyor (30-40 dk)
+- [ ] **[Salı]** 2 Dart katası çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Diller arası yeniden çözüm: HackerRank gönderim geçmişinden, Dart ile henüz hiç dokunmadığın bir C# problemi seç ve onu CodeWars ya da Exercism'de Dart ile yeniden çöz — profilin yeni sürümü otomatik kaydediyor (30-40 dk)
 - [ ] **[Çar]** MS Learn patikasını bitir: yerleşik fonksiyonlar ve GROUP BY modülünü tamamla, sonra "Modify data with T-SQL" modülünü hızlıca geç (INSERT, UPDATE, DELETE, MERGE). Bu, "Query and modify data with Transact-SQL" patikasının tamamını kapatıyor — bütün modüllerin tamamlandı göründüğünü kontrol et (30-40 dk)
 
-### Hafta 7 — C# Haftası ve HackerRank SQL Merdiveni
-**Özet:** Yeni bir rotasyon turu C# ile başlıyor ve Çarşamba MS Learn modüllerinden istikrarlı bir HackerRank/LeetCode SQL pratik merdivenine geçiyor.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/
-- [ ] **[Salı]** 2 C# katası çöz, artık CodeWars'ta 6 kyu'yu hedefleyerek (ya da 2 orta seviye Exercism alıştırması). Sonra CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi al ve onu C# ile yeniden çöz. En iyi çözümlerle karşılaştır: LINQ neyi kısalttı — ya da neyi uzattı? (30-40 dk)
-- [ ] **[Çar]** SQL pratik günü: HackerRank SQL'de (sunulduğu yerde MS SQL Server motoru) ya da LeetCode Database'de (her zaman MS SQL Server lehçesini seç) 3-4 Easy problem çöz. Bir problem zor geliyorsa onu sitedeki denenmiş listende bırak — iki platform da geçmişini tutuyor, sonra tekrar geleceksin (30-40 dk)
+### Hafta 7 — HackerRank C# Günü ve SQL Merdiveni
+**Özet:** Yeni bir rotasyon turu HackerRank'te C# ile başlıyor ve Çarşamba MS Learn modüllerinden istikrarlı bir HackerRank SQL pratik merdivenine geçiyor.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** HackerRank Algorithms ya da Data Structures alanında C# ile 2 Easy problem çöz, bu kez kronometreyle — bir Easy rahatça 15 dakikanın altında düşmeli. Diller arası yeniden çözüm: CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi al ve onu burada bir de C# ile çöz. Sonra Discussions sekmesine bak: LINQ neyi kısalttı — ya da neyi uzattı? (30-40 dk)
+- [ ] **[Çar]** SQL pratik günü: HackerRank SQL'de 3-4 Easy problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. Bir problem zor geliyorsa onu sitedeki denenmiş listende bırak — HackerRank geçmişini tutuyor, sonra tekrar geleceksin (30-40 dk)
 
 ### Hafta 8 — Dart Haftası, jQuery Alıştırmaları, DartPad Flutter
 **Özet:** Salı Dart kataları artı tarayıcı içi jQuery alıştırmaları; Çarşamba tarayıcıda bir DartPad Flutter mini-görevi daha.
 **Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev
-- [ ] **[Salı]** 2 Dart katası çöz (6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç ve eski bir C# problemini Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir sonraki bölümünü çöz — sitede anında kontrol (30-40 dk)
+- [ ] **[Salı]** 2 Dart katası çöz (6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir sonraki bölümünü çöz — sitede anında kontrol (30-40 dk)
 - [ ] **[Çar]** DartPad Flutter günü: https://dartpad.dev adresine git ve dokununca boyutunu ve rengini değiştiren bir AnimatedContainer yap (onu bir GestureDetector içine sar). Her şey tarayıcıda çalışıyor — kurulum yok, kayıt yok. Bağımlılıksız tut: pub.dev paketlerinin çoğu DartPad'de yok (30-40 dk)
 
-### Hafta 9 — C# Haftası ve Easy'den Medium'a SQL
-**Özet:** Rotasyonda C# haftası; SQL pratiği ilk Medium seviye problemleri karışıma katmaya başlıyor.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/
-- [ ] **[Salı]** 2 C# katası çöz (mümkünse 6 kyu) ya da Exercism'de 2 orta seviye C# alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmendeki en eski problemi al ve C# değilse C# ile çöz — zaten C# ise Dart ile yeniden çöz. Sitedeki eski çözümünle karşılaştır: neyi yanlış hatırlamışsın? (30-40 dk)
-- [ ] **[Çar]** HackerRank SQL'de (sunulduğu yerde MS SQL Server motoru) ya da LeetCode Database'de (MS SQL Server lehçesini seç) 2 Easy ve 1 Medium problem çöz. Medium olan seni 15 dakikadan fazla tıkarsa tartışmayı oku, fikri anla ve sorguyu ezberden kendin yaz (30-40 dk)
+### Hafta 9 — HackerRank C# Günü ve Easy'den Medium'a SQL
+**Özet:** Rotasyonda C# haftası; yapılandırılmış alternatif olarak Interview Preparation Kit devreye giriyor ve SQL pratiği ilk Medium seviye problemleri karışıma katmaya başlıyor.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** HackerRank'te C# ile 2 problem çöz, Easy'den ilk Medium'una adım atarak — ya da yapılandırılmış yolu seç ve Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Warm-up Challenges bölümünü çalış. Diller arası yeniden çözüm: CodeWars Solutions sekmendeki (ya da Exercism çözümler sayfandaki) en eski problemi al ve onu burada bir de C# ile çöz. Eski Dart sürümünle karşılaştır: neyi yanlış hatırlamışsın? (30-40 dk)
+- [ ] **[Çar]** HackerRank SQL'de 2 Easy ve 1 Medium problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. Medium olan seni 15 dakikadan fazla tıkarsa tartışmayı oku, fikri anla ve sorguyu ezberden kendin yaz (30-40 dk)
 
 ### Hafta 10 — Dart Haftası ve C# (Basic) Sertifikası
 **Özet:** Dönüm noktası haftası: Salı Dart kataları ve ısınma olarak bir C# yeniden çözümü, ardından Çarşamba ücretsiz süreli HackerRank C# (Basic) sertifikası.
-**Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification
-- [ ] **[Salı]** Hiçbir şeye bakmadan temiz ve hızlı çözümlere odaklanarak 2 Dart katası çöz (6 kyu). Sonra yarına ısınma olarak, CodeWars Solutions sekmendeki eski bir Dart problemini C# ile yeniden çöz. Hangi C# özelliklerine otomatik olarak uzandığını fark et (30-40 dk)
-- [ ] **[Çar]** 🏁 https://www.hackerrank.com/skills-verification adresinden ÜCRETSİZ süreli HackerRank "C# (Basic)" sertifika sınavına gir. Sessiz 45 dakikalık bir aralık bul, not yok. Sonrasında sonuç ve sertifika HackerRank profilinde görünür — sitede neyin kolay geldiğini, neyin seni şaşırttığını gözden geçir (30-40 dk)
+**Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification/c_sharp_basic
+- [ ] **[Salı]** Hiçbir şeye bakmadan temiz ve hızlı çözümlere odaklanarak 2 Dart katası çöz (6 kyu). Sonra bu haftalığına yönü tersine çevir, çünkü yarın sınav günü: CodeWars Solutions sekmendeki eski bir Dart problemini al ve onu HackerRank'te C# ile yeniden çöz. Hangi C# özelliklerine otomatik olarak uzandığını fark et (30-40 dk)
+- [ ] **[Çar]** 🏁 https://www.hackerrank.com/skills-verification/c_sharp_basic adresinden ÜCRETSİZ süreli HackerRank "C# (Basic)" sertifika sınavına gir. Sessiz 45 dakikalık bir aralık bul, not yok. Sonrasında sonuç ve sertifika HackerRank profilinde görünür — sitede neyin kolay geldiğini, neyin seni şaşırttığını gözden geçir (30-40 dk)
 
 # 🟣 FAZ 2 — Derinleşme ve Sertifikalar (Hafta 11-20)
 
-### Hafta 11 — C# Haftası ve Medium SQL Sahası
-**Özet:** Faz 2, daha üst seviyede C# kataları ve Medium problemlere yerleşen SQL pratiğiyle açılıyor.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/
-- [ ] **[Salı]** 6-5 kyu seviyesinde 2 C# katası çöz (ya da 2 orta-zor Exercism C# alıştırması). Diller arası yeniden çözüm: CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir problem al ve onu diğer dilde çöz (C# ↔ Dart). Her problem iki dilde de kapsanmışsa, çözümünü en az beğendiğini seç ve onu iyileştir (30-40 dk)
-- [ ] **[Çar]** LeetCode Database'de (her zaman MS SQL Server lehçesini seç) ya da HackerRank SQL'de (sunulduğu yerde MS SQL Server motoru) 2-3 Medium problem çöz. GROUP BY + HAVING kalıplarına odaklan. İki denemede çözdüğün her problem site içi geçmişinde görünür kalır — Hafta 14'te ona geri döneceksin (30-40 dk)
+### Hafta 11 — HackerRank C# Günü ve Medium SQL Sahası
+**Özet:** Faz 2, HackerRank'te daha üst seviyede C# problemleri ve Medium problemlere yerleşen SQL pratiğiyle açılıyor.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** HackerRank'te C# ile Easy-Medium seviyesinde 2 problem çöz ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Arrays bölümünü çalış. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi al (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. Her şey iki dilde de kapsanmışsa, çözümünü en az beğendiğini seç ve onu iyileştir (30-40 dk)
+- [ ] **[Çar]** HackerRank SQL'de 2-3 Medium problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. GROUP BY + HAVING kalıplarına odaklan. İki denemede çözdüğün her problem site içi gönderim geçmişinde görünür kalır — Hafta 14'te ona geri döneceksin (30-40 dk)
 
 ### Hafta 12 — Dart Haftası, jQuery Alıştırmaları, DartPad Flutter
 **Özet:** Salı Dart kataları ve tarayıcı içi jQuery alıştırmaları; Çarşamba tarayıcıda bir DartPad bilgi kartı çevirme mini-görevi.
 **Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev
-- [ ] **[Salı]** 2 Dart katası çöz (6-5 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç ve eski bir problemi diğer dilde yeniden çöz (C# ↔ Dart). jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü daha çöz — site cevaplarını anında kontrol ediyor (30-40 dk)
+- [ ] **[Salı]** 2 Dart katası çöz (6-5 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü daha çöz — site cevaplarını anında kontrol ediyor (30-40 dk)
 - [ ] **[Çar]** DartPad Flutter günü: https://dartpad.dev adresine git ve AnimatedSwitcher ile küçük bir bilgi kartı çevirme efekti yap — karta dokununca soru yüzü ile cevap yüzü arasında geçiş olsun. Tamamen tarayıcıda çalışır, kurulacak bir şey yok; bağımlılıksız tut, çünkü pub.dev paketlerinin çoğu DartPad'de yok (30-40 dk)
 
-### Hafta 13 — C# Haftası ve SQL'de Pencere Fonksiyonları
-**Özet:** C# rotasyonu 5 kyu hedefiyle; SQL Medium'ları sıralama ve pencere tarzı problemlerle devam ediyor.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://leetcode.com/problemset/database/ · https://www.hackerrank.com/domains/sql
-- [ ] **[Salı]** 6-5 kyu hedefleyerek 2 C# katası çöz (ya da 2 daha zor Exercism C# alıştırması). Sonra CodeWars Solutions sekmenden en son Faz 1'de dokunduğun bir problemi seç ve onu diğer dilde yeniden çöz (C# ↔ Dart) — önce ezberden, sonra sitedeki eski çözümünle karşılaştır (30-40 dk)
-- [ ] **[Çar]** LeetCode Database'de (MS SQL Server lehçesi) sıralama ya da ardışık satır içeren 2-3 Medium problem çöz — bunlar genelde ROW_NUMBER, RANK ya da LAG/LEAD ister. Pencere fonksiyonları paslanmış geliyorsa ilk 10 dakikayı MS Learn patikasındaki ilgili modül sayfasını yeniden açmaya ayır (30-40 dk)
+### Hafta 13 — HackerRank C# Günü ve SQL'de Pencere Fonksiyonları
+**Özet:** C# rotasyonu Easy'den Medium'a çıkıyor; SQL Medium'ları sıralama ve pencere tarzı problemlerle devam ediyor.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** HackerRank'te C# ile 2 problem çöz, artık Medium hedefleyerek — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Dictionaries and Hashmaps bölümünü al. Diller arası yeniden çözüm: CodeWars Solutions sekmenden en son Faz 1'de dokunduğun bir Dart problemi seç ve onu burada bir de C# ile çöz — önce ezberden, sonra eski Dart sürümünle karşılaştır (30-40 dk)
+- [ ] **[Çar]** HackerRank SQL'de sıralama ya da ardışık satır içeren 2-3 Medium problem çöz — bunlar genelde ROW_NUMBER, RANK ya da LAG/LEAD ister; problem sunuyorsa MS SQL Server motorunu seç. Pencere fonksiyonları paslanmış geliyorsa ilk 10 dakikayı MS Learn patikasındaki ilgili modül sayfasını yeniden açmaya ayır (30-40 dk)
 
 ### Hafta 14 — Dart Haftası ve SQL Tekrar Turu
 **Özet:** Dart kataları sürüyor; Çarşamba, seni daha önce yenen SQL problemlerini sitede yeniden çözerek eski borçlarını kapatıyorsun.
-**Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/
-- [ ] **[Salı]** 2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmenden ilk çözümünde döngü kullandığın bir problem seç ve onu diğer dilde daha fonksiyonel bir tarzda yeniden çöz (C#'ta LINQ ya da Dart koleksiyon metotları) (30-40 dk)
-- [ ] **[Çar]** HackerRank SQL'deki (MS SQL Server motoru) ya da LeetCode Database'deki (MS SQL Server lehçesi) çözülmüş ve denenmiş geçmişini aç ve ilk seferinde zorlanmış olduğun 2-3 problemi, eski gönderimlerine bakmadan yeniden çöz. Geçtiğin anda site onları çözüldü olarak işaretler; inatçı olanlar denenmiş listende kalır (30-40 dk)
+**Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** 2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. Diller arası yeniden çözüm: HackerRank gönderim geçmişinden, ilk çözümünde döngü kullandığın bir C# problemi seç ve onu CodeWars ya da Exercism'de Dart ile, daha fonksiyonel bir tarzda yeniden çöz (döngü yerine Dart koleksiyon metotları) (30-40 dk)
+- [ ] **[Çar]** HackerRank SQL'deki (problem sunuyorsa MS SQL Server motoru) çözülmüş ve denenmiş geçmişini aç ve ilk seferinde zorlanmış olduğun 2-3 problemi, eski gönderimlerine bakmadan yeniden çöz. Geçtiğin anda site onları çözüldü olarak işaretler; inatçı olanlar denenmiş listende kalır (30-40 dk)
 
-### Hafta 15 — C# Haftası ve İlk Hard Denemesi
-**Özet:** Rotasyonda sıra C#'ta ve bir Hard SQL problemine ilk ciddi denemeni yapıyorsun.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://leetcode.com/problemset/database/ · https://www.hackerrank.com/domains/sql
-- [ ] **[Salı]** 2 C# katası çöz (6-5 kyu) ya da 2 daha zor Exercism C# alıştırması yap. Sonra CodeWars Solutions sekmenden bir Dart problemi al ve onu C# ile yeniden çöz, null-safety farklarına dikkat ederek. İki sürümü sitede karşılaştır: Dart, C#'ın düşündürmediği neyi düşündürdü sana? (30-40 dk)
-- [ ] **[Çar]** LeetCode Database'de (MS SQL Server lehçesi) 1 Hard problem dene — herhangi bir ipucuna bakmadan önce ona 20 odaklı dakika ver. Çözsen de çözemesen de sitedeki en üstteki tartışma gönderisini oku ve ana fikri İngilizce anlatabildiğinden emin ol. Kalan zamanı özgüven tazelemek için 1 Medium problemle değerlendir (30-40 dk)
+### Hafta 15 — HackerRank C# Günü ve İlk Hard Denemesi
+**Özet:** Rotasyonda sıra Medium seviyesinde C#'ta ve bir Hard SQL problemine ilk ciddi denemeni yapıyorsun.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** HackerRank Algorithms ya da Data Structures alanında C# ile 2 Medium problem çöz — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Sorting bölümünü çalış. Diller arası yeniden çözüm: CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi al ve onu burada bir de C# ile çöz, null-safety farklarına dikkat ederek. Dart, C#'ın düşündürmediği neyi düşündürdü sana? (30-40 dk)
+- [ ] **[Çar]** HackerRank SQL'de 1 Hard problem dene (problem sunuyorsa MS SQL Server motoru) — herhangi bir ipucuna bakmadan önce ona 20 odaklı dakika ver. Çözsen de çözemesen de sitedeki en üstteki tartışma gönderisini oku ve ana fikri İngilizce anlatabildiğinden emin ol. Kalan zamanı özgüven tazelemek için 1 Medium problemle değerlendir (30-40 dk)
 
 ### Hafta 16 — Dart Haftası, jQuery Alıştırmaları, DartPad Flutter
 **Özet:** Son birleşik bakım haftası: Salı Dart kataları artı tarayıcı içi jQuery alıştırmaları, Çarşamba ise son DartPad Flutter mini-görevi.
 **Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev
-- [ ] **[Salı]** 2 Dart katası çöz (hazır hissediyorsan 5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap, sonra CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç ve eski bir problemi diğer dilde yeniden çöz (C# ↔ Dart). jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarında henüz yapmadığın son bölümü çöz (30-40 dk)
+- [ ] **[Salı]** 2 Dart katası çöz (hazır hissediyorsan 5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarında henüz yapmadığın son bölümü çöz (30-40 dk)
 - [ ] **[Çar]** DartPad Flutter günü: https://dartpad.dev adresine git ve kaydırılıp silinebilen öğeleri olan küçük bir ListView yap — Dismissible widget'ıyla bir öğeyi kaydırarak kaldır ve bir SnackBar göster. Hepsi tarayıcıda, kayıt yok; bağımlılıksız tut (pub.dev paketlerinin çoğu DartPad'de yok). Bu, planlanmış son Flutter oturumu — daha büyük Flutter planları kendi programını bekliyor (30-40 dk)
 
-### Hafta 17 — C# Haftası ve SQL Karma Seti
-**Özet:** Son düzenli pratik haftası: C# kataları ve gerçek sınav çeşitliliğini taklit eden karma zorlukta bir SQL seti.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/
-- [ ] **[Salı]** 2 C# katası çöz (6-5 kyu) ya da 2 daha zor Exercism C# alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmende en çok yeniden çalıştığın problemi seç ve onu, en yavaş olduğun dilde (C# ya da Dart) bir kez daha çöz. Süreni tut ve o "yavaş" hissini kırmaya çalış (30-40 dk)
-- [ ] **[Çar]** Karma SQL seti: 1 Easy (hız — 5 dakikanın altında), 2 Medium ve zaman kalırsa Hafta 15'teki Hard problemi tekrar ziyaret et. HackerRank SQL (MS SQL Server motoru) ya da LeetCode Database (MS SQL Server lehçesi) kullan. Bu, sertifika hazırlığından önceki son serbest formlu pratiğin (30-40 dk)
+### Hafta 17 — HackerRank C# Günü ve SQL Karma Seti
+**Özet:** Son düzenli pratik haftası: Medium C# problemleri ve gerçek sınav çeşitliliğini taklit eden karma zorlukta bir SQL seti.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** HackerRank'te C# ile 2 Medium problem çöz — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) String Manipulation bölümünü al. Diller arası yeniden çözüm: CodeWars Solutions sekmende en çok yeniden çalıştığın Dart problemini seç ve onu burada bir kez daha C# ile çöz. Süreni tut ve o "yavaş" hissini kırmaya çalış (30-40 dk)
+- [ ] **[Çar]** HackerRank SQL'de karma set: 1 Easy (hız — 5 dakikanın altında), 2 Medium ve zaman kalırsa Hafta 15'teki Hard problemi tekrar ziyaret et. Problem sunuyorsa MS SQL Server motorunu seç. Bu, sertifika hazırlığından önceki son serbest formlu pratiğin (30-40 dk)
 
 ### Hafta 18 — Dart Haftası ve Süreli Hazırlık 1. Tur
 **Özet:** Dart rotasyonu sürdürüyor ve SQL çalışması sınav koşullarına geçiyor: süreli problem setleri.
-**Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/
-- [ ] **[Salı]** 2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. CodeWars Solutions sekmenden bir problemi diğer dilde yeniden çöz (C# ↔ Dart), sonra bütün Solutions sekmene (ve Exercism çözüm sayfalarına) göz gezdirip en beğendiğin 3 çözümü seç (30-40 dk)
-- [ ] **[Çar]** Sertifika hazırlığı, 1. tur: 35 dakikalık bir kronometre kur ve HackerRank SQL'de (sunulduğu yerde MS SQL Server motoru) çözebildiğin kadar Medium problem çöz — mola yok, dokümantasyon yok, sınav koşulları. Sonrasında sitedeki gönderim geçmişine bak: kaç tanesini bitirdin ve seni en çok hangi konu yavaşlattı? (30-40 dk)
+**Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** 2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. HackerRank gönderim geçmişinden bir C# problemi al ve onu CodeWars ya da Exercism'de Dart ile yeniden çöz, sonra iki geçmişe birden göz gezdir — HackerRank gönderimlerin ve CodeWars/Exercism çözümlerin — ve en beğendiğin 3 çözümü seç (30-40 dk)
+- [ ] **[Çar]** Sertifika hazırlığı, 1. tur: 35 dakikalık bir kronometre kur ve HackerRank SQL'de (problem sunuyorsa MS SQL Server motoru) çözebildiğin kadar Medium problem çöz — mola yok, dokümantasyon yok, sınav koşulları. Sonrasında sitedeki gönderim geçmişine bak: kaç tanesini bitirdin ve seni en çok hangi konu yavaşlattı? (30-40 dk)
 
-### Hafta 19 — C# Finali ve Süreli Hazırlık 2. Tur
-**Özet:** C#, programdaki son kata sırasını alıyor ve zayıf konunu hedefleyen ikinci bir süreli SQL provası yapıyorsun.
-**Kaynak:** https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/
-- [ ] **[Salı]** Son C# kata oturumu: 6-5 kyu seviyesinde 2 kata çöz, sonra CodeWars Solutions sekmenden son bir diller arası yeniden çözüm yap. Kapanışta 5 dakikanı platformlardaki bütün çözüm geçmişini baştan sona kaydırmaya ayır — Hafta 1'den bu yana neyin geliştiğini doğrudan kodda gör (30-40 dk)
-- [ ] **[Çar]** Sertifika hazırlığı, 2. tur: ilk 10 dakikayı geçen hafta not ettiğin zayıf konuyu çalışmaya ayır, sonra 25 dakikalık süreli bir Medium SQL problem seti daha koştur (HackerRank SQL, sunulduğu yerde MS SQL Server motoru). Medium'lar her biri 10 dakikanın altında düştüğünde hazırsın (30-40 dk)
+### Hafta 19 — HackerRank C# Finali ve Süreli Hazırlık 2. Tur
+**Özet:** C#, programdaki son pratik sırasını alıyor ve zayıf konunu hedefleyen ikinci bir süreli SQL provası yapıyorsun.
+**Kaynak:** https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql
+- [ ] **[Salı]** Son C# oturumu: HackerRank'te 2 Medium problem çöz ya da programı Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Dynamic Programming bölümüyle kapat. CodeWars Solutions sekmenden bir Dart problemiyle son bir diller arası yeniden çözüm yap. Kapanışta 5 dakikanı iki geçmişi de baştan sona kaydırmaya ayır — HackerRank gönderimlerin ve CodeWars/Exercism çözümlerin — Hafta 1'den bu yana neyin geliştiğini doğrudan kodda gör (30-40 dk)
+- [ ] **[Çar]** Sertifika hazırlığı, 2. tur: ilk 10 dakikayı geçen hafta not ettiğin zayıf konuyu çalışmaya ayır, sonra 25 dakikalık süreli bir Medium SQL problem seti daha koştur (HackerRank SQL, problem sunuyorsa MS SQL Server motoru). Medium'lar her biri 10 dakikanın altında düştüğünde hazırsın (30-40 dk)
 
 ### Hafta 20 — Dart Uğurlaması ve SQL Sertifikası
 **Özet:** Program finali: rahat bir Dart kata oturumu ve son tarayıcı içi jQuery quiz'i, ardından ücretsiz süreli HackerRank SQL (Intermediate) sertifikası.
 **Kaynak:** https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_quiz.asp · https://www.hackerrank.com/skills-verification
-- [ ] **[Salı]** Sınav gününden önce hafif ısınma: rahat bir seviyede 2 Dart katası çöz (6 kyu) ve CodeWars Solutions sekmenden bir problemi diğer dilde yeniden çöz (C# ↔ Dart). jQuery finali (~10 dk): https://www.w3schools.com/jquery/jquery_quiz.asp adresindeki 25 soruluk W3Schools jQuery quiz'ini çöz — puanın sitede anında görünür (30-40 dk)
-- [ ] **[Çar]** 🏁 https://www.hackerrank.com/skills-verification adresinden ÜCRETSİZ süreli HackerRank "SQL (Intermediate)" sertifika sınavına gir. Sessiz oda, tam odak, not yok. Sonuç ne olursa olsun HackerRank profiline işlenir — ve 20 haftanın tamamı artık CodeWars, Exercism, MS Learn ve HackerRank geçmişlerinde görünüyor (30-40 dk)
+- [ ] **[Salı]** Sınav gününden önce hafif ısınma: rahat bir seviyede 2 Dart katası çöz (6 kyu) ve HackerRank gönderim geçmişinden son bir C# problemi alıp onu CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery finali (~10 dk): https://www.w3schools.com/jquery/jquery_quiz.asp adresindeki 25 soruluk W3Schools jQuery quiz'ini çöz — puanın sitede anında görünür (30-40 dk)
+- [ ] **[Çar]** 🏁 https://www.hackerrank.com/skills-verification adresinden ÜCRETSİZ süreli HackerRank "SQL (Intermediate)" sertifika sınavına gir. Sessiz oda, tam odak, not yok. Sonuç ne olursa olsun HackerRank profiline işlenir — ve 20 haftanın tamamı artık HackerRank, CodeWars, Exercism ve MS Learn geçmişlerinde görünüyor (30-40 dk)
 
 ---
 
@@ -161,7 +161,7 @@
 |---|---|---|
 | 6 | MS Learn T-SQL patikası bitti (6 modülün hepsi) | Altı modülün de bilgi kontrolleri sitede geçildi |
 | 10 | 🏁 HackerRank C# (Basic) sertifikası (ücretsiz, süreli) | Geçmek |
-| 15 | Kata seviye kontrolü | Her iki dilde de 6-5 kyu'yu rahatça çözmek |
+| 15 | Pratik seviye kontrolü | HackerRank'te C# ile Medium'u, CodeWars'ta Dart ile 6-5 kyu'yu rahatça çözmek |
 | 20 | 🏁 HackerRank SQL (Intermediate) sertifikası | Geçmek — MSSQL becerileri sertifikalı |
 
 20. haftadan sonra: Flutter'da derinleşmek istersen, adanmış bir **Flutter Advanced** programı (state management, test, animasyonlar, yayın) doğal bir sonraki adım — başlamaya karar verdiğinde ayrıca planlanacak.

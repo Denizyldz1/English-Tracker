@@ -19,24 +19,24 @@
       "id": "w1",
       "phaseId": "faz1",
       "no": "1",
-      "title": "Kickoff: C# Katas and First T-SQL Module",
+      "title": "Kickoff: HackerRank C# Day and First T-SQL Module",
       "episode": "",
-      "summary": "Start the 2-week kata rotation with C# — everything solved on the site, in the browser — and begin the T-SQL path with the introduction module.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
+      "summary": "Start the 2-week language rotation with C# on HackerRank — everything solved on the site, in the browser — and begin the T-SQL path with the introduction module.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
       "tasks": [
         {
           "id": "pratik.w1-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in C# (7 kyu level) or 2 medium Exercism C# exercises — the Exercism editor runs in the browser, nothing to install, tests run on the site. Then pick one of the problems you just solved and re-solve it in Dart on the same site; both versions stay saved on your profile (30-40 min)",
+          "text": "Solve 2 Easy problems on HackerRank Algorithms (https://www.hackerrank.com/domains/algorithms) or Data Structures (https://www.hackerrank.com/domains/data-structures), selecting C# (.NET 8) as the submission language — the editor runs in the browser, nothing to install, tests run on the site. Your Dart history is still empty, so seed it today: take one of the two problems and solve it again in Dart on CodeWars or Exercism; from next week the cross-language re-solve always pulls from that history (30-40 min)",
           "recurring": false,
-          "textTr": "CodeWars'ta C# ile 2 kata çöz (7 kyu seviyesi) ya da Exercism'de 2 orta seviye C# alıştırması yap — Exercism editörü tarayıcıda çalışır, kurulacak bir şey yok, testler sitede koşar. Sonra az önce çözdüğün problemlerden birini seç ve aynı sitede Dart ile yeniden çöz; iki sürüm de profilinde kayıtlı kalır (30-40 dk)"
+          "textTr": "HackerRank Algorithms (https://www.hackerrank.com/domains/algorithms) ya da Data Structures (https://www.hackerrank.com/domains/data-structures) alanında 2 Easy problem çöz, gönderim dili olarak C# (.NET 8) seçerek — editör tarayıcıda çalışır, kurulacak bir şey yok, testler sitede koşar. Dart geçmişin henüz boş, o yüzden bugün tohumu at: iki problemden birini CodeWars ya da Exercism'de bir de Dart ile çöz; haftaya başlayarak diller arası yeniden çözüm hep bu geçmişten seçilir (30-40 dk)"
         },
         {
           "id": "pratik.w1-car",
           "day": "Çar",
-          "text": "On MS Learn, complete the module \"Introduction to Transact-SQL\" from the path \"Query and modify data with Transact-SQL\". Write the example queries yourself instead of only reading them, then solve 1-2 easy problems on HackerRank SQL (choose the MS SQL Server engine where offered) (30-40 min)",
+          "text": "On MS Learn, complete the module \"Introduction to Transact-SQL\" from the path \"Query and modify data with Transact-SQL\". Write the example queries yourself instead of only reading them, then solve 1-2 easy problems on HackerRank SQL (choose the MS SQL Server engine where the problem offers it) (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn'de, \"Query and modify data with Transact-SQL\" patikasındaki \"Introduction to Transact-SQL\" modülünü tamamla. Örnek sorguları yalnızca okumak yerine kendin yaz, ardından HackerRank SQL'de 1-2 kolay problem çöz (sunulduğu yerde MS SQL Server motorunu seç) (30-40 dk)"
+          "textTr": "MS Learn'de, \"Query and modify data with Transact-SQL\" patikasındaki \"Introduction to Transact-SQL\" modülünü tamamla. Örnek sorguları yalnızca okumak yerine kendin yaz, ardından HackerRank SQL'de 1-2 kolay problem çöz (problem sunuyorsa MS SQL Server motorunu seç) (30-40 dk)"
         },
         {
           "id": "pratik.w1-rec-review",
@@ -46,9 +46,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "Açılış: C# Kataları ve İlk T-SQL Modülü",
-      "summaryTr": "2 haftalık kata rotasyonuna C# ile başla — her şey sitede, tarayıcıda çözülür — ve T-SQL patikasına giriş modülüyle giriş yap.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/"
+      "titleTr": "Açılış: HackerRank C# Günü ve İlk T-SQL Modülü",
+      "summaryTr": "2 haftalık dil rotasyonuna HackerRank'te C# ile başla — her şey sitede, tarayıcıda çözülür — ve T-SQL patikasına giriş modülüyle giriş yap.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/"
     },
     {
       "id": "w2",
@@ -56,22 +56,22 @@
       "no": "2",
       "title": "Dart Week and Sorting Data",
       "episode": "",
-      "summary": "Rotation moves to Dart; on the SQL side you learn to sort and filter query results.",
+      "summary": "Rotation moves to Dart on CodeWars/Exercism; on the SQL side you learn to sort and filter query results.",
       "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w2-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in Dart (7-6 kyu) or 2 medium Exercism Dart exercises. Then open your CodeWars profile → Solutions tab (or your Exercism solutions page), pick one problem you originally solved in C#, and re-solve it in Dart — CodeWars lets you re-train a completed kata in another language. Compare both versions on the site (30-40 min)",
+          "text": "Solve 2 CodeWars katas in Dart (7-6 kyu) or 2 medium Exercism Dart exercises. Then open your HackerRank submissions history, pick one problem you solved there in C#, and solve it again in Dart on CodeWars or Exercism — a problem is never \"done\", it comes back in the other language. Compare the two versions (30-40 min)",
           "recurring": false,
-          "textTr": "CodeWars'ta Dart ile 2 kata çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Sonra CodeWars profilini aç → Solutions sekmesi (ya da Exercism çözümler sayfan), aslen C# ile çözdüğün bir problem seç ve onu Dart ile yeniden çöz — CodeWars tamamlanmış bir katayı başka bir dilde yeniden çalışmana izin veriyor. İki sürümü sitede karşılaştır (30-40 dk)"
+          "textTr": "CodeWars'ta Dart ile 2 kata çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Sonra HackerRank gönderim geçmişini aç, orada C# ile çözdüğün bir problem seç ve onu CodeWars ya da Exercism'de bir de Dart ile çöz — bir problem asla \"bitmiş\" değildir, diğer dilde geri gelir. İki sürümü karşılaştır (30-40 dk)"
         },
         {
           "id": "pratik.w2-car",
           "day": "Çar",
-          "text": "Complete the MS Learn module \"Sort and filter results in T-SQL queries\" (WHERE, ORDER BY, TOP, OFFSET-FETCH). Then solve 1-2 easy HackerRank SQL problems that use filtering, with the MS SQL Server engine where offered (30-40 min)",
+          "text": "Complete the MS Learn module \"Sort and filter results in T-SQL queries\" (WHERE, ORDER BY, TOP, OFFSET-FETCH). Then solve 1-2 easy HackerRank SQL problems that use filtering, with the MS SQL Server engine where the problem offers it (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn'deki \"Sort and filter results in T-SQL queries\" modülünü tamamla (WHERE, ORDER BY, TOP, OFFSET-FETCH). Sonra filtreleme kullanan 1-2 kolay HackerRank SQL problemi çöz, sunulduğu yerde MS SQL Server motoruyla (30-40 dk)"
+          "textTr": "MS Learn'deki \"Sort and filter results in T-SQL queries\" modülünü tamamla (WHERE, ORDER BY, TOP, OFFSET-FETCH). Sonra filtreleme kullanan 1-2 kolay HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motoruyla (30-40 dk)"
         },
         {
           "id": "pratik.w2-rec-review",
@@ -82,31 +82,31 @@
         }
       ],
       "titleTr": "Dart Haftası ve Veriyi Sıralama",
-      "summaryTr": "Rotasyon Dart'a geçiyor; SQL tarafında sorgu sonuçlarını sıralamayı ve filtrelemeyi öğreniyorsun.",
+      "summaryTr": "Rotasyon CodeWars/Exercism'de Dart'a geçiyor; SQL tarafında sorgu sonuçlarını sıralamayı ve filtrelemeyi öğreniyorsun.",
       "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w3",
       "phaseId": "faz1",
       "no": "3",
-      "title": "C# Week and JOINs",
+      "title": "HackerRank C# Day and JOINs",
       "episode": "",
-      "summary": "C# takes its turn again in the rotation, and you practice combining tables with JOINs.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
+      "summary": "C# takes its turn again in the rotation on HackerRank, and you practice combining tables with JOINs.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w3-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in C# (7-6 kyu) or 2 medium Exercism C# exercises. Cross-language re-solve: open your CodeWars Solutions tab (or Exercism solutions page), take one problem that was originally in Dart, and solve it again in C#. Check the top solutions on the site for one trick you did not use (30-40 min)",
+          "text": "Solve 2 Easy problems on HackerRank Algorithms or Data Structures with C# selected as the submission language. Cross-language re-solve: pick one problem you solved before in Dart (CodeWars Solutions tab or your Exercism solutions page) and solve it again here in C#. Then open the problem's Discussions tab and find one approach you did not use (30-40 min)",
           "recurring": false,
-          "textTr": "CodeWars'ta C# ile 2 kata çöz (7-6 kyu) ya da Exercism'de 2 orta seviye C# alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç, aslen Dart ile yazılmış bir problemi al ve onu tekrar C# ile çöz. Sitedeki en iyi çözümlere bak ve kullanmadığın bir numara yakala (30-40 dk)"
+          "textTr": "HackerRank Algorithms ya da Data Structures alanında, gönderim dili olarak C# seçili şekilde 2 Easy problem çöz. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi seç (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. Sonra problemin Discussions sekmesini aç ve kullanmadığın bir yaklaşım yakala (30-40 dk)"
         },
         {
           "id": "pratik.w3-car",
           "day": "Çar",
-          "text": "Complete the MS Learn module \"Combine multiple tables with JOINs in T-SQL\" (INNER, LEFT, RIGHT, self joins). Then solve 1-2 HackerRank SQL problems that need a JOIN, using the MS SQL Server engine where offered (30-40 min)",
+          "text": "Complete the MS Learn module \"Combine multiple tables with JOINs in T-SQL\" (INNER, LEFT, RIGHT, self joins). Then solve 1-2 HackerRank SQL problems that need a JOIN, using the MS SQL Server engine where the problem offers it (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn'deki \"Combine multiple tables with JOINs in T-SQL\" modülünü tamamla (INNER, LEFT, RIGHT, self join). Sonra JOIN gerektiren 1-2 HackerRank SQL problemi çöz, sunulduğu yerde MS SQL Server motorunu kullanarak (30-40 dk)"
+          "textTr": "MS Learn'deki \"Combine multiple tables with JOINs in T-SQL\" modülünü tamamla (INNER, LEFT, RIGHT, self join). Sonra JOIN gerektiren 1-2 HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motorunu kullanarak (30-40 dk)"
         },
         {
           "id": "pratik.w3-rec-review",
@@ -116,9 +116,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Haftası ve JOIN'ler",
-      "summaryTr": "Rotasyonda sıra yine C#'ta ve tabloları JOIN'lerle birleştirmeyi çalışıyorsun.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql"
+      "titleTr": "HackerRank C# Günü ve JOIN'ler",
+      "summaryTr": "Rotasyonda sıra yine HackerRank'te C#'ta ve tabloları JOIN'lerle birleştirmeyi çalışıyorsun.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w4",
@@ -132,9 +132,9 @@
         {
           "id": "pratik.w4-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas on CodeWars (7-6 kyu) or Exercism, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in the other language (C# ↔ Dart). jQuery upkeep (~10 min): solve one section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
+          "text": "Solve 2 Dart katas on CodeWars (7-6 kyu) or Exercism, then open your HackerRank submissions history, take one problem you solved in C#, and solve it again in Dart on CodeWars or Exercism. jQuery upkeep (~10 min): solve one section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
           "recurring": false,
-          "textTr": "CodeWars'ta (7-6 kyu) ya da Exercism'de 2 Dart katası çöz, sonra CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç ve eski bir problemi diğer dilde yeniden çöz (C# ↔ Dart). jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü çöz — site cevaplarını anında kontrol ediyor (30-40 dk)"
+          "textTr": "CodeWars'ta (7-6 kyu) ya da Exercism'de 2 Dart katası çöz, sonra HackerRank gönderim geçmişini aç, C# ile çözdüğün bir problem al ve onu CodeWars ya da Exercism'de bir de Dart ile çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü çöz — site cevaplarını anında kontrol ediyor (30-40 dk)"
         },
         {
           "id": "pratik.w4-car",
@@ -159,24 +159,24 @@
       "id": "w5",
       "phaseId": "faz1",
       "no": "5",
-      "title": "C# Week and Subqueries",
+      "title": "HackerRank C# Day and Subqueries",
       "episode": "",
-      "summary": "C# katas continue the rotation while the T-SQL path moves into subqueries.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
+      "summary": "C# problems on HackerRank continue the rotation while the T-SQL path moves into subqueries.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w5-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas (6 kyu if 7 kyu feels easy) or 2 medium Exercism C# exercises. Then pick one Dart problem from your CodeWars Solutions tab (or Exercism solutions page) and rewrite it in C#. Compare both versions on the site and decide which one is cleaner and why (30-40 min)",
+          "text": "Solve 2 Easy problems in C# on HackerRank Algorithms or Data Structures — if Easy already feels routine, pick the longer statements with tighter constraints. Cross-language re-solve: take one problem you solved before in Dart (CodeWars Solutions tab or Exercism solutions page) and solve it again here in C#. Compare the two versions and decide which one is cleaner and why (30-40 min)",
           "recurring": false,
-          "textTr": "2 C# katası çöz (7 kyu kolay geliyorsa 6 kyu) ya da Exercism'de 2 orta seviye C# alıştırması yap. Sonra CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi seç ve onu C# ile yeniden yaz. İki sürümü sitede karşılaştır ve hangisinin daha temiz olduğuna, nedenini de söyleyerek karar ver (30-40 dk)"
+          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Easy problem çöz — Easy artık rutin geliyorsa uzun metinli, kısıtları daha sıkı olanları seç. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi al (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. İki sürümü karşılaştır ve hangisinin daha temiz olduğuna, nedenini de söyleyerek karar ver (30-40 dk)"
         },
         {
           "id": "pratik.w5-car",
           "day": "Çar",
-          "text": "Complete the MS Learn module \"Write subqueries in T-SQL\" (scalar, multi-value, correlated subqueries). Then solve 1-2 HackerRank SQL problems where a subquery helps, choosing the MS SQL Server engine where offered (30-40 min)",
+          "text": "Complete the MS Learn module \"Write subqueries in T-SQL\" (scalar, multi-value, correlated subqueries). Then solve 1-2 HackerRank SQL problems where a subquery helps, choosing the MS SQL Server engine where the problem offers it (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn'deki \"Write subqueries in T-SQL\" modülünü tamamla (skaler, çok değerli, ilişkili alt sorgular). Sonra alt sorgunun işe yaradığı 1-2 HackerRank SQL problemi çöz, sunulduğu yerde MS SQL Server motorunu seçerek (30-40 dk)"
+          "textTr": "MS Learn'deki \"Write subqueries in T-SQL\" modülünü tamamla (skaler, çok değerli, ilişkili alt sorgular). Sonra alt sorgunun işe yaradığı 1-2 HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
         },
         {
           "id": "pratik.w5-rec-review",
@@ -186,9 +186,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Haftası ve Alt Sorgular",
-      "summaryTr": "C# kataları rotasyonu sürdürürken T-SQL patikası alt sorgulara geçiyor.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql"
+      "titleTr": "HackerRank C# Günü ve Alt Sorgular",
+      "summaryTr": "HackerRank'teki C# problemleri rotasyonu sürdürürken T-SQL patikası alt sorgulara geçiyor.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w6",
@@ -202,9 +202,9 @@
         {
           "id": "pratik.w6-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (7-6 kyu) or 2 medium Exercism Dart exercises. Cross-language re-solve: from your CodeWars Solutions tab, choose one problem that you have not yet touched in Dart and re-train it in Dart — your profile saves the new version automatically (30-40 min)",
+          "text": "Solve 2 Dart katas (7-6 kyu) or 2 medium Exercism Dart exercises. Cross-language re-solve: from your HackerRank submissions history, choose one C# problem you have not yet touched in Dart and solve it again in Dart on CodeWars or Exercism — your profile saves the new version automatically (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmenden, Dart ile henüz hiç dokunmadığın bir problem seç ve onu Dart ile yeniden çalış — profilin yeni sürümü otomatik kaydediyor (30-40 dk)"
+          "textTr": "2 Dart katası çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Diller arası yeniden çözüm: HackerRank gönderim geçmişinden, Dart ile henüz hiç dokunmadığın bir C# problemi seç ve onu CodeWars ya da Exercism'de Dart ile yeniden çöz — profilin yeni sürümü otomatik kaydediyor (30-40 dk)"
         },
         {
           "id": "pratik.w6-car",
@@ -229,24 +229,24 @@
       "id": "w7",
       "phaseId": "faz1",
       "no": "7",
-      "title": "C# Week and the HackerRank SQL Ladder",
+      "title": "HackerRank C# Day and the SQL Ladder",
       "episode": "",
-      "summary": "A new rotation cycle starts with C#, and Wednesday switches from MS Learn modules to a steady HackerRank/LeetCode SQL practice ladder.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "A new rotation cycle starts with C# on HackerRank, and Wednesday switches from MS Learn modules to a steady HackerRank SQL practice ladder.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w7-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas, now aiming at 6 kyu on CodeWars (or 2 medium Exercism exercises). Then take one Dart problem from your CodeWars Solutions tab (or Exercism solutions page) and re-solve it in C#. Compare with the top solutions: what did LINQ make shorter — or longer? (30-40 min)",
+          "text": "Solve 2 Easy problems in C# on HackerRank Algorithms or Data Structures, this time with a timer — an Easy should fall in well under 15 minutes. Cross-language re-solve: take one Dart problem from your CodeWars Solutions tab (or Exercism solutions page) and solve it again here in C#. Then check the Discussions tab: what did LINQ make shorter — or longer? (30-40 min)",
           "recurring": false,
-          "textTr": "2 C# katası çöz, artık CodeWars'ta 6 kyu'yu hedefleyerek (ya da 2 orta seviye Exercism alıştırması). Sonra CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi al ve onu C# ile yeniden çöz. En iyi çözümlerle karşılaştır: LINQ neyi kısalttı — ya da neyi uzattı? (30-40 dk)"
+          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Easy problem çöz, bu kez kronometreyle — bir Easy rahatça 15 dakikanın altında düşmeli. Diller arası yeniden çözüm: CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi al ve onu burada bir de C# ile çöz. Sonra Discussions sekmesine bak: LINQ neyi kısalttı — ya da neyi uzattı? (30-40 dk)"
         },
         {
           "id": "pratik.w7-car",
           "day": "Çar",
-          "text": "SQL practice day: solve 3-4 Easy problems on HackerRank SQL (MS SQL Server engine where offered) or LeetCode Database (always select the MS SQL Server dialect). If a problem feels hard, leave it in your attempted list on the site — both platforms keep your history, and you will retry them later (30-40 min)",
+          "text": "SQL practice day: solve 3-4 Easy problems on HackerRank SQL, choosing the MS SQL Server engine where the problem offers it. If a problem feels hard, leave it in your attempted list on the site — HackerRank keeps your history, and you will retry them later (30-40 min)",
           "recurring": false,
-          "textTr": "SQL pratik günü: HackerRank SQL'de (sunulduğu yerde MS SQL Server motoru) ya da LeetCode Database'de (her zaman MS SQL Server lehçesini seç) 3-4 Easy problem çöz. Bir problem zor geliyorsa onu sitedeki denenmiş listende bırak — iki platform da geçmişini tutuyor, sonra tekrar geleceksin (30-40 dk)"
+          "textTr": "SQL pratik günü: HackerRank SQL'de 3-4 Easy problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. Bir problem zor geliyorsa onu sitedeki denenmiş listende bırak — HackerRank geçmişini tutuyor, sonra tekrar geleceksin (30-40 dk)"
         },
         {
           "id": "pratik.w7-rec-review",
@@ -256,9 +256,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Haftası ve HackerRank SQL Merdiveni",
-      "summaryTr": "Yeni bir rotasyon turu C# ile başlıyor ve Çarşamba MS Learn modüllerinden istikrarlı bir HackerRank/LeetCode SQL pratik merdivenine geçiyor.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/"
+      "titleTr": "HackerRank C# Günü ve SQL Merdiveni",
+      "summaryTr": "Yeni bir rotasyon turu HackerRank'te C# ile başlıyor ve Çarşamba MS Learn modüllerinden istikrarlı bir HackerRank SQL pratik merdivenine geçiyor.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w8",
@@ -272,9 +272,9 @@
         {
           "id": "pratik.w8-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6 kyu) or 2 medium Exercism Dart exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old C# problem in Dart. jQuery upkeep (~10 min): solve the next section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — instant checking on the site (30-40 min)",
+          "text": "Solve 2 Dart katas (6 kyu) or 2 medium Exercism Dart exercises, then open your HackerRank submissions history and solve one old C# problem again in Dart on CodeWars or Exercism. jQuery upkeep (~10 min): solve the next section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — instant checking on the site (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç ve eski bir C# problemini Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir sonraki bölümünü çöz — sitede anında kontrol (30-40 dk)"
+          "textTr": "2 Dart katası çöz (6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir sonraki bölümünü çöz — sitede anında kontrol (30-40 dk)"
         },
         {
           "id": "pratik.w8-car",
@@ -299,24 +299,24 @@
       "id": "w9",
       "phaseId": "faz1",
       "no": "9",
-      "title": "C# Week and Easy-to-Medium SQL",
+      "title": "HackerRank C# Day and Easy-to-Medium SQL",
       "episode": "",
-      "summary": "C# week in the rotation; SQL practice starts mixing in the first Medium-level problems.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "C# week in the rotation, with the Interview Preparation Kit joining as the structured alternative; SQL practice starts mixing in the first Medium-level problems.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w9-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas (6 kyu if possible) or 2 medium Exercism C# exercises. Cross-language re-solve: pick the oldest problem in your CodeWars Solutions tab and solve it in C# if it is not already in C# — otherwise re-solve it in Dart. Compare with your old solution on the site: what did you remember wrong? (30-40 min)",
+          "text": "Solve 2 problems in C# on HackerRank, stepping from Easy to your first Medium — or take the structured route and work through the Warm-up Challenges section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: pick the oldest problem in your CodeWars Solutions tab (or Exercism solutions page) and solve it again here in C#. Compare with your old Dart version: what did you remember wrong? (30-40 min)",
           "recurring": false,
-          "textTr": "2 C# katası çöz (mümkünse 6 kyu) ya da Exercism'de 2 orta seviye C# alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmendeki en eski problemi al ve C# değilse C# ile çöz — zaten C# ise Dart ile yeniden çöz. Sitedeki eski çözümünle karşılaştır: neyi yanlış hatırlamışsın? (30-40 dk)"
+          "textTr": "HackerRank'te C# ile 2 problem çöz, Easy'den ilk Medium'una adım atarak — ya da yapılandırılmış yolu seç ve Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Warm-up Challenges bölümünü çalış. Diller arası yeniden çözüm: CodeWars Solutions sekmendeki (ya da Exercism çözümler sayfandaki) en eski problemi al ve onu burada bir de C# ile çöz. Eski Dart sürümünle karşılaştır: neyi yanlış hatırlamışsın? (30-40 dk)"
         },
         {
           "id": "pratik.w9-car",
           "day": "Çar",
-          "text": "Solve 2 Easy and 1 Medium problem on HackerRank SQL (MS SQL Server engine where offered) or LeetCode Database (select the MS SQL Server dialect). If the Medium one blocks you for more than 15 minutes, read the discussion, understand the idea, and write the query yourself from memory (30-40 min)",
+          "text": "Solve 2 Easy and 1 Medium problem on HackerRank SQL, choosing the MS SQL Server engine where the problem offers it. If the Medium one blocks you for more than 15 minutes, read the discussion, understand the idea, and write the query yourself from memory (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank SQL'de (sunulduğu yerde MS SQL Server motoru) ya da LeetCode Database'de (MS SQL Server lehçesini seç) 2 Easy ve 1 Medium problem çöz. Medium olan seni 15 dakikadan fazla tıkarsa tartışmayı oku, fikri anla ve sorguyu ezberden kendin yaz (30-40 dk)"
+          "textTr": "HackerRank SQL'de 2 Easy ve 1 Medium problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. Medium olan seni 15 dakikadan fazla tıkarsa tartışmayı oku, fikri anla ve sorguyu ezberden kendin yaz (30-40 dk)"
         },
         {
           "id": "pratik.w9-rec-review",
@@ -326,9 +326,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Haftası ve Easy'den Medium'a SQL",
-      "summaryTr": "Rotasyonda C# haftası; SQL pratiği ilk Medium seviye problemleri karışıma katmaya başlıyor.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/"
+      "titleTr": "HackerRank C# Günü ve Easy'den Medium'a SQL",
+      "summaryTr": "Rotasyonda C# haftası; yapılandırılmış alternatif olarak Interview Preparation Kit devreye giriyor ve SQL pratiği ilk Medium seviye problemleri karışıma katmaya başlıyor.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w10",
@@ -337,21 +337,21 @@
       "title": "Dart Week and the C# (Basic) Certification",
       "episode": "",
       "summary": "Milestone week: Dart katas on Tuesday with a C# re-solve as warm-up, then the free timed HackerRank C# (Basic) certification on Wednesday.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification/c_sharp_basic",
       "tasks": [
         {
           "id": "pratik.w10-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6 kyu) focusing on clean, fast solutions without looking things up. Then, as a warm-up for tomorrow, re-solve one old Dart problem from your CodeWars Solutions tab in C#. Notice which C# features you reached for automatically (30-40 min)",
+          "text": "Solve 2 Dart katas (6 kyu) focusing on clean, fast solutions without looking things up. Then reverse the usual direction for once, because tomorrow is exam day: take one old Dart problem from your CodeWars Solutions tab and solve it again in C# on HackerRank. Notice which C# features you reached for automatically (30-40 min)",
           "recurring": false,
-          "textTr": "Hiçbir şeye bakmadan temiz ve hızlı çözümlere odaklanarak 2 Dart katası çöz (6 kyu). Sonra yarına ısınma olarak, CodeWars Solutions sekmendeki eski bir Dart problemini C# ile yeniden çöz. Hangi C# özelliklerine otomatik olarak uzandığını fark et (30-40 dk)"
+          "textTr": "Hiçbir şeye bakmadan temiz ve hızlı çözümlere odaklanarak 2 Dart katası çöz (6 kyu). Sonra bu haftalığına yönü tersine çevir, çünkü yarın sınav günü: CodeWars Solutions sekmendeki eski bir Dart problemini al ve onu HackerRank'te C# ile yeniden çöz. Hangi C# özelliklerine otomatik olarak uzandığını fark et (30-40 dk)"
         },
         {
           "id": "pratik.w10-car",
           "day": "Çar",
-          "text": "🏁 Take the FREE timed HackerRank \"C# (Basic)\" certification at https://www.hackerrank.com/skills-verification. Find a quiet 45-minute window, no notes. Afterwards the result and certificate appear on your HackerRank profile — review on the site what was easy and what surprised you (30-40 min)",
+          "text": "🏁 Take the FREE timed HackerRank \"C# (Basic)\" certification at https://www.hackerrank.com/skills-verification/c_sharp_basic. Find a quiet 45-minute window, no notes. Afterwards the result and certificate appear on your HackerRank profile — review on the site what was easy and what surprised you (30-40 min)",
           "recurring": false,
-          "textTr": "🏁 https://www.hackerrank.com/skills-verification adresinden ÜCRETSİZ süreli HackerRank \"C# (Basic)\" sertifika sınavına gir. Sessiz 45 dakikalık bir aralık bul, not yok. Sonrasında sonuç ve sertifika HackerRank profilinde görünür — sitede neyin kolay geldiğini, neyin seni şaşırttığını gözden geçir (30-40 dk)"
+          "textTr": "🏁 https://www.hackerrank.com/skills-verification/c_sharp_basic adresinden ÜCRETSİZ süreli HackerRank \"C# (Basic)\" sertifika sınavına gir. Sessiz 45 dakikalık bir aralık bul, not yok. Sonrasında sonuç ve sertifika HackerRank profilinde görünür — sitede neyin kolay geldiğini, neyin seni şaşırttığını gözden geçir (30-40 dk)"
         },
         {
           "id": "pratik.w10-rec-review",
@@ -363,30 +363,30 @@
       ],
       "titleTr": "Dart Haftası ve C# (Basic) Sertifikası",
       "summaryTr": "Dönüm noktası haftası: Salı Dart kataları ve ısınma olarak bir C# yeniden çözümü, ardından Çarşamba ücretsiz süreli HackerRank C# (Basic) sertifikası.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification"
+      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification/c_sharp_basic"
     },
     {
       "id": "w11",
       "phaseId": "faz2",
       "no": "11",
-      "title": "C# Week and Medium SQL Territory",
+      "title": "HackerRank C# Day and Medium SQL Territory",
       "episode": "",
-      "summary": "Phase 2 opens with C# katas at a higher level and SQL practice settling into Medium problems.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "Phase 2 opens with C# problems at a higher level on HackerRank and SQL practice settling into Medium problems.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w11-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas at 6-5 kyu (or 2 medium-to-hard Exercism C# exercises). Cross-language re-solve: from your CodeWars Solutions tab (or Exercism solutions page), take one problem and solve it in the other language (C# ↔ Dart). If every problem is covered in both languages, pick the one whose solution you like least and improve it (30-40 min)",
+          "text": "Solve 2 problems in C# on HackerRank at Easy-to-Medium level, or work the Arrays section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: take one problem you solved before in Dart (CodeWars Solutions tab or Exercism solutions page) and solve it again here in C#. If everything is already covered in both languages, pick the solution you like least and improve it (30-40 min)",
           "recurring": false,
-          "textTr": "6-5 kyu seviyesinde 2 C# katası çöz (ya da 2 orta-zor Exercism C# alıştırması). Diller arası yeniden çözüm: CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir problem al ve onu diğer dilde çöz (C# ↔ Dart). Her problem iki dilde de kapsanmışsa, çözümünü en az beğendiğini seç ve onu iyileştir (30-40 dk)"
+          "textTr": "HackerRank'te C# ile Easy-Medium seviyesinde 2 problem çöz ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Arrays bölümünü çalış. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi al (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. Her şey iki dilde de kapsanmışsa, çözümünü en az beğendiğini seç ve onu iyileştir (30-40 dk)"
         },
         {
           "id": "pratik.w11-car",
           "day": "Çar",
-          "text": "Solve 2-3 Medium problems on LeetCode Database (always select the MS SQL Server dialect) or HackerRank SQL (MS SQL Server engine where offered). Focus on GROUP BY + HAVING patterns. Any problem that took two tries stays visible in your on-site history — you will revisit it in Hafta 14 (30-40 min)",
+          "text": "Solve 2-3 Medium problems on HackerRank SQL, choosing the MS SQL Server engine where the problem offers it. Focus on GROUP BY + HAVING patterns. Any problem that took two tries stays visible in your on-site submission history — you will revisit it in Hafta 14 (30-40 min)",
           "recurring": false,
-          "textTr": "LeetCode Database'de (her zaman MS SQL Server lehçesini seç) ya da HackerRank SQL'de (sunulduğu yerde MS SQL Server motoru) 2-3 Medium problem çöz. GROUP BY + HAVING kalıplarına odaklan. İki denemede çözdüğün her problem site içi geçmişinde görünür kalır — Hafta 14'te ona geri döneceksin (30-40 dk)"
+          "textTr": "HackerRank SQL'de 2-3 Medium problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. GROUP BY + HAVING kalıplarına odaklan. İki denemede çözdüğün her problem site içi gönderim geçmişinde görünür kalır — Hafta 14'te ona geri döneceksin (30-40 dk)"
         },
         {
           "id": "pratik.w11-rec-review",
@@ -396,9 +396,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Haftası ve Medium SQL Sahası",
-      "summaryTr": "Faz 2, daha üst seviyede C# kataları ve Medium problemlere yerleşen SQL pratiğiyle açılıyor.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/"
+      "titleTr": "HackerRank C# Günü ve Medium SQL Sahası",
+      "summaryTr": "Faz 2, HackerRank'te daha üst seviyede C# problemleri ve Medium problemlere yerleşen SQL pratiğiyle açılıyor.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w12",
@@ -412,9 +412,9 @@
         {
           "id": "pratik.w12-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 medium Exercism Dart exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in the other language (C# ↔ Dart). jQuery upkeep (~10 min): solve another section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 medium Exercism Dart exercises, then open your HackerRank submissions history and solve one old C# problem again in Dart on CodeWars or Exercism. jQuery upkeep (~10 min): solve another section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (6-5 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç ve eski bir problemi diğer dilde yeniden çöz (C# ↔ Dart). jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü daha çöz — site cevaplarını anında kontrol ediyor (30-40 dk)"
+          "textTr": "2 Dart katası çöz (6-5 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü daha çöz — site cevaplarını anında kontrol ediyor (30-40 dk)"
         },
         {
           "id": "pratik.w12-car",
@@ -439,24 +439,24 @@
       "id": "w13",
       "phaseId": "faz2",
       "no": "13",
-      "title": "C# Week and Window Functions in SQL",
+      "title": "HackerRank C# Day and Window Functions in SQL",
       "episode": "",
-      "summary": "C# rotation at 5-kyu ambition; SQL Mediums continue with ranking and window-style problems.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://leetcode.com/problemset/database/ · https://www.hackerrank.com/domains/sql",
+      "summary": "The C# rotation pushes from Easy into Medium; SQL Mediums continue with ranking and window-style problems.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w13-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas aiming at 6-5 kyu (or 2 harder Exercism C# exercises). Then pick a problem from your CodeWars Solutions tab that you last touched in Faz 1 and re-solve it in the other language (C# ↔ Dart) — from memory first, then compare with your old solution on the site (30-40 min)",
+          "text": "Solve 2 problems in C# on HackerRank, now aiming at Medium — or take the Dictionaries and Hashmaps section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: pick a Dart problem from your CodeWars Solutions tab that you last touched in Faz 1 and solve it again here in C# — from memory first, then compare with your old Dart version (30-40 min)",
           "recurring": false,
-          "textTr": "6-5 kyu hedefleyerek 2 C# katası çöz (ya da 2 daha zor Exercism C# alıştırması). Sonra CodeWars Solutions sekmenden en son Faz 1'de dokunduğun bir problemi seç ve onu diğer dilde yeniden çöz (C# ↔ Dart) — önce ezberden, sonra sitedeki eski çözümünle karşılaştır (30-40 dk)"
+          "textTr": "HackerRank'te C# ile 2 problem çöz, artık Medium hedefleyerek — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Dictionaries and Hashmaps bölümünü al. Diller arası yeniden çözüm: CodeWars Solutions sekmenden en son Faz 1'de dokunduğun bir Dart problemi seç ve onu burada bir de C# ile çöz — önce ezberden, sonra eski Dart sürümünle karşılaştır (30-40 dk)"
         },
         {
           "id": "pratik.w13-car",
           "day": "Çar",
-          "text": "Solve 2-3 Medium problems on LeetCode Database (MS SQL Server dialect) that involve ranking or consecutive rows — these usually need ROW_NUMBER, RANK, or LAG/LEAD. If window functions feel rusty, spend the first 10 minutes re-opening the relevant module page on the MS Learn path (30-40 min)",
+          "text": "Solve 2-3 Medium problems on HackerRank SQL that involve ranking or consecutive rows — these usually need ROW_NUMBER, RANK, or LAG/LEAD; choose the MS SQL Server engine where the problem offers it. If window functions feel rusty, spend the first 10 minutes re-opening the relevant module page on the MS Learn path (30-40 min)",
           "recurring": false,
-          "textTr": "LeetCode Database'de (MS SQL Server lehçesi) sıralama ya da ardışık satır içeren 2-3 Medium problem çöz — bunlar genelde ROW_NUMBER, RANK ya da LAG/LEAD ister. Pencere fonksiyonları paslanmış geliyorsa ilk 10 dakikayı MS Learn patikasındaki ilgili modül sayfasını yeniden açmaya ayır (30-40 dk)"
+          "textTr": "HackerRank SQL'de sıralama ya da ardışık satır içeren 2-3 Medium problem çöz — bunlar genelde ROW_NUMBER, RANK ya da LAG/LEAD ister; problem sunuyorsa MS SQL Server motorunu seç. Pencere fonksiyonları paslanmış geliyorsa ilk 10 dakikayı MS Learn patikasındaki ilgili modül sayfasını yeniden açmaya ayır (30-40 dk)"
         },
         {
           "id": "pratik.w13-rec-review",
@@ -466,9 +466,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Haftası ve SQL'de Pencere Fonksiyonları",
-      "summaryTr": "C# rotasyonu 5 kyu hedefiyle; SQL Medium'ları sıralama ve pencere tarzı problemlerle devam ediyor.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://leetcode.com/problemset/database/ · https://www.hackerrank.com/domains/sql"
+      "titleTr": "HackerRank C# Günü ve SQL'de Pencere Fonksiyonları",
+      "summaryTr": "C# rotasyonu Easy'den Medium'a çıkıyor; SQL Medium'ları sıralama ve pencere tarzı problemlerle devam ediyor.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w14",
@@ -477,21 +477,21 @@
       "title": "Dart Week and the SQL Retry Round",
       "episode": "",
       "summary": "Dart katas continue; on Wednesday you clear old debts by re-solving, on the site, the SQL problems that beat you before.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w14-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Cross-language re-solve: from your CodeWars Solutions tab, choose one problem where your original solution used a loop, and re-solve it in the other language using a more functional style (LINQ in C# or Dart collection methods) (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Cross-language re-solve: from your HackerRank submissions history, choose one C# problem where your original solution used a loop, and solve it again in Dart on CodeWars or Exercism in a more functional style (Dart collection methods instead of the loop) (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmenden ilk çözümünde döngü kullandığın bir problem seç ve onu diğer dilde daha fonksiyonel bir tarzda yeniden çöz (C#'ta LINQ ya da Dart koleksiyon metotları) (30-40 dk)"
+          "textTr": "2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. Diller arası yeniden çözüm: HackerRank gönderim geçmişinden, ilk çözümünde döngü kullandığın bir C# problemi seç ve onu CodeWars ya da Exercism'de Dart ile, daha fonksiyonel bir tarzda yeniden çöz (döngü yerine Dart koleksiyon metotları) (30-40 dk)"
         },
         {
           "id": "pratik.w14-car",
           "day": "Çar",
-          "text": "Open your solved and attempted history on HackerRank SQL (MS SQL Server engine) or LeetCode Database (MS SQL Server dialect) and re-solve 2-3 problems that were hard the first time, without looking at your old submissions. The site marks them solved once you pass; the stubborn ones stay in your attempted list (30-40 min)",
+          "text": "Open your solved and attempted history on HackerRank SQL (MS SQL Server engine where the problem offers it) and re-solve 2-3 problems that were hard the first time, without looking at your old submissions. The site marks them solved once you pass; the stubborn ones stay in your attempted list (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank SQL'deki (MS SQL Server motoru) ya da LeetCode Database'deki (MS SQL Server lehçesi) çözülmüş ve denenmiş geçmişini aç ve ilk seferinde zorlanmış olduğun 2-3 problemi, eski gönderimlerine bakmadan yeniden çöz. Geçtiğin anda site onları çözüldü olarak işaretler; inatçı olanlar denenmiş listende kalır (30-40 dk)"
+          "textTr": "HackerRank SQL'deki (problem sunuyorsa MS SQL Server motoru) çözülmüş ve denenmiş geçmişini aç ve ilk seferinde zorlanmış olduğun 2-3 problemi, eski gönderimlerine bakmadan yeniden çöz. Geçtiğin anda site onları çözüldü olarak işaretler; inatçı olanlar denenmiş listende kalır (30-40 dk)"
         },
         {
           "id": "pratik.w14-rec-review",
@@ -503,30 +503,30 @@
       ],
       "titleTr": "Dart Haftası ve SQL Tekrar Turu",
       "summaryTr": "Dart kataları sürüyor; Çarşamba, seni daha önce yenen SQL problemlerini sitede yeniden çözerek eski borçlarını kapatıyorsun.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/"
+      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w15",
       "phaseId": "faz2",
       "no": "15",
-      "title": "C# Week and First Hard Attempt",
+      "title": "HackerRank C# Day and First Hard Attempt",
       "episode": "",
-      "summary": "C# takes its rotation turn, and you make your first serious attempt at a Hard SQL problem.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://leetcode.com/problemset/database/ · https://www.hackerrank.com/domains/sql",
+      "summary": "C# takes its rotation turn at Medium level, and you make your first serious attempt at a Hard SQL problem.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w15-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas (6-5 kyu) or 2 harder Exercism C# exercises. Then take one Dart problem from your CodeWars Solutions tab and re-solve it in C#, paying attention to null-safety differences. Compare both versions on the site: what did Dart force you to think about that C# did not? (30-40 min)",
+          "text": "Solve 2 Medium problems in C# on HackerRank Algorithms or Data Structures — or work the Sorting section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: take one Dart problem from your CodeWars Solutions tab (or Exercism solutions page) and solve it again here in C#, paying attention to null-safety differences. What did Dart force you to think about that C# did not? (30-40 min)",
           "recurring": false,
-          "textTr": "2 C# katası çöz (6-5 kyu) ya da 2 daha zor Exercism C# alıştırması yap. Sonra CodeWars Solutions sekmenden bir Dart problemi al ve onu C# ile yeniden çöz, null-safety farklarına dikkat ederek. İki sürümü sitede karşılaştır: Dart, C#'ın düşündürmediği neyi düşündürdü sana? (30-40 dk)"
+          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Medium problem çöz — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Sorting bölümünü çalış. Diller arası yeniden çözüm: CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi al ve onu burada bir de C# ile çöz, null-safety farklarına dikkat ederek. Dart, C#'ın düşündürmediği neyi düşündürdü sana? (30-40 dk)"
         },
         {
           "id": "pratik.w15-car",
           "day": "Çar",
-          "text": "Attempt 1 Hard problem on LeetCode Database (MS SQL Server dialect) — give it 20 focused minutes before checking any hints. Whether you solve it or not, read the top discussion post on the site and make sure you can explain the key idea in English. Use remaining time for 1 Medium problem as a confidence reset (30-40 min)",
+          "text": "Attempt 1 Hard problem on HackerRank SQL (MS SQL Server engine where the problem offers it) — give it 20 focused minutes before checking any hints. Whether you solve it or not, read the top discussion post on the site and make sure you can explain the key idea in English. Use remaining time for 1 Medium problem as a confidence reset (30-40 min)",
           "recurring": false,
-          "textTr": "LeetCode Database'de (MS SQL Server lehçesi) 1 Hard problem dene — herhangi bir ipucuna bakmadan önce ona 20 odaklı dakika ver. Çözsen de çözemesen de sitedeki en üstteki tartışma gönderisini oku ve ana fikri İngilizce anlatabildiğinden emin ol. Kalan zamanı özgüven tazelemek için 1 Medium problemle değerlendir (30-40 dk)"
+          "textTr": "HackerRank SQL'de 1 Hard problem dene (problem sunuyorsa MS SQL Server motoru) — herhangi bir ipucuna bakmadan önce ona 20 odaklı dakika ver. Çözsen de çözemesen de sitedeki en üstteki tartışma gönderisini oku ve ana fikri İngilizce anlatabildiğinden emin ol. Kalan zamanı özgüven tazelemek için 1 Medium problemle değerlendir (30-40 dk)"
         },
         {
           "id": "pratik.w15-rec-review",
@@ -536,9 +536,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Haftası ve İlk Hard Denemesi",
-      "summaryTr": "Rotasyonda sıra C#'ta ve bir Hard SQL problemine ilk ciddi denemeni yapıyorsun.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://leetcode.com/problemset/database/ · https://www.hackerrank.com/domains/sql"
+      "titleTr": "HackerRank C# Günü ve İlk Hard Denemesi",
+      "summaryTr": "Rotasyonda sıra Medium seviyesinde C#'ta ve bir Hard SQL problemine ilk ciddi denemeni yapıyorsun.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w16",
@@ -552,9 +552,9 @@
         {
           "id": "pratik.w16-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (5 kyu if you feel ready) or 2 harder Exercism Dart exercises, then open your CodeWars Solutions tab (or Exercism solutions page) and re-solve one old problem in the other language (C# ↔ Dart). jQuery upkeep (~10 min): solve the last section you have not done yet in the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp (30-40 min)",
+          "text": "Solve 2 Dart katas (5 kyu if you feel ready) or 2 harder Exercism Dart exercises, then open your HackerRank submissions history and solve one old C# problem again in Dart on CodeWars or Exercism. jQuery upkeep (~10 min): solve the last section you have not done yet in the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (hazır hissediyorsan 5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap, sonra CodeWars Solutions sekmeni (ya da Exercism çözümler sayfanı) aç ve eski bir problemi diğer dilde yeniden çöz (C# ↔ Dart). jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarında henüz yapmadığın son bölümü çöz (30-40 dk)"
+          "textTr": "2 Dart katası çöz (hazır hissediyorsan 5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarında henüz yapmadığın son bölümü çöz (30-40 dk)"
         },
         {
           "id": "pratik.w16-car",
@@ -579,24 +579,24 @@
       "id": "w17",
       "phaseId": "faz2",
       "no": "17",
-      "title": "C# Week and SQL Mixed Set",
+      "title": "HackerRank C# Day and SQL Mixed Set",
       "episode": "",
-      "summary": "The final regular practice week: C# katas and a mixed-difficulty SQL set that simulates real exam variety.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "The final regular practice week: Medium C# problems and a mixed-difficulty SQL set that simulates real exam variety.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w17-sali",
           "day": "Salı",
-          "text": "Solve 2 C# katas (6-5 kyu) or 2 harder Exercism C# exercises. Cross-language re-solve: in your CodeWars Solutions tab, pick the problem you have re-trained most often and solve it one more time in the language you are slowest in (C# or Dart). Time yourself and try to beat your feeling of \"slow\" (30-40 min)",
+          "text": "Solve 2 Medium problems in C# on HackerRank — or take the String Manipulation section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: in your CodeWars Solutions tab, pick the Dart problem you have re-trained most often and solve it one more time in C# here. Time yourself and try to beat your feeling of \"slow\" (30-40 min)",
           "recurring": false,
-          "textTr": "2 C# katası çöz (6-5 kyu) ya da 2 daha zor Exercism C# alıştırması yap. Diller arası yeniden çözüm: CodeWars Solutions sekmende en çok yeniden çalıştığın problemi seç ve onu, en yavaş olduğun dilde (C# ya da Dart) bir kez daha çöz. Süreni tut ve o \"yavaş\" hissini kırmaya çalış (30-40 dk)"
+          "textTr": "HackerRank'te C# ile 2 Medium problem çöz — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) String Manipulation bölümünü al. Diller arası yeniden çözüm: CodeWars Solutions sekmende en çok yeniden çalıştığın Dart problemini seç ve onu burada bir kez daha C# ile çöz. Süreni tut ve o \"yavaş\" hissini kırmaya çalış (30-40 dk)"
         },
         {
           "id": "pratik.w17-car",
           "day": "Çar",
-          "text": "Mixed SQL set: 1 Easy (speed — under 5 minutes), 2 Medium, and if time remains, revisit the Hard problem from Hafta 15. Use HackerRank SQL (MS SQL Server engine) or LeetCode Database (MS SQL Server dialect). This is your last free-form practice before certification prep (30-40 min)",
+          "text": "Mixed SQL set on HackerRank SQL: 1 Easy (speed — under 5 minutes), 2 Medium, and if time remains, revisit the Hard problem from Hafta 15. Choose the MS SQL Server engine where the problem offers it. This is your last free-form practice before certification prep (30-40 min)",
           "recurring": false,
-          "textTr": "Karma SQL seti: 1 Easy (hız — 5 dakikanın altında), 2 Medium ve zaman kalırsa Hafta 15'teki Hard problemi tekrar ziyaret et. HackerRank SQL (MS SQL Server motoru) ya da LeetCode Database (MS SQL Server lehçesi) kullan. Bu, sertifika hazırlığından önceki son serbest formlu pratiğin (30-40 dk)"
+          "textTr": "HackerRank SQL'de karma set: 1 Easy (hız — 5 dakikanın altında), 2 Medium ve zaman kalırsa Hafta 15'teki Hard problemi tekrar ziyaret et. Problem sunuyorsa MS SQL Server motorunu seç. Bu, sertifika hazırlığından önceki son serbest formlu pratiğin (30-40 dk)"
         },
         {
           "id": "pratik.w17-rec-review",
@@ -606,9 +606,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Haftası ve SQL Karma Seti",
-      "summaryTr": "Son düzenli pratik haftası: C# kataları ve gerçek sınav çeşitliliğini taklit eden karma zorlukta bir SQL seti.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/"
+      "titleTr": "HackerRank C# Günü ve SQL Karma Seti",
+      "summaryTr": "Son düzenli pratik haftası: Medium C# problemleri ve gerçek sınav çeşitliliğini taklit eden karma zorlukta bir SQL seti.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w18",
@@ -617,21 +617,21 @@
       "title": "Dart Week and Timed Prep Round 1",
       "episode": "",
       "summary": "Dart continues the rotation, and SQL work moves to exam conditions: timed problem sets.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w18-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Re-solve one problem from your CodeWars Solutions tab in the other language (C# ↔ Dart), then skim your whole Solutions tab (and Exercism solutions pages) and pick your 3 favorite solutions (30-40 min)",
+          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Take one C# problem from your HackerRank submissions history and solve it again in Dart on CodeWars or Exercism, then skim both histories — HackerRank submissions and your CodeWars/Exercism solutions — and pick your 3 favorite solutions (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. CodeWars Solutions sekmenden bir problemi diğer dilde yeniden çöz (C# ↔ Dart), sonra bütün Solutions sekmene (ve Exercism çözüm sayfalarına) göz gezdirip en beğendiğin 3 çözümü seç (30-40 dk)"
+          "textTr": "2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. HackerRank gönderim geçmişinden bir C# problemi al ve onu CodeWars ya da Exercism'de Dart ile yeniden çöz, sonra iki geçmişe birden göz gezdir — HackerRank gönderimlerin ve CodeWars/Exercism çözümlerin — ve en beğendiğin 3 çözümü seç (30-40 dk)"
         },
         {
           "id": "pratik.w18-car",
           "day": "Çar",
-          "text": "Certification prep, round 1: set a 35-minute timer and solve as many Medium problems as you can on HackerRank SQL (MS SQL Server engine where offered) — no breaks, no docs, exam conditions. Afterwards check your submission history on the site: how many did you finish, and which topic slowed you down most? (30-40 min)",
+          "text": "Certification prep, round 1: set a 35-minute timer and solve as many Medium problems as you can on HackerRank SQL (MS SQL Server engine where the problem offers it) — no breaks, no docs, exam conditions. Afterwards check your submission history on the site: how many did you finish, and which topic slowed you down most? (30-40 min)",
           "recurring": false,
-          "textTr": "Sertifika hazırlığı, 1. tur: 35 dakikalık bir kronometre kur ve HackerRank SQL'de (sunulduğu yerde MS SQL Server motoru) çözebildiğin kadar Medium problem çöz — mola yok, dokümantasyon yok, sınav koşulları. Sonrasında sitedeki gönderim geçmişine bak: kaç tanesini bitirdin ve seni en çok hangi konu yavaşlattı? (30-40 dk)"
+          "textTr": "Sertifika hazırlığı, 1. tur: 35 dakikalık bir kronometre kur ve HackerRank SQL'de (problem sunuyorsa MS SQL Server motoru) çözebildiğin kadar Medium problem çöz — mola yok, dokümantasyon yok, sınav koşulları. Sonrasında sitedeki gönderim geçmişine bak: kaç tanesini bitirdin ve seni en çok hangi konu yavaşlattı? (30-40 dk)"
         },
         {
           "id": "pratik.w18-rec-review",
@@ -643,30 +643,30 @@
       ],
       "titleTr": "Dart Haftası ve Süreli Hazırlık 1. Tur",
       "summaryTr": "Dart rotasyonu sürdürüyor ve SQL çalışması sınav koşullarına geçiyor: süreli problem setleri.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/"
+      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w19",
       "phaseId": "faz2",
       "no": "19",
-      "title": "C# Finale and Timed Prep Round 2",
+      "title": "HackerRank C# Finale and Timed Prep Round 2",
       "episode": "",
-      "summary": "C# takes its last kata slot of the program, and you run a second timed SQL rehearsal targeting your weak topic.",
-      "source": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/",
+      "summary": "C# takes its last practice slot of the program, and you run a second timed SQL rehearsal targeting your weak topic.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
           "id": "pratik.w19-sali",
           "day": "Salı",
-          "text": "Final C# kata session: solve 2 katas at 6-5 kyu, then do one last cross-language re-solve from your CodeWars Solutions tab. Close with 5 minutes scrolling your whole solution history on the platforms, start to finish — see in the code itself what improved since Hafta 1 (30-40 min)",
+          "text": "Final C# session: solve 2 Medium problems on HackerRank, or close the program with the Dynamic Programming section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Do one last cross-language re-solve of a Dart problem from your CodeWars Solutions tab. Close with 5 minutes scrolling both histories start to finish — your HackerRank submissions and your CodeWars/Exercism solutions — and see in the code itself what improved since Hafta 1 (30-40 min)",
           "recurring": false,
-          "textTr": "Son C# kata oturumu: 6-5 kyu seviyesinde 2 kata çöz, sonra CodeWars Solutions sekmenden son bir diller arası yeniden çözüm yap. Kapanışta 5 dakikanı platformlardaki bütün çözüm geçmişini baştan sona kaydırmaya ayır — Hafta 1'den bu yana neyin geliştiğini doğrudan kodda gör (30-40 dk)"
+          "textTr": "Son C# oturumu: HackerRank'te 2 Medium problem çöz ya da programı Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Dynamic Programming bölümüyle kapat. CodeWars Solutions sekmenden bir Dart problemiyle son bir diller arası yeniden çözüm yap. Kapanışta 5 dakikanı iki geçmişi de baştan sona kaydırmaya ayır — HackerRank gönderimlerin ve CodeWars/Exercism çözümlerin — Hafta 1'den bu yana neyin geliştiğini doğrudan kodda gör (30-40 dk)"
         },
         {
           "id": "pratik.w19-car",
           "day": "Çar",
-          "text": "Certification prep, round 2: spend the first 10 minutes drilling the weak topic you noted last week, then run another 25-minute timed set of Medium SQL problems (HackerRank SQL, MS SQL Server engine where offered). You are ready when Mediums fall in under 10 minutes each (30-40 min)",
+          "text": "Certification prep, round 2: spend the first 10 minutes drilling the weak topic you noted last week, then run another 25-minute timed set of Medium SQL problems (HackerRank SQL, MS SQL Server engine where the problem offers it). You are ready when Mediums fall in under 10 minutes each (30-40 min)",
           "recurring": false,
-          "textTr": "Sertifika hazırlığı, 2. tur: ilk 10 dakikayı geçen hafta not ettiğin zayıf konuyu çalışmaya ayır, sonra 25 dakikalık süreli bir Medium SQL problem seti daha koştur (HackerRank SQL, sunulduğu yerde MS SQL Server motoru). Medium'lar her biri 10 dakikanın altında düştüğünde hazırsın (30-40 dk)"
+          "textTr": "Sertifika hazırlığı, 2. tur: ilk 10 dakikayı geçen hafta not ettiğin zayıf konuyu çalışmaya ayır, sonra 25 dakikalık süreli bir Medium SQL problem seti daha koştur (HackerRank SQL, problem sunuyorsa MS SQL Server motoru). Medium'lar her biri 10 dakikanın altında düştüğünde hazırsın (30-40 dk)"
         },
         {
           "id": "pratik.w19-rec-review",
@@ -676,9 +676,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "C# Finali ve Süreli Hazırlık 2. Tur",
-      "summaryTr": "C#, programdaki son kata sırasını alıyor ve zayıf konunu hedefleyen ikinci bir süreli SQL provası yapıyorsun.",
-      "sourceTr": "https://www.codewars.com/kata/search/csharp · https://exercism.org/tracks/csharp · https://www.hackerrank.com/domains/sql · https://leetcode.com/problemset/database/"
+      "titleTr": "HackerRank C# Finali ve Süreli Hazırlık 2. Tur",
+      "summaryTr": "C#, programdaki son pratik sırasını alıyor ve zayıf konunu hedefleyen ikinci bir süreli SQL provası yapıyorsun.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w20",
@@ -692,16 +692,16 @@
         {
           "id": "pratik.w20-sali",
           "day": "Salı",
-          "text": "Light warm-up before exam day: solve 2 Dart katas at a comfortable level (6 kyu) and re-solve one problem from your CodeWars Solutions tab in the other language (C# ↔ Dart). jQuery finale (~10 min): take the 25-question W3Schools jQuery quiz at https://www.w3schools.com/jquery/jquery_quiz.asp — your score appears instantly on the site (30-40 min)",
+          "text": "Light warm-up before exam day: solve 2 Dart katas at a comfortable level (6 kyu) and take one last C# problem from your HackerRank submissions history to solve again in Dart on CodeWars or Exercism. jQuery finale (~10 min): take the 25-question W3Schools jQuery quiz at https://www.w3schools.com/jquery/jquery_quiz.asp — your score appears instantly on the site (30-40 min)",
           "recurring": false,
-          "textTr": "Sınav gününden önce hafif ısınma: rahat bir seviyede 2 Dart katası çöz (6 kyu) ve CodeWars Solutions sekmenden bir problemi diğer dilde yeniden çöz (C# ↔ Dart). jQuery finali (~10 dk): https://www.w3schools.com/jquery/jquery_quiz.asp adresindeki 25 soruluk W3Schools jQuery quiz'ini çöz — puanın sitede anında görünür (30-40 dk)"
+          "textTr": "Sınav gününden önce hafif ısınma: rahat bir seviyede 2 Dart katası çöz (6 kyu) ve HackerRank gönderim geçmişinden son bir C# problemi alıp onu CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery finali (~10 dk): https://www.w3schools.com/jquery/jquery_quiz.asp adresindeki 25 soruluk W3Schools jQuery quiz'ini çöz — puanın sitede anında görünür (30-40 dk)"
         },
         {
           "id": "pratik.w20-car",
           "day": "Çar",
-          "text": "🏁 Take the FREE timed HackerRank \"SQL (Intermediate)\" certification at https://www.hackerrank.com/skills-verification. Quiet room, full focus, no notes. Whatever the result, it lands on your HackerRank profile — and the whole 20 weeks is now visible on your CodeWars, Exercism, MS Learn, and HackerRank histories (30-40 min)",
+          "text": "🏁 Take the FREE timed HackerRank \"SQL (Intermediate)\" certification at https://www.hackerrank.com/skills-verification. Quiet room, full focus, no notes. Whatever the result, it lands on your HackerRank profile — and the whole 20 weeks is now visible on your HackerRank, CodeWars, Exercism, and MS Learn histories (30-40 min)",
           "recurring": false,
-          "textTr": "🏁 https://www.hackerrank.com/skills-verification adresinden ÜCRETSİZ süreli HackerRank \"SQL (Intermediate)\" sertifika sınavına gir. Sessiz oda, tam odak, not yok. Sonuç ne olursa olsun HackerRank profiline işlenir — ve 20 haftanın tamamı artık CodeWars, Exercism, MS Learn ve HackerRank geçmişlerinde görünüyor (30-40 dk)"
+          "textTr": "🏁 https://www.hackerrank.com/skills-verification adresinden ÜCRETSİZ süreli HackerRank \"SQL (Intermediate)\" sertifika sınavına gir. Sessiz oda, tam odak, not yok. Sonuç ne olursa olsun HackerRank profiline işlenir — ve 20 haftanın tamamı artık HackerRank, CodeWars, Exercism ve MS Learn geçmişlerinde görünüyor (30-40 dk)"
         },
         {
           "id": "pratik.w20-rec-review",
