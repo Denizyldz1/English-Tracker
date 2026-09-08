@@ -19,24 +19,45 @@
       "id": "w1",
       "phaseId": "faz1",
       "no": "1",
-      "title": "Kickoff: HackerRank C# Day and First T-SQL Module",
+      "title": "Kickoff: HackerRank C# Day and First SQL Practice",
       "episode": "",
-      "summary": "Start the 2-week language rotation with C# on HackerRank — everything solved on the site, in the browser — and begin the T-SQL path with the introduction module.",
-      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
+      "summary": "Start the week with two HackerRank C# sessions (Warmup subdomain plus the main rotation day, including the Dart seed) and two HackerRank SQL sessions on basic SELECT queries, then close Friday with a weak-spot review.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w1-pzt",
+          "day": "Pzt",
+          "text": "Kick off the week with 2 Easy problems from the Warmup subdomain of HackerRank Algorithms (https://www.hackerrank.com/domains/algorithms), submitting in C# (.NET 8) — pure syntax and I/O practice before Tuesday's main session (30-40 min)",
+          "recurring": false,
+          "textTr": "Haftaya HackerRank Algorithms'ın (https://www.hackerrank.com/domains/algorithms) Warmup alt alanından 2 Easy problemle başla, gönderim dili C# (.NET 8) — Salı'nın ana oturumundan önce saf sözdizimi ve I/O pratiği (30-40 dk)"
+        },
         {
           "id": "pratik.w1-sali",
           "day": "Salı",
-          "text": "Solve 2 Easy problems on HackerRank Algorithms (https://www.hackerrank.com/domains/algorithms) or Data Structures (https://www.hackerrank.com/domains/data-structures), selecting C# (.NET 8) as the submission language — the editor runs in the browser, nothing to install, tests run on the site. Your Dart history is still empty, so seed it today: take one of the two problems and solve it again in Dart on CodeWars or Exercism; from next week the cross-language re-solve always pulls from that history (30-40 min)",
+          "text": "Solve 2 Easy problems on HackerRank Algorithms (https://www.hackerrank.com/domains/algorithms) or Data Structures (https://www.hackerrank.com/domains/data-structures), selecting C# (.NET 8) as the submission language — the editor runs in the browser, nothing to install, tests run on the site. Your Dart history is still empty, so seed it today: take one of the two problems and solve it again in Dart on Exercism; from next week the cross-language re-solve always pulls from that history (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank Algorithms (https://www.hackerrank.com/domains/algorithms) ya da Data Structures (https://www.hackerrank.com/domains/data-structures) alanında 2 Easy problem çöz, gönderim dili olarak C# (.NET 8) seçerek — editör tarayıcıda çalışır, kurulacak bir şey yok, testler sitede koşar. Dart geçmişin henüz boş, o yüzden bugün tohumu at: iki problemden birini CodeWars ya da Exercism'de bir de Dart ile çöz; haftaya başlayarak diller arası yeniden çözüm hep bu geçmişten seçilir (30-40 dk)"
+          "textTr": "HackerRank Algorithms (https://www.hackerrank.com/domains/algorithms) ya da Data Structures (https://www.hackerrank.com/domains/data-structures) alanında 2 Easy problem çöz, gönderim dili olarak C# (.NET 8) seçerek — editör tarayıcıda çalışır, kurulacak bir şey yok, testler sitede koşar. Dart geçmişin henüz boş, o yüzden bugün tohumu at: iki problemden birini Exercism'de bir de Dart ile çöz; haftaya başlayarak diller arası yeniden çözüm hep bu geçmişten seçilir (30-40 dk)"
         },
         {
           "id": "pratik.w1-car",
           "day": "Çar",
-          "text": "On MS Learn, complete the module \"Introduction to Transact-SQL\" from the path \"Query and modify data with Transact-SQL\". Write the example queries yourself instead of only reading them, then solve 1-2 easy problems on HackerRank SQL (choose the MS SQL Server engine where the problem offers it) (30-40 min)",
+          "text": "Solve 2-3 Easy problems on HackerRank SQL (https://www.hackerrank.com/domains/sql) to get comfortable with basic SELECT queries — choose the MS SQL Server engine where the problem offers it (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn'de, \"Query and modify data with Transact-SQL\" patikasındaki \"Introduction to Transact-SQL\" modülünü tamamla. Örnek sorguları yalnızca okumak yerine kendin yaz, ardından HackerRank SQL'de 1-2 kolay problem çöz (problem sunuyorsa MS SQL Server motorunu seç) (30-40 dk)"
+          "textTr": "HackerRank SQL'de (https://www.hackerrank.com/domains/sql) temel SELECT sorgularına alışmak için 2-3 Easy problem çöz — problem sunuyorsa MS SQL Server motorunu seç (30-40 dk)"
+        },
+        {
+          "id": "pratik.w1-per",
+          "day": "Per",
+          "text": "A second SQL pass: solve 2-3 more Easy problems on HackerRank SQL, still basic SELECT territory — this time add a WHERE condition or two, and try writing each query without looking at the schema twice (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci bir SQL turu: yine temel SELECT alanında 2-3 Easy problem daha çöz — bu kez bir-iki WHERE koşulu ekle ve her sorguyu şemaya iki kez bakmadan yazmayı dene (30-40 dk)"
+        },
+        {
+          "id": "pratik.w1-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: look back at everything you solved this week on HackerRank (C# and SQL) and Exercism. Pick whichever one felt hardest, and solve it again from scratch — timed, no notes, no peeking at your earlier attempt (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu hafta HackerRank'te (C# ve SQL) ve Exercism'de çözdüğün her şeye geri dön. Hangisi en zor geldiyse onu seç ve sıfırdan yeniden çöz — süreli, notsuz, eski denemene bakmadan (30-40 dk)"
         },
         {
           "id": "pratik.w1-rec-review",
@@ -46,9 +67,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "Açılış: HackerRank C# Günü ve İlk T-SQL Modülü",
-      "summaryTr": "2 haftalık dil rotasyonuna HackerRank'te C# ile başla — her şey sitede, tarayıcıda çözülür — ve T-SQL patikasına giriş modülüyle giriş yap.",
-      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/"
+      "titleTr": "Açılış: HackerRank C# Günü ve İlk SQL Pratiği",
+      "summaryTr": "Haftaya HackerRank C# ile iki oturumla başla (Warmup alt alanı artı Dart tohumunu içeren ana rotasyon günü) ve temel SELECT sorguları üzerine iki HackerRank SQL oturumuyla devam et, Cuma'da zayıf nokta gözden geçirmesiyle kapat.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w2",
@@ -56,22 +77,43 @@
       "no": "2",
       "title": "Dart Week and Sorting Data",
       "episode": "",
-      "summary": "Rotation moves to Dart on CodeWars/Exercism; on the SQL side you learn to sort and filter query results.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
+      "summary": "Rotation moves to two Dart sessions on Exercism; two SQL sessions cover sorting and filtering query results, and Friday closes the week with a weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w2-pzt",
+          "day": "Pzt",
+          "text": "Warm up the week with 2 fresh Exercism Dart exercises you have not attempted yet — easy, foundational ones for now; save the harder picks for Tuesday's cross-language work (30-40 min)",
+          "recurring": false,
+          "textTr": "Haftaya henüz denemediğin 2 taze Exercism Dart alıştırmasıyla ısın — şimdilik kolay, temel olanlar; zor seçimleri Salı'nın diller arası çalışmasına sakla (30-40 dk)"
+        },
         {
           "id": "pratik.w2-sali",
           "day": "Salı",
-          "text": "Solve 2 CodeWars katas in Dart (7-6 kyu) or 2 medium Exercism Dart exercises. Then open your HackerRank submissions history, pick one problem you solved there in C#, and solve it again in Dart on CodeWars or Exercism — a problem is never \"done\", it comes back in the other language. Compare the two versions (30-40 min)",
+          "text": "Solve 2 Exercism Dart exercises at a comfortable pace. Then open your HackerRank submissions history, pick one problem you solved there in C#, and solve it again in Dart on Exercism — a problem is never \"done\", it comes back in the other language. Compare the two versions (30-40 min)",
           "recurring": false,
-          "textTr": "CodeWars'ta Dart ile 2 kata çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Sonra HackerRank gönderim geçmişini aç, orada C# ile çözdüğün bir problem seç ve onu CodeWars ya da Exercism'de bir de Dart ile çöz — bir problem asla \"bitmiş\" değildir, diğer dilde geri gelir. İki sürümü karşılaştır (30-40 dk)"
+          "textTr": "Exercism'de 2 Dart alıştırması çöz, rahat bir tempoda. Sonra HackerRank gönderim geçmişini aç, orada C# ile çözdüğün bir problem seç ve onu Exercism'de bir de Dart ile çöz — bir problem asla \"bitmiş\" değildir, diğer dilde geri gelir. İki sürümü karşılaştır (30-40 dk)"
         },
         {
           "id": "pratik.w2-car",
           "day": "Çar",
-          "text": "Complete the MS Learn module \"Sort and filter results in T-SQL queries\" (WHERE, ORDER BY, TOP, OFFSET-FETCH). Then solve 1-2 easy HackerRank SQL problems that use filtering, with the MS SQL Server engine where the problem offers it (30-40 min)",
+          "text": "Solve 1-2 Easy HackerRank SQL problems that use sorting and filtering — ORDER BY, TOP, OFFSET-FETCH — choosing the MS SQL Server engine where the problem offers it (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn'deki \"Sort and filter results in T-SQL queries\" modülünü tamamla (WHERE, ORDER BY, TOP, OFFSET-FETCH). Sonra filtreleme kullanan 1-2 kolay HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motoruyla (30-40 dk)"
+          "textTr": "Sıralama ve filtreleme kullanan 1-2 Easy HackerRank SQL problemi çöz — ORDER BY, TOP, OFFSET-FETCH — problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w2-per",
+          "day": "Per",
+          "text": "A second SQL pass on the same theme: solve 2 more HackerRank SQL problems that combine WHERE filtering with ORDER BY / TOP, then try one using OFFSET-FETCH for pagination-style results (30-40 min)",
+          "recurring": false,
+          "textTr": "Aynı temada ikinci bir SQL turu: WHERE filtrelemesini ORDER BY / TOP ile birleştiren 2 HackerRank SQL problemi daha çöz, sonra sayfalama tarzı sonuçlar için OFFSET-FETCH kullanan bir tane dene (30-40 dk)"
+        },
+        {
+          "id": "pratik.w2-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: scan this week's HackerRank SQL and Exercism Dart work, pick the query or exercise that gave you the most trouble, and redo it from a blank file — timed, no notes (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftanın HackerRank SQL ve Exercism Dart çalışmasını tara, seni en çok zorlayan sorguyu ya da alıştırmayı seç ve boş bir dosyadan yeniden yaz — süreli, notsuz (30-40 dk)"
         },
         {
           "id": "pratik.w2-rec-review",
@@ -82,8 +124,8 @@
         }
       ],
       "titleTr": "Dart Haftası ve Veriyi Sıralama",
-      "summaryTr": "Rotasyon CodeWars/Exercism'de Dart'a geçiyor; SQL tarafında sorgu sonuçlarını sıralamayı ve filtrelemeyi öğreniyorsun.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql"
+      "summaryTr": "Rotasyon Exercism'de iki Dart oturumuna geçiyor; iki SQL oturumu sorgu sonuçlarını sıralamayı ve filtrelemeyi kapsıyor, Cuma zayıf nokta gözden geçirmesiyle haftayı kapatıyor.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w3",
@@ -91,22 +133,43 @@
       "no": "3",
       "title": "HackerRank C# Day and JOINs",
       "episode": "",
-      "summary": "C# takes its turn again in the rotation on HackerRank, and you practice combining tables with JOINs.",
-      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
+      "summary": "C# takes its turn again across two HackerRank sessions, two SQL sessions practice combining tables with JOINs, and Friday's weak-spot review closes the week.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w3-pzt",
+          "day": "Pzt",
+          "text": "Two Easy problems from the Implementation subdomain of HackerRank Algorithms, submitted in C# — a different flavor than Tuesday's set, good practice for reading a spec carefully and translating it directly into code (30-40 min)",
+          "recurring": false,
+          "textTr": "HackerRank Algorithms'ın Implementation alt alanından C# ile 2 Easy problem çöz — Salı'nın setinden farklı bir tat, bir spesifikasyonu dikkatle okuyup doğrudan koda çevirmek için iyi bir pratik (30-40 dk)"
+        },
         {
           "id": "pratik.w3-sali",
           "day": "Salı",
-          "text": "Solve 2 Easy problems on HackerRank Algorithms or Data Structures with C# selected as the submission language. Cross-language re-solve: pick one problem you solved before in Dart (CodeWars Solutions tab or your Exercism solutions page) and solve it again here in C#. Then open the problem's Discussions tab and find one approach you did not use (30-40 min)",
+          "text": "Solve 2 Easy problems on HackerRank Algorithms or Data Structures with C# selected as the submission language. Cross-language re-solve: pick one problem you solved before in Dart (your Exercism solutions page) and solve it again here in C#. Then open the problem's Discussions tab and find one approach you did not use (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank Algorithms ya da Data Structures alanında, gönderim dili olarak C# seçili şekilde 2 Easy problem çöz. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi seç (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. Sonra problemin Discussions sekmesini aç ve kullanmadığın bir yaklaşım yakala (30-40 dk)"
+          "textTr": "HackerRank Algorithms ya da Data Structures alanında, gönderim dili olarak C# seçili şekilde 2 Easy problem çöz. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi seç (Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. Sonra problemin Discussions sekmesini aç ve kullanmadığın bir yaklaşım yakala (30-40 dk)"
         },
         {
           "id": "pratik.w3-car",
           "day": "Çar",
-          "text": "Complete the MS Learn module \"Combine multiple tables with JOINs in T-SQL\" (INNER, LEFT, RIGHT, self joins). Then solve 1-2 HackerRank SQL problems that need a JOIN, using the MS SQL Server engine where the problem offers it (30-40 min)",
+          "text": "Solve 1-2 HackerRank SQL problems that need a JOIN (INNER, LEFT, self join), choosing the MS SQL Server engine where the problem offers it (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn'deki \"Combine multiple tables with JOINs in T-SQL\" modülünü tamamla (INNER, LEFT, RIGHT, self join). Sonra JOIN gerektiren 1-2 HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motorunu kullanarak (30-40 dk)"
+          "textTr": "JOIN gerektiren 1-2 HackerRank SQL problemi çöz (INNER, LEFT, self join), problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w3-per",
+          "day": "Per",
+          "text": "A second JOIN-focused SQL pass: solve 2 more HackerRank SQL problems, this time looking for ones that need two JOINs in the same query or a self join — choose the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "JOIN odaklı ikinci bir SQL turu: bu kez aynı sorguda iki JOIN gerektiren ya da bir self join isteyen 2 HackerRank SQL problemi daha çöz — problem sunuyorsa MS SQL Server motorunu seç (30-40 dk)"
+        },
+        {
+          "id": "pratik.w3-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: out of everything you solved this week — HackerRank C#, HackerRank SQL, your Exercism history — pick the one that fought back hardest and solve it again cold, timed, no peeking (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu hafta çözdüğün her şey arasından — HackerRank C#, HackerRank SQL, Exercism geçmişin — en çok direneni seç ve soğuk bir şekilde, süreli, bakmadan yeniden çöz (30-40 dk)"
         },
         {
           "id": "pratik.w3-rec-review",
@@ -117,8 +180,8 @@
         }
       ],
       "titleTr": "HackerRank C# Günü ve JOIN'ler",
-      "summaryTr": "Rotasyonda sıra yine HackerRank'te C#'ta ve tabloları JOIN'lerle birleştirmeyi çalışıyorsun.",
-      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql"
+      "summaryTr": "C# iki HackerRank oturumuyla rotasyonda yine sırada, iki SQL oturumu tabloları JOIN'lerle birleştirmeyi çalışıyor, Cuma'nın zayıf nokta gözden geçirmesi haftayı kapatıyor.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w4",
@@ -126,15 +189,22 @@
       "no": "4",
       "title": "Dart Returns, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Dart is back in the rotation with in-browser jQuery exercises, and Wednesday is a DartPad Flutter mini-challenge day.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
+      "summary": "Dart is back across two sessions with in-browser jQuery exercises on Tuesday; Wednesday is a DartPad Flutter mini-challenge day, Thursday carries the week's only SQL practice (aggregate functions and GROUP BY), and Friday closes with a weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w4-pzt",
+          "day": "Pzt",
+          "text": "2 more fresh Exercism Dart exercises, still easy territory, picked from a track section you have not opened yet — keep building the exercise backlog before Tuesday's jQuery addendum (30-40 min)",
+          "recurring": false,
+          "textTr": "Henüz açmadığın bir parkur bölümünden, hâlâ kolay seviyede 2 taze Exercism Dart alıştırması daha çöz — Salı'nın jQuery ekiyle öncesinde alıştırma birikimini büyütmeye devam et (30-40 dk)"
+        },
         {
           "id": "pratik.w4-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas on CodeWars (7-6 kyu) or Exercism, then open your HackerRank submissions history, take one problem you solved in C#, and solve it again in Dart on CodeWars or Exercism. jQuery upkeep (~10 min): solve one section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
+          "text": "Solve 2 Exercism Dart exercises, then open your HackerRank submissions history, take one problem you solved in C#, and solve it again in Dart on Exercism. jQuery upkeep (~10 min): solve one section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
           "recurring": false,
-          "textTr": "CodeWars'ta (7-6 kyu) ya da Exercism'de 2 Dart katası çöz, sonra HackerRank gönderim geçmişini aç, C# ile çözdüğün bir problem al ve onu CodeWars ya da Exercism'de bir de Dart ile çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü çöz — site cevaplarını anında kontrol ediyor (30-40 dk)"
+          "textTr": "Exercism'de 2 Dart alıştırması çöz, sonra HackerRank gönderim geçmişini aç, C# ile çözdüğün bir problem al ve onu Exercism'de bir de Dart ile çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü çöz — site cevaplarını anında kontrol ediyor (30-40 dk)"
         },
         {
           "id": "pratik.w4-car",
@@ -142,6 +212,20 @@
           "text": "DartPad Flutter day: go to https://dartpad.dev (free, no signup — Flutter widgets run right in the browser). Build a counter card widget with a StatefulWidget: a Card that shows a number and a button that increases it. Keep it dependency-free — most pub.dev packages are not available in DartPad. Deep Flutter work is saved for a future dedicated program (30-40 min)",
           "recurring": false,
           "textTr": "DartPad Flutter günü: https://dartpad.dev adresine git (ücretsiz, kayıt yok — Flutter widget'ları doğrudan tarayıcıda çalışıyor). StatefulWidget ile bir sayaç kartı widget'ı yap: bir sayı gösteren bir Card ve onu artıran bir buton. Bağımlılıksız tut — pub.dev paketlerinin çoğu DartPad'de yok. Derin Flutter çalışması ileride adanmış bir programa saklı (30-40 dk)"
+        },
+        {
+          "id": "pratik.w4-per",
+          "day": "Per",
+          "text": "This week's only SQL touchpoint: solve 2-3 Easy HackerRank SQL problems using aggregate functions (COUNT, SUM, AVG) and basic GROUP BY — choose the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "Bu haftanın tek SQL durağı: toplama fonksiyonları (COUNT, SUM, AVG) ve temel GROUP BY kullanan 2-3 Easy HackerRank SQL problemi çöz — problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w4-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: revisit this week's hardest moment — a HackerRank C#/SQL problem or an Exercism exercise — and rebuild your solution from zero, timer running, previous attempt closed (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftanın en zor anına dön — bir HackerRank C#/SQL problemi ya da bir Exercism alıştırması — ve çözümünü sıfırdan yeniden kur, kronometre çalışırken, önceki denemen kapalı (30-40 dk)"
         },
         {
           "id": "pratik.w4-rec-review",
@@ -152,8 +236,8 @@
         }
       ],
       "titleTr": "Dart Dönüyor, jQuery Alıştırmaları, DartPad Flutter",
-      "summaryTr": "Rotasyonda Dart geri döndü, yanında tarayıcı içi jQuery alıştırmalarıyla; Çarşamba ise DartPad Flutter mini-görev günü.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev"
+      "summaryTr": "Dart iki oturumla geri döndü, Salı'da tarayıcı içi jQuery alıştırmalarıyla; Çarşamba DartPad Flutter mini-görev günü, Perşembe haftanın tek SQL pratiğini taşıyor (toplama fonksiyonları ve GROUP BY), Cuma zayıf nokta gözden geçirmesiyle kapanıyor.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w5",
@@ -161,22 +245,43 @@
       "no": "5",
       "title": "HackerRank C# Day and Subqueries",
       "episode": "",
-      "summary": "C# problems on HackerRank continue the rotation while the T-SQL path moves into subqueries.",
-      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql",
+      "summary": "Two HackerRank C# sessions continue the rotation while two SQL sessions move into subqueries, closing as always with Friday's weak-spot review.",
+      "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w5-pzt",
+          "day": "Pzt",
+          "text": "Two Easy problems from the Strings subdomain of HackerRank Algorithms, submitted in C# — a lighter, different flavor than Tuesday's set to keep the week varied (30-40 min)",
+          "recurring": false,
+          "textTr": "HackerRank Algorithms'ın Strings alt alanından C# ile 2 Easy problem çöz — haftayı çeşitlendirmek için Salı'nın setinden daha hafif, farklı bir tat (30-40 dk)"
+        },
         {
           "id": "pratik.w5-sali",
           "day": "Salı",
-          "text": "Solve 2 Easy problems in C# on HackerRank Algorithms or Data Structures — if Easy already feels routine, pick the longer statements with tighter constraints. Cross-language re-solve: take one problem you solved before in Dart (CodeWars Solutions tab or Exercism solutions page) and solve it again here in C#. Compare the two versions and decide which one is cleaner and why (30-40 min)",
+          "text": "Solve 2 Easy problems in C# on HackerRank Algorithms or Data Structures — if Easy already feels routine, pick the longer statements with tighter constraints. Cross-language re-solve: take one problem you solved before in Dart (your Exercism solutions page) and solve it again here in C#. Compare the two versions and decide which one is cleaner and why (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Easy problem çöz — Easy artık rutin geliyorsa uzun metinli, kısıtları daha sıkı olanları seç. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi al (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. İki sürümü karşılaştır ve hangisinin daha temiz olduğuna, nedenini de söyleyerek karar ver (30-40 dk)"
+          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Easy problem çöz — Easy artık rutin geliyorsa uzun metinli, kısıtları daha sıkı olanları seç. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi al (Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. İki sürümü karşılaştır ve hangisinin daha temiz olduğuna, nedenini de söyleyerek karar ver (30-40 dk)"
         },
         {
           "id": "pratik.w5-car",
           "day": "Çar",
-          "text": "Complete the MS Learn module \"Write subqueries in T-SQL\" (scalar, multi-value, correlated subqueries). Then solve 1-2 HackerRank SQL problems where a subquery helps, choosing the MS SQL Server engine where the problem offers it (30-40 min)",
+          "text": "Solve 1-2 HackerRank SQL problems where a subquery helps (scalar, multi-value, correlated), choosing the MS SQL Server engine where the problem offers it (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn'deki \"Write subqueries in T-SQL\" modülünü tamamla (skaler, çok değerli, ilişkili alt sorgular). Sonra alt sorgunun işe yaradığı 1-2 HackerRank SQL problemi çöz, problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+          "textTr": "Alt sorgunun işe yaradığı 1-2 HackerRank SQL problemi çöz (skaler, çok değerli, ilişkili alt sorgular), problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w5-per",
+          "day": "Per",
+          "text": "A second subquery pass: solve 2 more HackerRank SQL problems where a subquery helps, choosing the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci bir alt sorgu turu: alt sorgunun işe yaradığı 2 HackerRank SQL problemi daha çöz, problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w5-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: think back over the week's HackerRank and Exercism work and name the one thing that slowed you down most. Solve it again from scratch, timed, no notes (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftanın HackerRank ve Exercism çalışmasını düşün ve seni en çok yavaşlatan tek şeyi adlandır. Onu sıfırdan yeniden çöz, süreli, notsuz (30-40 dk)"
         },
         {
           "id": "pratik.w5-rec-review",
@@ -187,31 +292,52 @@
         }
       ],
       "titleTr": "HackerRank C# Günü ve Alt Sorgular",
-      "summaryTr": "HackerRank'teki C# problemleri rotasyonu sürdürürken T-SQL patikası alt sorgulara geçiyor.",
-      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/ · https://www.hackerrank.com/domains/sql"
+      "summaryTr": "İki HackerRank C# oturumu rotasyonu sürdürürken iki SQL oturumu alt sorgulara geçiyor, her zamanki gibi Cuma'nın zayıf nokta gözden geçirmesiyle kapanıyor.",
+      "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w6",
       "phaseId": "faz1",
       "no": "6",
-      "title": "Dart Week, Functions and Data Changes",
+      "title": "Dart Week and SQL Aggregation Practice",
       "episode": "",
-      "summary": "Dart closes the third rotation cycle; you finish the MS Learn path with built-in functions, GROUP BY, and data modification.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/",
+      "summary": "Dart closes the third rotation cycle across two sessions; two SQL sessions now focus purely on HackerRank practice with built-in functions and GROUP BY, and Friday brings the weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w6-pzt",
+          "day": "Pzt",
+          "text": "2 fresh Exercism Dart exercises, stepping just past pure-easy now — pick ones with a small twist (a helper function, an edge case) rather than the most obvious pick (30-40 min)",
+          "recurring": false,
+          "textTr": "2 taze Exercism Dart alıştırması çöz, artık salt-kolayın biraz ötesine geçerek — en bariz seçim yerine küçük bir kıvrımı olanları (bir yardımcı fonksiyon, bir uç durum) seç (30-40 dk)"
+        },
         {
           "id": "pratik.w6-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (7-6 kyu) or 2 medium Exercism Dart exercises. Cross-language re-solve: from your HackerRank submissions history, choose one C# problem you have not yet touched in Dart and solve it again in Dart on CodeWars or Exercism — your profile saves the new version automatically (30-40 min)",
+          "text": "Solve 2 Exercism Dart exercises at a steady pace. Cross-language re-solve: from your HackerRank submissions history, choose one C# problem you have not yet touched in Dart and solve it again in Dart on Exercism — your profile saves the new version automatically (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (7-6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap. Diller arası yeniden çözüm: HackerRank gönderim geçmişinden, Dart ile henüz hiç dokunmadığın bir C# problemi seç ve onu CodeWars ya da Exercism'de Dart ile yeniden çöz — profilin yeni sürümü otomatik kaydediyor (30-40 dk)"
+          "textTr": "İstikrarlı bir tempoda 2 Exercism Dart alıştırması çöz. Diller arası yeniden çözüm: HackerRank gönderim geçmişinden, Dart ile henüz hiç dokunmadığın bir C# problemi seç ve onu Exercism'de Dart ile yeniden çöz — profilin yeni sürümü otomatik kaydediyor (30-40 dk)"
         },
         {
           "id": "pratik.w6-car",
           "day": "Çar",
-          "text": "Finish the MS Learn path: complete the module on built-in functions and GROUP BY, then quickly work through the \"Modify data with T-SQL\" module (INSERT, UPDATE, DELETE, MERGE). This closes the whole \"Query and modify data with Transact-SQL\" path — check that every module shows as completed (30-40 min)",
+          "text": "Solve 2-3 HackerRank SQL problems that use built-in functions (string/date/math) together with GROUP BY — aggregation is the theme today; choose the MS SQL Server engine where the problem offers it (30-40 min)",
           "recurring": false,
-          "textTr": "MS Learn patikasını bitir: yerleşik fonksiyonlar ve GROUP BY modülünü tamamla, sonra \"Modify data with T-SQL\" modülünü hızlıca geç (INSERT, UPDATE, DELETE, MERGE). Bu, \"Query and modify data with Transact-SQL\" patikasının tamamını kapatıyor — bütün modüllerin tamamlandı göründüğünü kontrol et (30-40 dk)"
+          "textTr": "Yerleşik fonksiyonları (metin/tarih/matematik) GROUP BY ile birlikte kullanan 2-3 HackerRank SQL problemi çöz — bugünün teması toplama (aggregation); problem sunuyorsa MS SQL Server motorunu seç (30-40 dk)"
+        },
+        {
+          "id": "pratik.w6-per",
+          "day": "Per",
+          "text": "A second aggregation pass: solve 2 more HackerRank SQL problems that combine GROUP BY with HAVING, or that chain two aggregate functions in the same query (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci bir toplama turu: GROUP BY'ı HAVING ile birleştiren ya da aynı sorguda iki toplama fonksiyonunu zincirleyen 2 HackerRank SQL problemi daha çöz (30-40 dk)"
+        },
+        {
+          "id": "pratik.w6-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: pick the toughest problem or exercise from this week — HackerRank C#/SQL or Exercism Dart — and solve it once more under a timer, no old solution open (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftanın en zorlu problemini ya da alıştırmasını seç — HackerRank C#/SQL ya da Exercism Dart — ve eski çözümün açık olmadan, kronometreyle bir kez daha çöz (30-40 dk)"
         },
         {
           "id": "pratik.w6-rec-review",
@@ -221,9 +347,9 @@
           "recurring": true
         }
       ],
-      "titleTr": "Dart Haftası, Fonksiyonlar ve Veri Değişiklikleri",
-      "summaryTr": "Dart üçüncü rotasyon turunu kapatıyor; MS Learn patikasını yerleşik fonksiyonlar, GROUP BY ve veri değiştirme ile bitiriyorsun.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/"
+      "titleTr": "Dart Haftası ve SQL Toplama Pratiği",
+      "summaryTr": "Dart iki oturumla üçüncü rotasyon turunu kapatıyor; iki SQL oturumu artık saf HackerRank pratiğine odaklanıyor, yerleşik fonksiyonlar ve GROUP BY ile, Cuma zayıf nokta gözden geçirmesini getiriyor.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w7",
@@ -231,15 +357,22 @@
       "no": "7",
       "title": "HackerRank C# Day and the SQL Ladder",
       "episode": "",
-      "summary": "A new rotation cycle starts with C# on HackerRank, and Wednesday switches from MS Learn modules to a steady HackerRank SQL practice ladder.",
+      "summary": "A new rotation cycle starts with two C# sessions on HackerRank, and the SQL side moves from theory to a steady two-session HackerRank practice ladder, closing with Friday's weak-spot review.",
       "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
+          "id": "pratik.w7-pzt",
+          "day": "Pzt",
+          "text": "Two Easy problems from the Arrays section of HackerRank Data Structures, submitted in C# — a different flavor than Tuesday's timed set, focused purely on indexing and iteration practice (30-40 min)",
+          "recurring": false,
+          "textTr": "HackerRank Data Structures'ın Arrays bölümünden C# ile 2 Easy problem çöz — Salı'nın süreli setinden farklı bir tat, tamamen indeksleme ve döngü pratiğine odaklı (30-40 dk)"
+        },
+        {
           "id": "pratik.w7-sali",
           "day": "Salı",
-          "text": "Solve 2 Easy problems in C# on HackerRank Algorithms or Data Structures, this time with a timer — an Easy should fall in well under 15 minutes. Cross-language re-solve: take one Dart problem from your CodeWars Solutions tab (or Exercism solutions page) and solve it again here in C#. Then check the Discussions tab: what did LINQ make shorter — or longer? (30-40 min)",
+          "text": "Solve 2 Easy problems in C# on HackerRank Algorithms or Data Structures, this time with a timer — an Easy should fall in well under 15 minutes. Cross-language re-solve: take one Dart problem from your Exercism solutions page and solve it again here in C#. Then check the Discussions tab: what did LINQ make shorter — or longer? (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Easy problem çöz, bu kez kronometreyle — bir Easy rahatça 15 dakikanın altında düşmeli. Diller arası yeniden çözüm: CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi al ve onu burada bir de C# ile çöz. Sonra Discussions sekmesine bak: LINQ neyi kısalttı — ya da neyi uzattı? (30-40 dk)"
+          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Easy problem çöz, bu kez kronometreyle — bir Easy rahatça 15 dakikanın altında düşmeli. Diller arası yeniden çözüm: Exercism çözümler sayfandan bir Dart problemi al ve onu burada bir de C# ile çöz. Sonra Discussions sekmesine bak: LINQ neyi kısalttı — ya da neyi uzattı? (30-40 dk)"
         },
         {
           "id": "pratik.w7-car",
@@ -247,6 +380,20 @@
           "text": "SQL practice day: solve 3-4 Easy problems on HackerRank SQL, choosing the MS SQL Server engine where the problem offers it. If a problem feels hard, leave it in your attempted list on the site — HackerRank keeps your history, and you will retry them later (30-40 min)",
           "recurring": false,
           "textTr": "SQL pratik günü: HackerRank SQL'de 3-4 Easy problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. Bir problem zor geliyorsa onu sitedeki denenmiş listende bırak — HackerRank geçmişini tutuyor, sonra tekrar geleceksin (30-40 dk)"
+        },
+        {
+          "id": "pratik.w7-per",
+          "day": "Per",
+          "text": "Push the ladder one step further: solve 2 more HackerRank SQL problems, this time picking Easy-to-Medium ones — choose the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "Merdiveni bir basamak daha ileri taşı: problem sunuyorsa MS SQL Server motorunu seçerek, bu kez Easy-Medium seviyeden 2 HackerRank SQL problemi daha çöz (30-40 dk)"
+        },
+        {
+          "id": "pratik.w7-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: look back across this week's HackerRank C# and SQL work and pick whichever felt shakiest. Rebuild it from scratch, timed, without checking your earlier submission (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftanın HackerRank C# ve SQL çalışmasına geri bak ve en sallantılı hissettireni seç. Eski gönderimine bakmadan, süreli, sıfırdan yeniden kur (30-40 dk)"
         },
         {
           "id": "pratik.w7-rec-review",
@@ -257,7 +404,7 @@
         }
       ],
       "titleTr": "HackerRank C# Günü ve SQL Merdiveni",
-      "summaryTr": "Yeni bir rotasyon turu HackerRank'te C# ile başlıyor ve Çarşamba MS Learn modüllerinden istikrarlı bir HackerRank SQL pratik merdivenine geçiyor.",
+      "summaryTr": "Yeni bir rotasyon turu iki HackerRank C# oturumuyla başlıyor ve SQL tarafı teoriden istikrarlı, iki oturumluk bir HackerRank pratik merdivenine geçiyor, Cuma'nın zayıf nokta gözden geçirmesiyle kapanıyor.",
       "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/domains/sql"
     },
     {
@@ -266,15 +413,22 @@
       "no": "8",
       "title": "Dart Week, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Dart katas plus in-browser jQuery exercises on Tuesday; Wednesday is another DartPad Flutter mini-challenge in the browser.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
+      "summary": "Two Dart sessions plus in-browser jQuery exercises on Tuesday; Wednesday is another DartPad Flutter mini-challenge, Thursday carries the week's only SQL practice (JOINs plus GROUP BY), and Friday closes with a weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w8-pzt",
+          "day": "Pzt",
+          "text": "2 fresh Exercism Dart exercises at an easy-to-medium level, chosen from a track section you have not tried before — a calm start before Tuesday's jQuery section and Wednesday's DartPad build (30-40 min)",
+          "recurring": false,
+          "textTr": "Daha önce denemediğin bir parkur bölümünden, easy-medium seviyede 2 taze Exercism Dart alıştırması çöz — Salı'nın jQuery bölümünden ve Çarşamba'nın DartPad yapımından önce sakin bir başlangıç (30-40 dk)"
+        },
         {
           "id": "pratik.w8-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6 kyu) or 2 medium Exercism Dart exercises, then open your HackerRank submissions history and solve one old C# problem again in Dart on CodeWars or Exercism. jQuery upkeep (~10 min): solve the next section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — instant checking on the site (30-40 min)",
+          "text": "Solve 2 Exercism Dart exercises, then open your HackerRank submissions history and solve one old C# problem again in Dart on Exercism. jQuery upkeep (~10 min): solve the next section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — instant checking on the site (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (6 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir sonraki bölümünü çöz — sitede anında kontrol (30-40 dk)"
+          "textTr": "İstikrarlı bir tempoda 2 Exercism Dart alıştırması çöz, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir sonraki bölümünü çöz — sitede anında kontrol (30-40 dk)"
         },
         {
           "id": "pratik.w8-car",
@@ -282,6 +436,20 @@
           "text": "DartPad Flutter day: go to https://dartpad.dev and build an AnimatedContainer that changes its size and color when you tap it (wrap it in a GestureDetector). Everything runs in the browser — no install, no signup. Keep it dependency-free: most pub.dev packages are not available in DartPad (30-40 min)",
           "recurring": false,
           "textTr": "DartPad Flutter günü: https://dartpad.dev adresine git ve dokununca boyutunu ve rengini değiştiren bir AnimatedContainer yap (onu bir GestureDetector içine sar). Her şey tarayıcıda çalışıyor — kurulum yok, kayıt yok. Bağımlılıksız tut: pub.dev paketlerinin çoğu DartPad'de yok (30-40 dk)"
+        },
+        {
+          "id": "pratik.w8-per",
+          "day": "Per",
+          "text": "This week's only SQL touchpoint: solve 2-3 Easy-to-Medium HackerRank SQL problems that combine a JOIN with GROUP BY — choose the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "Bu haftanın tek SQL durağı: bir JOIN'i GROUP BY ile birleştiren 2-3 Easy-Medium HackerRank SQL problemi çöz — problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w8-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: of everything this week — HackerRank C#/SQL, Exercism Dart, jQuery — find the one that took the most retries and do it again cleanly, timed (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftaki her şey arasından — HackerRank C#/SQL, Exercism Dart, jQuery — en çok tekrar gerektireni bul ve süreli, temiz bir şekilde yeniden yap (30-40 dk)"
         },
         {
           "id": "pratik.w8-rec-review",
@@ -292,8 +460,8 @@
         }
       ],
       "titleTr": "Dart Haftası, jQuery Alıştırmaları, DartPad Flutter",
-      "summaryTr": "Salı Dart kataları artı tarayıcı içi jQuery alıştırmaları; Çarşamba tarayıcıda bir DartPad Flutter mini-görevi daha.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev"
+      "summaryTr": "Salı iki Dart oturumu artı tarayıcı içi jQuery alıştırmaları; Çarşamba bir DartPad Flutter mini-görevi daha, Perşembe haftanın tek SQL pratiğini taşıyor (JOIN artı GROUP BY), Cuma zayıf nokta gözden geçirmesiyle kapanıyor.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w9",
@@ -301,15 +469,22 @@
       "no": "9",
       "title": "HackerRank C# Day and Easy-to-Medium SQL",
       "episode": "",
-      "summary": "C# week in the rotation, with the Interview Preparation Kit joining as the structured alternative; SQL practice starts mixing in the first Medium-level problems.",
+      "summary": "C# week in the rotation across two sessions, with the Interview Preparation Kit joining as the structured alternative; two SQL sessions start mixing in the first Medium-level problems, and Friday closes with a weak-spot review.",
       "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
+          "id": "pratik.w9-pzt",
+          "day": "Pzt",
+          "text": "Warm-up before today's Interview Kit session: 2 Easy HackerRank Algorithms or Data Structures problems in C#, just to get your fingers moving before Tuesday's step up to Medium (30-40 min)",
+          "recurring": false,
+          "textTr": "Bugünkü Interview Kit oturumundan önce ısınma: C# ile 2 Easy HackerRank Algorithms ya da Data Structures problemi — Salı'nın Medium'a çıkışından önce sadece parmaklarını ısıt (30-40 dk)"
+        },
+        {
           "id": "pratik.w9-sali",
           "day": "Salı",
-          "text": "Solve 2 problems in C# on HackerRank, stepping from Easy to your first Medium — or take the structured route and work through the Warm-up Challenges section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: pick the oldest problem in your CodeWars Solutions tab (or Exercism solutions page) and solve it again here in C#. Compare with your old Dart version: what did you remember wrong? (30-40 min)",
+          "text": "Solve 2 problems in C# on HackerRank, stepping from Easy to your first Medium — or take the structured route and work through the Warm-up Challenges section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: pick the oldest problem on your Exercism solutions page and solve it again here in C#. Compare with your old Dart version: what did you remember wrong? (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank'te C# ile 2 problem çöz, Easy'den ilk Medium'una adım atarak — ya da yapılandırılmış yolu seç ve Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Warm-up Challenges bölümünü çalış. Diller arası yeniden çözüm: CodeWars Solutions sekmendeki (ya da Exercism çözümler sayfandaki) en eski problemi al ve onu burada bir de C# ile çöz. Eski Dart sürümünle karşılaştır: neyi yanlış hatırlamışsın? (30-40 dk)"
+          "textTr": "HackerRank'te C# ile 2 problem çöz, Easy'den ilk Medium'una adım atarak — ya da yapılandırılmış yolu seç ve Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Warm-up Challenges bölümünü çalış. Diller arası yeniden çözüm: Exercism çözümler sayfandaki en eski problemi al ve onu burada bir de C# ile çöz. Eski Dart sürümünle karşılaştır: neyi yanlış hatırlamışsın? (30-40 dk)"
         },
         {
           "id": "pratik.w9-car",
@@ -317,6 +492,20 @@
           "text": "Solve 2 Easy and 1 Medium problem on HackerRank SQL, choosing the MS SQL Server engine where the problem offers it. If the Medium one blocks you for more than 15 minutes, read the discussion, understand the idea, and write the query yourself from memory (30-40 min)",
           "recurring": false,
           "textTr": "HackerRank SQL'de 2 Easy ve 1 Medium problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. Medium olan seni 15 dakikadan fazla tıkarsa tartışmayı oku, fikri anla ve sorguyu ezberden kendin yaz (30-40 dk)"
+        },
+        {
+          "id": "pratik.w9-per",
+          "day": "Per",
+          "text": "A second SQL pass: solve 2 Medium HackerRank SQL problems, choosing the MS SQL Server engine where the problem offers it — if one blocks you past 15 minutes, use the same read-the-discussion-then-write-from-memory approach as today (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci bir SQL turu: problem sunuyorsa MS SQL Server motorunu seçerek 2 Medium HackerRank SQL problemi çöz — biri seni 15 dakikadan fazla tıkarsa bugünkü gibi önce tartışmayı oku, sonra ezberden yaz (30-40 dk)"
+        },
+        {
+          "id": "pratik.w9-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: pick the hardest thing you hit this week, C# or SQL, and solve it again from a blank editor, timed, no peeking at last time's version (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu hafta karşılaştığın en zor şeyi seç, C# ya da SQL, ve onu boş bir editörden yeniden çöz, süreli, geçen seferki sürüme bakmadan (30-40 dk)"
         },
         {
           "id": "pratik.w9-rec-review",
@@ -327,7 +516,7 @@
         }
       ],
       "titleTr": "HackerRank C# Günü ve Easy'den Medium'a SQL",
-      "summaryTr": "Rotasyonda C# haftası; yapılandırılmış alternatif olarak Interview Preparation Kit devreye giriyor ve SQL pratiği ilk Medium seviye problemleri karışıma katmaya başlıyor.",
+      "summaryTr": "Rotasyonda C# haftası iki oturumla; yapılandırılmış alternatif olarak Interview Preparation Kit devreye giriyor, iki SQL oturumu ilk Medium seviye problemleri karışıma katmaya başlıyor, Cuma zayıf nokta gözden geçirmesiyle kapanıyor.",
       "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
@@ -336,15 +525,22 @@
       "no": "10",
       "title": "Dart Week and the C# (Basic) Certification",
       "episode": "",
-      "summary": "Milestone week: Dart katas on Tuesday with a C# re-solve as warm-up, then the free timed HackerRank C# (Basic) certification on Wednesday.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification/c_sharp_basic",
+      "summary": "Milestone week: two Dart sessions on Tuesday with a C# re-solve as warm-up, then the free timed HackerRank C# (Basic) certification on Wednesday, a normal SQL session on Thursday, and Friday's weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification/c_sharp_basic · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w10-pzt",
+          "day": "Pzt",
+          "text": "2 fresh Exercism Dart exercises at a comfortable easy-to-medium level — nothing stressful, tomorrow's certification is the real event this week (30-40 min)",
+          "recurring": false,
+          "textTr": "Rahat bir easy-medium seviyede 2 taze Exercism Dart alıştırması çöz — strese gerek yok, bu haftanın asıl olayı yarınki sertifika (30-40 dk)"
+        },
         {
           "id": "pratik.w10-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6 kyu) focusing on clean, fast solutions without looking things up. Then reverse the usual direction for once, because tomorrow is exam day: take one old Dart problem from your CodeWars Solutions tab and solve it again in C# on HackerRank. Notice which C# features you reached for automatically (30-40 min)",
+          "text": "Solve 2 Exercism Dart exercises focusing on clean, fast solutions without looking things up. Then reverse the usual direction for once, because tomorrow is exam day: take one old Dart problem from your Exercism solutions page and solve it again in C# on HackerRank. Notice which C# features you reached for automatically (30-40 min)",
           "recurring": false,
-          "textTr": "Hiçbir şeye bakmadan temiz ve hızlı çözümlere odaklanarak 2 Dart katası çöz (6 kyu). Sonra bu haftalığına yönü tersine çevir, çünkü yarın sınav günü: CodeWars Solutions sekmendeki eski bir Dart problemini al ve onu HackerRank'te C# ile yeniden çöz. Hangi C# özelliklerine otomatik olarak uzandığını fark et (30-40 dk)"
+          "textTr": "Hiçbir şeye bakmadan temiz ve hızlı çözümlere odaklanarak 2 Exercism Dart alıştırması çöz. Sonra bu haftalığına yönü tersine çevir, çünkü yarın sınav günü: Exercism çözümler sayfandaki eski bir Dart problemini al ve onu HackerRank'te C# ile yeniden çöz. Hangi C# özelliklerine otomatik olarak uzandığını fark et (30-40 dk)"
         },
         {
           "id": "pratik.w10-car",
@@ -352,6 +548,20 @@
           "text": "🏁 Take the FREE timed HackerRank \"C# (Basic)\" certification at https://www.hackerrank.com/skills-verification/c_sharp_basic. Find a quiet 45-minute window, no notes. Afterwards the result and certificate appear on your HackerRank profile — review on the site what was easy and what surprised you (30-40 min)",
           "recurring": false,
           "textTr": "🏁 https://www.hackerrank.com/skills-verification/c_sharp_basic adresinden ÜCRETSİZ süreli HackerRank \"C# (Basic)\" sertifika sınavına gir. Sessiz 45 dakikalık bir aralık bul, not yok. Sonrasında sonuç ve sertifika HackerRank profilinde görünür — sitede neyin kolay geldiğini, neyin seni şaşırttığını gözden geçir (30-40 dk)"
+        },
+        {
+          "id": "pratik.w10-per",
+          "day": "Per",
+          "text": "Normal SQL practice, the day after: solve 2-3 Medium HackerRank SQL problems, MS SQL Server engine where offered — keep the SQL side moving even though yesterday's focus was the C# certification (30-40 min)",
+          "recurring": false,
+          "textTr": "Ertesi günün normal SQL pratiği: problem sunuyorsa MS SQL Server motoruyla 2-3 Medium HackerRank SQL problemi çöz — dünkü odak C# sertifikası olsa da SQL tarafını canlı tut (30-40 dk)"
+        },
+        {
+          "id": "pratik.w10-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: certification day is done — now pick the toughest Dart exercise or SQL problem from the week and re-solve it cold, timed, no notes (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: sertifika günü bitti — şimdi haftanın en zor Dart alıştırmasını ya da SQL problemini seç ve soğuk bir şekilde, süreli, notsuz yeniden çöz (30-40 dk)"
         },
         {
           "id": "pratik.w10-rec-review",
@@ -362,8 +572,8 @@
         }
       ],
       "titleTr": "Dart Haftası ve C# (Basic) Sertifikası",
-      "summaryTr": "Dönüm noktası haftası: Salı Dart kataları ve ısınma olarak bir C# yeniden çözümü, ardından Çarşamba ücretsiz süreli HackerRank C# (Basic) sertifikası.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification/c_sharp_basic"
+      "summaryTr": "Dönüm noktası haftası: Salı iki Dart oturumu ve ısınma olarak bir C# yeniden çözümü, ardından Çarşamba ücretsiz süreli HackerRank C# (Basic) sertifikası, Perşembe normal bir SQL oturumu ve Cuma'nın zayıf nokta gözden geçirmesi.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.hackerrank.com/skills-verification/c_sharp_basic · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w11",
@@ -371,15 +581,22 @@
       "no": "11",
       "title": "HackerRank C# Day and Medium SQL Territory",
       "episode": "",
-      "summary": "Phase 2 opens with C# problems at a higher level on HackerRank and SQL practice settling into Medium problems.",
+      "summary": "Phase 2 opens with two higher-level C# sessions on HackerRank and two SQL sessions settling into Medium problems, closing with Friday's weak-spot review.",
       "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
+          "id": "pratik.w11-pzt",
+          "day": "Pzt",
+          "text": "Warm-up before today's Interview Kit session: 2 Easy-to-Medium HackerRank problems in C#, picked from a subdomain you have not touched in a few weeks (30-40 min)",
+          "recurring": false,
+          "textTr": "Bugünkü Interview Kit oturumundan önce ısınma: C# ile 2 Easy-Medium HackerRank problemi, birkaç haftadır dokunmadığın bir alt alandan seçilmiş (30-40 dk)"
+        },
+        {
           "id": "pratik.w11-sali",
           "day": "Salı",
-          "text": "Solve 2 problems in C# on HackerRank at Easy-to-Medium level, or work the Arrays section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: take one problem you solved before in Dart (CodeWars Solutions tab or Exercism solutions page) and solve it again here in C#. If everything is already covered in both languages, pick the solution you like least and improve it (30-40 min)",
+          "text": "Solve 2 problems in C# on HackerRank at Easy-to-Medium level, or work the Arrays section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: take one problem you solved before in Dart (your Exercism solutions page) and solve it again here in C#. If everything is already covered in both languages, pick the solution you like least and improve it (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank'te C# ile Easy-Medium seviyesinde 2 problem çöz ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Arrays bölümünü çalış. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi al (CodeWars Solutions sekmesi ya da Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. Her şey iki dilde de kapsanmışsa, çözümünü en az beğendiğini seç ve onu iyileştir (30-40 dk)"
+          "textTr": "HackerRank'te C# ile Easy-Medium seviyesinde 2 problem çöz ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Arrays bölümünü çalış. Diller arası yeniden çözüm: daha önce Dart ile çözdüğün bir problemi al (Exercism çözümler sayfan) ve onu burada bir de C# ile çöz. Her şey iki dilde de kapsanmışsa, çözümünü en az beğendiğini seç ve onu iyileştir (30-40 dk)"
         },
         {
           "id": "pratik.w11-car",
@@ -387,6 +604,20 @@
           "text": "Solve 2-3 Medium problems on HackerRank SQL, choosing the MS SQL Server engine where the problem offers it. Focus on GROUP BY + HAVING patterns. Any problem that took two tries stays visible in your on-site submission history — you will revisit it in Hafta 14 (30-40 min)",
           "recurring": false,
           "textTr": "HackerRank SQL'de 2-3 Medium problem çöz, problem sunuyorsa MS SQL Server motorunu seçerek. GROUP BY + HAVING kalıplarına odaklan. İki denemede çözdüğün her problem site içi gönderim geçmişinde görünür kalır — Hafta 14'te ona geri döneceksin (30-40 dk)"
+        },
+        {
+          "id": "pratik.w11-per",
+          "day": "Per",
+          "text": "A second Medium pass: solve 2 more HackerRank SQL problems built around GROUP BY + HAVING, choosing the MS SQL Server engine where the problem offers it — aim to spot the pattern faster than yesterday (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci bir Medium turu: GROUP BY + HAVING etrafında kurulu 2 HackerRank SQL problemi daha çöz, problem sunuyorsa MS SQL Server motorunu seçerek — kalıbı dünkünden daha hızlı yakalamayı hedefle (30-40 dk)"
+        },
+        {
+          "id": "pratik.w11-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: scan this week's HackerRank C# and SQL submissions, find the one that cost you the most attempts, and solve it again from scratch under a timer (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftanın HackerRank C# ve SQL gönderimlerini tara, sana en çok denemeye mal olanı bul ve kronometre altında sıfırdan yeniden çöz (30-40 dk)"
         },
         {
           "id": "pratik.w11-rec-review",
@@ -397,7 +628,7 @@
         }
       ],
       "titleTr": "HackerRank C# Günü ve Medium SQL Sahası",
-      "summaryTr": "Faz 2, HackerRank'te daha üst seviyede C# problemleri ve Medium problemlere yerleşen SQL pratiğiyle açılıyor.",
+      "summaryTr": "Faz 2, HackerRank'te iki üst seviye C# oturumuyla ve Medium problemlere yerleşen iki SQL oturumuyla açılıyor, Cuma'nın zayıf nokta gözden geçirmesiyle kapanıyor.",
       "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
@@ -406,15 +637,22 @@
       "no": "12",
       "title": "Dart Week, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Dart katas with in-browser jQuery exercises on Tuesday; Wednesday is a DartPad flashcard flip mini-challenge in the browser.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
+      "summary": "Two Dart sessions with in-browser jQuery exercises on Tuesday; Wednesday is a DartPad flashcard flip mini-challenge, Thursday carries the week's only SQL practice (subqueries and a first taste of ranking functions), and Friday closes with a weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w12-pzt",
+          "day": "Pzt",
+          "text": "2 fresh Exercism Dart exercises at medium difficulty — pick ones that need you to actually plan before coding, not just translate the prompt line by line (30-40 min)",
+          "recurring": false,
+          "textTr": "Medium zorlukta 2 taze Exercism Dart alıştırması çöz — soruyu satır satır çevirmek yerine gerçekten önce planlama gerektirenleri seç (30-40 dk)"
+        },
         {
           "id": "pratik.w12-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 medium Exercism Dart exercises, then open your HackerRank submissions history and solve one old C# problem again in Dart on CodeWars or Exercism. jQuery upkeep (~10 min): solve another section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
+          "text": "Solve 2 Exercism Dart exercises, aiming for medium difficulty, then open your HackerRank submissions history and solve one old C# problem again in Dart on Exercism. jQuery upkeep (~10 min): solve another section of the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp — the site checks your answers instantly (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (6-5 kyu) ya da Exercism'de 2 orta seviye Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü daha çöz — site cevaplarını anında kontrol ediyor (30-40 dk)"
+          "textTr": "Medium zorluk hedefleyerek 2 Exercism Dart alıştırması çöz, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarının bir bölümünü daha çöz — site cevaplarını anında kontrol ediyor (30-40 dk)"
         },
         {
           "id": "pratik.w12-car",
@@ -422,6 +660,20 @@
           "text": "DartPad Flutter day: go to https://dartpad.dev and build a small flashcard flip effect with AnimatedSwitcher — tap a card to switch between a question side and an answer side. Runs fully in the browser, nothing to install; keep it dependency-free because most pub.dev packages are not available in DartPad (30-40 min)",
           "recurring": false,
           "textTr": "DartPad Flutter günü: https://dartpad.dev adresine git ve AnimatedSwitcher ile küçük bir bilgi kartı çevirme efekti yap — karta dokununca soru yüzü ile cevap yüzü arasında geçiş olsun. Tamamen tarayıcıda çalışır, kurulacak bir şey yok; bağımlılıksız tut, çünkü pub.dev paketlerinin çoğu DartPad'de yok (30-40 dk)"
+        },
+        {
+          "id": "pratik.w12-per",
+          "day": "Per",
+          "text": "This week's only SQL touchpoint: solve 2-3 Medium HackerRank SQL problems that lean on subqueries or a first taste of ranking functions (ROW_NUMBER, RANK) — choose the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "Bu haftanın tek SQL durağı: alt sorgulara dayanan ya da sıralama fonksiyonlarına (ROW_NUMBER, RANK) ilk kez değinen 2-3 Medium HackerRank SQL problemi çöz — problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w12-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: pick whichever problem or exercise from this week — Dart on Exercism, SQL on HackerRank, or the DartPad challenge — felt hardest, and rebuild it timed, no peeking (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftadan — Exercism'de Dart, HackerRank'te SQL ya da DartPad görevi — en zor geleni seç ve süreli, bakmadan yeniden kur (30-40 dk)"
         },
         {
           "id": "pratik.w12-rec-review",
@@ -432,8 +684,8 @@
         }
       ],
       "titleTr": "Dart Haftası, jQuery Alıştırmaları, DartPad Flutter",
-      "summaryTr": "Salı Dart kataları ve tarayıcı içi jQuery alıştırmaları; Çarşamba tarayıcıda bir DartPad bilgi kartı çevirme mini-görevi.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev"
+      "summaryTr": "Salı iki Dart oturumu ve tarayıcı içi jQuery alıştırmaları; Çarşamba bir DartPad bilgi kartı çevirme mini-görevi, Perşembe haftanın tek SQL pratiğini taşıyor (alt sorgular ve sıralama fonksiyonlarına ilk giriş), Cuma zayıf nokta gözden geçirmesiyle kapanıyor.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w13",
@@ -441,22 +693,43 @@
       "no": "13",
       "title": "HackerRank C# Day and Window Functions in SQL",
       "episode": "",
-      "summary": "The C# rotation pushes from Easy into Medium; SQL Mediums continue with ranking and window-style problems.",
+      "summary": "The C# rotation pushes from Easy into Medium across two sessions; two SQL sessions continue with ranking and window-style problems, closing with Friday's weak-spot review.",
       "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
+          "id": "pratik.w13-pzt",
+          "day": "Pzt",
+          "text": "Warm-up before today's Interview Kit session: 2 Medium HackerRank Algorithms or Data Structures problems in C# — nothing fancy, just steady reps before the Dictionaries and Hashmaps section (30-40 min)",
+          "recurring": false,
+          "textTr": "Bugünkü Interview Kit oturumundan önce ısınma: C# ile 2 Medium HackerRank Algorithms ya da Data Structures problemi — süslemesiz, Dictionaries and Hashmaps bölümünden önce sadece istikrarlı tekrar (30-40 dk)"
+        },
+        {
           "id": "pratik.w13-sali",
           "day": "Salı",
-          "text": "Solve 2 problems in C# on HackerRank, now aiming at Medium — or take the Dictionaries and Hashmaps section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: pick a Dart problem from your CodeWars Solutions tab that you last touched in Faz 1 and solve it again here in C# — from memory first, then compare with your old Dart version (30-40 min)",
+          "text": "Solve 2 problems in C# on HackerRank, now aiming at Medium — or take the Dictionaries and Hashmaps section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: pick a Dart problem from your Exercism solutions page that you last touched in Faz 1 and solve it again here in C# — from memory first, then compare with your old Dart version (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank'te C# ile 2 problem çöz, artık Medium hedefleyerek — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Dictionaries and Hashmaps bölümünü al. Diller arası yeniden çözüm: CodeWars Solutions sekmenden en son Faz 1'de dokunduğun bir Dart problemi seç ve onu burada bir de C# ile çöz — önce ezberden, sonra eski Dart sürümünle karşılaştır (30-40 dk)"
+          "textTr": "HackerRank'te C# ile 2 problem çöz, artık Medium hedefleyerek — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Dictionaries and Hashmaps bölümünü al. Diller arası yeniden çözüm: Exercism çözümler sayfandan en son Faz 1'de dokunduğun bir Dart problemi seç ve onu burada bir de C# ile çöz — önce ezberden, sonra eski Dart sürümünle karşılaştır (30-40 dk)"
         },
         {
           "id": "pratik.w13-car",
           "day": "Çar",
-          "text": "Solve 2-3 Medium problems on HackerRank SQL that involve ranking or consecutive rows — these usually need ROW_NUMBER, RANK, or LAG/LEAD; choose the MS SQL Server engine where the problem offers it. If window functions feel rusty, spend the first 10 minutes re-opening the relevant module page on the MS Learn path (30-40 min)",
+          "text": "Solve 2-3 Medium problems on HackerRank SQL that involve ranking or consecutive rows — these usually need ROW_NUMBER, RANK, or LAG/LEAD; choose the MS SQL Server engine where the problem offers it. If window functions feel rusty, spend the first 10 minutes reviewing ROW_NUMBER/RANK/LAG/LEAD syntax before diving in (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank SQL'de sıralama ya da ardışık satır içeren 2-3 Medium problem çöz — bunlar genelde ROW_NUMBER, RANK ya da LAG/LEAD ister; problem sunuyorsa MS SQL Server motorunu seç. Pencere fonksiyonları paslanmış geliyorsa ilk 10 dakikayı MS Learn patikasındaki ilgili modül sayfasını yeniden açmaya ayır (30-40 dk)"
+          "textTr": "HackerRank SQL'de sıralama ya da ardışık satır içeren 2-3 Medium problem çöz — bunlar genelde ROW_NUMBER, RANK ya da LAG/LEAD ister; problem sunuyorsa MS SQL Server motorunu seç. Pencere fonksiyonları paslanmış geliyorsa ilk 10 dakikayı ROW_NUMBER/RANK/LAG/LEAD sözdizimini gözden geçirmeye ayır (30-40 dk)"
+        },
+        {
+          "id": "pratik.w13-per",
+          "day": "Per",
+          "text": "A second window-function pass: solve 2 more Medium HackerRank SQL problems using ROW_NUMBER, RANK, or LAG/LEAD, choosing the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci bir pencere fonksiyonu turu: ROW_NUMBER, RANK ya da LAG/LEAD kullanan 2 Medium HackerRank SQL problemi daha çöz, problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w13-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: revisit this week's roughest moment across HackerRank C# and SQL and solve it again from zero, timer on, no old notes (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu haftanın HackerRank C# ve SQL boyunca en pürüzlü anına dön ve onu sıfırdan yeniden çöz, kronometre açık, eski notlar yok (30-40 dk)"
         },
         {
           "id": "pratik.w13-rec-review",
@@ -467,7 +740,7 @@
         }
       ],
       "titleTr": "HackerRank C# Günü ve SQL'de Pencere Fonksiyonları",
-      "summaryTr": "C# rotasyonu Easy'den Medium'a çıkıyor; SQL Medium'ları sıralama ve pencere tarzı problemlerle devam ediyor.",
+      "summaryTr": "C# rotasyonu iki oturumla Easy'den Medium'a çıkıyor; iki SQL oturumu sıralama ve pencere tarzı problemlerle devam ediyor, Cuma'nın zayıf nokta gözden geçirmesiyle kapanıyor.",
       "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
@@ -476,15 +749,22 @@
       "no": "14",
       "title": "Dart Week and the SQL Retry Round",
       "episode": "",
-      "summary": "Dart katas continue; on Wednesday you clear old debts by re-solving, on the site, the SQL problems that beat you before.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
+      "summary": "Dart sessions continue; Wednesday clears old SQL debts by re-solving problems that beat you before, Thursday checks that mastery with fresh problems in the same topics, and Friday brings the weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w14-pzt",
+          "day": "Pzt",
+          "text": "2 fresh Exercism Dart exercises at medium difficulty, ideally from a track section you have been avoiding — Wednesday is about clearing old SQL debts, so clear a Dart one today too (30-40 min)",
+          "recurring": false,
+          "textTr": "Tercihen uzun süredir kaçındığın bir parkur bölümünden, medium zorlukta 2 taze Exercism Dart alıştırması çöz — Çarşamba eski SQL borçlarını kapatmakla ilgili, bugün bir Dart borcunu da kapat (30-40 dk)"
+        },
         {
           "id": "pratik.w14-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Cross-language re-solve: from your HackerRank submissions history, choose one C# problem where your original solution used a loop, and solve it again in Dart on CodeWars or Exercism in a more functional style (Dart collection methods instead of the loop) (30-40 min)",
+          "text": "Solve 2 harder Exercism Dart exercises. Cross-language re-solve: from your HackerRank submissions history, choose one C# problem where your original solution used a loop, and solve it again in Dart on Exercism in a more functional style (Dart collection methods instead of the loop) (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. Diller arası yeniden çözüm: HackerRank gönderim geçmişinden, ilk çözümünde döngü kullandığın bir C# problemi seç ve onu CodeWars ya da Exercism'de Dart ile, daha fonksiyonel bir tarzda yeniden çöz (döngü yerine Dart koleksiyon metotları) (30-40 dk)"
+          "textTr": "Medium zorluk ya da üstünü hedefleyerek 2 daha zor Exercism Dart alıştırması çöz. Diller arası yeniden çözüm: HackerRank gönderim geçmişinden, ilk çözümünde döngü kullandığın bir C# problemi seç ve onu Exercism'de Dart ile, daha fonksiyonel bir tarzda yeniden çöz (döngü yerine Dart koleksiyon metotları) (30-40 dk)"
         },
         {
           "id": "pratik.w14-car",
@@ -492,6 +772,20 @@
           "text": "Open your solved and attempted history on HackerRank SQL (MS SQL Server engine where the problem offers it) and re-solve 2-3 problems that were hard the first time, without looking at your old submissions. The site marks them solved once you pass; the stubborn ones stay in your attempted list (30-40 min)",
           "recurring": false,
           "textTr": "HackerRank SQL'deki (problem sunuyorsa MS SQL Server motoru) çözülmüş ve denenmiş geçmişini aç ve ilk seferinde zorlanmış olduğun 2-3 problemi, eski gönderimlerine bakmadan yeniden çöz. Geçtiğin anda site onları çözüldü olarak işaretler; inatçı olanlar denenmiş listende kalır (30-40 dk)"
+        },
+        {
+          "id": "pratik.w14-per",
+          "day": "Per",
+          "text": "Solve 2 fresh Medium HackerRank SQL problems in the same topics you retried yesterday, to check it was real mastery and not memorizing the old query (30-40 min)",
+          "recurring": false,
+          "textTr": "Dün yeniden çözdüğün konularda 2 taze Medium HackerRank SQL problemi çöz — gerçekten ustalaşmış mıydın yoksa eski sorguyu mu ezberlemiştin, kontrol et (30-40 dk)"
+        },
+        {
+          "id": "pratik.w14-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: this week was about clearing old SQL debts — now pick the toughest thing you touched (SQL or Dart) and solve it once more, timed, from scratch (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu hafta eski SQL borçlarını kapatmakla geçti — şimdi dokunduğun en zor şeyi (SQL ya da Dart) seç ve bir kez daha, süreli, sıfırdan çöz (30-40 dk)"
         },
         {
           "id": "pratik.w14-rec-review",
@@ -502,8 +796,8 @@
         }
       ],
       "titleTr": "Dart Haftası ve SQL Tekrar Turu",
-      "summaryTr": "Dart kataları sürüyor; Çarşamba, seni daha önce yenen SQL problemlerini sitede yeniden çözerek eski borçlarını kapatıyorsun.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
+      "summaryTr": "Dart oturumları sürüyor; Çarşamba seni daha önce yenen problemleri yeniden çözerek eski SQL borçlarını kapatıyor, Perşembe aynı konularda taze problemlerle bu ustalığı kontrol ediyor, Cuma zayıf nokta gözden geçirmesini getiriyor.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w15",
@@ -511,15 +805,22 @@
       "no": "15",
       "title": "HackerRank C# Day and First Hard Attempt",
       "episode": "",
-      "summary": "C# takes its rotation turn at Medium level, and you make your first serious attempt at a Hard SQL problem.",
+      "summary": "C# takes its rotation turn at Medium level across two sessions, and two SQL sessions make your first serious attempts at Hard problems, closing with Friday's weak-spot review.",
       "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
+          "id": "pratik.w15-pzt",
+          "day": "Pzt",
+          "text": "Warm-up before today's Interview Kit session: 2 Medium HackerRank problems in C#, chosen from a domain outside Sorting — keep your general problem-solving muscle loose for the week (30-40 min)",
+          "recurring": false,
+          "textTr": "Bugünkü Interview Kit oturumundan önce ısınma: C# ile 2 Medium HackerRank problemi, Sorting dışındaki bir alandan seçilmiş — haftanın geri kalanı için genel problem çözme kasını gevşek tut (30-40 dk)"
+        },
+        {
           "id": "pratik.w15-sali",
           "day": "Salı",
-          "text": "Solve 2 Medium problems in C# on HackerRank Algorithms or Data Structures — or work the Sorting section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: take one Dart problem from your CodeWars Solutions tab (or Exercism solutions page) and solve it again here in C#, paying attention to null-safety differences. What did Dart force you to think about that C# did not? (30-40 min)",
+          "text": "Solve 2 Medium problems in C# on HackerRank Algorithms or Data Structures — or work the Sorting section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: take one Dart problem from your Exercism solutions page and solve it again here in C#, paying attention to null-safety differences. What did Dart force you to think about that C# did not? (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Medium problem çöz — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Sorting bölümünü çalış. Diller arası yeniden çözüm: CodeWars Solutions sekmenden (ya da Exercism çözümler sayfandan) bir Dart problemi al ve onu burada bir de C# ile çöz, null-safety farklarına dikkat ederek. Dart, C#'ın düşündürmediği neyi düşündürdü sana? (30-40 dk)"
+          "textTr": "HackerRank Algorithms ya da Data Structures alanında C# ile 2 Medium problem çöz — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Sorting bölümünü çalış. Diller arası yeniden çözüm: Exercism çözümler sayfandan bir Dart problemi al ve onu burada bir de C# ile çöz, null-safety farklarına dikkat ederek. Dart, C#'ın düşündürmediği neyi düşündürdü sana? (30-40 dk)"
         },
         {
           "id": "pratik.w15-car",
@@ -527,6 +828,20 @@
           "text": "Attempt 1 Hard problem on HackerRank SQL (MS SQL Server engine where the problem offers it) — give it 20 focused minutes before checking any hints. Whether you solve it or not, read the top discussion post on the site and make sure you can explain the key idea in English. Use remaining time for 1 Medium problem as a confidence reset (30-40 min)",
           "recurring": false,
           "textTr": "HackerRank SQL'de 1 Hard problem dene (problem sunuyorsa MS SQL Server motoru) — herhangi bir ipucuna bakmadan önce ona 20 odaklı dakika ver. Çözsen de çözemesen de sitedeki en üstteki tartışma gönderisini oku ve ana fikri İngilizce anlatabildiğinden emin ol. Kalan zamanı özgüven tazelemek için 1 Medium problemle değerlendir (30-40 dk)"
+        },
+        {
+          "id": "pratik.w15-per",
+          "day": "Per",
+          "text": "Attempt a second Hard (or tough Medium) HackerRank SQL problem, building on yesterday's approach, then write down the key trick in your own words before you close the tab (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci bir Hard (ya da zorlu bir Medium) HackerRank SQL problemi dene, dünkü yaklaşımının üzerine inşa ederek — sekmeyi kapatmadan önce ana numarayı kendi cümlelerinle yaz (30-40 dk)"
+        },
+        {
+          "id": "pratik.w15-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: after today's Hard SQL attempt, pick the single hardest thing from the whole week — C#, SQL, or Dart — and rebuild your solution timed, no peeking (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bugünkü Hard SQL denemesinden sonra, tüm hafta boyunca en zor tek şeyi seç — C#, SQL ya da Dart — ve çözümünü süreli, bakmadan yeniden kur (30-40 dk)"
         },
         {
           "id": "pratik.w15-rec-review",
@@ -537,7 +852,7 @@
         }
       ],
       "titleTr": "HackerRank C# Günü ve İlk Hard Denemesi",
-      "summaryTr": "Rotasyonda sıra Medium seviyesinde C#'ta ve bir Hard SQL problemine ilk ciddi denemeni yapıyorsun.",
+      "summaryTr": "C# iki oturumla Medium seviyede rotasyon sırasını alıyor, iki SQL oturumu Hard problemlere ilk ciddi denemeleri yapıyor, Cuma'nın zayıf nokta gözden geçirmesiyle kapanıyor.",
       "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
@@ -546,15 +861,22 @@
       "no": "16",
       "title": "Dart Week, jQuery Exercises, DartPad Flutter",
       "episode": "",
-      "summary": "Last combined upkeep week: Dart katas plus in-browser jQuery exercises on Tuesday, and a final DartPad Flutter mini-challenge on Wednesday.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev",
+      "summary": "Last combined upkeep week: two Dart sessions plus in-browser jQuery exercises on Tuesday, a final DartPad Flutter mini-challenge on Wednesday, Thursday carries the week's only (and toughest yet) SQL practice, and Friday closes with a weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w16-pzt",
+          "day": "Pzt",
+          "text": "2 fresh Exercism Dart exercises at medium difficulty — this is the last DartPad week, so treat today as your last easy Dart rep before things get harder (30-40 min)",
+          "recurring": false,
+          "textTr": "Medium zorlukta 2 taze Exercism Dart alıştırması çöz — bu son DartPad haftası, bugünü işler zorlaşmadan önceki son kolay Dart turun say (30-40 dk)"
+        },
         {
           "id": "pratik.w16-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (5 kyu if you feel ready) or 2 harder Exercism Dart exercises, then open your HackerRank submissions history and solve one old C# problem again in Dart on CodeWars or Exercism. jQuery upkeep (~10 min): solve the last section you have not done yet in the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp (30-40 min)",
+          "text": "Solve 2 harder Exercism Dart exercises if you feel ready for them, or steady medium ones otherwise, then open your HackerRank submissions history and solve one old C# problem again in Dart on Exercism. jQuery upkeep (~10 min): solve the last section you have not done yet in the W3Schools jQuery exercises at https://www.w3schools.com/jquery/jquery_exercises.asp (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (hazır hissediyorsan 5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarında henüz yapmadığın son bölümü çöz (30-40 dk)"
+          "textTr": "Hazırsan 2 daha zor Exercism Dart alıştırması çöz, değilse istikrarlı medium seviyede olanları, sonra HackerRank gönderim geçmişini aç ve eski bir C# problemini Exercism'de Dart ile yeniden çöz. jQuery bakımı (~10 dk): https://www.w3schools.com/jquery/jquery_exercises.asp adresindeki W3Schools jQuery alıştırmalarında henüz yapmadığın son bölümü çöz (30-40 dk)"
         },
         {
           "id": "pratik.w16-car",
@@ -562,6 +884,20 @@
           "text": "DartPad Flutter day: go to https://dartpad.dev and build a small ListView with dismissible items — swipe an item away with the Dismissible widget and show a SnackBar. All in the browser, no signup; keep it dependency-free (most pub.dev packages are not available in DartPad). This is the last scheduled Flutter session — bigger Flutter plans wait for their own program (30-40 min)",
           "recurring": false,
           "textTr": "DartPad Flutter günü: https://dartpad.dev adresine git ve kaydırılıp silinebilen öğeleri olan küçük bir ListView yap — Dismissible widget'ıyla bir öğeyi kaydırarak kaldır ve bir SnackBar göster. Hepsi tarayıcıda, kayıt yok; bağımlılıksız tut (pub.dev paketlerinin çoğu DartPad'de yok). Bu, planlanmış son Flutter oturumu — daha büyük Flutter planları kendi programını bekliyor (30-40 dk)"
+        },
+        {
+          "id": "pratik.w16-per",
+          "day": "Per",
+          "text": "This week's only SQL touchpoint: solve 2-3 Medium-to-tough HackerRank SQL problems mixing JOINs, aggregation, and window functions — choose the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "Bu haftanın tek SQL durağı: JOIN'leri, toplamayı ve pencere fonksiyonlarını karıştıran 2-3 Medium-zorlu HackerRank SQL problemi çöz — problem sunuyorsa MS SQL Server motorunu seçerek (30-40 dk)"
+        },
+        {
+          "id": "pratik.w16-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: last DartPad week done — now find the toughest HackerRank or Exercism problem from this week and solve it again cold, timed (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: son DartPad haftası bitti — şimdi bu haftanın en zor HackerRank ya da Exercism problemini bul ve soğuk bir şekilde, süreli yeniden çöz (30-40 dk)"
         },
         {
           "id": "pratik.w16-rec-review",
@@ -572,8 +908,8 @@
         }
       ],
       "titleTr": "Dart Haftası, jQuery Alıştırmaları, DartPad Flutter",
-      "summaryTr": "Son birleşik bakım haftası: Salı Dart kataları artı tarayıcı içi jQuery alıştırmaları, Çarşamba ise son DartPad Flutter mini-görevi.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev"
+      "summaryTr": "Son birleşik bakım haftası: Salı iki Dart oturumu artı tarayıcı içi jQuery alıştırmaları, Çarşamba son DartPad Flutter mini-görevi, Perşembe haftanın tek (ve şimdiye kadarki en zor) SQL pratiğini taşıyor, Cuma zayıf nokta gözden geçirmesiyle kapanıyor.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_exercises.asp · https://dartpad.dev · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w17",
@@ -581,15 +917,22 @@
       "no": "17",
       "title": "HackerRank C# Day and SQL Mixed Set",
       "episode": "",
-      "summary": "The final regular practice week: Medium C# problems and a mixed-difficulty SQL set that simulates real exam variety.",
+      "summary": "The final regular practice week: two Medium C# sessions and two SQL sessions building a mixed-difficulty set that simulates real exam variety, closing with Friday's weak-spot review.",
       "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
+          "id": "pratik.w17-pzt",
+          "day": "Pzt",
+          "text": "Warm-up before today's Interview Kit session: 2 Medium HackerRank problems in C#, revisiting a subdomain from early in the program to see how much faster it feels now (30-40 min)",
+          "recurring": false,
+          "textTr": "Bugünkü Interview Kit oturumundan önce ısınma: C# ile 2 Medium HackerRank problemi, programın erken bir döneminden bir alt alanı tekrar ziyaret ederek şimdi ne kadar hızlandığını gör (30-40 dk)"
+        },
+        {
           "id": "pratik.w17-sali",
           "day": "Salı",
-          "text": "Solve 2 Medium problems in C# on HackerRank — or take the String Manipulation section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: in your CodeWars Solutions tab, pick the Dart problem you have re-trained most often and solve it one more time in C# here. Time yourself and try to beat your feeling of \"slow\" (30-40 min)",
+          "text": "Solve 2 Medium problems in C# on HackerRank — or take the String Manipulation section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Cross-language re-solve: on your Exercism solutions page, pick the Dart problem you have re-trained most often and solve it one more time in C# here. Time yourself and try to beat your feeling of \"slow\" (30-40 min)",
           "recurring": false,
-          "textTr": "HackerRank'te C# ile 2 Medium problem çöz — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) String Manipulation bölümünü al. Diller arası yeniden çözüm: CodeWars Solutions sekmende en çok yeniden çalıştığın Dart problemini seç ve onu burada bir kez daha C# ile çöz. Süreni tut ve o \"yavaş\" hissini kırmaya çalış (30-40 dk)"
+          "textTr": "HackerRank'te C# ile 2 Medium problem çöz — ya da Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) String Manipulation bölümünü al. Diller arası yeniden çözüm: Exercism çözümler sayfanda en çok yeniden çalıştığın Dart problemini seç ve onu burada bir kez daha C# ile çöz. Süreni tut ve o \"yavaş\" hissini kırmaya çalış (30-40 dk)"
         },
         {
           "id": "pratik.w17-car",
@@ -597,6 +940,20 @@
           "text": "Mixed SQL set on HackerRank SQL: 1 Easy (speed — under 5 minutes), 2 Medium, and if time remains, revisit the Hard problem from Hafta 15. Choose the MS SQL Server engine where the problem offers it. This is your last free-form practice before certification prep (30-40 min)",
           "recurring": false,
           "textTr": "HackerRank SQL'de karma set: 1 Easy (hız — 5 dakikanın altında), 2 Medium ve zaman kalırsa Hafta 15'teki Hard problemi tekrar ziyaret et. Problem sunuyorsa MS SQL Server motorunu seç. Bu, sertifika hazırlığından önceki son serbest formlu pratiğin (30-40 dk)"
+        },
+        {
+          "id": "pratik.w17-per",
+          "day": "Per",
+          "text": "A second mixed round: 1 Easy, 1 Medium, and — if yesterday's Hard problem from Hafta 15 is still unsolved — one more attempt at it, on HackerRank SQL with the MS SQL Server engine where the problem offers it (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci bir karma tur: 1 Easy, 1 Medium ve — Hafta 15'teki Hard problem hâlâ çözülmediyse — ona bir deneme daha, HackerRank SQL'de, problem sunuyorsa MS SQL Server motoruyla (30-40 dk)"
+        },
+        {
+          "id": "pratik.w17-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: pick the problem that gave you the hardest time this week — C# or SQL — and solve it again from scratch, timer running, no old submission open (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: bu hafta sana en çok zorluk çıkaran problemi seç — C# ya da SQL — ve eski gönderimin açık olmadan, kronometre çalışırken sıfırdan yeniden çöz (30-40 dk)"
         },
         {
           "id": "pratik.w17-rec-review",
@@ -607,7 +964,7 @@
         }
       ],
       "titleTr": "HackerRank C# Günü ve SQL Karma Seti",
-      "summaryTr": "Son düzenli pratik haftası: Medium C# problemleri ve gerçek sınav çeşitliliğini taklit eden karma zorlukta bir SQL seti.",
+      "summaryTr": "Son düzenli pratik haftası: iki Medium C# oturumu ve gerçek sınav çeşitliliğini taklit eden karma zorlukta bir set kuran iki SQL oturumu, Cuma'nın zayıf nokta gözden geçirmesiyle kapanıyor.",
       "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
@@ -616,15 +973,22 @@
       "no": "18",
       "title": "Dart Week and Timed Prep Round 1",
       "episode": "",
-      "summary": "Dart continues the rotation, and SQL work moves to exam conditions: timed problem sets.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
+      "summary": "Dart continues the rotation across two sessions, and SQL work moves to exam conditions with a timed round on Wednesday and a review-and-drill pass on Thursday, closing with Friday's weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w18-pzt",
+          "day": "Pzt",
+          "text": "2 fresh Exercism Dart exercises at medium difficulty, solved without checking the community solutions first — you want your own approach on the board before comparing (30-40 min)",
+          "recurring": false,
+          "textTr": "Önce topluluk çözümlerine bakmadan, medium zorlukta 2 taze Exercism Dart alıştırması çöz — karşılaştırmadan önce kendi yaklaşımını masaya koymak istiyorsun (30-40 dk)"
+        },
         {
           "id": "pratik.w18-sali",
           "day": "Salı",
-          "text": "Solve 2 Dart katas (6-5 kyu) or 2 harder Exercism Dart exercises. Take one C# problem from your HackerRank submissions history and solve it again in Dart on CodeWars or Exercism, then skim both histories — HackerRank submissions and your CodeWars/Exercism solutions — and pick your 3 favorite solutions (30-40 min)",
+          "text": "Solve 2 harder Exercism Dart exercises. Take one C# problem from your HackerRank submissions history and solve it again in Dart on Exercism, then skim both histories — your HackerRank submissions and your Exercism solutions page — and pick your 3 favorite solutions (30-40 min)",
           "recurring": false,
-          "textTr": "2 Dart katası çöz (6-5 kyu) ya da 2 daha zor Exercism Dart alıştırması yap. HackerRank gönderim geçmişinden bir C# problemi al ve onu CodeWars ya da Exercism'de Dart ile yeniden çöz, sonra iki geçmişe birden göz gezdir — HackerRank gönderimlerin ve CodeWars/Exercism çözümlerin — ve en beğendiğin 3 çözümü seç (30-40 dk)"
+          "textTr": "2 daha zor Exercism Dart alıştırması çöz. HackerRank gönderim geçmişinden bir C# problemi al ve onu Exercism'de Dart ile yeniden çöz, sonra iki geçmişe birden göz gezdir — HackerRank gönderimlerin ve Exercism çözümler sayfan — ve en beğendiğin 3 çözümü seç (30-40 dk)"
         },
         {
           "id": "pratik.w18-car",
@@ -632,6 +996,20 @@
           "text": "Certification prep, round 1: set a 35-minute timer and solve as many Medium problems as you can on HackerRank SQL (MS SQL Server engine where the problem offers it) — no breaks, no docs, exam conditions. Afterwards check your submission history on the site: how many did you finish, and which topic slowed you down most? (30-40 min)",
           "recurring": false,
           "textTr": "Sertifika hazırlığı, 1. tur: 35 dakikalık bir kronometre kur ve HackerRank SQL'de (problem sunuyorsa MS SQL Server motoru) çözebildiğin kadar Medium problem çöz — mola yok, dokümantasyon yok, sınav koşulları. Sonrasında sitedeki gönderim geçmişine bak: kaç tanesini bitirdin ve seni en çok hangi konu yavaşlattı? (30-40 dk)"
+        },
+        {
+          "id": "pratik.w18-per",
+          "day": "Per",
+          "text": "Review-and-drill pass: go back over yesterday's timed round, find every problem you got wrong or skipped, and solve each one again without the clock — then run one more 15-minute timed mini-round on HackerRank SQL to end the day (30-40 min)",
+          "recurring": false,
+          "textTr": "Gözden geçir ve alıştır: dünkü süreli turuna dön, yanlış yaptığın ya da atladığın her problemi bul ve kronometre olmadan yeniden çöz — sonra günü HackerRank SQL'de 15 dakikalık bir mini süreli turla kapat (30-40 dk)"
+        },
+        {
+          "id": "pratik.w18-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: after two timed SQL rounds, pick the single mistake that stung most this week (SQL or Dart) and fix it for good — solve it again, timed, no notes (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: iki süreli SQL turundan sonra, bu hafta en çok canını yakan tek hatayı seç ve onu kalıcı olarak düzelt — süreli, notsuz bir kez daha çöz (30-40 dk)"
         },
         {
           "id": "pratik.w18-rec-review",
@@ -642,8 +1020,8 @@
         }
       ],
       "titleTr": "Dart Haftası ve Süreli Hazırlık 1. Tur",
-      "summaryTr": "Dart rotasyonu sürdürüyor ve SQL çalışması sınav koşullarına geçiyor: süreli problem setleri.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
+      "summaryTr": "Dart iki oturumla rotasyonu sürdürüyor, SQL çalışması Çarşamba süreli bir turla ve Perşembe bir gözden geçir-ve-alıştır turuyla sınav koşullarına geçiyor, Cuma'nın zayıf nokta gözden geçirmesiyle kapanıyor.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.hackerrank.com/domains/sql"
     },
     {
       "id": "w19",
@@ -651,15 +1029,22 @@
       "no": "19",
       "title": "HackerRank C# Finale and Timed Prep Round 2",
       "episode": "",
-      "summary": "C# takes its last practice slot of the program, and you run a second timed SQL rehearsal targeting your weak topic.",
+      "summary": "C# takes its last practice slot of the program across two sessions, and you run two timed SQL rehearsals targeting your weak topic, closing with Friday's weak-spot review.",
       "source": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql",
       "tasks": [
         {
+          "id": "pratik.w19-pzt",
+          "day": "Pzt",
+          "text": "Final warm-up before today's Interview Kit session: 2 Medium HackerRank problems in C#, your choice of subdomain — treat it as a victory lap before the program's last C# session tomorrow (30-40 min)",
+          "recurring": false,
+          "textTr": "Bugünkü Interview Kit oturumundan önce son ısınma: C# ile 2 Medium HackerRank problemi, alt alan seçimi sana ait — yarın programın son C# oturumundan önce bir onur turu say (30-40 dk)"
+        },
+        {
           "id": "pratik.w19-sali",
           "day": "Salı",
-          "text": "Final C# session: solve 2 Medium problems on HackerRank, or close the program with the Dynamic Programming section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Do one last cross-language re-solve of a Dart problem from your CodeWars Solutions tab. Close with 5 minutes scrolling both histories start to finish — your HackerRank submissions and your CodeWars/Exercism solutions — and see in the code itself what improved since Hafta 1 (30-40 min)",
+          "text": "Final C# session: solve 2 Medium problems on HackerRank, or close the program with the Dynamic Programming section of the Interview Preparation Kit (https://www.hackerrank.com/interview/interview-preparation-kit). Do one last cross-language re-solve of a Dart problem from your Exercism solutions page. Close with 5 minutes scrolling both histories start to finish — your HackerRank submissions and your Exercism solutions page — and see in the code itself what improved since Hafta 1 (30-40 min)",
           "recurring": false,
-          "textTr": "Son C# oturumu: HackerRank'te 2 Medium problem çöz ya da programı Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Dynamic Programming bölümüyle kapat. CodeWars Solutions sekmenden bir Dart problemiyle son bir diller arası yeniden çözüm yap. Kapanışta 5 dakikanı iki geçmişi de baştan sona kaydırmaya ayır — HackerRank gönderimlerin ve CodeWars/Exercism çözümlerin — Hafta 1'den bu yana neyin geliştiğini doğrudan kodda gör (30-40 dk)"
+          "textTr": "Son C# oturumu: HackerRank'te 2 Medium problem çöz ya da programı Interview Preparation Kit'in (https://www.hackerrank.com/interview/interview-preparation-kit) Dynamic Programming bölümüyle kapat. Exercism çözümler sayfandan bir Dart problemiyle son bir diller arası yeniden çözüm yap. Kapanışta 5 dakikanı iki geçmişi de baştan sona kaydırmaya ayır — HackerRank gönderimlerin ve Exercism çözümler sayfan — Hafta 1'den bu yana neyin geliştiğini doğrudan kodda gör (30-40 dk)"
         },
         {
           "id": "pratik.w19-car",
@@ -667,6 +1052,20 @@
           "text": "Certification prep, round 2: spend the first 10 minutes drilling the weak topic you noted last week, then run another 25-minute timed set of Medium SQL problems (HackerRank SQL, MS SQL Server engine where the problem offers it). You are ready when Mediums fall in under 10 minutes each (30-40 min)",
           "recurring": false,
           "textTr": "Sertifika hazırlığı, 2. tur: ilk 10 dakikayı geçen hafta not ettiğin zayıf konuyu çalışmaya ayır, sonra 25 dakikalık süreli bir Medium SQL problem seti daha koştur (HackerRank SQL, problem sunuyorsa MS SQL Server motoru). Medium'lar her biri 10 dakikanın altında düştüğünde hazırsın (30-40 dk)"
+        },
+        {
+          "id": "pratik.w19-per",
+          "day": "Per",
+          "text": "Second timed round: another 20-minute timed set of Medium HackerRank SQL problems, then spend the last few minutes reviewing which mistakes from Hafta 18 you already fixed and which ones are still showing up (30-40 min)",
+          "recurring": false,
+          "textTr": "İkinci süreli tur: Medium HackerRank SQL problemlerinden 20 dakikalık bir set daha, sonra kalan birkaç dakikayı Hafta 18'den hangi hataları zaten düzelttiğine ve hangilerinin hâlâ çıktığına bakmaya ayır (30-40 dk)"
+        },
+        {
+          "id": "pratik.w19-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: last regular practice week — pick the hardest C#, SQL, or Dart problem you hit, and solve it once more from scratch, timed, no peeking (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: son düzenli pratik haftası — karşılaştığın en zor C#, SQL ya da Dart problemini seç ve onu bir kez daha, süreli, bakmadan sıfırdan çöz (30-40 dk)"
         },
         {
           "id": "pratik.w19-rec-review",
@@ -677,7 +1076,7 @@
         }
       ],
       "titleTr": "HackerRank C# Finali ve Süreli Hazırlık 2. Tur",
-      "summaryTr": "C#, programdaki son pratik sırasını alıyor ve zayıf konunu hedefleyen ikinci bir süreli SQL provası yapıyorsun.",
+      "summaryTr": "C#, programdaki son pratik sırasını iki oturumla alıyor ve zayıf konunu hedefleyen iki süreli SQL provası yapıyorsun, Cuma'nın zayıf nokta gözden geçirmesiyle kapanıyor.",
       "sourceTr": "https://www.hackerrank.com/domains/algorithms · https://www.hackerrank.com/domains/data-structures · https://www.hackerrank.com/interview/interview-preparation-kit · https://www.hackerrank.com/domains/sql"
     },
     {
@@ -686,22 +1085,43 @@
       "no": "20",
       "title": "Dart Send-off and SQL Certification",
       "episode": "",
-      "summary": "Program finale: a relaxed Dart kata session with the final in-browser jQuery quiz, then the free timed HackerRank SQL (Intermediate) certification.",
-      "source": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_quiz.asp · https://www.hackerrank.com/skills-verification",
+      "summary": "Program finale: two relaxed Dart sessions with the final in-browser jQuery quiz, the free timed HackerRank SQL (Intermediate) certification on Wednesday, a calm SQL session on Thursday, and Friday's last weak-spot review.",
+      "source": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_quiz.asp · https://www.hackerrank.com/skills-verification · https://www.hackerrank.com/domains/sql",
       "tasks": [
+        {
+          "id": "pratik.w20-pzt",
+          "day": "Pzt",
+          "text": "Light, relaxed pick: 2 Exercism Dart exercises at whatever difficulty feels comfortable — this is a send-off week, not a stress test (30-40 min)",
+          "recurring": false,
+          "textTr": "Hafif, rahat bir seçim: nasıl hissettiriyorsa o zorlukta 2 Exercism Dart alıştırması çöz — bu bir uğurlama haftası, stres testi değil (30-40 dk)"
+        },
         {
           "id": "pratik.w20-sali",
           "day": "Salı",
-          "text": "Light warm-up before exam day: solve 2 Dart katas at a comfortable level (6 kyu) and take one last C# problem from your HackerRank submissions history to solve again in Dart on CodeWars or Exercism. jQuery finale (~10 min): take the 25-question W3Schools jQuery quiz at https://www.w3schools.com/jquery/jquery_quiz.asp — your score appears instantly on the site (30-40 min)",
+          "text": "Light warm-up before exam day: solve 2 Exercism Dart exercises at a comfortable level and take one last C# problem from your HackerRank submissions history to solve again in Dart on Exercism. jQuery finale (~10 min): take the 25-question W3Schools jQuery quiz at https://www.w3schools.com/jquery/jquery_quiz.asp — your score appears instantly on the site (30-40 min)",
           "recurring": false,
-          "textTr": "Sınav gününden önce hafif ısınma: rahat bir seviyede 2 Dart katası çöz (6 kyu) ve HackerRank gönderim geçmişinden son bir C# problemi alıp onu CodeWars ya da Exercism'de Dart ile yeniden çöz. jQuery finali (~10 dk): https://www.w3schools.com/jquery/jquery_quiz.asp adresindeki 25 soruluk W3Schools jQuery quiz'ini çöz — puanın sitede anında görünür (30-40 dk)"
+          "textTr": "Sınav gününden önce hafif ısınma: rahat bir seviyede 2 Exercism Dart alıştırması çöz ve HackerRank gönderim geçmişinden son bir C# problemi alıp onu Exercism'de Dart ile yeniden çöz. jQuery finali (~10 dk): https://www.w3schools.com/jquery/jquery_quiz.asp adresindeki 25 soruluk W3Schools jQuery quiz'ini çöz — puanın sitede anında görünür (30-40 dk)"
         },
         {
           "id": "pratik.w20-car",
           "day": "Çar",
-          "text": "🏁 Take the FREE timed HackerRank \"SQL (Intermediate)\" certification at https://www.hackerrank.com/skills-verification. Quiet room, full focus, no notes. Whatever the result, it lands on your HackerRank profile — and the whole 20 weeks is now visible on your HackerRank, CodeWars, Exercism, and MS Learn histories (30-40 min)",
+          "text": "🏁 Take the FREE timed HackerRank \"SQL (Intermediate)\" certification at https://www.hackerrank.com/skills-verification. Quiet room, full focus, no notes. Whatever the result, it lands on your HackerRank profile — and the whole 20 weeks is now visible across your HackerRank and Exercism histories (30-40 min)",
           "recurring": false,
-          "textTr": "🏁 https://www.hackerrank.com/skills-verification adresinden ÜCRETSİZ süreli HackerRank \"SQL (Intermediate)\" sertifika sınavına gir. Sessiz oda, tam odak, not yok. Sonuç ne olursa olsun HackerRank profiline işlenir — ve 20 haftanın tamamı artık HackerRank, CodeWars, Exercism ve MS Learn geçmişlerinde görünüyor (30-40 dk)"
+          "textTr": "🏁 https://www.hackerrank.com/skills-verification adresinden ÜCRETSİZ süreli HackerRank \"SQL (Intermediate)\" sertifika sınavına gir. Sessiz oda, tam odak, not yok. Sonuç ne olursa olsun HackerRank profiline işlenir — ve 20 haftanın tamamı artık HackerRank ve Exercism geçmişlerinde görünüyor (30-40 dk)"
+        },
+        {
+          "id": "pratik.w20-per",
+          "day": "Per",
+          "text": "Calm and low-key: solve 2 Easy HackerRank SQL problems, no timer, no pressure — a quiet lap after yesterday's certification (30-40 min)",
+          "recurring": false,
+          "textTr": "Sakin ve düşük tempolu: kronometre yok, baskı yok, 2 Easy HackerRank SQL problemi çöz — dünkü sertifikadan sonra rahat bir tur (30-40 dk)"
+        },
+        {
+          "id": "pratik.w20-cum",
+          "day": "Cum",
+          "text": "Weak-spot review: program's done tomorrow in spirit — pick one last problem from this week (Dart, SQL, or your certification prep) and solve it again cold, timed, just to prove it stuck (30-40 min)",
+          "recurring": false,
+          "textTr": "Zayıf nokta gözden geçirmesi: program ruhen yarın bitiyor — bu haftadan (Dart, SQL ya da sertifika hazırlığından) son bir problem seç ve gerçekten kalıcı olduğunu kanıtlamak için süreli, soğuk bir şekilde yeniden çöz (30-40 dk)"
         },
         {
           "id": "pratik.w20-rec-review",
@@ -712,8 +1132,8 @@
         }
       ],
       "titleTr": "Dart Uğurlaması ve SQL Sertifikası",
-      "summaryTr": "Program finali: rahat bir Dart kata oturumu ve son tarayıcı içi jQuery quiz'i, ardından ücretsiz süreli HackerRank SQL (Intermediate) sertifikası.",
-      "sourceTr": "https://www.codewars.com/kata/search/dart · https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_quiz.asp · https://www.hackerrank.com/skills-verification"
+      "summaryTr": "Program finali: son tarayıcı içi jQuery quiz'iyle iki rahat Dart oturumu, Çarşamba ücretsiz süreli HackerRank SQL (Intermediate) sertifikası, Perşembe sakin bir SQL oturumu ve Cuma'nın son zayıf nokta gözden geçirmesi.",
+      "sourceTr": "https://exercism.org/tracks/dart · https://www.w3schools.com/jquery/jquery_quiz.asp · https://www.hackerrank.com/skills-verification · https://www.hackerrank.com/domains/sql"
     }
   ],
   "titleTr": "Geliştirici Pratiği — C#/Dart + MSSQL (20 Hafta)"

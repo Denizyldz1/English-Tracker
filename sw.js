@@ -9,7 +9,7 @@
  * Sürüm değişince CACHE_NAME artırılır; eski cache activate'te silinir.
  */
 
-const CACHE_NAME = 'tracker-5efaa055';
+const CACHE_NAME = 'tracker-318265db';
 
 const APP_SHELL = [
     './',

@@ -37,13 +37,13 @@
     "title": "Dev Practice — C#/Dart + MSSQL",
     "titleTr": "Geliştirici Pratiği — C#/Dart + MSSQL",
     "shortTitle": "Pratik",
-    "description": "2 days/week in English: C#↔Dart kata rotation with cross-language re-solve, MSSQL/T-SQL track, DartPad Flutter mini-challenges + free certifications",
-    "descriptionTr": "Haftada 2 gün: C#↔Dart kata rotasyonu ve diller arası yeniden çözüm, MSSQL/T-SQL rayı, DartPad Flutter mini görevleri + ücretsiz sertifikalar",
+    "description": "5 days/week in English: doubled HackerRank practice (C#↔Dart rotation + cross-language re-solve, HackerRank SQL twice a week), DartPad Flutter mini-challenges + free certifications",
+    "descriptionTr": "Haftada 5 gün: iki katı HackerRank pratiği (C#↔Dart rotasyonu + diller arası yeniden çözüm, haftada iki kez HackerRank SQL), DartPad Flutter mini görevleri + ücretsiz sertifikalar",
     "durationLabel": "20 hafta",
     "icon": "bi-tools",
-    "planUrl": "data/programs/pratik/plan.json?v=dae4e9c3",
+    "planUrl": "data/programs/pratik/plan.json?v=dca41aaf",
     "idPrefix": "pratik.",
-    "taskCount": 60
+    "taskCount": 120
   },
   {
     "id": "python",
