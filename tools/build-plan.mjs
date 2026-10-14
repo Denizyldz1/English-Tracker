@@ -155,6 +155,30 @@ const PROGRAM_CONFIGS = {
                     + '— hız artık soru formatında ölçülür'
             }
         ]
+    },
+    nl: {
+        title: 'Hollanda HSM Yolu — .NET + AI (Ekim 2026 – Ağustos 2027)',
+        idPrefix: 'nl.',
+        recurringNote:
+            'Tekrarlayan görevler (R1-R4) 16 Kasım 2026 ile 30 Haziran 2027 arasında '
+            + 'geçerlidir; Faz 0 haftalarında isteğe bağlı, Temmuz sonrası gerekmez.',
+        recurring: [
+            { suffix: 'rec-ing', day: 'Hafta içi',
+              text: 'R1 · 30 dk sesli İngilizce: Pzt/Çar/Cum "Tell me about yourself" ve "Walk me '
+                  + 'through a project" cevaplarını sesli anlat, kaydet, dinle; Salı/Per teknik '
+                  + 'kelime (ownership, trade-off, latency, pipeline, refactor) + STAR formatında 1 '
+                  + 'hikâye yaz' },
+            { suffix: 'rec-basvuru', day: 'Pzt',
+              text: 'R2 · Başvuru günü: 5-10 yeni başvuru (her birine 5 cümlelik özel cover '
+                  + 'letter) + geçen haftanın başvurularını takip; hepsini hedef tablosuna işle' },
+            { suffix: 'rec-mulakat', day: 'Per',
+              text: 'R3 · 45 dk sahte mülakat (Claude ile sesli/yazılı): 15 dk tanıtım, 20 dk teknik, '
+                  + '10 dk soru; sonrasında 1 sayfa not: sorular, zayıf cevaplar, düzeltme' },
+            { suffix: 'rec-teknik', day: 'Cmt',
+              text: 'R4 · 2 saat teknik hazırlık/portföy: .NET 8/9 (async, DI, EF Core vs Dapper, '
+                  + 'clean architecture, unit test), SQL (index, execution plan, deadlock), system '
+                  + 'design temelleri, haftada 3 LeetCode easy/medium (C#)' }
+        ]
     }
 };
 

@@ -68,5 +68,16 @@
     "planUrl": "data/programs/ales/plan.json?v=4eaed74a",
     "idPrefix": "ales.",
     "taskCount": 54
+  },
+  {
+    "id": "nl",
+    "title": "Hollanda HSM Yolu — .NET + AI",
+    "shortTitle": "Hollanda",
+    "description": "Ekim 2026 – Ağustos 2027: CV/LinkedIn/portföy → IND tanınmış sponsorlara başvuru dalgaları → teklif ve sözleşme → 30 yaş eşiğinden önce IND dosyalaması → taşınma. Haftalık İngilizce, başvuru, sahte mülakat ve teknik hazırlık ritmi",
+    "durationLabel": "46 hafta",
+    "icon": "bi-airplane",
+    "planUrl": "data/programs/nl/plan.json?v=472bbfcd",
+    "idPrefix": "nl.",
+    "taskCount": 221
   }
 ]
