@@ -57,5 +57,16 @@
     "planUrl": "data/programs/python/plan.json?v=02962c44",
     "idPrefix": "python.",
     "taskCount": 120
+  },
+  {
+    "id": "ales",
+    "title": "ALES Sayısal — 29 Kasım 2026",
+    "shortTitle": "ALES",
+    "description": "7 haftalık takvime kilitli sprint: teşhis → sayısal ağırlıklı konu taraması → deneme yoğunluğu → taper. Hedef 100 (sıfır hata); kendi kitapların + ÖSYM çıkmış sorular + günlük okuma",
+    "durationLabel": "7 hafta",
+    "icon": "bi-calculator",
+    "planUrl": "data/programs/ales/plan.json?v=4eaed74a",
+    "idPrefix": "ales.",
+    "taskCount": 54
   }
 ]

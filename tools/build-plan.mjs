@@ -137,6 +137,24 @@ const PROGRAM_CONFIGS = {
                     + 'bu, işteki projeye nasıl yarıyor? (5 dk)'
             }
         ]
+    },
+    ales: {
+        title: 'ALES Sayısal — 29 Kasım 2026 (7 Hafta)',
+        idPrefix: 'ales.',
+        recurringNote:
+            'Günlük okuma bloğu (E) her haftaya sabit görev olarak eklenmiştir; '
+            + 'paragraf hızı için atlanmaz.',
+        recurring: [
+            {
+                suffix: 'rec-okuma', day: 'Her gün',
+                text: 'Okuma bloğu (E), 20-25 dk: TÜBİTAK Bilim Genç '
+                    + '(https://bilimgenc.tubitak.gov.tr/populer-bilim) veya AA Analiz '
+                    + '(https://www.aa.com.tr/tr/analiz) sayfasından 1 metin oku; bitince 2 '
+                    + 'cümle yaz: ana düşünce + yazarın tutumu. H1-3: serbest okuma + not; '
+                    + 'H4-7: aynı sürede zamanlı paragraf seti (ör. Rehber Panda sözel testi) '
+                    + '— hız artık soru formatında ölçülür'
+            }
+        ]
     }
 };
 

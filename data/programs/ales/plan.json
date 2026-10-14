@@ -1,0 +1,426 @@
+{
+  "title": "ALES Sayısal — 29 Kasım 2026 (7 Hafta)",
+  "generatedFrom": "data/programs/ales/source-plan.md",
+  "recurringNote": "Günlük okuma bloğu (E) her haftaya sabit görev olarak eklenmiştir; paragraf hızı için atlanmaz.",
+  "phases": [
+    {
+      "id": "faz1",
+      "title": "FAZ 1 — Teşhis (Hafta 1)"
+    },
+    {
+      "id": "faz2",
+      "title": "FAZ 2 — Konu Taraması (Hafta 2-4)"
+    },
+    {
+      "id": "faz3",
+      "title": "FAZ 3 — Deneme Yoğunluğu (Hafta 5-6)"
+    },
+    {
+      "id": "faz4",
+      "title": "FAZ 4 — Taper ve Sınav (Hafta 7)"
+    }
+  ],
+  "weeks": [
+    {
+      "id": "w1",
+      "phaseId": "faz1",
+      "no": "1",
+      "title": "14-18 Ekim: Teşhis ve Başlangıç Denemesi",
+      "episode": "",
+      "summary": "Seviye bilinmiyor; bu hafta iki tam denemeyle gerçek başlangıç netini ölç, her yanlışı etiketle, sayısal ve sözel konu haritasını \"zayıf/orta/sağlam\" diye çıkar, hata defterini kur. Ayrıca başvurunun 15 Ekim 23:59'a kadar tamamlanıp ücretin yatmış olduğunu doğrula.",
+      "source": "Başvuru/AİS https://ais.osym.gov.tr · Kılavuz PDF https://dokuman.osym.gov.tr/web/2026/10/basvuru-kilavuzu-pijez5-06105839.pdf · ALES/3 duyurusu https://www.osym.gov.tr/2026-ales3-basvurularin-alinmasi · ÖSYM 2026-ALES/2 %10 kitapçık+cevap https://dokuman.osym.gov.tr/web/2026/8/2025-ales2-temel-soru-kitapcigi-ve-cevap-anahtari-10-b22o51-02132535.pdf · Konu dağılımı tahmini (hazırlık sitesi, resmî değil): sayısal https://rehberpanda.com/blog/ales-cikmis-sorular-analizi-sayisal/ · sözel https://rehberpanda.com/blog/ales-cikmis-sorular-analizi-sozel/ · Okuma hızı testi https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/",
+      "tasks": [
+        {
+          "id": "ales.w1-car",
+          "day": "Çar",
+          "text": "🏁 BAŞLANGIÇ DENEMESİ — Kendi deneme setinden 1 tam deneme (50 Sayısal + 50 Sözel, ÖSYM formatı) tam 10.15'te başlat, 150 dk kesintisiz, telefon başka odada; bitince SAY ve SÖZ için doğru/yanlış/boş say, net = doğru − yanlış/4 hesapla ve \"Başlangıç\" diye not et. Hata defterini başlat: her yanlış ve boş soru için satır aç (soru no · konu · etiket bilgi/dikkat/süre · \"tahmin edip yanlış\" işareti · süresi). ARTI başvuru kontrolü: https://ais.osym.gov.tr adresine T.C. no + şifreyle gir, 2026-ALES/3 başvurusunun \"tamamlandı\" göründüğünü ve ücretin yatmış olduğunu doğrula — son gün 15 Ekim 23:59 (geç başvuru 21 Ekim, %50 zamlı); kılavuz PDF'den (https://dokuman.osym.gov.tr/web/2026/10/basvuru-kilavuzu-pijez5-06105839.pdf) sınav kuralları bölümünü oku, salona girecekler listesini not et (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w1-per",
+          "day": "Per",
+          "text": "Tam analiz günü — Önceki günün denemesindeki her yanlış/boş/\"doğru ama yavaş\" soruyu SIFIRDAN yeniden çöz, çözümünü kendi konu kitabındaki ilgili başlıkla karşılaştır, üç etiketten birini ver (bilgi / dikkat / süre) ve tahmin ettiğin soruları ayrıca işaretle (120 dk). Sayısal konuları tek sayfada \"zayıf / orta / sağlam\" olarak haritala; sözel soru tiplerini de (ana düşünce, paragraf tamamlama, sözel mantık, anlatım bozukluğu vb.) aynı şekilde sınıfla (30 dk). Rehber Panda'nın konu dağılımı tahminlerini (https://rehberpanda.com/blog/ales-cikmis-sorular-analizi-sayisal/ ve https://rehberpanda.com/blog/ales-cikmis-sorular-analizi-sozel/ — hazırlık sitesi tahmini, resmî değil) oku ve zayıf konularını soru ağırlığıyla çaprazla; en zayıf 2 sayısal konuyu Cum/Cmt için seç (20 dk). Ardından ÖSYM 2026-ALES/2 %10 kitapçığını (https://dokuman.osym.gov.tr/web/2026/8/2025-ales2-temel-soru-kitapcigi-ve-cevap-anahtari-10-b22o51-02132535.pdf) soru başına 90 sn zamanlayarak çöz, cevap anahtarıyla kontrol et, gerçek ÖSYM zorluğunu kendi deneme setinle karşılaştırıp bir cümleyle not et (45 dk) (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w1-cum",
+          "day": "Cum",
+          "text": "Blok A · Sayısal 90 dk: teşhiste en zayıf çıkan 1. sayısal konuyu kendi konu kitabından oku, formül ve tuzakları hata defterinin arkasına özetle, ardından soru bankasından bu konudan 30-40 soruyu soru başına 90 sn hedefle ZAMANLI çöz. Blok B · Sözel 60 dk: kendi sözel kaynağından 20-25 paragraf sorusu zamanlı (soru başına 75-90 sn), yanlışları hata defterine ekle. Blok C · Hata defteri 45 dk: Çar denemesinin yanlışlarını kapatmadan sıfırdan çöz; hâlâ yapamadığını \"bilgi\" etiketiyle kırmızıya al. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru (SAY+SÖZ), soru başına 75 sn sıkı süre, bitince net hesapla ve tahmin sayısını not et (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w1-cmt",
+          "day": "Cmt",
+          "text": "Blok A · Sayısal 90 dk: en zayıf 2. sayısal konu — kendi konu kitabından oku, soru bankasından 30-40 soru soru başına 90 sn ZAMANLI; aynı tuzağa iki kez düştüğün soru tiplerini defterin \"tekrarlayan\" bölümüne yaz. Blok B · Sözel 60 dk: kendi kaynağından 20-25 paragraf + sözel mantık sorusu zamanlı. Blok C · Hata defteri 45 dk: Cum gününün yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle (bilgi/dikkat/süre), tahmin disiplini için \"işaretlemeden önce en az 2 şık elendi mi?\" sorusunu her satıra ekle. Blok D · Mini deneme 35 dk: kendi setinden 20-25 karışık soru, 75 sn/soru; yarınki tam deneme için uyku saatini sabitle (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w1-paz",
+          "day": "Paz",
+          "text": "İKİNCİ TAM DENEME — Kendi deneme setinden farklı bir deneme, tam 10.15'te, 150 dk, Çar ile aynı koşullar (150 dk). Ardından aynı gün tam analiz: her yanlış/boş/yavaş soruyu sıfırdan çöz, etiketle, hata defterine işle (75 dk). Haftalık net tablosunu doldur: SAY net, SÖZ net, bölüm başına harcanan süre, dikkat hatası sayısı, tahmin edip yanlış sayısı; Çar ile Paz'ı yan yana koy ve baseline'ı \"teyit edildi / dalgalı\" diye yaz (20 dk). Rehber Panda okuma hızı testiyle (https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/) ilk ölçümü al, kelime/dk değerini tabloya ekle (10 dk). Zayıf konu haritasını güncelle ve Hafta 2 sırasını gerekiyorsa buna göre kaydır (15 dk) (4 sa 30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w1-rec-okuma",
+          "day": "Her gün",
+          "text": "Okuma bloğu (E), 20-25 dk: TÜBİTAK Bilim Genç (https://bilimgenc.tubitak.gov.tr/populer-bilim) veya AA Analiz (https://www.aa.com.tr/tr/analiz) sayfasından 1 metin oku; bitince 2 cümle yaz: ana düşünce + yazarın tutumu. H1-3: serbest okuma + not; H4-7: aynı sürede zamanlı paragraf seti (ör. Rehber Panda sözel testi) — hız artık soru formatında ölçülür",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "phaseId": "faz2",
+      "no": "2",
+      "title": "19-25 Ekim: Problemler I ve Paragraf Temeli",
+      "episode": "",
+      "summary": "Sayısalın en çok soru getiren bloğu olan problemler (sayı-basamak, yüzde-faiz, oran-orantı, işçi-havuz, hareket, karışım) altı günde taranır; sözelde paragrafın üç temel sorusu (ana düşünce, yardımcı düşünce, paragraf tamamlama) oturtulur. Bu haftadan itibaren Blok D'de ÖSYM %10 setleri ve haftada iki kez Rehber Panda online sözel testi girer.",
+      "source": "Kendi konu kitabı + soru bankası + deneme seti · ÖSYM çıkmış %10 soru listesi ALES/1 https://www.osym.gov.tr/SinavGrubu/Menu/374 · Rehber Panda ücretsiz sözel testler https://rehberpanda.com/testler/ales/sozel/ (örn. https://rehberpanda.com/testler/ales/sozel/sozel-akademik-paragraf-test-1/) · Okuma hızı testi https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/",
+      "tasks": [
+        {
+          "id": "ales.w2-pzt",
+          "day": "Pzt",
+          "text": "Blok A · Sayısal 90 dk: sayı ve basamak problemleri — kendi konu kitabından bölümü oku, basamak çözümleme kalıplarını (ab = 10a+b, rakam toplamı, ardışık sayılar) özetle, soru bankasından 30-40 soru soru başına 90 sn ZAMANLI çöz. Blok B · Sözel 60 dk: paragrafta ana düşünce — kendi kaynağından 20-25 soru zamanlı; her soruda ana düşünceyi şıklara bakmadan tek cümle yaz, sonra şık seç. Blok C · Hata defteri 45 dk: Hafta 1 Paz denemesinin ve önceki günlerin yanlış/boş/yavaş sorularını sıfırdan çöz, bilgi/dikkat/süre etiketi + tahmin işareti. Blok D · Mini deneme 35 dk: ÖSYM ALES/1 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/374) iki farklı yılın setini indirip ≈20 soruyu 75 sn/soru ile çöz, cevap anahtarıyla kontrol et, zorluk notunu deftere yaz (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w2-sali",
+          "day": "Salı",
+          "text": "Blok A · Sayısal 90 dk: yüzde, kâr-zarar ve faiz — kendi konu kitabından oku, \"yüzde zinciri\" ve maliyet/satış/etiket üçlüsünü tek şemaya indir, soru bankasından 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: ana düşünce + yardımcı düşünce karışık — kendi kaynağından 15 soru zamanlı; ardından Rehber Panda'dan bir akademik paragraf testini (https://rehberpanda.com/testler/ales/sozel/ — zamanlayıcıyla, üyeliksiz) çöz ve sonucu deftere yaz. Blok C · Hata defteri 45 dk: Pzt'nin yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle; \"dikkat\" etiketli sorularda hatanın tam olarak hangi adımda olduğunu bir cümleyle yaz. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru, net + tahmin sayısı (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w2-car",
+          "day": "Çar",
+          "text": "Blok A · Sayısal 90 dk: oran-orantı (doğru/ters orantı, bileşik orantı, oran paylaştırma) — kendi konu kitabından oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI; oranı \"k katı\" diye yazarak çözme alışkanlığını her soruda uygula. Blok B · Sözel 60 dk: yardımcı düşünce (\"değinilmemiştir / çıkarılamaz\") — kendi kaynağından 20-25 soru zamanlı; her şıkkı paragrafta yerini göstererek ele. Blok C · Hata defteri 45 dk: Salı'nın yanlışları sıfırdan; haftanın \"tekrarlayan tuzak\" listesini güncelle. Blok D · Mini deneme 35 dk: ÖSYM ALES/1 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/374) henüz çözmediğin iki yılın seti ≈20 soru, 75 sn/soru, cevap anahtarıyla kontrol (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w2-per",
+          "day": "Per",
+          "text": "Blok A · Sayısal 90 dk: işçi-havuz problemleri — kendi konu kitabından oku, \"birim zamanda iş = 1/t\" şemasını ve ortak çalışma/boşaltma kalıplarını özetle, soru bankasından 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: paragraf tamamlama (başa/ortaya/sona gelecek cümle) — kendi kaynağından 15 soru zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) zamanlayıcıyla. Blok C · Hata defteri 45 dk: Çar'ın yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle, tahmin işaretlerini say. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w2-cum",
+          "day": "Cum",
+          "text": "Blok A · Sayısal 90 dk: hareket problemleri (karşılaşma, takip, ortalama hız, tren-tünel, akıntı) — kendi konu kitabından oku, her tip için tek satırlık formül kartı çıkar, soru bankasından 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: paragraf tamamlama + ana düşünce karışık — kendi kaynağından 20-25 soru zamanlı, bağlaç/zamir ipuçlarını işaretleyerek çöz. Blok C · Hata defteri 45 dk: Per'in yanlışları sıfırdan; \"süre\" etiketli soruların çözüm süresini kronometreyle ölçüp 90 sn altına indir. Blok D · Mini deneme 35 dk: ÖSYM ALES/1 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/374) kalan iki yılın seti ≈20 soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w2-cmt",
+          "day": "Cmt",
+          "text": "Blok A · Sayısal 90 dk: karışım problemleri (yüzde karışım, su ekleme/buharlaştırma, iki kaptan karıştırma) — kendi konu kitabından oku, \"madde miktarı korunur\" tablosunu her soruda kur, soru bankasından 30-40 soru 90 sn/soru ZAMANLI; haftanın altı problem konusundan 10 soruluk karma tekrar ekle. Blok B · Sözel 60 dk: haftanın üç paragraf tipinden karışık 20-25 soru, kendi kaynağından, zamanlı. Blok C · Hata defteri 45 dk: Cum'un yanlışları sıfırdan + haftanın tüm \"bilgi\" etiketli sorularını bir kez daha çöz. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru; yarınki tam deneme için kalem-silgi hariç masa düzenini ve uyku saatini sabitle (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w2-paz",
+          "day": "Paz",
+          "text": "TAM DENEME — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları (150 dk). Aynı gün tam analiz: her yanlış/boş/\"doğru ama yavaş\" soruyu sıfırdan çöz, bilgi/dikkat/süre etiketle, tahmin edip yanlışları ayrı say, hata defterine işle (75 dk). Haftalık net tablosu: SAY net, SÖZ net, bölüm süreleri, dikkat hatası sayısı, tahmin sayısı; Hafta 1 ile karşılaştır (15 dk). Rehber Panda okuma hızı testiyle (https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/) haftalık ölçüm (10 dk). Problem konularından hâlâ \"zayıf\" kalanı Hafta 4 yama gününe yaz (10 dk) (4 sa 30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w2-rec-okuma",
+          "day": "Her gün",
+          "text": "Okuma bloğu (E), 20-25 dk: TÜBİTAK Bilim Genç (https://bilimgenc.tubitak.gov.tr/populer-bilim) veya AA Analiz (https://www.aa.com.tr/tr/analiz) sayfasından 1 metin oku; bitince 2 cümle yaz: ana düşünce + yazarın tutumu. H1-3: serbest okuma + not; H4-7: aynı sürede zamanlı paragraf seti (ör. Rehber Panda sözel testi) — hız artık soru formatında ölçülür",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "phaseId": "faz2",
+      "no": "3",
+      "title": "26 Ekim-1 Kasım: Sayısal Mantık, Geometri I ve Sözel Mantık",
+      "episode": "",
+      "summary": "ALES'in ayırt edici bölümü olan sayısal mantık (dizi-şifre, şekil mantığı, tablo-grafik) ve geometri temeli (üçgen, dörtgen-çokgen, çember) taranır; sözelde sözel mantık (sıralama, eşleştirme, tablo) ve cümlede anlam çalışılır. Blok D'de ÖSYM ALES/2 %10 setleri kullanılır.",
+      "source": "Kendi konu kitabı + soru bankası + deneme seti · ÖSYM çıkmış %10 soru listesi ALES/2 https://www.osym.gov.tr/SinavGrubu/Menu/392 · Rehber Panda ücretsiz sözel testler https://rehberpanda.com/testler/ales/sozel/ · Okuma hızı testi https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/",
+      "tasks": [
+        {
+          "id": "ales.w3-pzt",
+          "day": "Pzt",
+          "text": "Blok A · Sayısal 90 dk: sayı dizileri ve şifre/işlem mantığı — kendi konu kitabından oku; fark dizisi, çarpan dizisi, iç içe örüntü ve tanımlı işlem tiplerini ayrı ayrı 8-10 soruyla pekiştir, toplam 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: sözel mantık — sıralama soruları, kendi kaynağından 20-25 soru zamanlı; her soruda verileri tek satır şemaya dök, sonra şıklara bak. Blok C · Hata defteri 45 dk: Hafta 2 Paz denemesinin yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle. Blok D · Mini deneme 35 dk: ÖSYM ALES/2 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/392) iki yılın seti ≈20 soru, 75 sn/soru, cevap anahtarıyla kontrol (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w3-sali",
+          "day": "Salı",
+          "text": "Blok A · Sayısal 90 dk: şekil mantığı (döndürme, yansıma, eksik parça, küp açılımı, örüntü) — kendi konu kitabından oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI; 2 dk'yı geçen soruyu bırakıp işaretle, bitince geri dön. Blok B · Sözel 60 dk: sözel mantık — eşleştirme soruları, kendi kaynağından 15 soru zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) zamanlayıcıyla. Blok C · Hata defteri 45 dk: Pzt'nin yanlışları sıfırdan; dizi sorularında hangi örüntüyü görmediğini tek kelimeyle yaz. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w3-car",
+          "day": "Çar",
+          "text": "Blok A · Sayısal 90 dk: tablo ve grafik yorumlama (yüzde değişim, oran okuma, çoklu tablo) — kendi konu kitabından oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI; her soruda önce \"neyi soruyor\" cümlesini yaz, sonra tabloya bak. Blok B · Sözel 60 dk: sözel mantık — tablo/yerleşim soruları, kendi kaynağından 20-25 soru zamanlı. Blok C · Hata defteri 45 dk: Salı'nın yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle, tahmin sayısını not et. Blok D · Mini deneme 35 dk: ÖSYM ALES/2 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/392) çözmediğin iki yılın seti ≈20 soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w3-per",
+          "day": "Per",
+          "text": "Blok A · Sayısal 90 dk: üçgen — açı, kenar, açıortay-kenarortay, benzerlik, alan; kendi konu kitabından oku, kullanılan 10 teoremi tek formül kartına yaz, soru bankasından 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: cümlede anlam (yakın anlamlı cümle, cümleden çıkarılabilecek yargı) — kendi kaynağından 15 soru zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) zamanlayıcıyla. Blok C · Hata defteri 45 dk: Çar'ın yanlışları sıfırdan; tablo sorularında yanlış okunan hücreyi \"dikkat\" diye etiketle. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w3-cum",
+          "day": "Cum",
+          "text": "Blok A · Sayısal 90 dk: dörtgenler ve çokgenler (paralelkenar, yamuk, eşkenar dörtgen, kare-dikdörtgen, iç-dış açı toplamları, alan) — kendi konu kitabından oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI; şekli yeniden çizmeden çözme denemesi yap, çizmen gereken soruları işaretle. Blok B · Sözel 60 dk: sözel mantık + cümlede anlam karışık, kendi kaynağından 20-25 soru zamanlı. Blok C · Hata defteri 45 dk: Per'in yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle. Blok D · Mini deneme 35 dk: ÖSYM ALES/2 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/392) kalan iki yılın seti ≈20 soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w3-cmt",
+          "day": "Cmt",
+          "text": "Blok A · Sayısal 90 dk: çember ve daire (merkez-çevre açı, teğet, kiriş, yay uzunluğu, daire dilimi alanı) — kendi konu kitabından oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI; haftanın üç geometri konusundan 10 soruluk karma tekrar ekle. Blok B · Sözel 60 dk: haftanın sözel mantık tiplerinden karışık 20-25 soru, kendi kaynağından, zamanlı. Blok C · Hata defteri 45 dk: Cum'un yanlışları sıfırdan + haftanın tüm \"bilgi\" etiketli sorularını bir kez daha çöz. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru; yarınki deneme için erken uyku (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w3-paz",
+          "day": "Paz",
+          "text": "TAM DENEME — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları (150 dk). Aynı gün tam analiz: her yanlış/boş/yavaş soruyu sıfırdan çöz, bilgi/dikkat/süre etiketle, tahmin edip yanlışları say, hata defterine işle (75 dk). Haftalık net tablosu: SAY net, SÖZ net, bölüm süreleri, dikkat hatası sayısı; üç haftanın eğrisini yan yana yaz (15 dk). Rehber Panda okuma hızı testiyle (https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/) haftalık ölçüm (10 dk). Sayısal mantık ve geometri konularından hâlâ zayıf kalanı Hafta 4 yama gününe ekle (10 dk) (4 sa 30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w3-rec-okuma",
+          "day": "Her gün",
+          "text": "Okuma bloğu (E), 20-25 dk: TÜBİTAK Bilim Genç (https://bilimgenc.tubitak.gov.tr/populer-bilim) veya AA Analiz (https://www.aa.com.tr/tr/analiz) sayfasından 1 metin oku; bitince 2 cümle yaz: ana düşünce + yazarın tutumu. H1-3: serbest okuma + not; H4-7: aynı sürede zamanlı paragraf seti (ör. Rehber Panda sözel testi) — hız artık soru formatında ölçülür",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "phaseId": "faz2",
+      "no": "4",
+      "title": "2-8 Kasım: Problemler II, Geometri II ve Konu Kapanışı",
+      "episode": "",
+      "summary": "Kalan sayısal konular (kümeler, olasılık-permütasyon-kombinasyon, denklem-eşitsizlik, üslü-köklü sayılar, analitik geometri temeli) taranır, Cmt teşhiste zayıf çıkan konuların yama günüdür; sözelde anlatım bozukluğu, akışı bozan cümle ve sözcükte anlam kapatılır. Paz denemesi ilk kontrol noktasıdır: hedef SAY ≥45/50, SÖZ ≥40/50.",
+      "source": "Kendi konu kitabı + soru bankası + deneme seti · ÖSYM çıkmış %10 soru listesi ALES/3 https://www.osym.gov.tr/SinavGrubu/Menu/404 · Rehber Panda ücretsiz sözel testler https://rehberpanda.com/testler/ales/sozel/ · Okuma hızı testi https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/",
+      "tasks": [
+        {
+          "id": "ales.w4-pzt",
+          "day": "Pzt",
+          "text": "Blok A · Sayısal 90 dk: kümeler (Venn şeması, iki-üç küme problemleri, \"en az / en çok\" soruları) — kendi konu kitabından oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI; her soruda şemayı kurup bilinmeyeni harfle yaz. Blok B · Sözel 60 dk: anlatım bozukluğu (özne-yüklem uyumu, gereksiz sözcük, tamlama yanlışı, anlam belirsizliği) — kendi kaynağından 20-25 soru zamanlı, her yanlışta bozukluk türünü yaz. Blok C · Hata defteri 45 dk: Hafta 3 Paz denemesinin yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle. Blok D · Mini deneme 35 dk: ÖSYM ALES/3 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/404) iki yılın seti ≈20 soru, 75 sn/soru, cevap anahtarıyla kontrol (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w4-sali",
+          "day": "Salı",
+          "text": "Blok A · Sayısal 90 dk: olasılık, permütasyon ve kombinasyon — kendi konu kitabından oku, \"sıra önemli mi / tekrar var mı\" karar ağacını deftere çiz, soru bankasından 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: anlatım bozukluğu 15 soru kendi kaynağından zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) zamanlayıcıyla. Blok C · Hata defteri 45 dk: Pzt'nin yanlışları sıfırdan; kümeler sorularında \"en az/en çok\" ayrımını kaçırdığın soruları \"dikkat\" etiketle. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w4-car",
+          "day": "Çar",
+          "text": "Blok A · Sayısal 90 dk: denklem ve eşitsizlik (birinci-ikinci derece, mutlak değer, eşitsizlik yön değişimi, denklem kurma problemleri) — kendi konu kitabından oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: paragrafta akışı bozan cümle — kendi kaynağından 20-25 soru zamanlı; her paragrafta konuyu tek kelimeye indir, kelimeye uymayan cümleyi ara. Blok C · Hata defteri 45 dk: Salı'nın yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle, tahmin sayısını not et. Blok D · Mini deneme 35 dk: ÖSYM ALES/3 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/404) çözmediğin iki yılın seti ≈20 soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w4-per",
+          "day": "Per",
+          "text": "Blok A · Sayısal 90 dk: üslü ve köklü sayılar (üs kuralları, kök sadeleştirme, eşlenik, basamak ve son rakam soruları) — kendi konu kitabından oku, kural kartı çıkar, soru bankasından 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: sözcükte anlam (bağlamdan sözcük anlamı, deyim, yakın-zıt anlam) 15 soru kendi kaynağından zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) zamanlayıcıyla. Blok C · Hata defteri 45 dk: Çar'ın yanlışları sıfırdan; eşitsizlikte yön değişimi hatalarını \"dikkat\" etiketle ve defterin \"tekrarlayan tuzak\" listesine ekle. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w4-cum",
+          "day": "Cum",
+          "text": "Blok A · Sayısal 90 dk: analitik geometri temeli (iki nokta arası uzaklık, orta nokta, doğru denklemi ve eğim, doğruların kesişimi, üçgen alanı) — kendi konu kitabından oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI. Blok B · Sözel 60 dk: haftanın üç sözel tipinden karışık 20-25 soru, kendi kaynağından, zamanlı. Blok C · Hata defteri 45 dk: Per'in yanlış/boş/yavaş sorularını sıfırdan çöz, etiketle; dört haftanın \"bilgi\" etiketlilerini sayıp en sık tekrar eden 2 konuyu yarın için seç. Blok D · Mini deneme 35 dk: ÖSYM ALES/3 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/404) kalan iki yılın seti ≈20 soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w4-cmt",
+          "day": "Cmt",
+          "text": "YAMA GÜNÜ — Blok A · Sayısal 90 dk: teşhiste ve dört haftanın hata defterinde en zayıf kalan 2 sayısal konuyu kendi konu kitabından yeniden oku (yalnız eksik kalan alt başlıklar), soru bankasından her birinden 15-20 soru 90 sn/soru ZAMANLI çöz. Blok B · Sözel 60 dk: dört haftanın sözel tiplerinden en çok yanlış yaptığın 2 tipi kendi kaynağından 20-25 soruyla zamanlı tekrar et. Blok C · Hata defteri 45 dk: Cum'un yanlışları sıfırdan + defterdeki tüm kırmızı (\"bilgi\") soruları son kez çöz; hâlâ yapılamayanları tek sayfaya \"Faz 3 takip listesi\" olarak çıkar. Blok D · Mini deneme 35 dk: kendi deneme setinden 20-25 karışık soru, 75 sn/soru; yarınki kontrol denemesi için erken uyku (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w4-paz",
+          "day": "Paz",
+          "text": "🏁 KONTROL DENEMESİ — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları (150 dk). Aynı gün tam analiz: her yanlış/boş/yavaş soruyu sıfırdan çöz, bilgi/dikkat/süre etiketle, tahmin edip yanlışları say, hata defterine işle (75 dk). Haftalık net tablosu: SAY net, SÖZ net, bölüm süreleri, dikkat hatası sayısı; hedef SAY ≥45/50 ve SÖZ ≥40/50 — tutuyorsa Faz 3'e geç, tutmuyorsa Hafta 5'in Salı/Per/Cmt nokta atışı konularını eksik konularla değiştir (20 dk). Rehber Panda okuma hızı testiyle (https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/) haftalık ölçüm (10 dk) (4 sa 30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w4-rec-okuma",
+          "day": "Her gün",
+          "text": "Okuma bloğu (E), 20-25 dk: TÜBİTAK Bilim Genç (https://bilimgenc.tubitak.gov.tr/populer-bilim) veya AA Analiz (https://www.aa.com.tr/tr/analiz) sayfasından 1 metin oku; bitince 2 cümle yaz: ana düşünce + yazarın tutumu. H1-3: serbest okuma + not; H4-7: aynı sürede zamanlı paragraf seti (ör. Rehber Panda sözel testi) — hız artık soru formatında ölçülür",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "phaseId": "faz3",
+      "no": "5",
+      "title": "9-15 Kasım: Deneme Yoğunluğu I",
+      "episode": "",
+      "summary": "Haftada dört tam deneme (Pzt, Çar, Cum, Paz) hep 10.15'te; deneme günlerinde Blok A/B yok, yalnız deneme + aynı gün analiz ve hata defteri. Ara günler (Salı, Per, Cmt) hata defterinde en sık tekrar eden 2 dirençli konuya nokta atışı + ÖSYM %10 setleri + Blok D. Amaç: netleri 48-50 bandına taşımak ve dikkat hatasını sıfırlamak.",
+      "source": "Kendi deneme seti (biterse yedek, kalite orta: https://www.editoryayinevi.net/ales/ales-7-deneme-data-24/ales-7-deneme-data-24.pdf) · ÖSYM çıkmış %10 listeleri ALES/1 https://www.osym.gov.tr/SinavGrubu/Menu/374 · ALES/2 https://www.osym.gov.tr/SinavGrubu/Menu/392 · ALES/3 https://www.osym.gov.tr/SinavGrubu/Menu/404 · Rehber Panda sözel testler https://rehberpanda.com/testler/ales/sozel/ · Okuma hızı testi https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/",
+      "tasks": [
+        {
+          "id": "ales.w5-pzt",
+          "day": "Pzt",
+          "text": "TAM DENEME GÜNÜ — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları; bu haftadan itibaren sınav stratejisini de prova et: önce sağlam konular, 2 dk'yı geçen soruyu işaretleyip geç, en az 2 şık elenmeden işaretleme, son 10 dk işaretleme kontrolü (150 dk). Ardından Blok C genişletilmiş: her yanlış/boş/\"doğru ama yavaş\" soruyu sıfırdan çöz, bilgi/dikkat/süre etiketle, tahmin edip yanlışları say, hata defterine işle; stratejinin hangi adımında saptığını not et (90 dk). Netleri (SAY, SÖZ, süre dağılımı) günlük satır olarak tabloya yaz (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w5-sali",
+          "day": "Salı",
+          "text": "Nokta atışı günü — Hata defterinde en sık tekrar eden 1. dirençli sayısal konu: kendi konu kitabından yalnız eksik alt başlığı oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI çöz (90 dk). Sözel: en çok yanlış yapılan sözel tipten kendi kaynağından 15 soru zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) zamanlayıcıyla (60 dk). Blok C · Hata defteri 45 dk: Pzt denemesinin yanlışlarını kapatıp sıfırdan çöz. Blok D · Mini deneme 35 dk: ÖSYM %10 listelerinden (ALES/1 https://www.osym.gov.tr/SinavGrubu/Menu/374 veya ALES/2 https://www.osym.gov.tr/SinavGrubu/Menu/392) daha önce çözmediğin iki set ≈20 soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w5-car",
+          "day": "Çar",
+          "text": "TAM DENEME GÜNÜ — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları ve Pzt stratejisi (150 dk). Blok C genişletilmiş: her yanlış/boş/yavaş soruyu sıfırdan çöz, etiketle, tahmin edip yanlışları say, hata defterine işle; Pzt ile Çar'ın dikkat hatası sayısını karşılaştır (90 dk). Netleri tabloya yaz; SAY'da hangi konudan kaç soru kaçtığını da listele (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w5-per",
+          "day": "Per",
+          "text": "Nokta atışı günü — Hata defterinde en sık tekrar eden 2. dirençli sayısal konu: kendi konu kitabından eksik alt başlığı oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI (90 dk). Sözel: ikinci en çok yanlış yapılan sözel tipten kendi kaynağından 15 soru zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) zamanlayıcıyla (60 dk). Blok C · Hata defteri 45 dk: Çar denemesinin yanlışlarını sıfırdan çöz. Blok D · Mini deneme 35 dk: ÖSYM ALES/3 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/404) çözmediğin iki set ≈20 soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w5-cum",
+          "day": "Cum",
+          "text": "TAM DENEME GÜNÜ — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları ve strateji (150 dk). Blok C genişletilmiş: her yanlış/boş/yavaş soruyu sıfırdan çöz, etiketle, tahmin edip yanlışları say, hata defterine işle; haftanın üç denemesinde ortak çıkan konu/tuzak varsa \"Cmt nokta atışı\" olarak işaretle (90 dk). Netleri tabloya yaz (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w5-cmt",
+          "day": "Cmt",
+          "text": "Nokta atışı günü — Haftanın üç denemesinde ortak çıkan konu/tuzak: kendi konu kitabından ilgili bölümü tekrar oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI (90 dk). Sözel: kendi kaynağından karışık 20-25 soru zamanlı, özellikle süre tutmayan tipleri öne al (60 dk). Blok C · Hata defteri 45 dk: Cum denemesinin yanlışlarını sıfırdan çöz + haftanın tüm \"dikkat\" etiketli sorularını okuyup ortak kalıbı tek cümleyle yaz. Blok D · Mini deneme 35 dk: ÖSYM %10 listelerinden kalan iki set ≈20 soru, 75 sn/soru; yarınki deneme için erken uyku (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w5-paz",
+          "day": "Paz",
+          "text": "TAM DENEME — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları ve strateji (150 dk). Aynı gün tam analiz: her yanlış/boş/yavaş soruyu sıfırdan çöz, etiketle, tahmin edip yanlışları say, hata defterine işle (75 dk). Haftalık net tablosu: haftanın dört denemesinin SAY net, SÖZ net, bölüm süreleri ve dikkat hatası sayılarını yan yana yaz, en düşük ve en yüksek arasındaki farkı (\"tutarlılık\") not et (20 dk). Rehber Panda okuma hızı testiyle (https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/) haftalık ölçüm (10 dk) (4 sa 30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w5-rec-okuma",
+          "day": "Her gün",
+          "text": "Okuma bloğu (E), 20-25 dk: TÜBİTAK Bilim Genç (https://bilimgenc.tubitak.gov.tr/populer-bilim) veya AA Analiz (https://www.aa.com.tr/tr/analiz) sayfasından 1 metin oku; bitince 2 cümle yaz: ana düşünce + yazarın tutumu. H1-3: serbest okuma + not; H4-7: aynı sürede zamanlı paragraf seti (ör. Rehber Panda sözel testi) — hız artık soru formatında ölçülür",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "phaseId": "faz3",
+      "no": "6",
+      "title": "16-22 Kasım: Deneme Yoğunluğu II",
+      "episode": "",
+      "summary": "Hafta 5 ile aynı ritim: dört tam deneme (Pzt, Çar, Cum, Paz) 10.15'te + ara günlerde nokta atışı. Ek: Per günü giriş belgesi ais.osym.gov.tr'den alınır (yaklaşık 19 Kasım'dan itibaren). Paz denemesi ikinci kontrol noktası: tutarlı SAY 48-50, SÖZ 45+, dikkat hatası ≤1.",
+      "source": "Kendi deneme seti · Giriş belgesi https://ais.osym.gov.tr · ÖSYM çıkmış %10 listeleri ALES/1 https://www.osym.gov.tr/SinavGrubu/Menu/374 · ALES/2 https://www.osym.gov.tr/SinavGrubu/Menu/392 · ALES/3 https://www.osym.gov.tr/SinavGrubu/Menu/404 · Rehber Panda sözel testler https://rehberpanda.com/testler/ales/sozel/ · Okuma hızı testi https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/",
+      "tasks": [
+        {
+          "id": "ales.w6-pzt",
+          "day": "Pzt",
+          "text": "TAM DENEME GÜNÜ — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları ve strateji (önce sağlam konular, 2 dk'yı geçeni işaretleyip geç, en az 2 şık elenmeden işaretleme, son 10 dk işaretleme kontrolü) (150 dk). Blok C genişletilmiş: her yanlış/boş/\"doğru ama yavaş\" soruyu sıfırdan çöz, bilgi/dikkat/süre etiketle, tahmin edip yanlışları say, hata defterine işle (90 dk). Netleri tabloya yaz; SAY'da kaçan soruların konu listesini çıkar (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w6-sali",
+          "day": "Salı",
+          "text": "Nokta atışı günü — Hafta 5 denemelerinde en sık kaçan 1. sayısal konu: kendi konu kitabından eksik alt başlığı oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI (90 dk). Sözel: en çok yanlış yapılan sözel tipten kendi kaynağından 15 soru zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) zamanlayıcıyla (60 dk). Blok C · Hata defteri 45 dk: Pzt denemesinin yanlışlarını sıfırdan çöz. Blok D · Mini deneme 35 dk: ÖSYM %10 listelerinden (https://www.osym.gov.tr/SinavGrubu/Menu/374, /392, /404) daha önce çözdüğün iki seti bu kez 60 sn/soru ile yeniden çöz, hız kazancını not et (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w6-car",
+          "day": "Çar",
+          "text": "TAM DENEME GÜNÜ — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları ve strateji (150 dk). Blok C genişletilmiş: her yanlış/boş/yavaş soruyu sıfırdan çöz, etiketle, tahmin edip yanlışları say, hata defterine işle; dikkat hatası 1'i geçiyorsa hatanın oluştuğu adımı (okuma, işlem, işaretleme) ayrı sütuna yaz (90 dk). Netleri tabloya yaz (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w6-per",
+          "day": "Per",
+          "text": "Nokta atışı + giriş belgesi — Önce lojistik: https://ais.osym.gov.tr adresine T.C. no + şifreyle gir, 2026-ALES/3 sınava giriş belgesini al (yaklaşık 19 Kasım'dan itibaren yayımlanır; henüz yoksa Cum tekrar dene), yazdır, fotoğrafın ve kimlik bilgilerinin doğru olduğunu kontrol et, sınav merkezi adresini not et (20 dk). Sonra 2. dirençli sayısal konu: kendi konu kitabından eksik alt başlığı oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI (90 dk). Sözel: kendi kaynağından 15 soru zamanlı + Rehber Panda'dan bir sözel test (https://rehberpanda.com/testler/ales/sozel/) (60 dk). Blok C · Hata defteri 45 dk: Çar denemesinin yanlışlarını sıfırdan çöz. Blok D · Mini deneme 25 dk: kendi deneme setinden 20 karışık soru, 75 sn/soru (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w6-cum",
+          "day": "Cum",
+          "text": "TAM DENEME GÜNÜ — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları ve strateji (150 dk). Blok C genişletilmiş: her yanlış/boş/yavaş soruyu sıfırdan çöz, etiketle, tahmin edip yanlışları say, hata defterine işle; Hafta 5 ve 6'nın tüm denemelerinde SAY net 48'in altına indiği her denemede kaçan soruları konu bazında topla (90 dk). Netleri tabloya yaz; giriş belgesi Per günü alınamadıysa bugün tekrar dene (https://ais.osym.gov.tr) (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w6-cmt",
+          "day": "Cmt",
+          "text": "Nokta atışı günü — Cum analizinde çıkan \"48 altı\" konu listesinden en ağır 2 konu: kendi konu kitabından ilgili bölümleri hızlı tekrar oku, soru bankasından 30-40 soru 90 sn/soru ZAMANLI (90 dk). Sözel: kendi kaynağından karışık 20-25 soru zamanlı (60 dk). Blok C · Hata defteri 45 dk: Cum denemesinin yanlışlarını sıfırdan çöz + iki haftanın \"tahmin edip yanlış\" sorularını sayıp tahmin disiplini kuralını (en az 2 şık elenmeden işaretleme) tek cümleyle deftere yaz. Blok D · Mini deneme 35 dk: ÖSYM %10 listelerinden iki set 60 sn/soru ile; yarınki kontrol denemesi için erken uyku (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w6-paz",
+          "day": "Paz",
+          "text": "🏁 KONTROL DENEMESİ — Kendi deneme setinden yeni bir deneme, tam 10.15'te, 150 dk, sınav koşulları ve strateji (150 dk). Aynı gün tam analiz: her yanlış/boş/yavaş soruyu sıfırdan çöz, etiketle, tahmin edip yanlışları say, hata defterine işle (75 dk). Haftalık net tablosu: Hafta 5-6'nın sekiz denemesini yan yana yaz; kontrol hedefi tutarlı SAY 48-50, SÖZ 45+, dikkat hatası ≤1 — tutuyorsa Hafta 7 taper planına aynen gir, tutmuyorsa Hafta 7 Pzt ve Çar'ın hafif günlerine eksik konudan 15 soru ekle (20 dk). Rehber Panda okuma hızı testiyle (https://rehberpanda.com/araclar/hizli-okuma/hiz-testi/) son ölçüm (10 dk) (4 sa 30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w6-rec-okuma",
+          "day": "Her gün",
+          "text": "Okuma bloğu (E), 20-25 dk: TÜBİTAK Bilim Genç (https://bilimgenc.tubitak.gov.tr/populer-bilim) veya AA Analiz (https://www.aa.com.tr/tr/analiz) sayfasından 1 metin oku; bitince 2 cümle yaz: ana düşünce + yazarın tutumu. H1-3: serbest okuma + not; H4-7: aynı sürede zamanlı paragraf seti (ör. Rehber Panda sözel testi) — hız artık soru formatında ölçülür",
+          "recurring": true
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "phaseId": "faz4",
+      "no": "7",
+      "title": "23-29 Kasım: Taper ve SINAV",
+      "episode": "",
+      "summary": "Yük düşürülür: tek son tam deneme (Salı), hafif karışık sorular, hata defterinin tamamından \"sınavda dikkat\" tek sayfası ve lojistik kontrolü. Cmt hiç soru çözülmez. Paz 10.15'te 2026-ALES/3; binaya giriş 10.00'da biter, 09.00'da binada olunur.",
+      "source": "Kendi deneme seti + soru bankası · Giriş belgesi https://ais.osym.gov.tr · Yasaklı/izinli eşya listesi https://dokuman.osym.gov.tr/pdfdokuman/yasakli-ve-izinli-belgeler.pdf · Kılavuz PDF (sınav kuralları) https://dokuman.osym.gov.tr/web/2026/10/basvuru-kilavuzu-pijez5-06105839.pdf · ÖSYM %10 listesi ALES/3 https://www.osym.gov.tr/SinavGrubu/Menu/404",
+      "tasks": [
+        {
+          "id": "ales.w7-pzt",
+          "day": "Pzt",
+          "text": "Hafif gün — Hata defterinin tamamını (Hafta 1'den Hafta 6'ya) baştan sona tara; her sayfada tekrar eden tuzakları, \"dikkat\" etiketli ortak kalıpları ve tahmin edip yanlış yaptığın soru tiplerini çıkar, bunlardan \"Sınavda Dikkat\" başlıklı 10 maddelik tek sayfa yaz (örn. \"eşitsizlikte negatifle çarparken yön değiştir\", \"tabloda satır-sütun başlığını iki kez oku\", \"2 şık elenmeden işaretleme\", \"son 10 dk işaretleme kontrolü\") (120 dk). Ardından kendi soru bankasından sağlam konulardan 30 karışık sayısal soruyu rahat tempoda (süre baskısı olmadan ama 90 sn/soru altında) çöz; sözelden 15 paragraf sorusu (75 dk). Hafta 6 Paz kontrolü tutmadıysa eksik konudan 15 soru ekle (3 sa 30 dk)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w7-sali",
+          "day": "Salı",
+          "text": "SON TAM DENEME — Kendi deneme setinden son deneme, tam 10.15'te, 150 dk, tam sınav koşulları ve sınav stratejisi (önce sağlam konular, 2 dk'yı geçeni işaretleyip geç, en az 2 şık elenmeden işaretleme, son 10 dk işaretleme kontrolü) (150 dk). Aynı gün analiz: her yanlış/boş/yavaş soruyu sıfırdan çöz, etiketle, tahmin edip yanlışları say; \"Sınavda Dikkat\" sayfasına yeni bir madde gerekiyorsa ekle ve 10'u aşarsa en az önemlisini sil (75 dk). Netleri tabloya son satır olarak yaz (4 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w7-car",
+          "day": "Çar",
+          "text": "Hafif gün — Kendi soru bankasından 30 karışık soru (20 sayısal + 10 sözel), sınav temposunda 75 sn/soru ile çöz; yanlışları sıfırdan tekrar çöz ve etiketle (60 dk). ÖSYM ALES/3 %10 listesinden (https://www.osym.gov.tr/SinavGrubu/Menu/404) daha önce çözdüğün bir seti gerçek sınav hissini korumak için 60 sn/soru ile yeniden çöz (15 dk). \"Sınavda Dikkat\" tek sayfasını baştan sona yüksek sesle oku (10 dk). Hata defterinden yalnız \"tekrarlayan tuzak\" listesini bir kez daha gözden geçir (20 dk) (1 sa 45 dk)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w7-per",
+          "day": "Per",
+          "text": "Sözel hafif + lojistik — Kendi sözel kaynağından 20 paragraf/sözel mantık sorusu rahat tempoda (45 dk). Lojistik kontrol listesi: 1) kimlik — nüfus cüzdanı / T.C. kimlik kartı / geçerli pasaport, süresi ve fotoğrafı güncel (ehliyet GEÇERSİZ); 2) sınava giriş belgesi çıktısı (https://ais.osym.gov.tr) — isim, salon, fotoğraf doğru; 3) sınav merkezi adresini haritada bul, ulaşım süresini ölç, 09.00'da binada olmak için kalkış saatini ve yedek ulaşımı yaz; 4) yasaklı/izinli eşya listesini (https://dokuman.osym.gov.tr/pdfdokuman/yasakli-ve-izinli-belgeler.pdf) oku — saat, telefon, cüzdan, çanta, kalem yasak; kalem-silgi ÖSYM verir; yanında yalnız giriş belgesi + kimlik + şeffaf su şişesi; 5) kılavuzun (https://dokuman.osym.gov.tr/web/2026/10/basvuru-kilavuzu-pijez5-06105839.pdf) sınav kuralları bölümünü son kez oku (60 dk). \"Sınavda Dikkat\" sayfasını oku (10 dk) (2 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w7-cum",
+          "day": "Cum",
+          "text": "Isınma günü — Kendi soru bankasından sağlam konulardan 20 karışık soru (15 sayısal + 5 sözel), 75 sn/soru, yalnız el alışkanlığını korumak için; yanlış çıkarsa sıfırdan çöz ve \"Sınavda Dikkat\" sayfasıyla eşleştir (45 dk). Haftalık net tablosuna ve 7 haftalık eğriye bak, Hafta 1 başlangıcı ile son denemeyi yan yana yazıp kendine not et (10 dk). Ekranları erken kapat, Paz sabahı uyanacağın saatte (en geç 07.00) kalk denemesi yap, erken yat (1 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w7-cmt",
+          "day": "Cmt",
+          "text": "SIFIR SORU GÜNÜ — Hiç soru çözme. \"Sınavda Dikkat\" tek sayfasını sabah ve akşam birer kez oku (15 dk). Çantayı hazırla ve kapıya koy: sınava giriş belgesi çıktısı + kimlik (nüfus cüzdanı / kimlik kartı / pasaport) + şeffaf su şişesi; saat, telefon, cüzdan, çanta, hesap makinesi, kalem GİRMEZ — telefon yanına alınacaksa binaya girmeden teslim edilecek yer olmadığından evde bırak veya refakatçiye ver (15 dk). Yol planını ve 07.00 alarmını (iki ayrı alarm) kontrol et, kıyafeti hazırla, hafif yemek, en geç 22.30'da uyku (30 dk) (1 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w7-paz",
+          "day": "Paz",
+          "text": "🏁 SINAV GÜNÜ — 2026-ALES/3 — 07.00 kalk, hafif kahvaltı, çanta kontrolü (giriş belgesi + kimlik + şeffaf su). En geç 09.00'da sınav binasında ol; binaya giriş 10.00'da BİTER, sınav 10.15'te başlar, 150 dk (50 Sayısal + 50 Sözel). Strateji: 1) Sayısala sağlam konulardan başla, zayıf konuları sona bırak; 2) 2 dk'yı geçen soruyu kitapçıkta işaretle, geç, sonra dön; 3) en az 2 şık elenmemişse boş bırak — 4 yanlış 1 doğruyu götürür; 4) sayısala ~85 dk, sözele ~55 dk, son 10 dk yalnız cevap kâğıdı işaretleme kontrolü (soru no – cevap hizası); 5) \"Sınavda Dikkat\" sayfasındaki 10 maddeyi sınav başlamadan zihninden geçir. Sınav sonrası aynı gün: Sayısal puan = 0,75 SAY + 0,25 SÖZ olduğunu hatırlayarak hissettiğin net aralığını not et, hata defterini kapat (3 sa)",
+          "recurring": false
+        },
+        {
+          "id": "ales.w7-rec-okuma",
+          "day": "Her gün",
+          "text": "Okuma bloğu (E), 20-25 dk: TÜBİTAK Bilim Genç (https://bilimgenc.tubitak.gov.tr/populer-bilim) veya AA Analiz (https://www.aa.com.tr/tr/analiz) sayfasından 1 metin oku; bitince 2 cümle yaz: ana düşünce + yazarın tutumu. H1-3: serbest okuma + not; H4-7: aynı sürede zamanlı paragraf seti (ör. Rehber Panda sözel testi) — hız artık soru formatında ölçülür",
+          "recurring": true
+        }
+      ]
+    }
+  ]
+}
