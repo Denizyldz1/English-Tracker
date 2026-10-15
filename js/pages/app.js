@@ -103,9 +103,10 @@ const KTApp = (() => {
     const isTopicWeek = (week) => !week.title.startsWith('🏁')
         && !NON_TOPIC_WEEK.test(week.title.toLocaleLowerCase('tr'));
 
+    // Havuz: bu haftadan ÖNCEKİ konu haftaları ("eski konu"); ilk haftada havuz boştur
     const kuraPool = (weekId) => {
         const idx = plan.weeks.findIndex((w) => w.id === weekId);
-        return plan.weeks.slice(0, idx + 1).filter(isTopicWeek);
+        return plan.weeks.slice(0, Math.max(idx, 0)).filter(isTopicWeek);
     };
 
     const readKura = (weekId) => {
@@ -118,10 +119,17 @@ const KTApp = (() => {
         }
     };
 
+    const sameSet = (x, y) => x.length === y.length && x.every((id) => y.includes(id));
+
+    // Havuz 3'ten büyükse yeniden çekim öncekiyle aynı kümeyi vermesin (en fazla 8 deneme)
     const drawKura = (weekId) => {
-        const picks = KTHelpers.shuffleArray(kuraPool(weekId))
-            .slice(0, KURA_COUNT)
-            .map((w) => w.id);
+        const pool = kuraPool(weekId);
+        const prev = readKura(weekId);
+        let picks = [];
+        for (let i = 0; i < 8; i++) {
+            picks = KTHelpers.shuffleArray(pool).slice(0, KURA_COUNT).map((w) => w.id);
+            if (pool.length <= KURA_COUNT || !sameSet(picks, prev)) break;
+        }
         try {
             globalThis.localStorage.setItem(kuraKey(weekId), JSON.stringify(picks));
         } catch {
@@ -154,7 +162,20 @@ const KTApp = (() => {
             }
             $list.append($item);
         }
-        $box.find('.js-kura-btn').text(weekIds.length ? '🎲 Yeniden çek' : '🎲 Kura çek');
+        const poolSize = kuraPool($box[0].dataset.kuraWeek).length;
+        if (poolSize === 0) {
+            // İlk hafta: henüz "eski konu" yok — düğme yerine açıklama
+            $list.append($('<p>', { class: 'kura-empty text-muted mb-0',
+                text: 'Henüz işlenmiş eski konu yok — bu hafta kura yerine haftanın kendi konularını tekrar et.' }));
+        }
+        setKuraButton($box.find('.js-kura-btn'), poolSize, weekIds.length > 0);
+    };
+
+    // Düğme durumu: havuz boşsa kapalı; havuz ≤3 ve çekilmişse "hepsi listede" (yeniden çekim anlamsız)
+    const setKuraButton = ($btn, poolSize, hasPicks) => {
+        if (poolSize === 0) { $btn.prop('disabled', true).text('🎲 Kura çek'); return; }
+        if (poolSize <= KURA_COUNT && hasPicks) { $btn.prop('disabled', true).text('Tüm eski konular listede'); return; }
+        $btn.prop('disabled', false).text(hasPicks ? '🎲 Yeniden çek' : '🎲 Kura çek');
     };
 
     const renderKuraBox = (weekId) => {
