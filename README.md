@@ -63,6 +63,25 @@ programları taşır.
      for insert with check (auth.uid() = user_id);
    create policy "del own" on public.task_progress
      for delete using (auth.uid() = user_id);
+
+   -- Programlar sayfasındaki "Aktif" anahtarı (satır varsa program aktif).
+   -- Aktif programların bugünkü görevleri sayfanın üstünde toplanır.
+   create table public.active_programs (
+     user_id uuid not null default auth.uid()
+       references auth.users(id) on delete cascade,
+     program_id text not null,
+     updated_at timestamptz not null default now(),
+     primary key (user_id, program_id)
+   );
+
+   alter table public.active_programs enable row level security;
+
+   create policy "sel own" on public.active_programs
+     for select using (auth.uid() = user_id);
+   create policy "ins own" on public.active_programs
+     for insert with check (auth.uid() = user_id);
+   create policy "del own" on public.active_programs
+     for delete using (auth.uid() = user_id);
    ```
 
 5. **Project Settings → API**'den **Project URL** ve **anon public** key'i kopyala,

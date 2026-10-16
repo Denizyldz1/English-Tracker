@@ -45,6 +45,30 @@ const KTData = (() => {
     const markUndone = async (taskId) =>
         handle(await table().delete().eq('task_id', taskId));
 
-    return { loadPrograms, loadPlan, getDoneRows, markDone, markUndone };
+    // ─── Aktif programlar (active_programs; satır varsa aktif) ────────
+    const ACTIVE_TABLE = 'active_programs';
+    const activeTable = () => KTConfig.client.from(ACTIVE_TABLE);
+    // PostgREST "tablo yok" kodları (eski/yeni sürüm) — kurulum eksik demek
+    const MISSING_TABLE = ['42P01', 'PGRST205'];
+
+    // Aktif program ID'leri: ['ingilizce', ...]. Tablo henüz yoksa null döner
+    // (hata gösterilmez; sayfa kurulum ipucu verir).
+    const getActivePrograms = async () => {
+        const result = await activeTable().select('program_id');
+        if (MISSING_TABLE.includes(result?.error?.code)) return null;
+        const data = handle(result);
+        return (data ?? []).map((r) => r.program_id);
+    };
+
+    // ignoreDuplicates: satır varsa dokunma (update policy gerekmez)
+    const setProgramActive = async (programId, active) =>
+        handle(await (active
+            ? activeTable().upsert({ program_id: programId }, { ignoreDuplicates: true })
+            : activeTable().delete().eq('program_id', programId)));
+
+    return {
+        loadPrograms, loadPlan, getDoneRows, markDone, markUndone,
+        getActivePrograms, setProgramActive
+    };
 
 })();

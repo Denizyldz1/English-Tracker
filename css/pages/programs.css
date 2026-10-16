@@ -82,6 +82,7 @@
 }
 
 .program-card {
+    position: relative; /* stretched-link kartın tümünü tıklanır yapar */
     display: flex;
     align-items: center;
     gap: 0.9rem;
@@ -162,8 +163,213 @@
     transition: width 0.3s ease;
 }
 
-.program-chevron {
+
+/* ─── Program kartı: link alanı + Aktif anahtarı ─────────────────── */
+.program-card.is-active {
+    border-left: 4px solid var(--az-success);
+    padding-left: calc(1rem - 3px);
+}
+
+.program-title.stretched-link {
+    color: var(--az-text);
+    text-decoration: none;
+}
+
+.program-title.stretched-link:hover {
+    color: var(--az-primary-active);
+}
+
+.active-toggle {
+    position: relative;
+    z-index: 2; /* stretched-link'in üstünde kalsın */
     flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.7rem;
+    font-weight: 600;
+    line-height: 1;
     color: var(--az-text-muted);
-    font-size: 1rem;
+    background-color: var(--az-bg);
+    border: 1px solid var(--az-border);
+    border-radius: 999px;
+    padding: 0.3rem 0.65rem;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.active-toggle:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.active-toggle:hover:not(:disabled) {
+    border-color: var(--az-success);
+    color: var(--az-success);
+}
+
+.active-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: var(--az-border);
+}
+
+.program-card.is-active .active-toggle {
+    color: var(--az-success);
+    background-color: var(--az-success-soft);
+    border-color: var(--az-success);
+}
+
+.program-card.is-active .active-dot {
+    background-color: var(--az-success);
+}
+
+.section-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--az-text-muted);
+    margin: 0 0 0.6rem;
+}
+
+/* ─── Bugünkü görevler paneli ─────────────────────────────────────── */
+.today-panel {
+    background-color: var(--az-surface);
+    border: 1px solid var(--az-border);
+    border-top: 3px solid var(--az-primary);
+    border-radius: var(--az-radius);
+    padding: 0.9rem 1rem;
+    margin-bottom: 1.25rem;
+}
+
+.today-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.today-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.today-title .bi {
+    color: var(--az-primary);
+}
+
+.today-date {
+    margin-left: auto;
+    font-size: 0.75rem;
+    color: var(--az-text-muted);
+}
+
+.today-group + .today-group {
+    border-top: 1px dashed var(--az-border);
+    margin-top: 0.6rem;
+    padding-top: 0.6rem;
+}
+
+.today-group-head {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    font-size: 0.85rem;
+    text-decoration: none;
+    color: var(--az-text);
+    margin-bottom: 0.25rem;
+}
+
+.today-group-head .bi {
+    color: var(--az-primary);
+}
+
+.today-group-head:hover {
+    color: var(--az-primary-active);
+}
+
+.today-week-badge {
+    font-size: 0.7rem;
+    color: var(--az-text-muted);
+    background-color: var(--az-border-soft);
+    border-radius: 3px;
+    padding: 0.12rem 0.45rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 60%;
+}
+
+.today-empty {
+    font-size: 0.85rem;
+    color: var(--az-text-muted);
+    margin: 0.25rem 0 0;
+}
+
+/* Görev satırları (app.css ile aynı desen) */
+.task-row.form-check {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.55rem;
+    padding: 0.45rem 0.25rem;
+    margin-bottom: 0;
+}
+
+.task-row + .task-row {
+    border-top: 1px solid var(--az-border-soft);
+}
+
+.task-row .form-check-input {
+    flex: 0 0 auto;
+    width: 1.1rem;
+    height: 1.1rem;
+    margin: 0.12rem 0 0;
+    cursor: pointer;
+}
+
+.task-row .form-check-input:checked {
+    background-color: var(--az-success);
+    border-color: var(--az-success);
+}
+
+.task-row .form-check-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    flex: 1 1 auto;
+    cursor: pointer;
+}
+
+.day-badge {
+    flex: 0 0 auto;
+    min-width: 2.4rem;
+    text-align: center;
+    font-size: 0.62rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color: var(--az-text-muted);
+    background-color: var(--az-border-soft);
+    border-radius: 3px;
+    padding: 0.14rem 0.35rem;
+}
+
+.task-text {
+    font-size: 0.85rem;
+    line-height: 1.35;
+}
+
+.task-row.is-done .task-text {
+    text-decoration: line-through;
+    color: var(--az-text-muted);
+}
+
+.task-row.is-recurring .day-badge {
+    color: var(--az-primary-active);
+    background-color: #eef6fc;
 }
